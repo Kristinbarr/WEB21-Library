@@ -2,14 +2,14 @@
 
 Workshop code, lectures, notes, and solutions for the WEB21 cohort
 
-#### Helpful Resources and Links
+#### Helpful Resources and Links 
 
 <details><summary>click to open</summary>
-
+  
 - [Git/Github Flow cheatsheet - Google Docs](https://docs.google.com/document/d/13qS0FImmfZ7rIAGHnu1_7R1Z8GiCrATAXTbgfw4x8XA/edit)
 - [GitHub BitBucket HTML Preview](https://htmlpreview.github.io/)
 - [OneTab-Tab Manager - Chrome Extension](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en)
-- [GitHub | Cracking the Coding Interview 6th Ed.](https://github.com/careercup/CtCI-6th-Edition-JavaScript)
+- [GitHub - careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed.](https://github.com/careercup/CtCI-6th-Edition-JavaScript)
 - [The Pomodoro Technique®](https://francescocirillo.com/pages/pomodoro-technique)
 - [YouTube | How To Install VSCode Extensions](https://www.youtube.com/watch?v=PmdbndOoKq4)
 - [Emmet autofill in VSCode](https://code.visualstudio.com/docs/editor/emmet)
@@ -22,11 +22,11 @@ Workshop code, lectures, notes, and solutions for the WEB21 cohort
 - [Lambda School Training Kit · Lambda School](https://learn.lambdaschool.com/)
 
 ### Student Forms
-
+  
 - [M - Th Daily Standup Reports](https://airtable.com/shr8ZYuNjevMLRsxI)
 - [Student Sprint Retrospective](https://airtable.com/shruSVU97eR6CHE5A)
 - [Peer Code Review](https://airtable.com/shrVBzrhkcT6GqExr)
-- [Peer Code Review Checklist](https://github.com/LambdaSchool/Peer-Code-Review-Checklist)
+- [Peer Code Review Checklist](https://github.com/LambdaSchool/Peer-Code-Review-Checklist) 
 
 ### Web21 Calendar
 
@@ -46,7 +46,7 @@ Workshop code, lectures, notes, and solutions for the WEB21 cohort
 ##### Training Kit Pre-Work: [TK - UI 1](https://learn.lambdaschool.com/fsw/module/recl0IyzS2Vl89lZa/)
 ##### Training Kit Pre-Work: [TK - UI 2](https://learn.lambdaschool.com/fsw/module/recGvXyWT6AvGtMHR/)
 
-Topic | Lecture | Code
+Topic | Lecture | Code 
 ------|---------|-------------
 UI 1 & 2 | [🎥][UI 1&2 lect] | -
 After Hours | [🎥 N/A][UI 1&2 AH] | -
@@ -63,7 +63,7 @@ Helpful Resources & Links
   * [📓 Semantic HTML Tutorial | HTML & CSS Is Hard](https://internetingishard.com/html-and-css/semantic-html/)
   * [🎨 A Single Div](https://a.singlediv.com/)
   * [📘 The W3C Markup Validation Service](https://validator.w3.org/)
-
+ 
 * CSS:
   * [📖 CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
   * [🍽 CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/)
@@ -96,14 +96,14 @@ Helpful Resources & Links
   * [🦆 Quackit-Flexbox Examples](https://www.quackit.com/css/flexbox/examples/flexbox_website_layout_examples.cfm)
   * [👱🏻 Flexbox - Wes Bos free 20 video series](https://flexbox.io/)
   * [💪 FLEX: A simple visual cheatsheet for flexbox](http://flexbox.malven.co/)
-
+  
 * CSS Grid:
   * [🥕 Grid Garden](https://cssgridgarden.com/)
   * [🌸 CSS Zen Garden](http://csszengarden.com/)
   * [🐞 Grid Critters](http://www.gridcritters.com/)
   * [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
   * [👱🏻 CSS Grid - Wes Bos free video series](https://cssgrid.io/)
-
+  
 [UI3 lect]: https://youtu.be/sKpqyf1p5DY
 [UI3 code]:https://codepen.io/justsml/pen/LoJoVq?editors=0100
 
@@ -114,7 +114,7 @@ Helpful Resources & Links
 
 Topic | Lecture | Code
 ------|---------|-----------
-Git for Web Dev | [🎥][Git lect] | -
+Git for WD | [🎥][Git lect] | -
 After Hours | [🎥][Git AH] | -
 
 Utilities
@@ -133,8 +133,8 @@ Helpful Resource Links
   * [🐙 GitHub | Connecting to GitHub with SSH](https://help.github.com/en/articles/connecting-to-github-with-ssh)
   * [YouTube | How To Setup SSH for GitHub](https://www.youtube.com/watch?v=3aKda-oXWc8)
   * [💩 Oh, shit, git!](https://ohshitgit.com/)
-
-* Terminal/Command Line:
+  
+* Terminal/Command Line: 
   * [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
   * [Oh-My-ZSH cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
   * [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
@@ -162,20 +162,20 @@ Helpful Resource Links
 
 Topic | Lecture | Code | Slido | Solution
 ------|---------|------|-------|--------
-RD 1  | [🎥][RD1 lect] | [⚙️][RD1 code] | [📊][RD1 slido]| [🔐][RD1 sol]
+RD 1  | [🎥][RD1 lect] | [⚙️][RD1 code] | [📊][RD1 slido]| [🔐][RD1 sol] 
 
 Helpful Resource Links
 * [Xcode phone simulator](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 * [Blisk - Windows phone simulator](https://blisk.io/)
 * [Window Resizer - Chrome Extension](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
 * [Window Resizer – 🦊 Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/window-resizer-webextension/?src=search)
-* [Media Genesis | Popular Screen Resolutions](https://mediag.com/blog/popular-screen-resolutions-designing-for-all/)
 * [PerfectPixel – 🦊 Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/perfectpixel/?src=search)
+* [Media Genesis | Popular Screen Resolutions](https://mediag.com/blog/popular-screen-resolutions-designing-for-all/)
 * [Responsive Web Design - Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
 
-[RD1 lecture]:https://youtu.be/K0JLBvHS4QU
+[RD1 lect]:https://youtu.be/K0JLBvHS4QU
 [RD1 code]:https://codepen.io/lambdaschool/pen/MdLdZb?editors=1100
-[RD1 sildo]:https://app.sli.do/event/xh7ivch8
+[RD1 slido]:https://app.sli.do/event/xh7ivch8
 [RD1 sol]:https://codepen.io/lambdaschool/pen/84e04cc06a5d40b5398e8b6bcf0ce168
 
 
@@ -184,57 +184,57 @@ Helpful Resource Links
 
 ##### Training Kit Pre-work: [TK - Responsive Design 2](https://learn.lambdaschool.com/fsw/module/rece3iqptdxavi0dw)
 
-Topic | Lecture | Code | Slido
+Topic | Lecture | Code | Slido 
 ------|---------|------|-------
 RD 1  | [🎥][RD2 lect] | [⚙️][RD2 code] | [📊][RD2 slido]
 After Hours | [🎥][RD2 AH] | - | - | -
 
 Helpful Resource Links
-* [Font sizing with rem - Snook.ca](https://snook.ca/archives/html_and_css/font-size-with-rem)
-* [Guide: EM vs REM vs PX. Which should you use?](https://engageinteractive.co.uk/blog/em-vs-rem-vs-px)
-* [CSS Font Sizing: Pixels vs Em vs Rem vs Percent vs Viewport Units][CSS Font Sizing]
-* [Rethinking the Mobile Web by Yiibu](https://www.slideshare.net/bryanrieger/rethinking-the-mobile-web-by-yiibu/)
+* [📐 Font sizing with rem - Snook.ca](https://snook.ca/archives/html_and_css/font-size-with-rem)
+* [📐 Guide: EM vs REM vs PX. Which should you use?](https://engageinteractive.co.uk/blog/em-vs-rem-vs-px)
+* [📐 CSS Font Sizing: Pixels vs Em vs Rem vs Percent vs Viewport Units][CSS Font Sizing]
+* [📱 Rethinking the Mobile Web by Yiibu](https://www.slideshare.net/bryanrieger/rethinking-the-mobile-web-by-yiibu/)
 * [HTML5 UP! Responsive HTML5 and CSS3 Site Templates](https://html5up.net/)
-* [Unsplash | Free Stock Images](https://unsplash.com/)
-* [Pexels | Free stock photos](https://www.pexels.com/)
-* [Barnimages | Free Stock Photos](https://barnimages.com/)
-* [HTML5 UP! Responsive HTML5 and CSS3 Site Templates](https://html5up.net/)
-* [Paletton | Color Scheme Designer](http://paletton.com/)
-* [GitHub Pages | Host a site directly from your repo](https://pages.github.com/)
+* [🖼 Unsplash | Free Stock Images](https://unsplash.com/)
+* [🖼 Pexels | Free stock photos](https://www.pexels.com/)
+* [🖼 Barnimages | Free Stock Photos](https://barnimages.com/)
+* [🎨 Paletton | Color Scheme Designer](http://paletton.com/)
+* [🐙 GitHub Pages | Host a site directly from your repo](https://pages.github.com/)
 
-[RD2 lect]:
+[RD2 lect]:https://
 [RD2 code]:https://codepen.io/justsml/pen/joJjXm?editors=1100
 [RD2 sildo]:https://app.sli.do/event/rabelpjr
+[RD2 AH]:https://
 [CSS Font Sizing]:https://medium.com/@madhum86/css-font-sizing-pixels-vs-em-vs-rem-vs-percent-vs-viewport-units-b1485716afe7
 
 #### Day 7: Preprocessing 1
 
 Topic | Lecture | Code | Slido
 ------|---------|------|-------
-PP1   | - | - | -
+PP1   | - | - | - 
 
 Helpful Resource Links
-*
+* 
 
 #### Day 8: Preprocessing 2
 
 Topic | Lecture | Code | Slido
 ------|---------|------|-------
-PP2   | - | - | -
+PP2   | - | - | - 
 
 Helpful Resource Links
-*
+* 
 
 
 
 #### Day 9: Sprint Challenge - Media Queries, pre-processors
 
 </details>
-
-
-
-
-
+  
+  
+  
+  
+  
 ### Week 3 Sprint
 
 <details><summary>click to open</summary>
@@ -254,7 +254,7 @@ Helpful Resource Links
 
 
 
-#### Day 14: Sprint Challenge -
+#### Day 14: Sprint Challenge - 
 
 
   </details>
