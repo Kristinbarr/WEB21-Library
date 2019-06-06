@@ -49,7 +49,6 @@ Workshop code, lectures, notes, and solutions for the WEB21 cohort
 Topic | Lecture | Code 
 ------|---------|-------------
 UI 1 & 2 | [🎥][UI 1&2 lect] | -
-After Hours | [🎥 N/A][UI 1&2 AH] | -
 
 Utilities
 * [Codepen](https://codepen.io/)
@@ -75,13 +74,13 @@ Helpful Resources & Links
   * [📝 WhatFont - Chrome Extension](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
 
 [UI 1&2 lect]: https://youtu.be/qWe8gXvC8KU
-[UI 1&2 AH]: https://
 [PerfectPixel]: https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en
 
 
 #### Day 2: User Interface 3
 
-##### Training Kit Pre-Work: [TK - UI 3](https://learn.lambdaschool.com/fsw/module/recaVbBZhh8BTyMdM/)
+##### Training Kit Pre-Work: 
+[TK - UI 3](https://learn.lambdaschool.com/fsw/module/recaVbBZhh8BTyMdM/)
 
 Topic | Lecture | Code
 ------|---------| -----
@@ -110,12 +109,12 @@ Helpful Resources & Links
 
 #### Day 3: Git for Web Development
 
-##### Training Kit Pre-Work: [TK - Git for Web Dev](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
+##### Training Kit Pre-Work: 
+[TK - Git for Web Dev](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
 
 Topic | Lecture | Code
 ------|---------|-----------
 Git for WD | [🎥][Git lect] | -
-After Hours | [🎥][Git AH] | -
 
 Utilities
 * [🐙 Octotree - Chrome Extension][octotree]
@@ -133,14 +132,14 @@ Helpful Resource Links
   * [🐙 GitHub | Connecting to GitHub with SSH](https://help.github.com/en/articles/connecting-to-github-with-ssh)
   * [YouTube | How To Setup SSH for GitHub](https://www.youtube.com/watch?v=3aKda-oXWc8)
   * [💩 Oh, shit, git!](https://ohshitgit.com/)
-  
+  * [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
 * Terminal/Command Line: 
+  * [🎓 Command Line 101](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/command-line-101)
   * [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
   * [Oh-My-ZSH cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
   * [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
 [Git lect]: https://youtu.be/qWe8gXvC8KU
-[Git AH]: https://
 [octotree]: https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US
 
 
@@ -155,8 +154,10 @@ Helpful Resource Links
 
 <details><summary>click to open</summary>
 
-##### Training Kit Weekly Sprint: [TK - Advanced CSS](https://learn.lambdaschool.com/fsw/sprint/recixiqgpgmdj81ms)
-##### Training Kit Pre-Work: [TK - Responsive Design 1](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
+##### Training Kit Weekly Sprint: 
+[TK - Advanced CSS](https://learn.lambdaschool.com/fsw/sprint/recixiqgpgmdj81ms)
+##### Training Kit Pre-Work: 
+[TK - Responsive Design 1](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
 
 #### Day 5 (Mon): Responsive Design 1
 
@@ -182,12 +183,12 @@ Helpful Resource Links
 
 #### Day 6 (Tue): Responsive Design 2
 
-##### Training Kit Pre-work: [TK - Responsive Design 2](https://learn.lambdaschool.com/fsw/module/rece3iqptdxavi0dw)
+##### Training Kit Pre-work: 
+[TK - Responsive Design 2](https://learn.lambdaschool.com/fsw/module/rece3iqptdxavi0dw)
 
 Topic | Lecture | Code | Slido 
 ------|---------|------|-------
 RD 1  | [🎥][RD2 lect] | [⚙️][RD2 code] | [📊][RD2 slido]
-After Hours | [🎥][RD2 AH] | - | - | -
 
 Helpful Resource Links
 * [📐 Font sizing with rem - Snook.ca](https://snook.ca/archives/html_and_css/font-size-with-rem)
@@ -200,31 +201,45 @@ Helpful Resource Links
 * [🖼 Barnimages | Free Stock Photos](https://barnimages.com/)
 * [🎨 Paletton | Color Scheme Designer](http://paletton.com/)
 * [🐙 GitHub Pages | Host a site directly from your repo](https://pages.github.com/)
+* [GSAP, the standard for JavaScript HTML5 animation | GreenSock](https://greensock.com/)
+* [Netlify: All-in-one platform for automating modern web projects.](https://netlify.com/)
 
-[RD2 lect]:https://
+[RD2 lect]:https://youtu.be/lICEmlVEFxk
 [RD2 code]:https://codepen.io/justsml/pen/joJjXm?editors=1100
-[RD2 sildo]:https://app.sli.do/event/rabelpjr
-[RD2 AH]:https://
+[RD2 slido]:https://app.sli.do/event/rabelpjr
 [CSS Font Sizing]:https://medium.com/@madhum86/css-font-sizing-pixels-vs-em-vs-rem-vs-percent-vs-viewport-units-b1485716afe7
 
 #### Day 7: Preprocessing 1
 
-Topic | Lecture | Code | Slido
-------|---------|------|-------
-PP1   | - | - | - 
+##### Training Kit Pre-Work: 
+[TK - Preprocessing 1](https://learn.lambdaschool.com/fsw/module/reculyBhIYkuoBRqh/)
+
+Topic | Lecture | Code 
+------|---------|------
+PP1   | [🎥][PP1 lect] | [⚙️][PP1 code] 
 
 Helpful Resource Links
-* 
+* [Getting Started with LESS.js](http://lesscss.org/)
+* [ColorSpace | CSS Gradient Color Generator](https://mycolor.space/gradient?ori=to+right+top&hex=%23099FD4&hex2=%23D012EB&sub=1)
+* [Coolers | color scheme generator](https://coolors.co/)
+
+[PP1 lect]:https://youtu.be/VNvtgU0YJfU
+[PP1 code]:https://codepen.io/justsml/pen/qGGBdP
+
 
 #### Day 8: Preprocessing 2
 
-Topic | Lecture | Code | Slido
-------|---------|------|-------
-PP2   | - | - | - 
+##### Training Kit Pre-Work: 
+
+Topic | Lecture | Code
+------|---------|------
+PP2   | [🎥][PP2 lect] | [⚙️][PP2 code] 
 
 Helpful Resource Links
 * 
 
+[PP2 lect]:h
+[PP2 code]:h
 
 
 #### Day 9: Sprint Challenge - Media Queries, pre-processors
