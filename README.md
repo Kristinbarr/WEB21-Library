@@ -286,7 +286,6 @@ Helpful Resource Links
 * [var, let or const?](https://hackernoon.com/js-var-let-or-const-67e51dbb716f)
 * [Code Runner for VSCode](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 * [🍐 A Pair is Better than One](https://hackernoon.com/a-pair-is-better-than-one-e9d4514add9f)
-* []
 
 [JS1 lect]:https://youtu.be/idRFLPnQ7QU
 [JS1 code]:https://repl.it/@justsml/Web21-JS-Is-Magic
@@ -309,10 +308,10 @@ Closures  | [⚙️](https://codepen.io/lambdaschool/pen/be333bfa58bc5118241c5d6
 
 Helpful Resource Links
 * [MPJ - Closures](https://youtu.be/CQqwU2Ixu-U)
-* [Deep Dive on Closure](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
-* [Coding Train Closures walkthrough](https://youtu.be/-jysK0nlz7A)
+* [🏊‍ Deep Dive on Closure](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
+* [🚂 Coding Train Closures walkthrough](https://youtu.be/-jysK0nlz7A)
 * [Simple Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
-* [Article on Closures](https://medium.freecodecamp.org/lets-learn-javascript-closures-66feb44f6a44)
+* [FCC | Article on Closures](https://medium.freecodecamp.org/lets-learn-javascript-closures-66feb44f6a44)
 * [FCC | Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array)
 * [FCC | OOP & Closures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/use-closure-to-protect-properties-within-an-object-from-being-modified-externally/)
 
@@ -330,10 +329,13 @@ Topic | Lecture | Code
 JS3   | [🎥][JS3 lect] | [⚙️][JS3 code]
 
 Helpful Resource Links
-* [WTF is 'this'](https://youtu.be/zE9iro4r918)
+* [🐶 Tyler McGuiness | WTF is 'this'](https://youtu.be/zE9iro4r918)
+* [The Net Ninja | Prototype](https://www.youtube.com/watch?v=Fsp42zUNJYU)
+* [➡️ When not to use arrow funcs](https://wesbos.com/arrow-function-no-no/)
+* [📑 JS Cheat Sheet](https://websitesetup.org/javascript-cheat-sheet/)
 
-[JS3 lect]:h
-[JS3 code]:h
+[JS3 lect]:https://youtu.be/2mUtMw-tR6M
+[JS3 code]:https://repl.it/@justsml/Web21-JS-III
 
 
 
