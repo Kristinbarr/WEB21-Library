@@ -251,7 +251,7 @@ Helpful Resource Links
 
 Topic | Lecture | slido | Code
 ------|---------|-------|-----
-PP2 | [🎥][PP2C] | [][PP2S] | [⚙️][PP2C]
+PP2 | [🎥][PP2C] | [📊][PP2S] | [⚙️][PP2C]
 
 Helpful Resource Links
 * [CSS Tricks | Useful CSS3 LESS Mixins](https://css-tricks.com/snippets/css/useful-css3-less-mixins/)
