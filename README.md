@@ -11,11 +11,19 @@ Workshop code, lectures, notes, and solutions for the WEB21 cohort
 - [OneTab-Tab Manager - Chrome Extension](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en)
 - [GitHub - careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed.](https://github.com/careercup/CtCI-6th-Edition-JavaScript)
 - [The Pomodoro Technique®](https://francescocirillo.com/pages/pomodoro-technique)
-- [YouTube | How To Install VSCode Extensions](https://www.youtube.com/watch?v=PmdbndOoKq4)
+- [CodePen](https://codepen.io/)
+- [repl.it](https://repl.it)
+- [JS Fiddle](https://jsfiddle.net/)
+- [JSBin](http://jsbin.com/)
+- [How To Install VSCode Extensions](https://www.youtube.com/watch?v=PmdbndOoKq4)
 - [Emmet autofill in VSCode](https://code.visualstudio.com/docs/editor/emmet)
+- [ESLint | Code spell-checker](http://www.jslint.com/help.html)
+- [Prettier | Code Formatter](https://prettier.io/)
+- [VSCode shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
 - [How to ask good questions as a developer](https://dev.to/frontendmentor/how-to-ask-good-questions-as-a-developer-51j5)
-
+- [Good Engineering practices while working solo](https://blog.bitsrc.io/good-engineering-practices-while-working-solo-ad872e727af4)
+- [DevDocs](https://devdocs.io/)
 </details>
 
 ### Syllabus (Training Kit)
@@ -102,6 +110,7 @@ Helpful Resources & Links
   * [🐞 Grid Critters](http://www.gridcritters.com/)
   * [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
   * [👱🏻 CSS Grid - Wes Bos free video series](https://cssgrid.io/)
+  * [CSS Grid mockup](https://cssgrid-generator.netlify.com/)
 
 [UI3 lect]: https://youtu.be/sKpqyf1p5DY
 [UI3 code]:https://codepen.io/justsml/pen/LoJoVq?editors=0100
@@ -197,6 +206,7 @@ Helpful Resource Links
 * [📐 CSS Font Sizing: Pixels vs Em vs Rem vs Percent vs Viewport Units][CSS Font Sizing]
 * [📱 Rethinking the Mobile Web by Yiibu](https://www.slideshare.net/bryanrieger/rethinking-the-mobile-web-by-yiibu/)
 * [HTML5 UP! Responsive HTML5 and CSS3 Site Templates](https://html5up.net/)
+* [Responsive CSS Flexbox Designs](https://webdevtrick.com/responsive-css-flexbox/)
 * [🖼 Unsplash | Free Stock Images](https://unsplash.com/)
 * [🖼 Pexels | Free stock photos](https://www.pexels.com/)
 * [🖼 Barnimages | Free Stock Photos](https://barnimages.com/)
@@ -211,7 +221,7 @@ Helpful Resource Links
 [RD2 slido]:https://app.sli.do/event/rabelpjr
 [CSS Font Sizing]:https://medium.com/@madhum86/css-font-sizing-pixels-vs-em-vs-rem-vs-percent-vs-viewport-units-b1485716afe7
 
-#### Day 7: Preprocessing 1
+#### Day 7(Wed): Preprocessing 1
 
 ##### Training Kit Pre-Work:
 [TK - Preprocessing 1](https://learn.lambdaschool.com/fsw/module/reculyBhIYkuoBRqh/)
@@ -222,9 +232,11 @@ PP1   | [🎥][PP1 lect] | [⚙️][PP1 code]
 
 Helpful Resource Links
 * [Getting Started with LESS.js](http://lesscss.org/)
+* [🔍 Color Identifier](http://chir.ag/projects/name-that-color)
+* [ColorPick | Chrome Ext](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en)
 * [🖍 ColorSpace | CSS Gradient Color Generator](https://mycolor.space/gradient?ori=to+right+top&hex=%23099FD4&hex2=%23D012EB&sub=1)
 * [😎 Coolers | color scheme generator](https://coolors.co/)
-* [🔍 Color Identifier](http://chir.ag/projects/name-that-color)
+* [🤖 AI color palette generator](http://colormind.io/)
 * [🎨 Adobe | Color Wheel](https://color.adobe.com/create/color-wheel/)
 * [10 LESS CSS Examples you should steal](https://mayvendev.com/blog/10-less-css-examples-you-should-steal-for-your-projects)
 
@@ -232,22 +244,24 @@ Helpful Resource Links
 [PP1 code]:https://codepen.io/justsml/pen/qGGBdP
 
 
-#### Day 8: Preprocessing 2
+#### Day 8(Thur): Preprocessing 2
 
 ##### Training Kit Pre-Work:
 [TK - Preprocessing 2] (https://learn.lambdaschool.com/fsw/module/rec1hRu3bO6L0uxn2/)
 
-Topic | Lecture | Code
-------|---------|------
-PP2   | [🎥][PP2 lect] | [⚙️][PP2 code]
+Topic | Lecture | slido | Code
+------|---------|-------|-----
+PP2 | [🎥][PP2C] | [][PP2S] | [⚙️][PP2C]
 
 Helpful Resource Links
 * [CSS Tricks | Useful CSS3 LESS Mixins](https://css-tricks.com/snippets/css/useful-css3-less-mixins/)
 * [📚 LESS Function Library](http://lesscss.org/functions/)
 * [MDN | CSS Overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow)
+* [less-watch-compiler source code](https://github.com/jonycheung/deadsimple-less-watch-compiler)
 
-[PP2 lect]:https://youtu.be/edR6WhgRZ90
-[PP2 code]:https://codepen.io/justsml/pen/YbozVa
+[PP2L]:https://youtu.be/edR6WhgRZ90
+[pp2S]:https://app.sli.do/event/37bipwye
+[PP2C]:https://codepen.io/justsml/pen/YbozVa
 
 
 #### Day 9: Sprint Challenge - Media Queries, pre-processors
@@ -272,9 +286,9 @@ Helpful Resource Links
 ##### Training Kit Pre-Work:
 [TK - JavaScript 1](https://learn.lambdaschool.com/fsw/module/recCT3KJYTIRYwQMh/)
 
-Topic | Lecture | Code
-------|---------|------
-JS 1  | [🎥][JS1 lect] | [⚙️][JS1 code]
+Topic | Lecture | Slido |Guided Project
+------|---------|-------|--------------
+JS 1  | [🎥][JS1 lect] | [📊][JS1S] [⚙️][JS1 code]
 
 Solutions | Code
 ----------|------
@@ -285,20 +299,22 @@ ES6 Function | [⚙️](https://codepen.io/lambdaschool/pen/ddfe8ceb27e5ec57eece
 Helpful Resource Links
 * [var, let or const?](https://hackernoon.com/js-var-let-or-const-67e51dbb716f)
 * [Code Runner for VSCode](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-* [🍐 A Pair is Better than One](https://hackernoon.com/a-pair-is-better-than-one-e9d4514add9f)
+* [🍐 Article on Pair Programming](https://hackernoon.com/a-pair-is-better-than-one-e9d4514add9f)
+* [JS Built-in Functions](https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm)
+* [➡️ When not to use arrow funcs](https://wesbos.com/arrow-function-no-no/)
 
 [JS1 lect]:https://youtu.be/idRFLPnQ7QU
+[JS1S]:https://app.sli.do/event/k7cycfcl
 [JS1 code]:https://repl.it/@justsml/Web21-JS-Is-Magic
-
 
 #### Day 11(Tues): JavaScript 2
 
 ##### Training Kit Pre-Work:
 [TK - JavaScript 2](https://learn.lambdaschool.com/fsw/module/rec1oaBmEoSilO2yf/)
 
-Topic | Lecture | Code
-------|---------|------
-JS 2  | [🎥][JS2 lect] | [⚙️][JS2 code]
+Topic | Lecture | slido | Code | Guided Project
+------|---------|-------|------|---------------
+JS 2  | [🎥][JS2L] | [📊][JS2S] | [⚙️][JS2C] | [⚙️][JS2P]
 
 Solutions | Code
 ----------|------
@@ -307,7 +323,15 @@ Array Methods | [⚙️](https://codepen.io/lambdaschool/pen/4619a4477cefcbf288b
 Closures  | [⚙️](https://codepen.io/lambdaschool/pen/be333bfa58bc5118241c5d6f18fffc8b?editors=0010)
 
 Helpful Resource Links
-* [MPJ - Closures](https://youtu.be/CQqwU2Ixu-U)
+* [Code Runner - VSCode Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+* [Traversy Media | HoF & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE&t=1025s)
+* [Useful Docs for Front-End Devs](https://link.medium.com/V6mnJQ2WqX)
+* [Techsith | Closure Tutorial](https://www.youtube.com/watch?v=71AtaJpJHw0)
+* [Techsith | Callbacks Tutorial](https://www.youtube.com/watch?v=pTbSfCT42_M&amp;t=138s)
+* [FCC | map method to extract data from an array](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array)
+* [Build Array Methods from Scratch](https://scotch.io/tutorials/coding-exercise-build-javascript-array-methods-from-scratch)
+* [Callback Examples by Lambda Student](https://repl.it/@sdoylelambda/Callback-Cheat-Sheet)
+* [💛 MPJ | Closures](https://youtu.be/CQqwU2Ixu-U)
 * [🏊‍ Deep Dive on Closure](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
 * [🚂 Coding Train Closures walkthrough](https://youtu.be/-jysK0nlz7A)
 * [Simple Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
@@ -315,28 +339,32 @@ Helpful Resource Links
 * [FCC | Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array)
 * [FCC | OOP & Closures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/use-closure-to-protect-properties-within-an-object-from-being-modified-externally/)
 
-[JS2 lect]:https://youtu.be/LgZmnDVVTCg
-[JS2 code]:https://repl.it/@justsml/Web21-Callbacks
-
+[JS2L]:https://youtu.be/LgZmnDVVTCg
+[JS2S]:https://app.sli.do/event/lkhfoqwf
+[JS2C]:https://repl.it/@justsml/Web21-Callbacks
+[JS2P]:https://repl.it/@justsml/Web21-JS-II
 
 #### Day 12(Wed): JavaScript 3
 
 ##### Training Kit Pre-Work:
 [TK - JavaScript 3](https://learn.lambdaschool.com/fsw/module/rec0AWuNLezbpit7m/)
 
-Topic | Lecture | Code
-------|---------|------
-JS3   | [🎥][JS3 lect] | [⚙️][JS3 code]
+Topic | Lecture | Guided Project | Breakout Code
+------|---------|------| -------------
+JS3   | [🎥][JS3 lect] | [⚙️][JS3 code] | [Practice: Explicit Binding][JS3B]
 
 Helpful Resource Links
 * [🐶 Tyler McGuiness | WTF is 'this'](https://youtu.be/zE9iro4r918)
 * [The Net Ninja | Prototype](https://www.youtube.com/watch?v=Fsp42zUNJYU)
-* [➡️ When not to use arrow funcs](https://wesbos.com/arrow-function-no-no/)
 * [📑 JS Cheat Sheet](https://websitesetup.org/javascript-cheat-sheet/)
+* [🚂 The Coding Train | Prototypes in JS 2017](https://www.youtube.com/watch?v=hS_WqkyUah8&amp=&t=502s)
+* [🚂 The Coding Train | Prototype Inheritance 2019](https://www.youtube.com/watch?v=CpmE5twq1h0)
+* [Udemy | Web Dev Course](https://www.udemy.com/complete-web-development-course/learn/lecture/3920874?start=0#overview)
+* [Mock data generator](https://mockaroo.com/)
 
 [JS3 lect]:https://youtu.be/2mUtMw-tR6M
 [JS3 code]:https://repl.it/@justsml/Web21-JS-III
-
+[JS3B]:https://repl.it/@justsml/Practice-Explicit-binding
 
 
 #### Day 13(Thu): JavaScript 4
@@ -344,15 +372,16 @@ Helpful Resource Links
 ##### Training Kit Pre-Work:
 [TK - JavaScript 4](https://learn.lambdaschool.com/fsw/module/recyS588eOvVUKAMc/)
 
-Topic | Lecture | Code
-------|---------|------
-JS 4  | [🎥][JS4 lect] | [⚙️][JS4 code]
+Topic | Lecture | Code | Guided Project
+------|---------|------| --------------
+JS 4  | [🎥][JS4 lect] | [⚙️][JS4 code] | [⚙️][JS4P]
 
 Helpful Resource Links
 *
 
 [JS4 lect]:h
 [JS4 code]:h
+[JS4P]:https://repl.it/@justsml/Web21-JS-IV
 
 
 
