@@ -489,38 +489,7 @@ Helpful Resource Links
 
 <details><summary>click to open</summary>
 
-#### Day 15(Mon): DOM 1
-
-##### Training Kit Weekly Sprint Overview:
-[TK - ]()
-
-##### Training Kit Pre-Work:
-[TK - DOM 1] (http)
-
-Topic | Lecture | Code
-------|---------|------
-PP2   | [🎥][DOM1 lect] | [⚙️][DOM1 code]
-
-Helpful Resource Links
-*
-
-[DOM1 lect]:h
-[DOM1 code]:h
-
-
-#### Day 16(Tues):
-
-
-
-#### Day 17(Wed):
-
-
-
-#### Day 18(Thu):
-
-
-
-#### Day 19(Fri): Sprint Challenge -
+#### TBA!
 
 
   </details>
