@@ -47,9 +47,9 @@ Workshop code, lectures, notes, and solutions for the WEB21 cohort
 
 <details><summary>Click to open</summary>
 
-#### Day 1: User Interface 1 & 2
+#### Day 1 (Tue): User Interface 1 & 2
 
-##### Training Kit Weekly sprint: [TK - Intro to UI & Git](https://learn.lambdaschool.com/fsw/sprint/recfwzvi7qhma7xbg)
+##### Training Kit Weekly Sprint Overview: [TK - Intro to UI & Git](https://learn.lambdaschool.com/fsw/sprint/recfwzvi7qhma7xbg)
 
 ##### Training Kit Pre-Work: [TK - UI 1](https://learn.lambdaschool.com/fsw/module/recl0IyzS2Vl89lZa/)
 ##### Training Kit Pre-Work: [TK - UI 2](https://learn.lambdaschool.com/fsw/module/recGvXyWT6AvGtMHR/)
@@ -85,7 +85,7 @@ Helpful Resources & Links
 [PerfectPixel]: https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en
 
 
-#### Day 2: User Interface 3
+#### Day 2 (Wed): User Interface 3
 
 ##### Training Kit Pre-Work:
 [TK - UI 3](https://learn.lambdaschool.com/fsw/module/recaVbBZhh8BTyMdM/)
@@ -116,7 +116,7 @@ Helpful Resources & Links
 [UI3 code]:https://codepen.io/justsml/pen/LoJoVq?editors=0100
 
 
-#### Day 3: Git for Web Development
+#### Day 3 (Thur): Git for Web Development
 
 ##### Training Kit Pre-Work:
 [TK - Git for Web Dev](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
@@ -152,7 +152,7 @@ Helpful Resource Links
 [octotree]: https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US
 
 
-#### Day 4: Sprint Challenge - CSS, Flexbox
+#### Day 4 (Fri): Sprint Challenge - CSS, Flexbox
 
 </details>
 
@@ -163,7 +163,7 @@ Helpful Resource Links
 
 <details><summary>click to open</summary>
 
-##### Training Kit Weekly Sprint:
+##### Training Kit Weekly Sprint Overview:
 [TK - Advanced CSS](https://learn.lambdaschool.com/fsw/sprint/recixiqgpgmdj81ms)
 ##### Training Kit Pre-Work:
 [TK - Responsive Design 1](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
@@ -279,7 +279,7 @@ Helpful Resource Links
 
 #### Day 10(Mon): JavaScript 1
 
-##### Training Kit Weekly Sprint:
+##### Training Kit Weekly Sprint Overview:
 [TK - JavaScript Fundamentals](https://learn.lambdaschool.com/fsw/sprint/recclZwJxMU8kUngT)
 
 
@@ -402,7 +402,7 @@ Helpful Resource Links
 
 #### Day 17(Mon): DOM 1
 
-##### Training Kit Weekly Sprint:
+##### Training Kit Weekly Sprint Overview:
 [TK - Applied JS](https://learn.lambdaschool.com/fsw/sprint/recPSZMPrmESUYo2C)
 
 
@@ -491,7 +491,7 @@ Helpful Resource Links
 
 #### Day 15(Mon): DOM 1
 
-##### Training Kit Weekly Sprint:
+##### Training Kit Weekly Sprint Overview:
 [TK - ]()
 
 ##### Training Kit Pre-Work:
