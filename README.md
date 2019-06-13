@@ -2,7 +2,7 @@
 
 Workshop code, lectures, notes, and solutions for the WEB21 cohort
 
-#### Helpful Resources and Links
+#### General Helpful Resources and Links
 
 <details><summary>click to open</summary>
 
