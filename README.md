@@ -56,7 +56,7 @@ Workshop code, lectures, notes, and solutions for the WEB21 cohort
 
 Topic | Lecture | Code
 ------|---------|-------------
-UI 1 & 2 | [🎥][UI 1&2 lect] | -
+UI 1 & 2 | [🎥][UI 1&2L] | -
 
 Utilities
 * [Codepen](https://codepen.io/)
@@ -81,7 +81,7 @@ Helpful Resources & Links
   * [📘 The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
   * [📝 WhatFont - Chrome Extension](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
 
-[UI 1&2 lect]: https://youtu.be/qWe8gXvC8KU
+[UI 1&2L]: https://youtu.be/qWe8gXvC8KU
 [PerfectPixel]: https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en
 
 
@@ -92,7 +92,7 @@ Helpful Resources & Links
 
 Topic | Lecture | Code
 ------|---------| -----
-UI 3 | [🎥][UI3 Lect] | [⚙️][UI3 code]
+UI 3 | [🎥][UI3L] | [⚙️][UI3C]
 
 Helpful Resources & Links
 * CSS flexbox:
@@ -112,8 +112,8 @@ Helpful Resources & Links
   * [👱🏻 CSS Grid - Wes Bos free video series](https://cssgrid.io/)
   * [CSS Grid mockup](https://cssgrid-generator.netlify.com/)
 
-[UI3 lect]: https://youtu.be/sKpqyf1p5DY
-[UI3 code]:https://codepen.io/justsml/pen/LoJoVq?editors=0100
+[UI3L]: https://youtu.be/sKpqyf1p5DY
+[UI3C]:https://codepen.io/justsml/pen/LoJoVq?editors=0100
 
 
 #### Day 3 (Thur): Git for Web Development
@@ -123,7 +123,7 @@ Helpful Resources & Links
 
 Topic | Lecture | Code
 ------|---------|-----------
-Git for WD | [🎥][Git lect] | -
+Git for WD | [🎥][GitL] | -
 
 Utilities
 * [🐙 Octotree - Chrome Extension][octotree]
@@ -148,7 +148,7 @@ Helpful Resource Links
   * [Oh-My-ZSH cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
   * [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
-[Git lect]: https://youtu.be/qWe8gXvC8KU
+[GitL]: https://youtu.be/qWe8gXvC8KU
 [octotree]: https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US
 
 
@@ -172,7 +172,7 @@ Helpful Resource Links
 
 Topic | Lecture | Code | Slido | Solution
 ------|---------|------|-------|--------
-RD 1  | [🎥][RD1 lect] | [⚙️][RD1 code] | [📊][RD1 slido]| [🔐][RD1 sol]
+RD 1  | [🎥][RD1L] | [⚙️][RD1C] | [📊][RD1S]| [🔐][RD1 sol]
 
 Helpful Resource Links
 * [Xcode phone simulator](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
@@ -184,9 +184,9 @@ Helpful Resource Links
 * [Responsive Web Design - Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
 * [Design Principles](https://webfieldmanual.com/design.html)
 
-[RD1 lect]:https://youtu.be/K0JLBvHS4QU
-[RD1 code]:https://codepen.io/lambdaschool/pen/MdLdZb?editors=1100
-[RD1 slido]:https://app.sli.do/event/xh7ivch8
+[RD1L]:https://youtu.be/K0JLBvHS4QU
+[RD1C]:https://codepen.io/lambdaschool/pen/MdLdZb?editors=1100
+[RD1S]:https://app.sli.do/event/xh7ivch8
 [RD1 sol]:https://codepen.io/lambdaschool/pen/84e04cc06a5d40b5398e8b6bcf0ce168
 
 
@@ -198,7 +198,7 @@ Helpful Resource Links
 
 Topic | Lecture | Code | Slido
 ------|---------|------|-------
-RD 1  | [🎥][RD2 lect] | [⚙️][RD2 code] | [📊][RD2 slido]
+RD 1  | [🎥][RD2L] | [⚙️][RD2C] | [📊][RD2S]
 
 Helpful Resource Links
 * [📐 Font sizing with rem - Snook.ca](https://snook.ca/archives/html_and_css/font-size-with-rem)
@@ -216,9 +216,9 @@ Helpful Resource Links
 * [GSAP, the standard for JavaScript HTML5 animation | GreenSock](https://greensock.com/)
 * [Netlify: All-in-one platform for automating modern web projects.](https://netlify.com/)
 
-[RD2 lect]:https://youtu.be/lICEmlVEFxk
-[RD2 code]:https://codepen.io/justsml/pen/joJjXm?editors=1100
-[RD2 slido]:https://app.sli.do/event/rabelpjr
+[RD2L]:https://youtu.be/lICEmlVEFxk
+[RD2C]:https://codepen.io/justsml/pen/joJjXm?editors=1100
+[RD2S]:https://app.sli.do/event/rabelpjr
 [CSS Font Sizing]:https://medium.com/@madhum86/css-font-sizing-pixels-vs-em-vs-rem-vs-percent-vs-viewport-units-b1485716afe7
 
 #### Day 7(Wed): Preprocessing 1
@@ -228,7 +228,7 @@ Helpful Resource Links
 
 Topic | Lecture | Code
 ------|---------|------
-PP1   | [🎥][PP1 lect] | [⚙️][PP1 code]
+PP1   | [🎥][PP1L] | [⚙️][PP1C]
 
 Helpful Resource Links
 * [Getting Started with LESS.js](http://lesscss.org/)
@@ -240,8 +240,8 @@ Helpful Resource Links
 * [🎨 Adobe | Color Wheel](https://color.adobe.com/create/color-wheel/)
 * [10 LESS CSS Examples you should steal](https://mayvendev.com/blog/10-less-css-examples-you-should-steal-for-your-projects)
 
-[PP1 lect]:https://youtu.be/VNvtgU0YJfU
-[PP1 code]:https://codepen.io/justsml/pen/qGGBdP
+[PP1L]:https://youtu.be/VNvtgU0YJfU
+[PP1C]:https://codepen.io/justsml/pen/qGGBdP
 
 
 #### Day 8(Thur): Preprocessing 2
@@ -288,7 +288,7 @@ Helpful Resource Links
 
 Topic | Lecture | Slido |Guided Project
 ------|---------|-------|--------------
-JS 1  | [🎥][JS1 lect] | [📊][JS1S] [⚙️][JS1 code]
+JS 1  | [🎥][JS1L] | [📊][JS1S] [⚙️][JS1C]
 
 Solutions | Code
 ----------|------
@@ -303,9 +303,9 @@ Helpful Resource Links
 * [JS Built-in Functions](https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm)
 * [➡️ When not to use arrow funcs](https://wesbos.com/arrow-function-no-no/)
 
-[JS1 lect]:https://youtu.be/idRFLPnQ7QU
+[JS1L]:https://youtu.be/idRFLPnQ7QU
 [JS1S]:https://app.sli.do/event/k7cycfcl
-[JS1 code]:https://repl.it/@justsml/Web21-JS-Is-Magic
+[JS1C]:https://repl.it/@justsml/Web21-JS-Is-Magic
 
 #### Day 11(Tues): JavaScript 2
 
@@ -351,7 +351,7 @@ Helpful Resource Links
 
 Topic | Lecture | Guided Project | Breakout Code
 ------|---------|------| -------------
-JS3   | [🎥][JS3 lect] | [⚙️][JS3 code] | [Practice: Explicit Binding][JS3B]
+JS3   | [🎥][JS3L] | [⚙️][JS3C] | [Practice: Explicit Binding][JS3B]
 
 Helpful Resource Links
 * [🐶 Tyler McGuiness | WTF is 'this'](https://youtu.be/zE9iro4r918)
@@ -362,8 +362,8 @@ Helpful Resource Links
 * [Udemy | Web Dev Course](https://www.udemy.com/complete-web-development-course/learn/lecture/3920874?start=0#overview)
 * [Mock data generator](https://mockaroo.com/)
 
-[JS3 lect]:https://youtu.be/2mUtMw-tR6M
-[JS3 code]:https://repl.it/@justsml/Web21-JS-III
+[JS3L]:https://youtu.be/2mUtMw-tR6M
+[JS3C]:https://repl.it/@justsml/Web21-JS-III
 [JS3B]:https://repl.it/@justsml/Practice-Explicit-binding
 
 
@@ -372,18 +372,20 @@ Helpful Resource Links
 ##### Training Kit Pre-Work:
 [TK - JavaScript 4](https://learn.lambdaschool.com/fsw/module/recyS588eOvVUKAMc/)
 
-Topic | Lecture | Code | Guided Project
-------|---------|------| --------------
-JS 4  | [🎥][JS4 lect] | [⚙️][JS4 code] | [⚙️][JS4P]
+Topic | Lecture | Guided Project | Breakout Challenge | Breakout Solution
+------|---------|----------------|--------------------|-----------
+JS 4  | [🎥][JS4L] | [⚙️][JS4P] | [⚙️][JS4C] | [⚙️][JS4CS]
 
 Helpful Resource Links
-*
+* [Traversy Media | OOP Crash course](https://youtu.be/vDJpGenyHaA)
+* [💛MPJ/Fun Fun Function | Object Creation](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
+* [💛MPJ/Fun Fun Function | Compostion over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 
-[JS4 lect]:h
-[JS4 code]:h
+[JS4L]:https://youtu.be/OQE8iimr8CQ
+[JS4C]:https://app.sli.do/event/isnvtpyv
 [JS4P]:https://repl.it/@justsml/Web21-JS-IV
-
-
+[JS4C]:https://repl.it/@justsml/Web21-JS-IV-Breakout-Challenge
+[JS4CS]:https://repl.it/@kristinbarr/Web21-JS-IV-Breakout-Challenge
 
 #### Day 14(Fri): Sprint Challenge - JavaScript Fundamentals
 
@@ -411,7 +413,7 @@ Helpful Resource Links
 
 Topic | Lecture | Code
 ------|---------|------
-DOM 1 | [🎥][DOM1 lect] | [⚙️][DOM1 code]
+DOM 1 | [🎥][DOM1L] | [⚙️][DOM1C]
 
 Helpful Resource Links
 * [Live DOM viewer](https://software.hixie.ch/utilities/js/live-dom-viewer/)
@@ -420,8 +422,8 @@ Helpful Resource Links
 * [MDN DOM docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 *
 
-[DOM1 lect]:h
-[DOM1 code]:h
+[DOM1L]:h
+[DOM1C]:h
 
 
 #### Day 18(Tues): DOM 2
@@ -431,13 +433,13 @@ Helpful Resource Links
 
 Topic | Lecture | Code
 ------|---------|------
-DOM 2 | [🎥][DOM2 lect] | [⚙️][DOM2 code]
+DOM 2 | [🎥][DOM2L] | [⚙️][DOM2C]
 
 Helpful Resource Links
 *
 
-[DOM2 lect]:h
-[DOM2 code]:h
+[DOM2L]:h
+[DOM2C]:h
 
 
 
@@ -448,13 +450,13 @@ Helpful Resource Links
 
 Topic | Lecture | Code
 ------|---------|------
-Components 1   | [🎥][COM1 lect] | [⚙️][COM1 code]
+Components 1   | [🎥][COM1L] | [⚙️][COM1C]
 
 Helpful Resource Links
 *
 
-[COM1 lect]:h
-[COM1 code]:h
+[COM1L]:h
+[COM1C]:h
 
 
 
@@ -465,13 +467,13 @@ Helpful Resource Links
 
 Topic | Lecture | Code
 ------|---------|------
-Components 2 | [🎥][COM2 lect] | [⚙️][COM2 code]
+Components 2 | [🎥][COM2L] | [⚙️][COM2C]
 
 Helpful Resource Links
 *
 
-[COM2 lect]:h
-[COM2 code]:h
+[COM2L]:h
+[COM2C]:h
 
 
 
