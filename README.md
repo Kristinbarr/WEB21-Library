@@ -385,6 +385,8 @@ Helpful Resource Links
 * [Traversy Media | OOP Crash course](https://youtu.be/vDJpGenyHaA)
 * [💛MPJ/Fun Fun Function | Object Creation](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
 * [💛MPJ/Fun Fun Function | Compostion over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+* [JS Fundamentals Study Guide by Lambda PM](https://codepen.io/x-zen/pen/PrPKLQ)
+* [snapshot drawing tool](http://snappy-app.com/)
 
 [JS4L]:https://youtu.be/OQE8iimr8CQ
 [JS4S]:https://app.sli.do/event/isnvtpyv
