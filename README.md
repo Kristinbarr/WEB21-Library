@@ -292,9 +292,9 @@ JS 1  | [🎥][JS1L] | [📊][JS1S] [⚙️][JS1C]
 
 Solutions | Code
 ----------|------
-Objects   | [⚙️](https://codepen.io/lambdaschool/pen/cf6f87c54714773bb313da58f696197f?editors=0010)
-Arrays    | [⚙️](https://codepen.io/lambdaschool/pen/62df2a0d481e9a045ae5c012ff44efab?editors=0010)
-ES6 Function | [⚙️](https://codepen.io/lambdaschool/pen/ddfe8ceb27e5ec57eecebef59d239dcf?editors=0010)
+Objects   | [🔐](https://codepen.io/lambdaschool/pen/cf6f87c54714773bb313da58f696197f?editors=0010)
+Arrays    | [🔐](https://codepen.io/lambdaschool/pen/62df2a0d481e9a045ae5c012ff44efab?editors=0010)
+ES6 Function | [🔐](https://codepen.io/lambdaschool/pen/ddfe8ceb27e5ec57eecebef59d239dcf?editors=0010)
 
 Helpful Resource Links
 * [var, let or const?](https://hackernoon.com/js-var-let-or-const-67e51dbb716f)
@@ -318,12 +318,12 @@ JS 2  | [🎥][JS2L] | [📊][JS2S] | [⚙️][JS2C] | [⚙️][JS2P]
 
 Solutions | Code
 ----------|------
-Callbacks | [⚙️](https://codepen.io/lambdaschool/pen/49562e7cfe889123d48be0351d225b5f)
-Array Methods | [⚙️](https://codepen.io/lambdaschool/pen/4619a4477cefcbf288b1534eafd3bd3b)
-Closures  | [⚙️](https://codepen.io/lambdaschool/pen/be333bfa58bc5118241c5d6f18fffc8b?editors=0010)
+Callbacks | [🔐](https://codepen.io/lambdaschool/pen/49562e7cfe889123d48be0351d225b5f)
+Array Methods | [🔐](https://codepen.io/lambdaschool/pen/4619a4477cefcbf288b1534eafd3bd3b)
+Closures  | [🔐](https://codepen.io/lambdaschool/pen/be333bfa58bc5118241c5d6f18fffc8b?editors=0010)
 
 Helpful Resource Links
-* [Code Runner - VSCode Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+* [👟 Code Runner - VSCode Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 * [Traversy Media | HoF & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE&t=1025s)
 * [Useful Docs for Front-End Devs](https://link.medium.com/V6mnJQ2WqX)
 * [Techsith | Closure Tutorial](https://www.youtube.com/watch?v=71AtaJpJHw0)
@@ -351,7 +351,7 @@ Helpful Resource Links
 
 Topic | Lecture | Guided Project | Breakout Code
 ------|---------|------| -------------
-JS3   | [🎥][JS3L] | [⚙️][JS3C] | [Practice: Explicit Binding][JS3B]
+JS3   | [🎥][JS3L] | [⚙️][JS3C] | [⚙️][JS3B]
 
 Helpful Resource Links
 * [🐶 Tyler McGuiness | WTF is 'this'](https://youtu.be/zE9iro4r918)
@@ -372,9 +372,14 @@ Helpful Resource Links
 ##### Training Kit Pre-Work:
 [TK - JavaScript 4](https://learn.lambdaschool.com/fsw/module/recyS588eOvVUKAMc/)
 
-Topic | Lecture | Guided Project | Breakout Challenge | Breakout Solution
+Topic | Lecture | Slido | Guided Project | Breakout Challenge | Breakout Solution
 ------|---------|----------------|--------------------|-----------
-JS 4  | [🎥][JS4L] | [⚙️][JS4P] | [⚙️][JS4C] | [⚙️][JS4CS]
+JS 4  | [🎥][JS4L]|[📊][JS4S]|[⚙️][JS4P] | [⚙️][JS4C] | [🔐][JS4CS]
+
+Solution | Code
+---------|-----
+Classes  | [🔐](https://codepen.io/lambdaschool/pen/9fb304ca3c9270824be8e9f2d20998dc?editors=0012)
+
 
 Helpful Resource Links
 * [Traversy Media | OOP Crash course](https://youtu.be/vDJpGenyHaA)
@@ -382,7 +387,7 @@ Helpful Resource Links
 * [💛MPJ/Fun Fun Function | Compostion over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 
 [JS4L]:https://youtu.be/OQE8iimr8CQ
-[JS4C]:https://app.sli.do/event/isnvtpyv
+[JS4S]:https://app.sli.do/event/isnvtpyv
 [JS4P]:https://repl.it/@justsml/Web21-JS-IV
 [JS4C]:https://repl.it/@justsml/Web21-JS-IV-Breakout-Challenge
 [JS4CS]:https://repl.it/@kristinbarr/Web21-JS-IV-Breakout-Challenge
