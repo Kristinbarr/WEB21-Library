@@ -373,7 +373,7 @@ Helpful Resource Links
 [TK - JavaScript 4](https://learn.lambdaschool.com/fsw/module/recyS588eOvVUKAMc/)
 
 Topic | Lecture | Slido | Guided Project | Breakout Challenge | Breakout Solution
-------|---------|----------------|--------------------|-----------
+------|---------|-------|----------|------------------|-----------
 JS 4  | [🎥][JS4L]|[📊][JS4S]|[⚙️][JS4P] | [⚙️][JS4C] | [🔐][JS4CS]
 
 Solution | Code
