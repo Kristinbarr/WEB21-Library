@@ -23,6 +23,7 @@ Workshop code, lectures, notes, and solutions for the WEB21 cohort
 - [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
 - [How to ask good questions as a developer](https://dev.to/frontendmentor/how-to-ask-good-questions-as-a-developer-51j5)
 - [Good Engineering practices while working solo](https://blog.bitsrc.io/good-engineering-practices-while-working-solo-ad872e727af4)
+- [Procrastination fears](https://zenhabits.net/procrastination-fears/)
 - [DevDocs](https://devdocs.io/)
 </details>
 
@@ -338,6 +339,7 @@ Helpful Resource Links
 * [FCC | Article on Closures](https://medium.freecodecamp.org/lets-learn-javascript-closures-66feb44f6a44)
 * [FCC | Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array)
 * [FCC | OOP & Closures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/use-closure-to-protect-properties-within-an-object-from-being-modified-externally/)
+* [MDN | JS OOP for beginners](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
 
 [JS2L]:https://youtu.be/LgZmnDVVTCg
 [JS2S]:https://app.sli.do/event/lkhfoqwf
@@ -361,6 +363,7 @@ Helpful Resource Links
 * [🚂 The Coding Train | Prototype Inheritance 2019](https://www.youtube.com/watch?v=CpmE5twq1h0)
 * [Udemy | Web Dev Course](https://www.udemy.com/complete-web-development-course/learn/lecture/3920874?start=0#overview)
 * [Mock data generator](https://mockaroo.com/)
+* [8 Must-know JS Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c)
 
 [JS3L]:https://youtu.be/2mUtMw-tR6M
 [JS3C]:https://repl.it/@justsml/Web21-JS-III
@@ -386,6 +389,7 @@ Helpful Resource Links
 * [💛MPJ/Fun Fun Function | Object Creation](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
 * [💛MPJ/Fun Fun Function | Compostion over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 * [JS Fundamentals Study Guide by Lambda PM](https://codepen.io/x-zen/pen/PrPKLQ)
+* [Code Step-through Visualizer](http://pythontutor.com/)
 * [snapshot drawing tool](http://snappy-app.com/)
 
 [JS4L]:https://youtu.be/OQE8iimr8CQ
