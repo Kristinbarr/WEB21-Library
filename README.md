@@ -6,54 +6,70 @@ Workshop code, lectures, notes, and solutions for the WEB21 cohort
 
 <details><summary>click to open</summary>
 
-- [Git/Github Flow cheatsheet - Google Docs](https://docs.google.com/document/d/13qS0FImmfZ7rIAGHnu1_7R1Z8GiCrATAXTbgfw4x8XA/edit)
-- [GitHub BitBucket HTML Preview](https://htmlpreview.github.io/)
-- [OneTab-Tab Manager - Chrome Extension](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en)
-- [GitHub - careercup/CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed.](https://github.com/careercup/CtCI-6th-Edition-JavaScript)
-- [The Pomodoro Technique®](https://francescocirillo.com/pages/pomodoro-technique)
+Technical
 - [CodePen](https://codepen.io/)
 - [repl.it](https://repl.it)
 - [JS Fiddle](https://jsfiddle.net/)
 - [JSBin](http://jsbin.com/)
+- [OneTab-Tab Manager - Chrome Extension](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en)
 - [How To Install VSCode Extensions](https://www.youtube.com/watch?v=PmdbndOoKq4)
 - [Emmet autofill in VSCode](https://code.visualstudio.com/docs/editor/emmet)
 - [ESLint | Code spell-checker](http://www.jslint.com/help.html)
 - [Prettier | Code Formatter](https://prettier.io/)
 - [VSCode shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [Rubber Duck Debugging](https://rubberduckdebugging.com/)
+- [DevDocs](https://devdocs.io/)
+- [GitHub BitBucket HTML Preview](https://htmlpreview.github.io/)
+
+Personal Development
+- [The Pomodoro Technique®](https://francescocirillo.com/pages/pomodoro-technique)
 - [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
 - [How to ask good questions as a developer](https://dev.to/frontendmentor/how-to-ask-good-questions-as-a-developer-51j5)
 - [Good Engineering practices while working solo](https://blog.bitsrc.io/good-engineering-practices-while-working-solo-ad872e727af4)
 - [Procrastination fears](https://zenhabits.net/procrastination-fears/)
-- [DevDocs](https://devdocs.io/)
+- [Suicide Prevention Online Chat](http://chat.suicidepreventionlifeline.org/GetHelp/LifelineChat.aspx)
+- [Post bootcamp job search story](https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/)
+- [podcast | tricky conversation tone](https://www.askamanager.org/2018/04/what-your-tone-should-sound-like-in-tricky-work-conversations.html)
+- [podcast | tone as a boss](https://www.askamanager.org/2018/07/what-should-your-tone-sound-like-when-youre-the-boss.html)
+
+Job Search and Interviewing
+- [CtCI-6th-Edition-JavaScript: Cracking the Coding Interview 6th Ed.](https://github.com/careercup/CtCI-6th-Edition-JavaScript)
+- [remote.co | Remote Jobs](https://remote.co/remote-jobs/)
+- [angelList | Tech & Startup Jobs](https://angel.co/jobs)
+- [FlexJobs | Remote and Flexible Jobs](https://www.flexjobs.com/)
+
 </details>
 
-### Syllabus (Training Kit)
-- [Lambda School Training Kit · Lambda School](https://learn.lambdaschool.com/)
 
-### Student Forms
+### Lambda Links:
 
+#### Syllabus (Training Kit): [Lambda School Training Kit](https://learn.lambdaschool.com/)
+
+#### Student Forms:
 - [M - Th Daily Standup Reports](https://airtable.com/shr8ZYuNjevMLRsxI)
 - [Student Sprint Retrospective](https://airtable.com/shruSVU97eR6CHE5A)
 - [Peer Code Review](https://airtable.com/shrVBzrhkcT6GqExr)
 - [Peer Code Review Checklist](https://github.com/LambdaSchool/Peer-Code-Review-Checklist)
 
-### Web21 Calendar
+#### Web21 Calendar: [Google Calendar Link](https://calendar.google.com/calendar/r?cid=bGFtYmRhc2Nob29sLmNvbV9zOWthNm9wMnU2cG43ZzkwNHNoNjJucTVza0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-- [Google Calendar Link](https://calendar.google.com/calendar/r?cid=bGFtYmRhc2Nob29sLmNvbV9zOWthNm9wMnU2cG43ZzkwNHNoNjJucTVza0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+#### Lambda Course Info: [Precourse, WEB, CS, Labs, Career, Next](https://learn.lambdaschool.com/course/cs-fsw)
 
-### Precourse Work
-* [Intro to Web Development · Lambda School](https://learn.lambdaschool.com/fsw-pre/sprint/recw0xx1timtjaq3d)
+#### Student Orientation: [LS1905 video](https://youtu.be/i2FlKBBZtS0)
+
+
+
+
 
 ### Week 1 Sprint - HTML, CSS, Git
 
 <details><summary>Click to open</summary>
 
-#### Day 1 (Tue): User Interface 1 & 2
+#### Day 1 (Tue May 28): User Interface 1 & 2
 
-##### Training Kit Weekly Sprint Overview: [TK - Intro to UI & Git](https://learn.lambdaschool.com/fsw/sprint/recfwzvi7qhma7xbg)
-
-##### Training Kit Pre-Work: [TK - UI 1](https://learn.lambdaschool.com/fsw/module/recl0IyzS2Vl89lZa/)
-##### Training Kit Pre-Work: [TK - UI 2](https://learn.lambdaschool.com/fsw/module/recGvXyWT6AvGtMHR/)
+##### Training Kit Weekly Sprint Overview: [Intro to UI & Git](https://learn.lambdaschool.com/fsw/sprint/recfwzvi7qhma7xbg)
+##### Training Kit Pre-Work: [User Interface 1](https://learn.lambdaschool.com/fsw/module/recl0IyzS2Vl89lZa/)
+##### Training Kit Pre-Work: [User Interface 2](https://learn.lambdaschool.com/fsw/module/recGvXyWT6AvGtMHR/)
 
 Topic | Lecture | Code
 ------|---------|-------------
@@ -63,6 +79,7 @@ Utilities
 * [Codepen](https://codepen.io/)
 * [Repl.it](http://repl.it/)
 * [PerfectPixel - Chrome Extension][PerfectPixel]
+- [Git/Github Flow cheatsheet - Google Docs](https://docs.google.com/document/d/13qS0FImmfZ7rIAGHnu1_7R1Z8GiCrATAXTbgfw4x8XA/edit)
 
 Helpful Resources & Links
 * HTML:
@@ -86,10 +103,9 @@ Helpful Resources & Links
 [PerfectPixel]: https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en
 
 
-#### Day 2 (Wed): User Interface 3
+#### Day 2 (Wed May 29): User Interface 3
 
-##### Training Kit Pre-Work:
-[TK - UI 3](https://learn.lambdaschool.com/fsw/module/recaVbBZhh8BTyMdM/)
+##### Training Kit Pre-Work: [User Interface 3](https://learn.lambdaschool.com/fsw/module/recaVbBZhh8BTyMdM/)
 
 Topic | Lecture | Code
 ------|---------| -----
@@ -117,10 +133,9 @@ Helpful Resources & Links
 [UI3C]:https://codepen.io/justsml/pen/LoJoVq?editors=0100
 
 
-#### Day 3 (Thur): Git for Web Development
+#### Day 3 (Thu May 30): Git for Web Development
 
-##### Training Kit Pre-Work:
-[TK - Git for Web Dev](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
+##### Training Kit Pre-Work: [Git for Web Dev](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
 
 Topic | Lecture | Code
 ------|---------|-----------
@@ -153,7 +168,9 @@ Helpful Resource Links
 [octotree]: https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US
 
 
-#### Day 4 (Fri): Sprint Challenge - CSS, Flexbox
+#### Day 4 (Fri May 31): Sprint Challenge - CSS, Flexbox
+
+##### Career Development: [LS1905 2nd Orientation](https://youtu.be/upvCDyefikE)
 
 </details>
 
@@ -164,16 +181,16 @@ Helpful Resource Links
 
 <details><summary>click to open</summary>
 
-##### Training Kit Weekly Sprint Overview:
-[TK - Advanced CSS](https://learn.lambdaschool.com/fsw/sprint/recixiqgpgmdj81ms)
-##### Training Kit Pre-Work:
-[TK - Responsive Design 1](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
+##### Training Kit Weekly Sprint Overview: [Advanced CSS](https://learn.lambdaschool.com/fsw/sprint/recixiqgpgmdj81ms)
+##### Training Kit Career Development: [Intro to Careers and the Tech Landscape](https://learn.lambdaschool.com/cd/sprint/recFsbIJCXzTlWydm)
+##### Career Development Lecture: [Intro to Careers and the Tech Field](https://youtu.be/jX5f-yygH9k)
+##### Training Kit Pre-Work: [Responsive Design 1](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
 
-#### Day 5 (Mon): Responsive Design 1
+#### Day 5 (Mon Jun 3): Responsive Design 1
 
 Topic | Lecture | Code | Slido | Solution
 ------|---------|------|-------|--------
-RD 1  | [🎥][RD1L] | [⚙️][RD1C] | [📊][RD1S]| [🔐][RD1 sol]
+RD 1 | [🎥][RD1L] | [⚙️][RD1C] | [📊][RD1S]| [🔐][RD1sol]
 
 Helpful Resource Links
 * [Xcode phone simulator](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
@@ -188,18 +205,17 @@ Helpful Resource Links
 [RD1L]:https://youtu.be/K0JLBvHS4QU
 [RD1C]:https://codepen.io/lambdaschool/pen/MdLdZb?editors=1100
 [RD1S]:https://app.sli.do/event/xh7ivch8
-[RD1 sol]:https://codepen.io/lambdaschool/pen/84e04cc06a5d40b5398e8b6bcf0ce168
+[RD1sol]:https://codepen.io/lambdaschool/pen/84e04cc06a5d40b5398e8b6bcf0ce168
 
 
 
-#### Day 6 (Tue): Responsive Design 2
+#### Day 6 (Tue Jun 4): Responsive Design 2
 
-##### Training Kit Pre-work:
-[TK - Responsive Design 2](https://learn.lambdaschool.com/fsw/module/rece3iqptdxavi0dw)
+##### Training Kit Pre-work: [Responsive Design 2](https://learn.lambdaschool.com/fsw/module/rece3iqptdxavi0dw)
 
 Topic | Lecture | Code | Slido
 ------|---------|------|-------
-RD 1  | [🎥][RD2L] | [⚙️][RD2C] | [📊][RD2S]
+RD 1 | [🎥][RD2L] | [⚙️][RD2C] | [📊][RD2S]
 
 Helpful Resource Links
 * [📐 Font sizing with rem - Snook.ca](https://snook.ca/archives/html_and_css/font-size-with-rem)
@@ -222,14 +238,13 @@ Helpful Resource Links
 [RD2S]:https://app.sli.do/event/rabelpjr
 [CSS Font Sizing]:https://medium.com/@madhum86/css-font-sizing-pixels-vs-em-vs-rem-vs-percent-vs-viewport-units-b1485716afe7
 
-#### Day 7(Wed): Preprocessing 1
+#### Day 7 (Wed Jun 5): Preprocessing 1
 
-##### Training Kit Pre-Work:
-[TK - Preprocessing 1](https://learn.lambdaschool.com/fsw/module/reculyBhIYkuoBRqh/)
+##### Training Kit Pre-Work: [Preprocessing 1](https://learn.lambdaschool.com/fsw/module/reculyBhIYkuoBRqh/)
 
 Topic | Lecture | Code
 ------|---------|------
-PP1   | [🎥][PP1L] | [⚙️][PP1C]
+PP1 | [🎥][PP1L] | [⚙️][PP1C]
 
 Helpful Resource Links
 * [Getting Started with LESS.js](http://lesscss.org/)
@@ -245,10 +260,9 @@ Helpful Resource Links
 [PP1C]:https://codepen.io/justsml/pen/qGGBdP
 
 
-#### Day 8(Thur): Preprocessing 2
+#### Day 8 (Thur Jun 6): Preprocessing 2
 
-##### Training Kit Pre-Work:
-[TK - Preprocessing 2] (https://learn.lambdaschool.com/fsw/module/rec1hRu3bO6L0uxn2/)
+##### Training Kit Pre-Work: [Preprocessing 2] (https://learn.lambdaschool.com/fsw/module/rec1hRu3bO6L0uxn2/)
 
 Topic | Lecture | slido | Code
 ------|---------|-------|-----
@@ -265,7 +279,7 @@ Helpful Resource Links
 [PP2C]:https://codepen.io/justsml/pen/YbozVa
 
 
-#### Day 9: Sprint Challenge - Media Queries, pre-processors
+#### Day 9 (Fri Jun 7): Sprint Challenge - Media Queries, pre-processors
 
 </details>
 
@@ -280,16 +294,15 @@ Helpful Resource Links
 
 #### Day 10(Mon): JavaScript 1
 
-##### Training Kit Weekly Sprint Overview:
-[TK - JavaScript Fundamentals](https://learn.lambdaschool.com/fsw/sprint/recclZwJxMU8kUngT)
+##### Training Kit Weekly Sprint Overview: [JavaScript Fundamentals](https://learn.lambdaschool.com/fsw/sprint/recclZwJxMU8kUngT)
 
+##### Career Development: [Team Dynamics and Feedback](https://youtu.be/qJ1OYfsBri4)
 
-##### Training Kit Pre-Work:
-[TK - JavaScript 1](https://learn.lambdaschool.com/fsw/module/recCT3KJYTIRYwQMh/)
+##### Training Kit Pre-Work: [JavaScript 1](https://learn.lambdaschool.com/fsw/module/recCT3KJYTIRYwQMh/)
 
-Topic | Lecture | Slido |Guided Project
+Topic | Lecture | Slido | Guided Project
 ------|---------|-------|--------------
-JS 1  | [🎥][JS1L] | [📊][JS1S] [⚙️][JS1C]
+JS 1 | [🎥][JS1L] | [📊][JS1S] [⚙️][JS1C]
 
 Solutions | Code
 ----------|------
@@ -310,8 +323,7 @@ Helpful Resource Links
 
 #### Day 11(Tues): JavaScript 2
 
-##### Training Kit Pre-Work:
-[TK - JavaScript 2](https://learn.lambdaschool.com/fsw/module/rec1oaBmEoSilO2yf/)
+##### Training Kit Pre-Work: [JavaScript 2](https://learn.lambdaschool.com/fsw/module/rec1oaBmEoSilO2yf/)
 
 Topic | Lecture | slido | Code | Guided Project
 ------|---------|-------|------|---------------
@@ -348,11 +360,10 @@ Helpful Resource Links
 
 #### Day 12(Wed): JavaScript 3
 
-##### Training Kit Pre-Work:
-[TK - JavaScript 3](https://learn.lambdaschool.com/fsw/module/rec0AWuNLezbpit7m/)
+##### Training Kit Pre-Work: [JavaScript 3](https://learn.lambdaschool.com/fsw/module/rec0AWuNLezbpit7m/)
 
 Topic | Lecture | Guided Project | Breakout Code
-------|---------|------| -------------
+------|---------|----------------|-------------
 JS3   | [🎥][JS3L] | [⚙️][JS3C] | [⚙️][JS3B]
 
 Helpful Resource Links
@@ -372,11 +383,10 @@ Helpful Resource Links
 
 #### Day 13(Thu): JavaScript 4
 
-##### Training Kit Pre-Work:
-[TK - JavaScript 4](https://learn.lambdaschool.com/fsw/module/recyS588eOvVUKAMc/)
+##### Training Kit Pre-Work: [JavaScript 4](https://learn.lambdaschool.com/fsw/module/recyS588eOvVUKAMc/)
 
 Topic | Lecture | Slido | Guided Project | Breakout Challenge | Breakout Solution
-------|---------|-------|----------|------------------|-----------
+------|---------|-------|----------------|--------------------|-----------
 JS 4  | [🎥][JS4L]|[📊][JS4S]|[⚙️][JS4P] | [⚙️][JS4C] | [🔐][JS4CS]
 
 Solution | Code
@@ -415,12 +425,9 @@ Helpful Resource Links
 
 #### Day 17(Mon): DOM 1
 
-##### Training Kit Weekly Sprint Overview:
-[TK - Applied JS](https://learn.lambdaschool.com/fsw/sprint/recPSZMPrmESUYo2C)
+##### Training Kit Weekly Sprint Overview: [Applied JS](https://learn.lambdaschool.com/fsw/sprint/recPSZMPrmESUYo2C)
 
-
-##### Training Kit Pre-Work:
-[TK - DOM 1](https://learn.lambdaschool.com/fsw/module/rectn5PUU5ubcQkPu/)
+##### Training Kit Pre-Work: [DOM 1](https://learn.lambdaschool.com/fsw/module/rectn5PUU5ubcQkPu/)
 
 Topic | Lecture | Code
 ------|---------|------
@@ -439,8 +446,7 @@ Helpful Resource Links
 
 #### Day 18(Tues): DOM 2
 
-##### Training Kit Pre-Work:
-[TK - DOM 2](https://learn.lambdaschool.com/fsw/module/recJWv3RIfa4NFXbn/)
+##### Training Kit Pre-Work: [DOM 2](https://learn.lambdaschool.com/fsw/module/recJWv3RIfa4NFXbn/)
 
 Topic | Lecture | Code
 ------|---------|------
@@ -456,8 +462,7 @@ Helpful Resource Links
 
 #### Day 19(Wed): Components 1
 
-##### Training Kit Pre-Work:
-[TK - Components 1]()
+##### Training Kit Pre-Work: [Components 1]()
 
 Topic | Lecture | Code
 ------|---------|------
@@ -473,8 +478,7 @@ Helpful Resource Links
 
 #### Day 20(Thu): Components 2
 
-##### Training Kit Pre-Work:
-[TK - Components 2]()
+##### Training Kit Pre-Work: [Components 2]()
 
 Topic | Lecture | Code
 ------|---------|------
