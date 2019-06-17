@@ -292,7 +292,7 @@ Helpful Resource Links
 
 <details><summary>click to open</summary>
 
-#### Day 10(Mon): JavaScript 1
+#### Day 10 (Mon Jun 10): JavaScript 1
 
 ##### Training Kit Weekly Sprint Overview: [JavaScript Fundamentals](https://learn.lambdaschool.com/fsw/sprint/recclZwJxMU8kUngT)
 
@@ -321,7 +321,7 @@ Helpful Resource Links
 [JS1S]:https://app.sli.do/event/k7cycfcl
 [JS1C]:https://repl.it/@justsml/Web21-JS-Is-Magic
 
-#### Day 11(Tues): JavaScript 2
+#### Day 11 (Tues Jun 11): JavaScript 2
 
 ##### Training Kit Pre-Work: [JavaScript 2](https://learn.lambdaschool.com/fsw/module/rec1oaBmEoSilO2yf/)
 
@@ -358,7 +358,7 @@ Helpful Resource Links
 [JS2C]:https://repl.it/@justsml/Web21-Callbacks
 [JS2P]:https://repl.it/@justsml/Web21-JS-II
 
-#### Day 12(Wed): JavaScript 3
+#### Day 12 (Wed Jun 12): JavaScript 3
 
 ##### Training Kit Pre-Work: [JavaScript 3](https://learn.lambdaschool.com/fsw/module/rec0AWuNLezbpit7m/)
 
@@ -381,7 +381,7 @@ Helpful Resource Links
 [JS3B]:https://repl.it/@justsml/Practice-Explicit-binding
 
 
-#### Day 13(Thu): JavaScript 4
+#### Day 13 (Thu Jun 13): JavaScript 4
 
 ##### Training Kit Pre-Work: [JavaScript 4](https://learn.lambdaschool.com/fsw/module/recyS588eOvVUKAMc/)
 
@@ -408,7 +408,7 @@ Helpful Resource Links
 [JS4C]:https://repl.it/@justsml/Web21-JS-IV-Breakout-Challenge
 [JS4CS]:https://repl.it/@kristinbarr/Web21-JS-IV-Breakout-Challenge
 
-#### Day 14(Fri): Sprint Challenge - JavaScript Fundamentals
+#### Day 14 (Fri Jun 14): Sprint Challenge - JavaScript Fundamentals
 
 
   </details>
@@ -423,28 +423,38 @@ Helpful Resource Links
 
 <details><summary>click to open</summary>
 
-#### Day 17(Mon): DOM 1
+#### Day 15 (Mon Jun 17): DOM 1
+
+##### Career Development: [Financial Planning, Offers, and Negotiations](https://youtu.be/L-UX0pkVuVc)
+
+Helpful Career Development Links:
+* [Money Budgeting blog](https://www.mrmoneymustache.com/)
+* [Budgeting Spreadsheet](https://docs.google.com/spreadsheets/d/1Avpn9zSrcvMbWCr7FomzHRuPHGAOTnc3tZ_x7nwNb2c/edit?usp=sharing)
+* [You need a budget](https://www.youneedabudget.com/)
+* [Simple | Online Banking With Built-In Budgeting & Saving Tools](https://www.simple.com/)
 
 ##### Training Kit Weekly Sprint Overview: [Applied JS](https://learn.lambdaschool.com/fsw/sprint/recPSZMPrmESUYo2C)
 
 ##### Training Kit Pre-Work: [DOM 1](https://learn.lambdaschool.com/fsw/module/rectn5PUU5ubcQkPu/)
 
-Topic | Lecture | Code
-------|---------|------
-DOM 1 | [🎥][DOM1L] | [⚙️][DOM1C]
+Topic | Lecture | Slido | Guided Project
+------|---------|-------|--------------
+DOM 1 | [🎥][DOM1L] | [📊][DOM1S]| [⚙️][DOM1C]
 
-Helpful Resource Links
+Helpful Resource Links:
 * [Live DOM viewer](https://software.hixie.ch/utilities/js/live-dom-viewer/)
 * [Eloquent JS - DOM](https://eloquentjavascript.net/14_dom.html)
-* [MDN 'document' docs](https://developer.mozilla.org/en-US/docs/Web/API/Document)
-* [MDN DOM docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-*
+* [MDN | 'document' docs](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+* [MDN | DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [MDN | NodeList](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
+* [MDN | Node.textContent](https://developer.mozilla.org/en/docs/Web/API/Node/textContent)
 
 [DOM1L]:h
-[DOM1C]:h
+[DOM1S]:https://app.sli.do/event/bphrdakg
+[DOM1C]:https://codepen.io/justsml/pen/BgzNMV
 
 
-#### Day 18(Tues): DOM 2
+#### Day 16 (Tues Jun 18): DOM 2
 
 ##### Training Kit Pre-Work: [DOM 2](https://learn.lambdaschool.com/fsw/module/recJWv3RIfa4NFXbn/)
 
@@ -460,9 +470,9 @@ Helpful Resource Links
 
 
 
-#### Day 19(Wed): Components 1
+#### Day 17 (Wed Jun 19): Components 1
 
-##### Training Kit Pre-Work: [Components 1]()
+##### Training Kit Pre-Work: [Components 1](https://learn.lambdaschool.com/fsw/module/rec847sNXZX9CVDNl/)
 
 Topic | Lecture | Code
 ------|---------|------
@@ -476,9 +486,9 @@ Helpful Resource Links
 
 
 
-#### Day 20(Thu): Components 2
+#### Day 18 (Thu Jun 20): Components 2
 
-##### Training Kit Pre-Work: [Components 2]()
+##### Training Kit Pre-Work: [Components 2](https://learn.lambdaschool.com/fsw/module/recd6kDKS6eMapSRq/)
 
 Topic | Lecture | Code
 ------|---------|------
@@ -492,7 +502,7 @@ Helpful Resource Links
 
 
 
-#### Day 21(Fri): Sprint Challenge -
+#### Day 19 (Fri Jun 21): Sprint Challenge - Applied JavaScript
 
 
   </details>
