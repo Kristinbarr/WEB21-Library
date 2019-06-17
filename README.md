@@ -449,7 +449,7 @@ Helpful Resource Links:
 * [MDN | NodeList](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
 * [MDN | Node.textContent](https://developer.mozilla.org/en/docs/Web/API/Node/textContent)
 
-[DOM1L]:h
+[DOM1L]:https://youtu.be/2Vu09Wmy08A
 [DOM1S]:https://app.sli.do/event/bphrdakg
 [DOM1C]:https://codepen.io/justsml/pen/BgzNMV
 
