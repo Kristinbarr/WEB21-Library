@@ -466,9 +466,9 @@ Helpful Resource Links:
 
 ##### Training Kit Pre-Work: [DOM 2](https://learn.lambdaschool.com/fsw/module/recJWv3RIfa4NFXbn/)
 
-Topic | Lecture | slido | Guided Project | Project Solution
-------|---------|-------|----------------|----------------
-DOM 2 |[🎥][DOM2L]|[📊][DOM2S]|[⚙️][DOM2C]|[⚙️][DOM2sol]
+Topic | Lecture | slido | Guided Project | Breakout Challenge | Project Solution
+------|---------|-------|----------------|--------------------|--------------
+DOM 2 |[🎥][DOM2L]|[📊][DOM2S]|[⚙️][DOM2C]|[⚙️][DOM2B]|[⚙️][DOM2sol]
 
 Helpful Resource Links
 * [Dan Levy | Intro to JS Events](https://youtu.be/187vctOVhPg)
@@ -477,9 +477,10 @@ Helpful Resource Links
 * [W3Schools | DOM event listener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 * [Bubbling and Capturing](http://javascript.info/bubbling-and-capturing)
 
-[DOM2L]:h
+[DOM2L]:https://youtu.be/36zE1Oz743g
 [DOM2S]:https://app.sli.do/event/dniy2gac
 [DOM2C]:https://codepen.io/justsml/pen/BgLLKX?editors=1010
+[DOM2B]:https://codepen.io/justsml/pen/LobaXK?editors=1010
 [DOM2sol]:h
 
 
