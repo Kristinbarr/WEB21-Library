@@ -401,6 +401,10 @@ Helpful Resource Links
 * [JS Fundamentals Study Guide by Lambda PM](https://codepen.io/x-zen/pen/PrPKLQ)
 * [Code Step-through Visualizer](http://pythontutor.com/)
 * [snapshot drawing tool](http://snappy-app.com/)
+* [JS class inheritance](https://javascript.info/class-inheritance)
+* [Evolution of Callbacks, Promises and Async/Await](https://www.youtube.com/watch?v=gB-OmN1egV8)
+* [Formatting Markdown Files](https://guides.github.com/features/mastering-markdown/)
+* [Travery Media | Classes and Inheritance](https://www.youtube.com/watch?v=RBLIm5LMrmc)
 
 [JS4L]:https://youtu.be/OQE8iimr8CQ
 [JS4S]:https://app.sli.do/event/isnvtpyv
@@ -437,9 +441,9 @@ Helpful Career Development Links:
 
 ##### Training Kit Pre-Work: [DOM 1](https://learn.lambdaschool.com/fsw/module/rectn5PUU5ubcQkPu/)
 
-Topic | Lecture | Slido | Guided Project
-------|---------|-------|--------------
-DOM 1 | [🎥][DOM1L] | [📊][DOM1S]| [⚙️][DOM1C]
+Topic | Lecture | Slido | Guided Project | Project Solution
+------|---------|-------|----------------|-----------------
+DOM 1 |[🎥][DOM1L]|[📊][DOM1S]|[⚙️][DOM1C]|[⚙️][DOM1sol]
 
 Helpful Resource Links:
 * [Live DOM viewer](https://software.hixie.ch/utilities/js/live-dom-viewer/)
@@ -448,25 +452,31 @@ Helpful Resource Links:
 * [MDN | DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * [MDN | NodeList](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
 * [MDN | Node.textContent](https://developer.mozilla.org/en/docs/Web/API/Node/textContent)
+* [FCC | JavaScript ES6, ES7, ES8 (Full Course)](https://www.youtube.com/watch?v=nZ1DMMsyVyI)
+* [mmtuts | Event Listeners and Events in JS](https://www.youtube.com/watch?v=jqU3uaRgQyQ)
+* [Preventing cross-site scripting attacks when using innerHTML](https://gomakethings.com/preventing-cross-site-scripting-attacks-when-using-innerhtml-in-vanilla-javascript/)
 
 [DOM1L]:https://youtu.be/2Vu09Wmy08A
 [DOM1S]:https://app.sli.do/event/bphrdakg
 [DOM1C]:https://codepen.io/justsml/pen/BgzNMV
+[DOM1sol]:https://codepen.io/lambdaschool/pen/16f3967e2c9436b589c5c6c63e8efe5f?editors=0010
 
 
 #### Day 16 (Tues Jun 18): DOM 2
 
 ##### Training Kit Pre-Work: [DOM 2](https://learn.lambdaschool.com/fsw/module/recJWv3RIfa4NFXbn/)
 
-Topic | Lecture | Code
-------|---------|------
-DOM 2 | [🎥][DOM2L] | [⚙️][DOM2C]
+Topic | Lecture | slido | Guided Project | Project Solution
+------|---------|-------|----------------|----------------
+DOM 2 |[🎥][DOM2L]|[📊][DOM2S]|[⚙️][DOM2C]|[⚙️][DOM2sol]
 
 Helpful Resource Links
 *
 
 [DOM2L]:h
+[DOM2S]:h
 [DOM2C]:h
+[DOM2sol]:h
 
 
 
