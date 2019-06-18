@@ -471,11 +471,15 @@ Topic | Lecture | slido | Guided Project | Project Solution
 DOM 2 |[🎥][DOM2L]|[📊][DOM2S]|[⚙️][DOM2C]|[⚙️][DOM2sol]
 
 Helpful Resource Links
-*
+* [Dan Levy | Intro to JS Events](https://youtu.be/187vctOVhPg)
+* [Dan Levy | Intro to JS Events Draft 1](https://youtu.be/ULSxBLOdhBM)
+* [FCC | Event Listeners with Beau](https://www.youtube.com/watch?v=F3odgpghXzY)
+* [W3Schools | DOM event listener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+* [Bubbling and Capturing](http://javascript.info/bubbling-and-capturing)
 
 [DOM2L]:h
-[DOM2S]:h
-[DOM2C]:h
+[DOM2S]:https://app.sli.do/event/dniy2gac
+[DOM2C]:https://codepen.io/justsml/pen/BgLLKX?editors=1010
 [DOM2sol]:h
 
 
