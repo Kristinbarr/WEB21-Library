@@ -51,6 +51,8 @@ Job Search and Interviewing
 - [Peer Code Review](https://airtable.com/shrVBzrhkcT6GqExr)
 - [Peer Code Review Checklist](https://github.com/LambdaSchool/Peer-Code-Review-Checklist)
 
+#### Progress Report Dashboard: [sign in with 'first-last'](https://dashboards.lambdaschool.com/students/)
+
 #### Web21 Calendar: [Google Calendar Link](https://calendar.google.com/calendar/r?cid=bGFtYmRhc2Nob29sLmNvbV9zOWthNm9wMnU2cG43ZzkwNHNoNjJucTVza0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 #### Lambda Course Info: [Precourse, WEB, CS, Labs, Career, Next](https://learn.lambdaschool.com/course/cs-fsw)
@@ -476,6 +478,7 @@ Helpful Resource Links
 * [FCC | Event Listeners with Beau](https://www.youtube.com/watch?v=F3odgpghXzY)
 * [W3Schools | DOM event listener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 * [Bubbling and Capturing](http://javascript.info/bubbling-and-capturing)
+* [Sitepoint | Event Bubbling and Propogation](https://www.sitepoint.com/event-bubbling-javascript/)
 
 [DOM2L]:https://youtu.be/36zE1Oz743g
 [DOM2S]:https://app.sli.do/event/dniy2gac
