@@ -468,9 +468,9 @@ Helpful Resource Links:
 
 ##### Training Kit Pre-Work: [DOM 2](https://learn.lambdaschool.com/fsw/module/recJWv3RIfa4NFXbn/)
 
-Topic | Lecture | slido | Guided Project | Breakout Challenge | Project Solution
-------|---------|-------|----------------|--------------------|--------------
-DOM 2 |[🎥][DOM2L]|[📊][DOM2S]|[⚙️][DOM2C]|[⚙️][DOM2B]|[⚙️][DOM2sol]
+Topic | Lecture | slido | Guided Project | Breakout Challenge
+------|---------|-------|----------------|-------------------
+DOM 2 |[🎥][DOM2L]|[📊][DOM2S]|[⚙️][DOM2C]|[⚙️][DOM2B]
 
 Helpful Resource Links
 * [Dan Levy | Intro to JS Events](https://youtu.be/187vctOVhPg)
@@ -484,7 +484,7 @@ Helpful Resource Links
 [DOM2S]:https://app.sli.do/event/dniy2gac
 [DOM2C]:https://codepen.io/justsml/pen/BgLLKX?editors=1010
 [DOM2B]:https://codepen.io/justsml/pen/LobaXK?editors=1010
-[DOM2sol]:h
+
 
 
 
@@ -492,15 +492,18 @@ Helpful Resource Links
 
 ##### Training Kit Pre-Work: [Components 1](https://learn.lambdaschool.com/fsw/module/rec847sNXZX9CVDNl/)
 
-Topic | Lecture | Code
-------|---------|------
-Components 1   | [🎥][COM1L] | [⚙️][COM1C]
+Topic | Lecture | slido | Guided Project
+------|---------|-------|---------------
+Components 1|[🎥][COM1L]|[📊][COM2S]|[⚙️][COM1C]
 
 Helpful Resource Links
-*
+* [How to Create Tabs with Vanilla JavaScript](https://www.youtube.com/watch?v=rSEgjpMZXIc)
+* [5 Stages of learning](https://zellwk.com/blog/stages-of-learning/)
+* []()
 
 [COM1L]:h
-[COM1C]:h
+[COM2S]:https://app.sli.do/event/x67jo2nh
+[COM1C]:https://codepen.io/justsml/pen/MMbpdo?editors=1100
 
 
 
@@ -508,14 +511,15 @@ Helpful Resource Links
 
 ##### Training Kit Pre-Work: [Components 2](https://learn.lambdaschool.com/fsw/module/recd6kDKS6eMapSRq/)
 
-Topic | Lecture | Code
-------|---------|------
-Components 2 | [🎥][COM2L] | [⚙️][COM2C]
+Topic | Lecture | Slido | Guided Project
+------|---------|-------|----------------
+Components 2|[🎥][COM2L]|[📊][COM2S]|[⚙️][COM2C]
 
 Helpful Resource Links
 *
 
 [COM2L]:h
+[COM2S]:h
 [COM2C]:h
 
 
