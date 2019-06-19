@@ -499,9 +499,9 @@ Components 1|[🎥][COM1L]|[📊][COM2S]|[⚙️][COM1C]
 Helpful Resource Links
 * [How to Create Tabs with Vanilla JavaScript](https://www.youtube.com/watch?v=rSEgjpMZXIc)
 * [5 Stages of learning](https://zellwk.com/blog/stages-of-learning/)
-* []()
+* [Animista | CSS Animations](http://animista.net/)
 
-[COM1L]:h
+[COM1L]:https://youtu.be/_wzOcMTzPbY
 [COM2S]:https://app.sli.do/event/x67jo2nh
 [COM1C]:https://codepen.io/justsml/pen/MMbpdo?editors=1100
 
