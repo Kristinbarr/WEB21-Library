@@ -504,7 +504,7 @@ Helpful Resource Links
 
 [COM1L]:https://youtu.be/_wzOcMTzPbY
 [COM2S]:https://app.sli.do/event/x67jo2nh
-[COM1C]:https://codepen.io/justsml/pen/MMbpdo?editors=1100
+[COM1C]:https://codepen.io/kbarr/pen/vqgejB
 [COM1sol]:https://codepen.io/kbarr/pen/pXNqJz
 
 
@@ -517,11 +517,12 @@ Topic | Lecture | Slido | Guided Project
 Components 2|[🎥][COM2L]|[📊][COM2S]|[⚙️][COM2C]
 
 Helpful Resource Links
-*
+* [CSS Tricks | #20: Data! data-*! .data()! .attr(data-*)!](https://css-tricks.com/lodge/learn-jquery/20-data-data-data-attrdata/)
+* [Custom Data Attributes HTML JS CSS Tutorial](https://www.youtube.com/watch?v=3r7dkLersKA)
 
 [COM2L]:h
-[COM2S]:h
-[COM2C]:h
+[COM2S]:https://app.sli.do/event/x9kogsnr
+[COM2C]:https://codepen.io/justsml/pen/MMbpdo?editors=1100
 
 
 
