@@ -445,7 +445,7 @@ Helpful Career Development Links:
 
 Topic | Lecture | Slido | Guided Project | Project Solution
 ------|---------|-------|----------------|-----------------
-DOM 1 |[🎥][DOM1L]|[📊][DOM1S]|[⚙️][DOM1C]|[⚙️][DOM1sol]
+DOM 1 |[🎥][DOM1L]|[📊][DOM1S]|[⚙️][DOM1C]|[🔐][DOM1sol]
 
 Helpful Resource Links:
 * [Live DOM viewer](https://software.hixie.ch/utilities/js/live-dom-viewer/)
@@ -492,19 +492,20 @@ Helpful Resource Links
 
 ##### Training Kit Pre-Work: [Components 1](https://learn.lambdaschool.com/fsw/module/rec847sNXZX9CVDNl/)
 
-Topic | Lecture | slido | Guided Project
-------|---------|-------|---------------
-Components 1|[🎥][COM1L]|[📊][COM2S]|[⚙️][COM1C]
+Topic | Lecture | slido | Guided Project | Guided Solution
+------|---------|-------|----------------|----------------
+Components 1|[🎥][COM1L]|[📊][COM2S]|[⚙️][COM1C]|[🔐][COM1sol]
 
 Helpful Resource Links
 * [How to Create Tabs with Vanilla JavaScript](https://www.youtube.com/watch?v=rSEgjpMZXIc)
 * [5 Stages of learning](https://zellwk.com/blog/stages-of-learning/)
 * [Animista | CSS Animations](http://animista.net/)
+* [CS10 JOsh Knell | Greensock intro](https://youtu.be/L3xT_etgz9g)
 
 [COM1L]:https://youtu.be/_wzOcMTzPbY
 [COM2S]:https://app.sli.do/event/x67jo2nh
 [COM1C]:https://codepen.io/justsml/pen/MMbpdo?editors=1100
-
+[COM1sol]:https://codepen.io/kbarr/pen/pXNqJz
 
 
 #### Day 18 (Thu Jun 20): Components 2
