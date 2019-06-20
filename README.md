@@ -14,6 +14,7 @@ Technical
 - [OneTab-Tab Manager - Chrome Extension](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en)
 - [How To Install VSCode Extensions](https://www.youtube.com/watch?v=PmdbndOoKq4)
 - [Emmet autofill in VSCode](https://code.visualstudio.com/docs/editor/emmet)
+- [Emmet for most IDE's](https://emmet.io/)
 - [ESLint | Code spell-checker](http://www.jslint.com/help.html)
 - [Prettier | Code Formatter](https://prettier.io/)
 - [VSCode shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
@@ -460,7 +461,7 @@ Helpful Resource Links:
 
 [DOM1L]:https://youtu.be/2Vu09Wmy08A
 [DOM1S]:https://app.sli.do/event/bphrdakg
-[DOM1C]:https://codepen.io/justsml/pen/BgzNMV
+[DOM1C]:https://codepen.io/kbarr/pen/MMJqbW
 [DOM1sol]:https://codepen.io/lambdaschool/pen/16f3967e2c9436b589c5c6c63e8efe5f?editors=0010
 
 
@@ -479,11 +480,12 @@ Helpful Resource Links
 * [W3Schools | DOM event listener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 * [Bubbling and Capturing](http://javascript.info/bubbling-and-capturing)
 * [Sitepoint | Event Bubbling and Propogation](https://www.sitepoint.com/event-bubbling-javascript/)
+* [StackOv | Difference between HTMLCol, NodeList, arrs of objs](https://stackoverflow.com/questions/15763358/difference-between-htmlcollection-nodelists-and-arrays-of-objects)
 
 [DOM2L]:https://youtu.be/36zE1Oz743g
 [DOM2S]:https://app.sli.do/event/dniy2gac
-[DOM2C]:https://codepen.io/justsml/pen/BgLLKX?editors=1010
-[DOM2B]:https://codepen.io/justsml/pen/LobaXK?editors=1010
+[DOM2C]:https://codepen.io/kbarr/pen/dBNqXz
+[DOM2B]:https://codepen.io/kbarr/pen/mZRGPX
 
 
 
@@ -512,18 +514,18 @@ Helpful Resource Links
 
 ##### Training Kit Pre-Work: [Components 2](https://learn.lambdaschool.com/fsw/module/recd6kDKS6eMapSRq/)
 
-Topic | Lecture | Slido | Guided Project
-------|---------|-------|----------------
-Components 2|[🎥][COM2L]|[📊][COM2S]|[⚙️][COM2C]
+Topic | Lecture | Slido | Guided Project | Guided Proj Solution
+------|---------|-------|----------------|--------------------
+Components 2|[🎥][COM2L]|[📊][COM2S]|[⚙️][COM2C]|[🔐][COM2sol]
 
 Helpful Resource Links
 * [CSS Tricks | #20: Data! data-*! .data()! .attr(data-*)!](https://css-tricks.com/lodge/learn-jquery/20-data-data-data-attrdata/)
 * [Custom Data Attributes HTML JS CSS Tutorial](https://www.youtube.com/watch?v=3r7dkLersKA)
 
-[COM2L]:h
+[COM2L]:https://youtu.be/NDxFtts4zjs
 [COM2S]:https://app.sli.do/event/x9kogsnr
-[COM2C]:https://codepen.io/justsml/pen/MMbpdo?editors=1100
-
+[COM2C]:https://codepen.io/kbarr/pen/KjaxVL
+[COM2sol]:https://codepen.io/kbarr/pen/EBZePK
 
 
 #### Day 19 (Fri Jun 21): Sprint Challenge - Applied JavaScript
