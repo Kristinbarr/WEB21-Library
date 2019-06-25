@@ -544,7 +544,7 @@ Helpful Resource Links
 
 ### Week 5 Sprint - Build Week
 
-<details><summary>click to open</summary>
+  <details><summary>click to open</summary>
 
 ##### [Build Week: Culture Document](https://www.notion.so/Build-Week-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
 
@@ -570,7 +570,35 @@ Helpful Resource Links
 - [lorem ipsum](https://www.lipsum.com/))
 * [Bob Ross Lorem Ipsum](https://www.bobrosslipsum.com/)
 
+**Monday - Milestones**
+- Marketing landing page scaffolded with common layout structure implemented
+- Mobile screen width features starting to come into play
+- Lorem ipsum can be used to fill in your content on your pages. Links listed below
 
+**Tuesday - Milestones**
+- Marketing site including all pages fully responsive to Mobile and Desktop screen widths
+- All pages laid out all that's left for each page are styling tweaks
+- Marketing "Login" call to action links user to the Deployed React app login screen
 
+**Wednesday - Milestones**
+- Marketing site replace placeholder copy with description of product. Be creative here. Really try and describe your project, your project's features and of course have a cool "About Us" page with relevant copy that describes your team members and their roles.
+- All marketing site pages fully responsive and built out, may still need to polish up styling and layout.
+
+**Thursday - Milestones**
+- **All Team Members -**
+  - Strong emphasis on bug fixes and UI/UX.
+- **Web**
+  - If your Front end needs help, mob program. All web members in the group could be able to contribute to finalizing the styles.
+- **All Team Members**
+  - Document your projects within the Readme files in their Github repositories. Without having to talk to you specifically, any developer should be able to install, contribute to, and run your project based on the descriptions found in your readme.
+
+**Friday - FEATURE FREEZE + Demo Day**
+- Morning Time before Lunch is all dedicated to polish and Demo Day prep
+  - There will be a sign up sheet delivered to sign up to demo in the hour long school-wide demo
+- There will be a school wide demo held on Friday for 1 hour during the morning
+  - Students will volunteer their projects to be demoed to their PMs
+  - Only 10 Projects will be demoed across the entire student body
+- Group wide demos will take place in your PM groups - PMs will use the project rubric to assign a score.
+- Sprint Retrospective to happen before students break for the week
 
   </details>
