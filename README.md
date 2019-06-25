@@ -173,6 +173,7 @@ Helpful Resource Links
 
 #### Day 4 (Fri May 31): Sprint Challenge - CSS, Flexbox
 
+##### [GitHub link: Sprint-Challenge--User-Interface](https://github.com/LambdaSchool/Sprint-Challenge--User-Interface)
 ##### Career Development: [LS1905 2nd Orientation](https://youtu.be/upvCDyefikE)
 
 </details>
@@ -417,6 +418,7 @@ Helpful Resource Links
 
 #### Day 14 (Fri Jun 14): Sprint Challenge - JavaScript Fundamentals
 
+ ##### [Sprint-Challenge: JS Fundamentals]()
 
   </details>
 
@@ -481,6 +483,7 @@ Helpful Resource Links
 * [Bubbling and Capturing](http://javascript.info/bubbling-and-capturing)
 * [Sitepoint | Event Bubbling and Propogation](https://www.sitepoint.com/event-bubbling-javascript/)
 * [StackOv | Difference between HTMLCol, NodeList, arrs of objs](https://stackoverflow.com/questions/15763358/difference-between-htmlcollection-nodelists-and-arrays-of-objects)
+* [Josh Knell | DOM 2 lecture](https://youtu.be/rfy9ULTXK-4)
 
 [DOM2L]:https://youtu.be/36zE1Oz743g
 [DOM2S]:https://app.sli.do/event/dniy2gac
@@ -503,6 +506,7 @@ Helpful Resource Links
 * [5 Stages of learning](https://zellwk.com/blog/stages-of-learning/)
 * [Animista | CSS Animations](http://animista.net/)
 * [CS10 JOsh Knell | Greensock intro](https://youtu.be/L3xT_etgz9g)
+* [Josh Knell | Components 1 Lecture](https://www.youtube.com/watch?v=7y8dBVzBm5s)
 
 [COM1L]:https://youtu.be/_wzOcMTzPbY
 [COM2S]:https://app.sli.do/event/x67jo2nh
@@ -514,7 +518,7 @@ Helpful Resource Links
 
 ##### Training Kit Pre-Work: [Components 2](https://learn.lambdaschool.com/fsw/module/recd6kDKS6eMapSRq/)
 
-Topic | Lecture | Slido | Guided Project | Guided Proj Solution
+Topic | Lecture | Slido | Guided Proj(Accordian) | Guided Proj Solution
 ------|---------|-------|----------------|--------------------
 Components 2|[🎥][COM2L]|[📊][COM2S]|[⚙️][COM2C]|[🔐][COM2sol]
 
@@ -530,7 +534,7 @@ Helpful Resource Links
 
 #### Day 19 (Fri Jun 21): Sprint Challenge - Applied JavaScript
 
-
+##### [GitHub Link: Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-Applied-Javascript)
   </details>
 
 
@@ -542,7 +546,31 @@ Helpful Resource Links
 
 <details><summary>click to open</summary>
 
-#### TBA!
+##### [Build Week: Culture Document](https://www.notion.so/Build-Week-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
+
+##### [Build Week Milestones](https://www.notion.so/Build-week-Schedule-and-Daily-Milestones-7f0aca2ad598459fa4492fdac9881d5b)
+
+##### [Build Week: Web UI Interface Developer Role](https://www.notion.so/lambdaschool/Web-UI-Developer-Role-9978e2084bcc45a7a182638acf38b956)
+
+##### [Build Week: Web Foundations Rubric(Google Doc)](https://docs.google.com/spreadsheets/d/1BbdmSMUdzURMo0wcsr4XSKvegDgB28WkK2wnjmORzDo/edit#gid=0)
+
+##### [Product List Airtable](https://airtable.com/shrzk3diKxkbWb5oA/tblM1xaStqkbmK0ou?blocks=hide)
+
+
+Helpful Resource Links
+* [Marketing Site Design Inspiratin](https://www.awwwards.com/websites/bootstrap/?page=1)
+* [Dribbble | Marketing Site Designs](https://dribbble.com/search?q=marketing+site+design)
+* [HTML5UP | template websites](https://html5up.net/)
+* [UnSplash | Free Stock Photos](https://unsplash.com/search/photos/marketing)
+* [Pexels | Free Stock Photos](https://www.pexels.com/)
+* [Undraw.co | Illustrations](https://undraw.co/illustrations)
+* [Cool Triangle BG generator](https://trianglify.io/)
+* [Icon Collections](https://iconmonstr.com/)
+* [FlatIcon pattern maker](https://pattern.flaticon.com/)
+- [lorem ipsum](https://www.lipsum.com/))
+* [Bob Ross Lorem Ipsum](https://www.bobrosslipsum.com/)
+
+
 
 
   </details>
