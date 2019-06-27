@@ -544,7 +544,7 @@ Helpful Resource Links
 
 ### Week 5 Sprint - Build Week
 
-  <details><summary>click to open</summary>
+<details><summary>click to open</summary>
 
 ##### [Build Week: Culture Document](https://www.notion.so/Build-Week-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
 
@@ -556,6 +556,7 @@ Helpful Resource Links
 
 ##### [Product List Airtable](https://airtable.com/shrzk3diKxkbWb5oA/tblM1xaStqkbmK0ou?blocks=hide)
 
+##### [Maintain Strong Social Media Presence](https://youtu.be/AdAA9d5vCaE)
 
 Helpful Resource Links
 * [Marketing Site Design Inspiratin](https://www.awwwards.com/websites/bootstrap/?page=1)
@@ -565,9 +566,10 @@ Helpful Resource Links
 * [Pexels | Free Stock Photos](https://www.pexels.com/)
 * [Undraw.co | Illustrations](https://undraw.co/illustrations)
 * [Cool Triangle BG generator](https://trianglify.io/)
+* [CSS clip-path generator](https://bennettfeely.com/clippy/)
 * [Icon Collections](https://iconmonstr.com/)
 * [FlatIcon pattern maker](https://pattern.flaticon.com/)
-- [lorem ipsum](https://www.lipsum.com/))
+* [lorem ipsum](https://www.lipsum.com/))
 * [Bob Ross Lorem Ipsum](https://www.bobrosslipsum.com/)
 
 **Monday - Milestones**
