@@ -1,8 +1,31 @@
-## WEB21 Lambda Library 📚
+# WEB21 Lambda Library 📚
 
 Workshop code, lectures, notes, and solutions for the WEB21 cohort
 
-#### General Helpful Resources and Links
+
+
+
+## Lambda Links:
+
+
+Student Forms:
+- [M - Th Daily Standup Reports](https://airtable.com/shr8ZYuNjevMLRsxI)
+- [Student Sprint Retrospective](https://airtable.com/shruSVU97eR6CHE5A)
+- [Peer Code Review](https://airtable.com/shrVBzrhkcT6GqExr)
+- [Peer Code Review Checklist](https://github.com/LambdaSchool/Peer-Code-Review-Checklist)
+
+Syllabus (Training Kit): [Lambda School Training Kit](https://learn.lambdaschool.com/)
+
+Progress Report Dashboard: [sign in with 'first-last'](https://dashboards.lambdaschool.com/students/)
+
+Web21 Calendar: [Google Calendar Link](https://calendar.google.com/calendar/r?cid=bGFtYmRhc2Nob29sLmNvbV9zOWthNm9wMnU2cG43ZzkwNHNoNjJucTVza0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+Lambda Course Info: [Precourse, WEB, CS, Labs, Career, Next](https://learn.lambdaschool.com/course/cs-fsw)
+
+Student Orientation: [LS1905 video](https://youtu.be/i2FlKBBZtS0)
+
+
+## General Helpful Resources and Links
 
 <details><summary>click to open</summary>
 
@@ -42,29 +65,11 @@ Job Search and Interviewing
 </details>
 
 
-### Lambda Links:
 
-#### Syllabus (Training Kit): [Lambda School Training Kit](https://learn.lambdaschool.com/)
-
-#### Student Forms:
-- [M - Th Daily Standup Reports](https://airtable.com/shr8ZYuNjevMLRsxI)
-- [Student Sprint Retrospective](https://airtable.com/shruSVU97eR6CHE5A)
-- [Peer Code Review](https://airtable.com/shrVBzrhkcT6GqExr)
-- [Peer Code Review Checklist](https://github.com/LambdaSchool/Peer-Code-Review-Checklist)
-
-#### Progress Report Dashboard: [sign in with 'first-last'](https://dashboards.lambdaschool.com/students/)
-
-#### Web21 Calendar: [Google Calendar Link](https://calendar.google.com/calendar/r?cid=bGFtYmRhc2Nob29sLmNvbV9zOWthNm9wMnU2cG43ZzkwNHNoNjJucTVza0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
-#### Lambda Course Info: [Precourse, WEB, CS, Labs, Career, Next](https://learn.lambdaschool.com/course/cs-fsw)
-
-#### Student Orientation: [LS1905 video](https://youtu.be/i2FlKBBZtS0)
+# Full Stack Web Development Core
 
 
-
-
-
-### Week 1 Sprint - HTML, CSS, Git
+## Week 1 Sprint - HTML, CSS, Git
 
 <details><summary>Click to open</summary>
 
@@ -136,7 +141,7 @@ Helpful Resources & Links
 [UI3C]:https://codepen.io/justsml/pen/LoJoVq?editors=0100
 
 
-#### Day 3 (Thu May 30): Git for Web Development
+### Day 3 (Thu May 30): Git for Web Development
 
 ##### Training Kit Pre-Work: [Git for Web Dev](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
 
@@ -181,7 +186,7 @@ Helpful Resource Links
 
 
 
-### Week 2 Sprint - Advanced CSS
+## Week 2 Sprint - Advanced CSS
 
 <details><summary>click to open</summary>
 
@@ -292,7 +297,7 @@ Helpful Resource Links
 
 
 
-### Week 3 Sprint - JavaScript Fundamentals
+## Week 3 Sprint - JavaScript Fundamentals
 
 <details><summary>click to open</summary>
 
@@ -428,7 +433,7 @@ Helpful Resource Links
 
 
 
-### Week 4 Sprint - Applied JavaScript
+## Week 4 Sprint - Applied JavaScript
 
 <details><summary>click to open</summary>
 
@@ -540,26 +545,28 @@ Helpful Resource Links
 
 
 
-
-
-### Week 5 Sprint - Build Week
+## Week 5 Sprint - Build Week
 
 <details><summary>click to open</summary>
 
-##### [Build Week: Culture Document](https://www.notion.so/Build-Week-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
+#### Build Week Docs
 
-##### [Build Week Milestones](https://www.notion.so/Build-week-Schedule-and-Daily-Milestones-7f0aca2ad598459fa4492fdac9881d5b)
+* [Build Week: Culture Document](https://www.notion.so/Build-Week-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
 
-##### [Build Week: Web UI Interface Developer Role](https://www.notion.so/lambdaschool/Web-UI-Developer-Role-9978e2084bcc45a7a182638acf38b956)
+* [Build Week Milestones](https://www.notion.so/Build-week-Schedule-and-Daily-Milestones-7f0aca2ad598459fa4492fdac9881d5b)
 
-##### [Build Week: Web Foundations Rubric(Google Doc)](https://docs.google.com/spreadsheets/d/1BbdmSMUdzURMo0wcsr4XSKvegDgB28WkK2wnjmORzDo/edit#gid=0)
+* [Build Week: Web UI Interface Developer Role](https://www.notion.so/lambdaschool/Web-UI-Developer-Role-9978e2084bcc45a7a182638acf38b956)
 
-##### [Product List Airtable](https://airtable.com/shrzk3diKxkbWb5oA/tblM1xaStqkbmK0ou?blocks=hide)
+* [Build Week: Web Foundations Rubric(Google Doc)](https://docs.google.com/spreadsheets/d/1BbdmSMUdzURMo0wcsr4XSKvegDgB28WkK2wnjmORzDo/edit#gid=0)
 
-##### [Maintain Strong Social Media Presence](https://youtu.be/AdAA9d5vCaE)
+* [Build Week: Product List Airtable](https://airtable.com/shrzk3diKxkbWb5oA/tblM1xaStqkbmK0ou?blocks=hide)
+
+#### Career Development
+* Maintain Strong Social Media Presence [Careers 2.0 - Social Media: The Lambda Way](https://youtu.be/AdAA9d5vCaE)
+
 
 Helpful Resource Links
-* [Marketing Site Design Inspiratin](https://www.awwwards.com/websites/bootstrap/?page=1)
+* [Marketing Site Design Inspiration](https://www.awwwards.com/websites/bootstrap/?page=1)
 * [Dribbble | Marketing Site Designs](https://dribbble.com/search?q=marketing+site+design)
 * [HTML5UP | template websites](https://html5up.net/)
 * [UnSplash | Free Stock Photos](https://unsplash.com/search/photos/marketing)
@@ -604,3 +611,38 @@ Helpful Resource Links
 - Sprint Retrospective to happen before students break for the week
 
   </details>
+
+---
+
+## Week 6 Sprint - Front-End
+
+<details><summary>click to open</summary>
+
+#### Day 25 (Mon Jun 30): React
+
+##### Training Kit Weekly Sprint Overview: [JavaScript Fundamentals](https://learn.lambdaschool.com/fsw/sprint/recclZwJxMU8kUngT)
+
+##### Career Development: [Team Dynamics and Feedback](https://youtu.be/qJ1OYfsBri4)
+
+##### Training Kit Pre-Work: [JavaScript 1](https://learn.lambdaschool.com/fsw/module/recCT3KJYTIRYwQMh/)
+
+Topic | Lecture | Slido | Guided Project
+------|---------|-------|--------------
+JS 1 | [🎥][JS1L] | [📊][JS1S] [⚙️][JS1C]
+
+Solutions | Code
+----------|------
+Objects   | [🔐](https://codepen.io/lambdaschool/pen/cf6f87c54714773bb313da58f696197f?editors=0010)
+Arrays    | [🔐](https://codepen.io/lambdaschool/pen/62df2a0d481e9a045ae5c012ff44efab?editors=0010)
+ES6 Function | [🔐](https://codepen.io/lambdaschool/pen/ddfe8ceb27e5ec57eecebef59d239dcf?editors=0010)
+
+Helpful Resource Links
+* [var, let or const?](https://hackernoon.com/js-var-let-or-const-67e51dbb716f)
+* [Code Runner for VSCode](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+* [🍐 Article on Pair Programming](https://hackernoon.com/a-pair-is-better-than-one-e9d4514add9f)
+* [JS Built-in Functions](https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm)
+* [➡️ When not to use arrow funcs](https://wesbos.com/arrow-function-no-no/)
+
+[JS1L]:https://youtu.be/idRFLPnQ7QU
+[JS1S]:https://app.sli.do/event/k7cycfcl
+[JS1C]:https://repl.it/@justsml/Web21-JS-Is-Magic
