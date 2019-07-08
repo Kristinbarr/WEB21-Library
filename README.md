@@ -614,35 +614,41 @@ Helpful Resource Links
 
 ---
 
-## Week 6 Sprint - Front-End
+# NEW CURRICULUM CHANGES: Web Applications 1
+
+## Week 6 Sprint - Applied JavaScript
 
 <details><summary>click to open</summary>
 
-#### Day 25 (Mon Jun 30): React
-
-##### Training Kit Weekly Sprint Overview: [JavaScript Fundamentals](https://learn.lambdaschool.com/fsw/sprint/recclZwJxMU8kUngT)
+##### Training Kit Weekly Sprint Overview: [Applied Javascript](https://learn.lambdaschool.com/web2/sprint/recPSZMPrmESUYo2C)
 
 ##### Career Development: [Team Dynamics and Feedback](https://youtu.be/qJ1OYfsBri4)
 
-##### Training Kit Pre-Work: [JavaScript 1](https://learn.lambdaschool.com/fsw/module/recCT3KJYTIRYwQMh/)
+#### Day 25 (Mon Jul 8): DOM 1
+
+##### Training Kit Pre-Work: [DOM 1](https://learn.lambdaschool.com/web2/module/rectn5PUU5ubcQkPu/)
+
+Learning touchstone points:
+- Explain what the DOM is, and how it relates to an html page
+- Use DOM selectors, and describe the differences in the behavior of each.
+- Use different properties and methods to manipulate a selected element.
+- create a new element, manipulate it, and add it to the DOM
 
 Topic | Lecture | Slido | Guided Project
 ------|---------|-------|--------------
-JS 1 | [🎥][JS1L] | [📊][JS1S] [⚙️][JS1C]
-
-Solutions | Code
-----------|------
-Objects   | [🔐](https://codepen.io/lambdaschool/pen/cf6f87c54714773bb313da58f696197f?editors=0010)
-Arrays    | [🔐](https://codepen.io/lambdaschool/pen/62df2a0d481e9a045ae5c012ff44efab?editors=0010)
-ES6 Function | [🔐](https://codepen.io/lambdaschool/pen/ddfe8ceb27e5ec57eecebef59d239dcf?editors=0010)
+DOM 1 revisited|[🎥][DOM1L2]|[📊][DOM1S2]|[⚙️][DOM1C2]
 
 Helpful Resource Links
-* [var, let or const?](https://hackernoon.com/js-var-let-or-const-67e51dbb716f)
-* [Code Runner for VSCode](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-* [🍐 Article on Pair Programming](https://hackernoon.com/a-pair-is-better-than-one-e9d4514add9f)
-* [JS Built-in Functions](https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm)
-* [➡️ When not to use arrow funcs](https://wesbos.com/arrow-function-no-no/)
+* [CSS Diner game](https://flukeout.github.io/)
+* [adtrak | CSS selectors cheatsheet](https://www.adtrak.co.uk/blog/the-ultimate-css-selectors-cheatsheet/)
+* [Adam Marsden | CSS Cheatsheet](https://adam-marsden.co.uk/css-cheat-sheet)
+* [Learn the Web | CSS Cheatsheet](https://learn-the-web.algonquindesign.ca/topics/css-selectors-units-cheat-sheet/#selectors)
+* [devhints | CSS Cheatsheet](https://devhints.io/css)
+* [Medium | Things nobody taught me about CSS](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e)
+* [Blockchain - learn to code on Etherium](https://cryptozombies.io/)
+* [Blockchain tech explained (2 hr course)](https://www.youtube.com/watch?v=qOVAbKKSH10&feature=youtu.be)
 
-[JS1L]:https://youtu.be/idRFLPnQ7QU
-[JS1S]:https://app.sli.do/event/k7cycfcl
-[JS1C]:https://repl.it/@justsml/Web21-JS-Is-Magic
+
+[DOM1L2]:https://youtu.be/twG9NXJXh4A
+[DOM1S2]:https://app.sli.do/event/76pxgoxc
+[DOM1C2]:https://codepen.io/justsml/pen/gNQpVK
