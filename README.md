@@ -622,7 +622,17 @@ Helpful Resource Links
 
 ##### Training Kit Weekly Sprint Overview: [Applied Javascript](https://learn.lambdaschool.com/web2/sprint/recPSZMPrmESUYo2C)
 
-##### Career Development: [Team Dynamics and Feedback](https://youtu.be/qJ1OYfsBri4)
+##### Career Development:[Portfolios and Artifacts](https://youtu.be/WXuvOYJ7yEQ)
+>* [Portfolio rubric](https://drive.google.com/file/d/1g24hcozfJLAMPHIlFRo2RDFstpiZW-p8/view?usp=sharing)
+>* [Blog rubric](https://drive.google.com/file/d/1ovpUZXfzv9YetKVuFFLBIuCrf4uV396u/view?usp=sharing)
+>* [GitHub rubric](https://drive.google.com/file/d/1JOSIkz7PxLqs-xeT7xenLFnviDHrBXdF/view?usp=sharing)
+>* [App Store/Google Play Store rubric](https://drive.google.com/file/d/1RiMf5gFViTHKD0j6jrCApYi9XvVaERS-/view?usp=sharing)
+>* [Social media rubric](https://drive.google.com/file/d/1CNfnQ-r6GV3vjx-8t0h8FbReczzRChth/view?usp=sharing)
+
+>* [Lambda Portfolio and Artifacts PDF](https://lambdaschoolstudents.slack.com/files/UH6FW7AG0/FL9TZPBU6/portfolio_and_artifacts.pdf)
+
+next week: [Team Dynamics and Feedback](https://youtu.be/qJ1OYfsBri4)
+
 
 #### Day 25 (Mon Jul 8): DOM 1
 
@@ -647,8 +657,61 @@ Helpful Resource Links
 * [Medium | Things nobody taught me about CSS](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e)
 * [Blockchain - learn to code on Etherium](https://cryptozombies.io/)
 * [Blockchain tech explained (2 hr course)](https://www.youtube.com/watch?v=qOVAbKKSH10&feature=youtu.be)
-
+* [Reactive UI's with VanillaJS - Part 1: Pure Functional Style | CSS-Tricks](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/)
 
 [DOM1L2]:https://youtu.be/twG9NXJXh4A
 [DOM1S2]:https://app.sli.do/event/76pxgoxc
 [DOM1C2]:https://codepen.io/justsml/pen/gNQpVK
+
+
+#### Day 26 (Tue Jul 9): DOM 2
+
+##### Training Kit Pre-Work: [DOM 2](https://learn.lambdaschool.com/web2/module/recJWv3RIfa4NFXbn/)
+
+Learning touchstone points:
+- Explain what events are in the browser window, and how event listeners can listen for those events.
+- add event listeners and event handlers to elements.
+- recognize event propagation and the method used to prevent it.
+
+Topic | Lecture | Slido | Guided Project
+------|---------|-------|----------------
+DOM 2 revisited|[🎥][DOM2L2]|[📊][DOM2S2]|[⚙️][DOM2C2]
+
+Breakout Challenge | Breakout Solution
+-------------------|------------
+[⚙️][DOM2BC2] | [🔐][DOM2BS2]
+
+
+Helpful Resource Links
+* [🐶 HTTP STATUS DOGS](https://httpstatusdogs.com/)
+* [DAD JOKES using splitting.js & css vars to animate](https://codepen.io/cobra_winfrey/pen/PrXzmB)
+* [bubbling and capturing](http://javascript.info/bubbling-and-capturing)
+
+[DOM2L2]:h
+[DOM2S2]:https://app.sli.do/event/w7epbvt3
+[DOM2C2]:https://codepen.io/justsml/pen/GbPrbP
+[DOM2BC2]:https://codepen.io/cgorton/pen/ewbgLZ?editors=1010
+[DOM2BS2]:https://codepen.io/cgorton/pen/XLyBaj?editors=1010
+
+
+#### Day 27 (Wed Jul 10): Components 1
+
+##### Training Kit Pre-Work: [Components 1]()
+
+Learning touchstone points:
+
+
+Topic | Lecture | Slido | Guided Project
+------|---------|-------|--------------
+Comp 1 revisited|[🎥][COM1L2]|[📊][COM1S2]|[⚙️][COM1C2]
+
+Helpful Resource Links
+* []()
+
+[DOM2L2]:h
+[DOM2S2]:h
+[DOM2C2]:h
+
+
+
+</details>
