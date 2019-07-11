@@ -540,6 +540,7 @@ Helpful Resource Links
 #### Day 19 (Fri Jun 21): Sprint Challenge - Applied JavaScript
 
 ##### [GitHub Link: Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-Applied-Javascript)
+
   </details>
 
 
@@ -638,7 +639,7 @@ next week: [Team Dynamics and Feedback](https://youtu.be/qJ1OYfsBri4)
 
 ##### Training Kit Pre-Work: [DOM 1](https://learn.lambdaschool.com/web2/module/rectn5PUU5ubcQkPu/)
 
-Learning touchstone points:
+Learning objectives:
 - Explain what the DOM is, and how it relates to an html page
 - Use DOM selectors, and describe the differences in the behavior of each.
 - Use different properties and methods to manipulate a selected element.
@@ -668,7 +669,7 @@ Helpful Resource Links
 
 ##### Training Kit Pre-Work: [DOM 2](https://learn.lambdaschool.com/web2/module/recJWv3RIfa4NFXbn/)
 
-Learning touchstone points:
+Learning objectives:
 - Explain what events are in the browser window, and how event listeners can listen for those events.
 - add event listeners and event handlers to elements.
 - recognize event propagation and the method used to prevent it.
@@ -679,15 +680,16 @@ DOM 2 revisited|[🎥][DOM2L2]|[📊][DOM2S2]|[⚙️][DOM2C2]
 
 Breakout Challenge | Breakout Solution
 -------------------|------------
-[⚙️][DOM2BC2] | [🔐][DOM2BS2]
+[⚙️ Madlib exercise][DOM2BC2] | [🔐][DOM2BS2]
 
 
 Helpful Resource Links
 * [🐶 HTTP STATUS DOGS](https://httpstatusdogs.com/)
 * [DAD JOKES using splitting.js & css vars to animate](https://codepen.io/cobra_winfrey/pen/PrXzmB)
 * [bubbling and capturing](http://javascript.info/bubbling-and-capturing)
+* [Vanilla JS Stopwatch Script](https://medium.com/@olinations/an-accurate-vanilla-js-stopwatch-script-56ceb5c6f45b)
 
-[DOM2L2]:h
+[DOM2L2]:https://youtu.be/4HmHhKYTzog
 [DOM2S2]:https://app.sli.do/event/w7epbvt3
 [DOM2C2]:https://codepen.io/justsml/pen/GbPrbP
 [DOM2BC2]:https://codepen.io/cgorton/pen/ewbgLZ?editors=1010
@@ -696,22 +698,59 @@ Helpful Resource Links
 
 #### Day 27 (Wed Jul 10): Components 1
 
-##### Training Kit Pre-Work: [Components 1]()
+##### Training Kit Pre-Work: [Components 1](https://learn.lambdaschool.com/web2/module/rec847sNXZX9CVDNl/)
 
-Learning touchstone points:
-
+Learning objectives:
+- describe what a component is and identify different parts of a component
+- write a function that utilizes createElement and returns a new DOM element
+- iterate over a list of data creating a new component for each item and attaching that component to the DOM
 
 Topic | Lecture | Slido | Guided Project
 ------|---------|-------|--------------
 Comp 1 revisited|[🎥][COM1L2]|[📊][COM1S2]|[⚙️][COM1C2]
 
+[COM1L2]:https://youtu.be/-0UnYJ-cC-Q
+[COM1S2]:https://app.sli.do/event/dhaoulfj
+[COM1C2]:https://codepen.io/justsml/pen/ormGxO
+
+
+
+#### Day 28 (Wed Jul 11): Components 2
+
+##### Training Kit Pre-Work: [Components 2](https://learn.lambdaschool.com/web2/module/recd6kDKS6eMapSRq)
+
+Learning objectives:
+- understand and utilize asynchronous Javascript and Promises.
+- understand HTTP requests and get data from a server using axios.
+- iterate over a list of data received from a server, creating a set of components and adding them to the DOM.
+
+Topic | Lecture | Slido | Guided Project
+------|---------|-------|--------------
+Comp 1 revisited|[🎥][COM2L2]|[📊][COM2S2]|[⚙️][COM2C2]
+
 Helpful Resource Links
-* []()
+* [Eloquent JavaScript | Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
+* [Todd Motto | A collective list of free APIs](https://github.com/public-apis/public-apis)
+* [n0shake | A public list of APIs](https://github.com/n0shake/Public-APIs)
+* [Dog API](https://dog.ceo/dog-api/)
+* [JS Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
+* [Frontend Masters | JS New Hard Parts](https://frontendmasters.com/courses/javascript-new-hard-parts/)
+* [JSON Viewer Chrome Extension](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
+* [What is HTTP?](https://www.webopedia.com/TERM/H/HTTP.html)
+* [JavaScript Promises in 10 minutes](https://youtu.be/DHvZLI7Db8E)
+* [javascript.info | promise basics](https://javascript.info/promise-basics)
+* [A Simple Guide to ES6 Promises | codeburst](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
+* [Fetch vs. Axios for making http requests](https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5)
+* [Dan Levy | You May Not Need Axios](https://danlevy.net/you-may-not-need-axios/)
 
-[DOM2L2]:h
-[DOM2S2]:h
-[DOM2C2]:h
+[COM2L2]:https://youtu.be/sx5lL6v94hI
+[COM2S2]:https://app.sli.do/event/3bq6gip2
+[COM2C2]:https://codepen.io/justsml/pen/rERJPZ
 
 
+
+#### Day 29 (Wed Jul 12): Sprint Challenge - Applied JavaScript
+
+##### [GitHub Link: Sprint-Challenge-Applied-Javascript]()
 
 </details>
