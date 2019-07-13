@@ -682,6 +682,9 @@ Breakout Challenge | Breakout Solution
 -------------------|------------
 [⚙️ Madlib exercise][DOM2BC2] | [🔐][DOM2BS2]
 
+After Hours w Henry Blevins | Code
+----------------------------|----------
+[array exercises and dom I timer][DOM2AH]|[-][DOM2AHS]
 
 Helpful Resource Links
 * [🐶 HTTP STATUS DOGS](https://httpstatusdogs.com/)
@@ -694,7 +697,7 @@ Helpful Resource Links
 [DOM2C2]:https://codepen.io/justsml/pen/GbPrbP
 [DOM2BC2]:https://codepen.io/cgorton/pen/ewbgLZ?editors=1010
 [DOM2BS2]:https://codepen.io/cgorton/pen/XLyBaj?editors=1010
-
+[DOM2AH]:https://youtu.be/VDPXEBS51RQ
 
 #### Day 27 (Wed Jul 10): Components 1
 
@@ -709,10 +712,14 @@ Topic | Lecture | Slido | Guided Project
 ------|---------|-------|--------------
 Comp 1 revisited|[🎥][COM1L2]|[📊][COM1S2]|[⚙️][COM1C2]
 
+After Hours w Henry Blevins |
+----------------------------|
+[components I - Newsfeed functional components][COM1AH]
+
 [COM1L2]:https://youtu.be/-0UnYJ-cC-Q
 [COM1S2]:https://app.sli.do/event/dhaoulfj
 [COM1C2]:https://codepen.io/justsml/pen/ormGxO
-
+[COM1AH]:https://www.youtube.com/watch?v=pXSNKbQ68a4&feature=youtu.be
 
 
 #### Day 28 (Wed Jul 11): Components 2
@@ -727,6 +734,10 @@ Learning objectives:
 Topic | Lecture | Slido | Guided Project
 ------|---------|-------|--------------
 Comp 1 revisited|[🎥][COM2L2]|[📊][COM2S2]|[⚙️][COM2C2]
+
+After Hours w Henry Blevins | Code
+----------------------------|------
+[components II github cards][COM2AH]|[⚙️][COM2AHS]
 
 Helpful Resource Links
 * [Eloquent JavaScript | Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
@@ -746,11 +757,14 @@ Helpful Resource Links
 [COM2L2]:https://youtu.be/sx5lL6v94hI
 [COM2S2]:https://app.sli.do/event/3bq6gip2
 [COM2C2]:https://codepen.io/justsml/pen/rERJPZ
+[COM2AH]:https://youtu.be/NsiQoi4OXcM
+[COM2AHS]:https://github.com/Blevs/github-usercard
 
 
-
-#### Day 29 (Wed Jul 12): Sprint Challenge - Applied JavaScript
+#### Day 29 (Fri Jul 12): Sprint Challenge - Applied JavaScript
 
 ##### [GitHub Link: Sprint-Challenge-Applied-Javascript]()
+
+##### Lambda Expert Panel [July 2019 recording (second half)](https://youtu.be/aNv7OpFLSVI)
 
 </details>
