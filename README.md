@@ -753,6 +753,8 @@ Helpful Resource Links
 * [A Simple Guide to ES6 Promises | codeburst](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
 * [Fetch vs. Axios for making http requests](https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5)
 * [Dan Levy | You May Not Need Axios](https://danlevy.net/you-may-not-need-axios/)
+* [How to read your way to becoming a better developer](https://www.freecodecamp.org/news/how-to-read-your-way-to-becoming-a-better-developer-b6432fa5bc0c/)
+
 
 [COM2L2]:https://youtu.be/sx5lL6v94hI
 [COM2S2]:https://app.sli.do/event/3bq6gip2
