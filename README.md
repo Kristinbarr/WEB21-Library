@@ -49,6 +49,7 @@ Personal Development
 - [The Pomodoro Technique®](https://francescocirillo.com/pages/pomodoro-technique)
 - [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
 - [How to ask good questions as a developer](https://dev.to/frontendmentor/how-to-ask-good-questions-as-a-developer-51j5)
+- [How to ask good coding questions | Zell Liew](https://zellwk.com/blog/asking-questions/)
 - [Good Engineering practices while working solo](https://blog.bitsrc.io/good-engineering-practices-while-working-solo-ad872e727af4)
 - [Procrastination fears](https://zenhabits.net/procrastination-fears/)
 - [Suicide Prevention Online Chat](http://chat.suicidepreventionlifeline.org/GetHelp/LifelineChat.aspx)
@@ -770,3 +771,48 @@ Helpful Resource Links
 ##### Lambda Expert Panel [July 2019 recording (second half)](https://youtu.be/aNv7OpFLSVI)
 
 </details>
+
+
+
+## Week 7 Sprint - Intro to React
+
+<details><summary>click to open</summary>
+
+##### Training Kit Weekly Sprint Overview: [Intro to React](https://learn.lambdaschool.com/fsw/sprint/recYL2HDPPpkDmGEm)
+
+##### Career Development: [LinkedIn Presentation | Caitlin Forehand]()
+>* [LinkedIn Presentation Slides](https://docs.google.com/presentation/d/1fRAeas776uOTb6OjiVu2qzO8UEORICyEoi2uHwUkshg/edit?usp=sharing)
+>* [Setting up your LinkedIn Profile](https://docs.google.com/document/d/1Gp4ZjEwRUY2a1dcbXK0Ml5LE4ZzWRnUjHa9pJnNFIpo/edit)
+>* [Cold Outreach Templates](https://docs.google.com/document/d/1owl_mvOeXt08TfEQlfYGimRzQ9QIDLY1ewBgK7SHC5I/edit)
+
+
+
+#### Day 30 (Mon Jul 15): React Components and Component State
+
+##### Training Kit Pre-Work: [React Components and Component State](https://learn.lambdaschool.com/fsw/module/recZau7hH8vzww14N/)
+
+Learning objectives:
+- describe ReactJS and the problems that it tries to solve
+- explain what components are and how they work in React
+- explain what state is in web applications and demonstrate how to make a React component stateful
+- change the state of the component with a click listener
+
+Topic | Lecture | Slido | Guided Project
+------|---------|-------|--------------
+React Comps & State |[🎥][RCL]|[📊][RCS]|[⚙️][RCGP]
+
+Helpful Resource Links
+* [React Docs | Getting Started](https://reactjs.org/docs/getting-started.html)
+* [React Hooks - Use state(get started)](https://www.youtube.com/watch?v=-G43PbpmGrA)
+* [What problems does React solve?](https://scotch.io/@anitashah/what-problems-does-reactjs-solve-when-must-you-select-reactjs)
+* [Chrome Extension | React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+* [Babel.js to see React handle JSX](https://bit.ly/2LQuPXo)
+* [javscript.io | Import and Export](http://javascript.info/import-export)
+* [Coding Games and Programming Challenges](https://www.codingame.com/playgrounds/6450/destructuring-objects-and-arrays-in-js)
+* [Wes Bos | Dead Simple Intro to Destructuring](https://wesbos.com/destructuring-objects/)
+* [ES6 Destructuring: The Complete Guide](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f)
+* [React Hooks at a glance](https://reactjs.org/docs/hooks-overview.html)
+
+[RCL]:https://youtu.be/sQutrpLPKcw
+[RCS]:https://app.sli.do/event/ow6dvndj
+[RCGP]:https://codesandbox.io/s/web21-intro-react-17ylt
