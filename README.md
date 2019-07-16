@@ -80,15 +80,16 @@ Job Search and Interviewing
 ##### Training Kit Pre-Work: [User Interface 1](https://learn.lambdaschool.com/fsw/module/recl0IyzS2Vl89lZa/)
 ##### Training Kit Pre-Work: [User Interface 2](https://learn.lambdaschool.com/fsw/module/recGvXyWT6AvGtMHR/)
 
-Topic | Lecture | Code
-------|---------|-------------
-UI 1 & 2 | [🎥][UI 1&2L] | -
+Topic | Lecture
+------|---------
+UI 1 & 2 | [🎥][UI 1&2L]
 
 Utilities
 * [Codepen](https://codepen.io/)
 * [Repl.it](http://repl.it/)
 * [PerfectPixel - Chrome Extension][PerfectPixel]
-- [Git/Github Flow cheatsheet - Google Docs](https://docs.google.com/document/d/13qS0FImmfZ7rIAGHnu1_7R1Z8GiCrATAXTbgfw4x8XA/edit)
+* [Pesticide - Chrome Extension][https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh?hl=en-US]
+* [Git/Github Flow cheatsheet - Google Docs](https://docs.google.com/document/d/13qS0FImmfZ7rIAGHnu1_7R1Z8GiCrATAXTbgfw4x8XA/edit)
 
 Helpful Resources & Links
 * HTML:
