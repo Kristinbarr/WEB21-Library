@@ -631,7 +631,6 @@ Helpful Resource Links
 >* [GitHub rubric](https://drive.google.com/file/d/1JOSIkz7PxLqs-xeT7xenLFnviDHrBXdF/view?usp=sharing)
 >* [App Store/Google Play Store rubric](https://drive.google.com/file/d/1RiMf5gFViTHKD0j6jrCApYi9XvVaERS-/view?usp=sharing)
 >* [Social media rubric](https://drive.google.com/file/d/1CNfnQ-r6GV3vjx-8t0h8FbReczzRChth/view?usp=sharing)
-
 >* [Lambda Portfolio and Artifacts PDF](https://lambdaschoolstudents.slack.com/files/UH6FW7AG0/FL9TZPBU6/portfolio_and_artifacts.pdf)
 
 next week: [Team Dynamics and Feedback](https://youtu.be/qJ1OYfsBri4)
@@ -800,10 +799,11 @@ Learning objectives:
 
 Topic | Lecture | Slido | Guided Project
 ------|---------|-------|--------------
-React Comps & State |[🎥][RCL]|[📊][RCS]|[⚙️][RCGP]
+React Comps & State |[🎥][RCL]|[📊][RCS]|[⚙️][RCP]
 
-After Hours w Henry Blevins
-* [React- translating vanilla components to JSX](https://youtu.be/RvHuPA7xT5A)
+After Hours w Henry Blevins | code
+----------------------------|------
+[React: translating vanilla components to JSX](https://youtu.be/RvHuPA7xT5A)|[⚙️](https://github.com/Blevs/qa-7-16-19)
 
 Helpful Resource Links
 * [React Docs | Getting Started](https://reactjs.org/docs/getting-started.html)
@@ -819,4 +819,39 @@ Helpful Resource Links
 
 [RCL]:https://youtu.be/sQutrpLPKcw
 [RCS]:https://app.sli.do/event/ow6dvndj
-[RCGP]:https://codesandbox.io/s/web21-intro-react-17ylt
+[RCP]:https://codesandbox.io/s/web21-intro-react-17ylt
+
+
+#### Day 31 (Tue Jul 16): Composing React Components and Passing Data Via Props
+
+##### Training Kit Pre-Work: [Composing React Components and Passing Data Via Props](https://learn.lambdaschool.com/fsw/module/recgzSGQtp2HYwgSR/)
+
+Learning objectives:
+- use JavaScript modules to export and import components
+- demonstrate the ability to compose React components to build out a UI
+- Describe props and how data flows in a React application
+- pass props as dynamic data to a React component
+- style react apps with CSS and SASS
+
+Topic | Lecture | Slido | Guided Project | Sandbox: passing props & state
+------|---------|-------|----------------|--------------------------------
+Composing & Passing Props |[🎥][CPPL]|[📊][CPPS]|[⚙️][CPPP]|[⚙️][CPPC]
+
+After Hours w Henry Blevins
+* []()
+
+Helpful Resource Links
+* [When should I use curly braces for ES6 import?](https://stackoverflow.com/questions/36795819/when-should-i-use-curly-braces-for-es6-import)
+* [Quick intro to React's props.children | codeburst](https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891)
+* []()
+
+[CPPL]:h
+[CPPS]:https://app.sli.do/event/0toh3aqp
+[CPPP]:https://codesandbox.io/s/web21-react-components-uvo7q
+[CPPC]:https://codesandbox.io/s/passing-props-state-and-functions-rsieg
+
+
+
+
+
+</details>
