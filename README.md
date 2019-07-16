@@ -624,8 +624,8 @@ Helpful Resource Links
 
 ##### Training Kit Weekly Sprint Overview: [Applied Javascript](https://learn.lambdaschool.com/web2/sprint/recPSZMPrmESUYo2C)
 
-##### Career Development:[Portfolios and Artifacts](https://youtu.be/WXuvOYJ7yEQ)
->* [Portfolio rubric](https://drive.google.com/file/d/1g24hcozfJLAMPHIlFRo2RDFstpiZW-p8/view?usp=sharing)
+##### Career Development:[Portfolios and Artifacts Lecture](https://youtu.be/WXuvOYJ7yEQ)
+>* [Portfolio rubric](https://drive.google.com/file/d/1g24hcozfJLAMPHIlFRo2RDFstpiZW-p8/view)
 >* [Blog rubric](https://drive.google.com/file/d/1ovpUZXfzv9YetKVuFFLBIuCrf4uV396u/view?usp=sharing)
 >* [GitHub rubric](https://drive.google.com/file/d/1JOSIkz7PxLqs-xeT7xenLFnviDHrBXdF/view?usp=sharing)
 >* [App Store/Google Play Store rubric](https://drive.google.com/file/d/1RiMf5gFViTHKD0j6jrCApYi9XvVaERS-/view?usp=sharing)
@@ -766,7 +766,7 @@ Helpful Resource Links
 
 #### Day 29 (Fri Jul 12): Sprint Challenge - Applied JavaScript
 
-##### [GitHub Link: Sprint-Challenge-Applied-Javascript]()
+##### [GitHub Link: Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-Applied-JavaScript-v2)
 
 ##### Lambda Expert Panel [July 2019 recording (second half)](https://youtu.be/aNv7OpFLSVI)
 
@@ -800,6 +800,9 @@ Learning objectives:
 Topic | Lecture | Slido | Guided Project
 ------|---------|-------|--------------
 React Comps & State |[🎥][RCL]|[📊][RCS]|[⚙️][RCGP]
+
+After Hours w Henry Blevins
+* [React- translating vanilla components to JSX](https://youtu.be/RvHuPA7xT5A)
 
 Helpful Resource Links
 * [React Docs | Getting Started](https://reactjs.org/docs/getting-started.html)
