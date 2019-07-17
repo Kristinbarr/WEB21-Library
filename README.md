@@ -789,7 +789,7 @@ Helpful Resource Links
 
 #### Day 30 (Mon Jul 15): React Components and Component State
 
-##### Training Kit Pre-Work: [React Components and Component State](https://learn.lambdaschool.com/fsw/module/recZau7hH8vzww14N/)
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/recZau7hH8vzww14N/)
 
 Learning objectives:
 - describe ReactJS and the problems that it tries to solve
@@ -800,10 +800,15 @@ Learning objectives:
 Topic | Lecture | Slido | Guided Project
 ------|---------|-------|--------------
 React Comps & State |[🎥][RCL]|[📊][RCS]|[⚙️][RCP]
+[RCL]:https://youtu.be/sQutrpLPKcw
+[RCS]:https://app.sli.do/event/ow6dvndj
+[RCP]:https://codesandbox.io/s/web21-intro-react-17ylt
 
 After Hours w Henry Blevins | code
 ----------------------------|------
-[React: translating vanilla components to JSX](https://youtu.be/RvHuPA7xT5A)|[⚙️](https://github.com/Blevs/qa-7-16-19)
+[React: vanilla components to JSX][RCAH]|[⚙️](RCAHC)
+[RCAH]:https://youtu.be/RvHuPA7xT5A
+[RCAHC]:https://github.com/Blevs/qa-7-16-19
 
 Helpful Resource Links
 * [React Docs | Getting Started](https://reactjs.org/docs/getting-started.html)
@@ -817,14 +822,11 @@ Helpful Resource Links
 * [ES6 Destructuring: The Complete Guide](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f)
 * [React Hooks at a glance](https://reactjs.org/docs/hooks-overview.html)
 
-[RCL]:https://youtu.be/sQutrpLPKcw
-[RCS]:https://app.sli.do/event/ow6dvndj
-[RCP]:https://codesandbox.io/s/web21-intro-react-17ylt
 
 
 #### Day 31 (Tue Jul 16): Composing React Components and Passing Data Via Props
 
-##### Training Kit Pre-Work: [Composing React Components and Passing Data Via Props](https://learn.lambdaschool.com/fsw/module/recgzSGQtp2HYwgSR/)
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/recgzSGQtp2HYwgSR/)
 
 Learning objectives:
 - use JavaScript modules to export and import components
@@ -836,19 +838,55 @@ Learning objectives:
 Topic | Lecture | Slido | Guided Project | Sandbox: passing props & state
 ------|---------|-------|----------------|--------------------------------
 Composing & Passing Props |[🎥][CPPL]|[📊][CPPS]|[⚙️][CPPP]|[⚙️][CPPC]
+[CPPL]:https://youtu.be/mzgCU69oU4w
+[CPPS]:https://app.sli.do/event/0toh3aqp
+[CPPP]:https://codesandbox.io/s/web21-react-components-uvo7q
+[CPPC]:https://codesandbox.io/s/passing-props-state-and-functions-rsieg
+
+After Hours w Henry Blevins | Code
+----------------------------|-------
+[React: American Football][CPPAH]| [⚙️][CPPAHC]
+[CPPAH]:https://youtu.be/7Gkx11MfdQ8
+[CPPAHC]:https://github.com/Blevs/react-american-football-scoreboard/tree/timer
+
+Project Solution Code
+* [🔐 GitHub: brellin/lambda-calculator](https://github.com/brellin/lambda-calculator)
+
+Helpful Resource Links
+* [When should I use curly braces for ES6 import?](https://stackoverflow.com/questions/36795819/when-should-i-use-curly-braces-for-es6-import)
+* [Destructuring React props for cleaner code](https://dev.to/arnas/destructuring-react-props-for-the-cleaner-code-293)
+* [Quick intro to React's props.children | codeburst](https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891)
+* [dev.to | React Hooks: useState](https://dev.to/coffeecraftcode/react-hooks-usestate-3hfo)
+* [Node Sass Tutorial](http://zetcode.com/javascript/nodesass/)
+* [JSBEN.CH | deep copy / clone object](http://jsben.ch/gtKdJ)
+* [2ality | Spread Operators](https://2ality.com/2016/10/rest-spread-properties.html)
+* [2ality | _.extend and copying properties](https://2ality.com/2012/08/underscore-extend.html)
+
+
+#### Day 32 (Wed Jul 17): Component Side Effects
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/recKe8PW6ZMwjL1Qg/)
+
+Learning objectives:
+- explain what side effects are in React components
+- demonstrate how to sync side effects with state and props using the effect hook
+- fetch data from an API using the effect hook
+- demonstrate how to clean up side effects in the effect hook
+
+Topic | Lecture | Slido | Guided Project
+------|---------|-------|----------------
+Comp Side Effects |[🎥][CSEL]|[📊][CSES]|[⚙️][CSEP]
+[CSEL]:h
+[CSES]:https://app.sli.do/event/xsf0afgx
+[CSEP]:https://codesandbox.io/s/kitten-shortage-project-9q7n6
 
 After Hours w Henry Blevins
 * []()
 
 Helpful Resource Links
-* [When should I use curly braces for ES6 import?](https://stackoverflow.com/questions/36795819/when-should-i-use-curly-braces-for-es6-import)
-* [Quick intro to React's props.children | codeburst](https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891)
-* []()
-
-[CPPL]:h
-[CPPS]:https://app.sli.do/event/0toh3aqp
-[CPPP]:https://codesandbox.io/s/web21-react-components-uvo7q
-[CPPC]:https://codesandbox.io/s/passing-props-state-and-functions-rsieg
+* [Fetching Data from an API with React Hooks useEffect](https://www.youtube.com/watch?v=k0WnY0Hqe5c)
+* [React Hooks Crash Course Tutorial | FCC](https://www.youtube.com/watch?v=iVRO0toVdYM)
+* [Polya's Problem Solving Techniques](https://math.berkeley.edu/~gmelvin/polya.pdf)
 
 
 
