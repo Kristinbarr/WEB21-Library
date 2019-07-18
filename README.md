@@ -893,8 +893,40 @@ Helpful Resource Links
 * [React Hooks Crash Course Tutorial | FCC](https://www.youtube.com/watch?v=iVRO0toVdYM)
 * [Polya's Problem Solving Techniques](https://math.berkeley.edu/~gmelvin/polya.pdf)
 * [React Docs | useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
+* [Codevolution | React Hooks Tutorial Playlist](https://www.youtube.com/playlist?list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A)
+* [ReactJS Tutorial Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+* [Data Fetching with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
 
+
+#### Day 33 (Thur Jul 18): Advanced Styling Techniques
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web2/module/recNDoSqyUw3eq1y3/)
+
+Learning objectives:
+- bootstrap a React application with Create React App
+- demonstrate how to use Semantic UI to style a React app
+- use styled-components to add functional styles to their React Components
+
+Topic | Lecture | Slido | Guided Project
+------|---------|-------|----------------
+Comp Side Effects |[🎥][ASTL]|[📊][ASTS]|[⚙️][ASTP]
+[ASTL]:https://youtu.be/2d48rS0XebU
+[ASTS]:https://app.sli.do/event/2zxiqzov
+[ASTP]:https://codesandbox.io/s/doggo-photo-shortage-9q7n6
+
+After Hours w Henry Blevins | Code
+----------------------------|------
+[Lambda Calculator][CSEAH] | [⚙️][CSEAHC]
+[CSEAH]:https://youtu.be/xgMvLYjrTZo
+[CSEAHC]:https://github.com/Blevs/lambda-calculator
+
+Helpful Resource Links
+* [React Semantic UI](https://react.semantic-ui.com/)
+* [React Styled Components](https://www.styled-components.com/)
+* [Styled Components: To Use or Not to Use?](https://medium.com/building-crowdriff/styled-components-to-use-or-not-to-use-a6bb4a7ffc21)
+* [Accessibility is not a “React Problem” | Netlify](https://www.netlify.com/blog/2019/02/25/accessibility-is-not-a-react-problem/)
+* [Achieving Accessibility in React Applications](https://blog.bitsrc.io/achieving-accessibility-in-react-applications-d762f8f2a3e7)
 
 
 </details>
