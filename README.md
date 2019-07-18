@@ -617,7 +617,8 @@ Helpful Resource Links
 
 ---
 
-# NEW CURRICULUM CHANGES: Web Applications 1
+# NEW CURRICULUM CHANGES
+## Web Applications 1
 
 ## Week 6 Sprint - Applied JavaScript
 
@@ -857,6 +858,7 @@ Helpful Resource Links
 * [Destructuring React props for cleaner code](https://dev.to/arnas/destructuring-react-props-for-the-cleaner-code-293)
 * [Quick intro to React's props.children | codeburst](https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891)
 * [dev.to | React Hooks: useState](https://dev.to/coffeecraftcode/react-hooks-usestate-3hfo)
+* [Sass Docs | Sass Basics](https://sass-lang.com/guide)
 * [Node Sass Tutorial](http://zetcode.com/javascript/nodesass/)
 * [JSBEN.CH | deep copy / clone object](http://jsben.ch/gtKdJ)
 * [2ality | Spread Operators](https://2ality.com/2016/10/rest-spread-properties.html)
@@ -876,18 +878,21 @@ Learning objectives:
 Topic | Lecture | Slido | Guided Project
 ------|---------|-------|----------------
 Comp Side Effects |[🎥][CSEL]|[📊][CSES]|[⚙️][CSEP]
-[CSEL]:h
+[CSEL]:https://www.youtube.com/watch?v=zXrby8KQSNI
 [CSES]:https://app.sli.do/event/xsf0afgx
 [CSEP]:https://codesandbox.io/s/kitten-shortage-project-9q7n6
 
-After Hours w Henry Blevins
-* []()
+After Hours w Henry Blevins | Code
+----------------------------|------
+[Lambda Calculator][CSEAH] | [⚙️][CSEAHC]
+[CSEAH]:https://youtu.be/xgMvLYjrTZo
+[CSEAHC]:https://github.com/Blevs/lambda-calculator
 
 Helpful Resource Links
 * [Fetching Data from an API with React Hooks useEffect](https://www.youtube.com/watch?v=k0WnY0Hqe5c)
 * [React Hooks Crash Course Tutorial | FCC](https://www.youtube.com/watch?v=iVRO0toVdYM)
 * [Polya's Problem Solving Techniques](https://math.berkeley.edu/~gmelvin/polya.pdf)
-
+* [React Docs | useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
 
 
 
