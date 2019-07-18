@@ -917,9 +917,9 @@ Comp Side Effects |[🎥][ASTL]|[📊][ASTS]|[⚙️][ASTP]
 
 After Hours w Henry Blevins | Code
 ----------------------------|------
-[Lambda Calculator][CSEAH] | [⚙️][CSEAHC]
-[CSEAH]:https://youtu.be/xgMvLYjrTZo
-[CSEAHC]:https://github.com/Blevs/lambda-calculator
+[Nasa Photo of the Day][CSEAH] | [⚙️][CSEAHC]
+[CSEAH]:https://github.com/Blevs/nasa-photo-of-the-day
+[CSEAHC]:https://youtu.be/Bg4YUNz8bP8
 
 Helpful Resource Links
 * [React Semantic UI](https://react.semantic-ui.com/)
@@ -927,6 +927,7 @@ Helpful Resource Links
 * [Styled Components: To Use or Not to Use?](https://medium.com/building-crowdriff/styled-components-to-use-or-not-to-use-a6bb4a7ffc21)
 * [Accessibility is not a “React Problem” | Netlify](https://www.netlify.com/blog/2019/02/25/accessibility-is-not-a-react-problem/)
 * [Achieving Accessibility in React Applications](https://blog.bitsrc.io/achieving-accessibility-in-react-applications-d762f8f2a3e7)
+* [ReactJS Datepicker](https://reactdatepicker.com/#example-13)
 
 
 </details>
