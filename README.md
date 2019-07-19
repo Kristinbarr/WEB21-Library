@@ -932,6 +932,7 @@ Helpful Resource Links
 * [Achieving Accessibility in React Applications](https://blog.bitsrc.io/achieving-accessibility-in-react-applications-d762f8f2a3e7)
 * [ReactJS Datepicker](https://reactdatepicker.com/#example-13)
 * [Command Line Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=r4lxfwfrtd)
+* [React Cheat Sheet](https://devhints.io/react)
 
 
 </details>
