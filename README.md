@@ -917,9 +917,12 @@ Comp Side Effects |[🎥][ASTL]|[📊][ASTS]|[⚙️][ASTP]
 
 After Hours w Henry Blevins | Code
 ----------------------------|------
-[Nasa Photo of the Day][CSEAH] | [⚙️][CSEAHC]
-[CSEAH]:https://github.com/Blevs/nasa-photo-of-the-day
-[CSEAHC]:https://youtu.be/Bg4YUNz8bP8
+[Nasa Photo of the Day][ASTAH]|[⚙️][ASTAHC]
+[NASA Photo Styles][]|[⚙️][ASTAHC2]
+[ASTAH]:https://github.com/Blevs/nasa-photo-of-the-day
+[ASTAHC]:https://youtu.be/Bg4YUNz8bP8
+[ASTAH2]:https://github.com/Blevs/nasa-photo-of-the-day/tree/styles
+[ASTAHC2]:https://youtu.be/B89tpZf3oLI
 
 Helpful Resource Links
 * [React Semantic UI](https://react.semantic-ui.com/)
