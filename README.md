@@ -918,11 +918,11 @@ Comp Side Effects |[🎥][ASTL]|[📊][ASTS]|[⚙️][ASTP]
 After Hours w Henry Blevins | Code
 ----------------------------|------
 [Nasa Photo of the Day][ASTAH]|[⚙️][ASTAHC]
-[NASA Photo Styles][]|[⚙️][ASTAHC2]
-[ASTAH]:https://github.com/Blevs/nasa-photo-of-the-day
-[ASTAHC]:https://youtu.be/Bg4YUNz8bP8
-[ASTAH2]:https://github.com/Blevs/nasa-photo-of-the-day/tree/styles
-[ASTAHC2]:https://youtu.be/B89tpZf3oLI
+[NASA Photo Styles][ASTAH2]|[⚙️][ASTAHC2]
+[ASTAH]:https://youtu.be/Bg4YUNz8bP8
+[ASTAHC]:https://github.com/Blevs/nasa-photo-of-the-day
+[ASTAH2]:https://youtu.be/B89tpZf3oLI
+[ASTAHC2]:https://github.com/Blevs/nasa-photo-of-the-day/tree/styles
 
 Helpful Resource Links
 * [React Semantic UI](https://react.semantic-ui.com/)
@@ -931,6 +931,7 @@ Helpful Resource Links
 * [Accessibility is not a “React Problem” | Netlify](https://www.netlify.com/blog/2019/02/25/accessibility-is-not-a-react-problem/)
 * [Achieving Accessibility in React Applications](https://blog.bitsrc.io/achieving-accessibility-in-react-applications-d762f8f2a3e7)
 * [ReactJS Datepicker](https://reactdatepicker.com/#example-13)
+* [Command Line Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=r4lxfwfrtd)
 
 
 </details>
