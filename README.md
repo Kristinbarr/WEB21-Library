@@ -932,7 +932,19 @@ Helpful Resource Links
 * [Achieving Accessibility in React Applications](https://blog.bitsrc.io/achieving-accessibility-in-react-applications-d762f8f2a3e7)
 * [ReactJS Datepicker](https://reactdatepicker.com/#example-13)
 * [Command Line Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=r4lxfwfrtd)
-* [React Cheat Sheet](https://devhints.io/react)
+* [DevHints | React Cheat Sheet](https://devhints.io/react)
+* [How to Organize Your Components](https://www.reactnativeschool.com/how-to-organize-your-components)
+
+#### Day 34 (Fri Jul 19): Sprint Challenge - Intro To React
+
+##### [GitHub Link: Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-React-Wars)
+
+Q&A with Dan Levy | Slido | Code
+------------------|-------|-------
+[🎥][ASTQAL]|[📊][ASTQAS]|[⚙️][ASTQAC]
+[ASTQAL]:
+[ASTQAS]:https://app.sli.do/event/lrfvjdku?utm_source=slack&utm_medium=message
+[ASTQAC]:https://repl.it/@justsml/Nested-AJAX-Calls
 
 
 </details>
