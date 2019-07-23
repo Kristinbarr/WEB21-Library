@@ -942,9 +942,53 @@ Helpful Resource Links
 Q&A with Dan Levy | Slido | Code
 ------------------|-------|-------
 [🎥][ASTQAL]|[📊][ASTQAS]|[⚙️][ASTQAC]
-[ASTQAL]:
+[ASTQAL]:https://youtu.be/2d48rS0XebU
 [ASTQAS]:https://app.sli.do/event/lrfvjdku?utm_source=slack&utm_medium=message
 [ASTQAC]:https://repl.it/@justsml/Nested-AJAX-Calls
+
+
+</details>
+
+
+
+## Week 8 Sprint - SPAs
+
+<details><summary>click to open</summary>
+
+##### Training Kit Weekly Sprint Overview: [Single Page Applications](https://learn.lambdaschool.com/web2/sprint/recRT8JKvbTiGaosk)
+
+##### Career Development: [Networking Strategies Presentation | Kathleen Hunt](https://files.slack.com/files-pri/T4JUEB3ME-FLNBNQ60M/download/networking_strategies_and_cold_outreach.mp4)
+>* [Cold Outreach](https://youtu.be/2uqgQ3i1EEU)
+
+
+#### Day 35 (Mon Jul 22): React Router 1
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web2/module/rec2TJ1vrdfcnx2EG)
+
+Learning objectives:
+- add React Router to an application and set up basic routing
+- describe the `Route` component and set up routes within a React Application
+- use the `Link` component to navigate between routes
+- create dynamic routes using URL parameters and the `match` object
+- explain the purpose of client-side routing
+
+Topic | Lecture | Slido | Guided Project | Second Sandbox | Kittens Sandbox | Kittens Solution
+------|---------|-------|----------------|----------------|-----------------|------------------
+React Router 1 |[🎥][RR1L]|[📊][RR1S]|[⚙️][RR1C]|[⚙️][RR1C2]|[⚙️][RR1C3]|[⚙️][RR1C3S]
+[RR1L]:https://youtu.be/iHR9n-WSCms
+[RR1S]:https://app.sli.do/event/prtp4bk9
+[RR1C]:https://codesandbox.io/s/react-router-guided-project-y7yhe
+[RR1C2]:https://codesandbox.io/s/jolly-rubin-jnf6o
+[RR1C3]:https://codesandbox.io/s/react-router-kittens-exercise-43ruj?fontsize=15&module=%2Fsrc%2FApp.js
+[RR1C3S]:https://codesandbox.io/embed/react-router-kittens-exercise-u37hl
+
+Helpful Resource Links
+* [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+* [React Router: Declaring Routing for React](https://reacttraining.com/react-router/web/guides/quick-start)
+* [Using React Router for a Single Page Application](https://www.taniarascia.com/using-react-router-spa/)
+* [Why ['1', '7', '11'].map(parseInt) returns [1, NaN, 3] in Javascript](https://medium.com/dailyjs/parseint-mystery-7c4368ef7b21)
+* [JavaScript: parseInt and map - William Vincent](https://wsvincent.com/javascript-parseint-map/)
+
 
 
 </details>
