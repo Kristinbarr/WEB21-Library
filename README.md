@@ -918,7 +918,7 @@ Comp Side Effects |[🎥][ASTL]|[📊][ASTS]|[⚙️][ASTP]
 After Hours w Henry Blevins | Code
 ----------------------------|------
 [Nasa Photo of the Day][ASTAH]|[⚙️][ASTAHC]
-[NASA Photo Styles][ASTAH2]|[⚙️][ASTAHC2]
+[NASA Photo of the Day Styles][ASTAH2]|[⚙️][ASTAHC2]
 [ASTAH]:https://youtu.be/Bg4YUNz8bP8
 [ASTAHC]:https://github.com/Blevs/nasa-photo-of-the-day
 [ASTAH2]:https://youtu.be/B89tpZf3oLI
@@ -990,5 +990,27 @@ Helpful Resource Links
 * [JavaScript: parseInt and map - William Vincent](https://wsvincent.com/javascript-parseint-map/)
 
 
+
+#### Day 36 (Tue Jul 23): React Router 2
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web2/module/recYkF1FDilIedmwX/)
+
+Learning objectives:
+- pass data to components rendered by React Router via the render prop
+- add nested routes to an application and display sub-nav views
+- use the built in `history` object to programmatically navigate to other routes
+- explain the difference between `Link` and `NavLink` and when to use which to navigate declaratively between routes
+
+Topic | Lecture | Slido | Guided Project | Comics Exercise
+------|---------|-------|----------------|-----------------
+React Router 2 |[🎥][RR2L]|[📊][RR2S]|[⚙️][RR2C]|[][RR2C2]
+[RR2L]:
+[RR2S]:https://app.sli.do/event/4k3v9ycz/
+[RR2C]:https://codesandbox.io/s/react-router-ii-guided-project-xl3dq
+[RR2C2]:https://codesandbox.io/s/react-router-comics-exercise-e6vet
+
+Helpful Resource Links
+* [HTML pre tag | W3Schools](https://www.w3schools.com/tags/tag_pre.asp)
+* [🐶 Nested Routes with React Routing | Tyler McGinnis](https://tylermcginnis.com/react-router-nested-routes/)
 
 </details>
