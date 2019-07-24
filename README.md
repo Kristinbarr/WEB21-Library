@@ -990,7 +990,6 @@ Helpful Resource Links
 * [JavaScript: parseInt and map - William Vincent](https://wsvincent.com/javascript-parseint-map/)
 
 
-
 #### Day 36 (Tue Jul 23): React Router 2
 
 ##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web2/module/recYkF1FDilIedmwX/)
@@ -1003,14 +1002,72 @@ Learning objectives:
 
 Topic | Lecture | Slido | Guided Project | Comics Exercise
 ------|---------|-------|----------------|-----------------
-React Router 2 |[🎥][RR2L]|[📊][RR2S]|[⚙️][RR2C]|[][RR2C2]
-[RR2L]:
+React Router 2 |[🎥][RR2L]|[📊][RR2S]|[⚙️][RR2C]|[⚙️][RR2C2]
+[RR2L]:https://youtu.be/GLE502-n1ig
 [RR2S]:https://app.sli.do/event/4k3v9ycz/
 [RR2C]:https://codesandbox.io/s/react-router-ii-guided-project-xl3dq
 [RR2C2]:https://codesandbox.io/s/react-router-comics-exercise-e6vet
 
+Henry Blevins After Party | Code
+--------------------------|--------
+[Basic Nav Project][RR2AH]|[⚙️][RR2AHC]
+[RR2AH]:https://youtu.be/6HdyolkIbKg
+[RR2AHC]:https://github.com/Blevs/react-nav-basic-recitation
+
 Helpful Resource Links
 * [HTML pre tag | W3Schools](https://www.w3schools.com/tags/tag_pre.asp)
 * [🐶 Nested Routes with React Routing | Tyler McGinnis](https://tylermcginnis.com/react-router-nested-routes/)
+
+
+
+#### Day 37 (Wed Jul 24): React Form Management
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web2/module/rect081xiYT2cfxGF/)
+
+Learning objectives:
+- demonstrate how to build a form with the basic HTML form elements
+- use the onChange handler to capture input values
+- utilize a form's submit event to work with form data
+- demonstrate the ability to handle multiple inputs in a form
+- use controlled inputs to manage form data
+
+Topic | Lecture | Slido | Guided Project
+------|---------|-------|----------------
+React Form Managment |[🎥][RFML]|[📊][RFMS]|[⚙️][RFMC]
+[RFML]:https://youtu.be/wL8PXSri_Ks
+[RFMS]:https://app.sli.do/event/dwshaaan
+[RFMC]:https://codesandbox.io/s/web21-react-form-guided-project-xrcp5
+
+Henry Blevins After Party | Code
+--------------------------|--------
+[React Router Movies(w Stretch)][RFMAH]|[⚙️][RFMAHC]
+[RFMAH]:https://youtu.be/KbnlvUJvNqg
+[RFMAHC]:https://github.com/Blevs/react-router-movies-walkthrough
+
+Helpful Resource Links
+* [Handling Multiple Inputs w/ One onChange Handler| PluralSight](https://www.pluralsight.com/guides/handling-multiple-inputs-with-single-onchange-handler-react)
+* [What is preventDefault() in React? | RWieruch](https://www.robinwieruch.de/react-preventdefault/)
+
+
+#### Day 38 (Thu Jul 25): React Composing and Sharing
+
+##### [Training Kit Pre-Work]()
+
+Learning objectives:
+
+
+Topic | Lecture | Slido | Guided Project
+------|---------|-------|----------------
+React Composing and Sharing |[🎥][RFML]|[📊][RFMS]|[⚙️][RFMC]
+[RFML]:
+[RFMS]:
+[RFMC]:
+
+Helpful Resource Links
+
+
+#### Day 39 (Fri July 26): Sprint
+
+[Roles and Rubric for Build Week Sprint](https://www.notion.so/lambdaschool/0200d2f8b46345c48c1418fa1c33652c?v=995e7fc27b73425bbe0f8741a6ba2c15)
 
 </details>
