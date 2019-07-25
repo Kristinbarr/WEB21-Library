@@ -1047,27 +1047,48 @@ Henry Blevins After Party | Code
 Helpful Resource Links
 * [Handling Multiple Inputs w/ One onChange Handler| PluralSight](https://www.pluralsight.com/guides/handling-multiple-inputs-with-single-onchange-handler-react)
 * [What is preventDefault() in React? | RWieruch](https://www.robinwieruch.de/react-preventdefault/)
+* [](https://blog.bitsrc.io/10-react-custom-hooks-you-should-have-in-your-toolbox-aa27d3f5564d)
+* [10 React Hooks you Should Have in your Toolbox](https://blog.bitsrc.io/10-react-custom-hooks-you-should-have-in-your-toolbox-aa27d3f5564d)
+* [React Hooks to Create Awesome Fonts](https://medium.com/@geeky_writer_/using-react-hooks-to-create-awesome-forms-6f846a4ce57)
+* [Simplifying React Forms with Hooks | Rangle.io](https://rangle.io/blog/simplifying-controlled-inputs-with-hooks/)
 
+#### Day 38 (Thu Jul 25): React Composing and Sharing Non-Visual Behavior
 
-#### Day 38 (Thu Jul 25): React Composing and Sharing
-
-##### [Training Kit Pre-Work]()
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/recAxmnYmusEi8JuL/)
 
 Learning objectives:
-
+- define stateful logic
+- apply non-visual behavior (stateful logic) with custom hooks
+- Compose hooks in a custom hook to extend multiple pieces of stateful logic
 
 Topic | Lecture | Slido | Guided Project
 ------|---------|-------|----------------
-React Composing and Sharing |[🎥][RFML]|[📊][RFMS]|[⚙️][RFMC]
-[RFML]:
-[RFMS]:
-[RFMC]:
+React Composing and Sharing |[🎥][RCSL]|[📊][RCSS]|[⚙️][RCSC]
+[RCSL]:
+[RCSS]:https://app.sli.do/event/arbt5jqk
+[RCSC]:https://codesandbox.io/s/web21-custom-hooks-guided-project-1mcsb
 
 Helpful Resource Links
+* [Rules of Hooks | React Docs](https://reactjs.org/docs/hooks-rules.html)
+* [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
+* [Console.time()](https://developer.mozilla.org/en-US/docs/Web/API/Console/time)
+* [Google Search Operators: 42 Advanced Operators](https://ahrefs.com/blog/google-advanced-search-operators/)
+* [Import cost | VSCode Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+* [Writing Your Own Custom Hooke](https://blog.bitsrc.io/writing-your-own-custom-hooks-4fbcf77e112e)
+* [React.games](https://react.games/course)
+* [Basics of Making Custom Hooks in React | dev.to](https://dev.to/chriswcs/-basics-of-making-custom-hooks-in-react-5f6g)
+* [Creating Custom React Hooks article](https://www.thedevstop.com/2018/12/29/creating-custom-react-hooks/)
+* [React.js Hooks Crash Course | YouTube](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
+* [Using Custom React Hooks Simplify Forms](https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms)
+* [Form Validation Using Custom React Hooks](https://upmostly.com/tutorials/form-validation-using-custom-react-hooks)
+* [Google History of a High-Paid Sr. Engineer| YouTube](https://www.youtube.com/watch?v=LW9pT246LrI)
+* [101 Tips For Being A Great Programmer (& Human) | dev.to](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
+* [LocalStorage | usehooks.com](https://usehooks.com/useLocalStorage/)
 
 
 #### Day 39 (Fri July 26): Sprint
 
 [Roles and Rubric for Build Week Sprint](https://www.notion.so/lambdaschool/0200d2f8b46345c48c1418fa1c33652c?v=995e7fc27b73425bbe0f8741a6ba2c15)
+
 
 </details>
