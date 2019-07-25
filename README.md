@@ -1051,6 +1051,7 @@ Helpful Resource Links
 * [10 React Hooks you Should Have in your Toolbox](https://blog.bitsrc.io/10-react-custom-hooks-you-should-have-in-your-toolbox-aa27d3f5564d)
 * [React Hooks to Create Awesome Fonts](https://medium.com/@geeky_writer_/using-react-hooks-to-create-awesome-forms-6f846a4ce57)
 * [Simplifying React Forms with Hooks | Rangle.io](https://rangle.io/blog/simplifying-controlled-inputs-with-hooks/)
+* [react router difference between component and render](https://stackoverflow.com/questions/48150567/react-router-difference-between-component-and-render)
 
 #### Day 38 (Thu Jul 25): React Composing and Sharing Non-Visual Behavior
 
@@ -1064,9 +1065,15 @@ Learning objectives:
 Topic | Lecture | Slido | Guided Project
 ------|---------|-------|----------------
 React Composing and Sharing |[🎥][RCSL]|[📊][RCSS]|[⚙️][RCSC]
-[RCSL]:
+[RCSL]:https://youtu.be/3T3cGxGHQs0
 [RCSS]:https://app.sli.do/event/arbt5jqk
 [RCSC]:https://codesandbox.io/s/web21-custom-hooks-guided-project-1mcsb
+
+Henry Blevins After Party | Code
+--------------------------|-------
+[Team Builder][RCSAH]|[⚙️][RCSAHC]
+[RCSAH]:https://youtu.be/qK7Htb-xX88
+[RCSAHC]:https://github.com/Blevs/team-builder
 
 Helpful Resource Links
 * [Rules of Hooks | React Docs](https://reactjs.org/docs/hooks-rules.html)
