@@ -1072,8 +1072,17 @@ React Composing and Sharing |[🎥][RCSL]|[📊][RCSS]|[⚙️][RCSC]
 Henry Blevins After Party | Code
 --------------------------|-------
 [Team Builder][RCSAH]|[⚙️][RCSAHC]
+[Dark Mode][RCSAP]|[⚙️][RCSAPC]
 [RCSAH]:https://youtu.be/qK7Htb-xX88
 [RCSAHC]:https://github.com/Blevs/team-builder
+[RCSAP]:https://youtu.be/Fo9gmSx280Q
+[RCSAPC]:https://github.com/Blevs/dark-mode
+
+Marguel Gutierrez Team Lead Hours | Code
+----------------------------------|------
+[Team Builder walk through][RFMTLH]|[⚙️][RFMTLHC]
+[RFMTLH]:https://youtu.be/AZ3u1NfWraU
+[RFMTLHC]:https://codesandbox.io/s/team-builder-tl-hours-71hry
 
 Helpful Resource Links
 * [Rules of Hooks | React Docs](https://reactjs.org/docs/hooks-rules.html)
@@ -1091,7 +1100,7 @@ Helpful Resource Links
 * [Google History of a High-Paid Sr. Engineer| YouTube](https://www.youtube.com/watch?v=LW9pT246LrI)
 * [101 Tips For Being A Great Programmer (& Human) | dev.to](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
 * [LocalStorage | usehooks.com](https://usehooks.com/useLocalStorage/)
-
+* [React Hooks - Local Storage State | YouTube](https://www.youtube.com/watch?v=kQKs7o-X0zc)
 
 #### Day 39 (Fri July 26): Sprint
 
