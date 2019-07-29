@@ -548,7 +548,7 @@ Helpful Resource Links
 
 
 
-## Week 5 Sprint - Build Week
+## Week 5 Build Week - User Interface
 
 <details><summary>click to open</summary>
 
@@ -863,7 +863,7 @@ Helpful Resource Links
 * [JSBEN.CH | deep copy / clone object](http://jsben.ch/gtKdJ)
 * [2ality | Spread Operators](https://2ality.com/2016/10/rest-spread-properties.html)
 * [2ality | _.extend and copying properties](https://2ality.com/2012/08/underscore-extend.html)
-
+* [Guide to useState in React](https://blog.logrocket.com/a-guide-to-usestate-in-react-ecb9952e406c/)
 
 #### Day 32 (Wed Jul 17): Component Side Effects
 
@@ -1017,8 +1017,8 @@ Henry Blevins After Party | Code
 Helpful Resource Links
 * [HTML pre tag | W3Schools](https://www.w3schools.com/tags/tag_pre.asp)
 * [🐶 Nested Routes with React Routing | Tyler McGinnis](https://tylermcginnis.com/react-router-nested-routes/)
-
-
+* [Build a CRUD App in React with Hooks](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
+* [React.js Crash Course | Academind](https://academind.com/learn/react/react-hooks-introduction/)
 
 #### Day 37 (Wed Jul 24): React Form Management
 
@@ -1047,11 +1047,13 @@ Henry Blevins After Party | Code
 Helpful Resource Links
 * [Handling Multiple Inputs w/ One onChange Handler| PluralSight](https://www.pluralsight.com/guides/handling-multiple-inputs-with-single-onchange-handler-react)
 * [What is preventDefault() in React? | RWieruch](https://www.robinwieruch.de/react-preventdefault/)
-* [](https://blog.bitsrc.io/10-react-custom-hooks-you-should-have-in-your-toolbox-aa27d3f5564d)
+* [10 React Custom Hooks](https://blog.bitsrc.io/10-react-custom-hooks-you-should-have-in-your-toolbox-aa27d3f5564d)
 * [10 React Hooks you Should Have in your Toolbox](https://blog.bitsrc.io/10-react-custom-hooks-you-should-have-in-your-toolbox-aa27d3f5564d)
 * [React Hooks to Create Awesome Fonts](https://medium.com/@geeky_writer_/using-react-hooks-to-create-awesome-forms-6f846a4ce57)
 * [Simplifying React Forms with Hooks | Rangle.io](https://rangle.io/blog/simplifying-controlled-inputs-with-hooks/)
 * [react router difference between component and render](https://stackoverflow.com/questions/48150567/react-router-difference-between-component-and-render)
+* [Does it mutate?](https://doesitmutate.xyz/)
+* [Building Forms Using React](https://www.codementor.io/blizzerand/building-forms-using-react-everything-you-need-to-know-iz3eyoq4y)
 
 #### Day 38 (Thu Jul 25): React Composing and Sharing Non-Visual Behavior
 
@@ -1104,7 +1106,110 @@ Helpful Resource Links
 
 #### Day 39 (Fri July 26): Sprint
 
+[Build week project list](https://airtable.com/shrDIdKTqxyHdZCrI/tblZdTNOY7ULU4UKz?blocks=hide)
 [Roles and Rubric for Build Week Sprint](https://www.notion.so/lambdaschool/0200d2f8b46345c48c1418fa1c33652c?v=995e7fc27b73425bbe0f8741a6ba2c15)
 
 
 </details>
+
+
+## Week 9 Build Week - Front End Developer
+
+<details><summary>click to open</summary>
+
+#### Build Week - Front End Developer
+* [Build Week Culture Document](https://www.notion.so/Build-Week-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
+
+* [Celebrity Dead or Alive Product Canvas](https://docs.google.com/document/d/1NL372JKYr2JpmxQ9IyDyBX3U1mD9RacT6ExkP-4lsu4/edit)
+
+* [Build Week: Web Foundations Rubric(Google Doc)](https://docs.google.com/spreadsheets/d/1BbdmSMUdzURMo0wcsr4XSKvegDgB28WkK2wnjmORzDo/edit#gid=0)
+
+* [Build Week: Product List Airtable](https://airtable.com/shrzk3diKxkbWb5oA/tblM1xaStqkbmK0ou?blocks=hide)
+
+#### Career Development
+* []()
+
+
+### Helpful Resource Links
+
+###### Design Tools
+[Figma](https://www.figma.com)
+[Adobe XD](https://www.adobe.com/products/xd.html)
+[Sketch](https://www.sketch.com)
+
+###### Design Inspiration
+[Marketing Site Design Inspiration](https://www.awwwards.com/websites/bootstrap/?page=1)
+[Dribbble | Marketing Site Designs](https://dribbble.com/search?q=marketing+site+design)
+[One Page Websites, Templates and Resources](https://onepagelove.com/)
+
+###### Fonts
+[Google fonts](https://fonts.google.com/)
+[FontPair](https://fontpair.co/fonts/)
+
+###### Color Palettes
+[Color Hunt](https://colorhunt.co/)
+[Coolers](https://coolors.co/)
+
+###### Patterns
+[Gradients](https://uigradients.com/)
+[Cool Triangle BG generator](https://trianglify.io/)
+[FlatIcon pattern maker](https://pattern.flaticon.com/)
+
+###### Icons
+[Icon Collections](https://iconmonstr.com/)
+[SVG Icons](https://www.flaticon.com/)
+[Feather Icons](https://feathericons.com)
+
+###### Animations
+[Hover.css](http://ianlunn.github.io/Hover/)
+[Animate.css](https://daneden.github.io/animate.css/)
+[Anime.js](https://animejs.com/)
+[magic.css](https://www.minimamente.com/project/magic/)
+[bounce.js](http://bouncejs.com/)
+[Green Sock](https://greensock.com/gsap)
+[Hamburger Menu Animations](https://github.com/jonsuh/hamburgers)
+
+###### Photos
+[Unsplash](https://unsplash.com/)
+[Pexels](https://www.pexels.com/)
+[CSS Clips](https://bennettfeely.com/clippy/)
+[Pixabay](https://pixabay.co)m
+
+###### Carousel
+[Slick Slider](https://kenwheeler.github.io/slick/)
+
+###### Illustrations & Icons
+[Humaaans](https://www.humaaans.com/)
+[Font Awesome](https://fontawesome.com/icons)
+[Undraw | Illustrations](https://undraw.co/illustrations) customizable colors
+[CSS clip-path generator](https://bennettfeely.com/clippy/)
+[SVG & PNG Illustrations](https://freepik.com)
+
+###### Fake Data
+[Mockaroo](https://mockaroo.com/)
+[lorem ipsum](https://www.lipsum.com/))
+[Bob Ross Lorem Ipsum](https://www.bobrosslipsum.com/)
+
+###### Website Hosting
+[Netlify](https://www.netlify.com/)
+[Github Pages](https://pages.github.com/)
+[Surge](https://surge.sh/)
+
+###### Other Resources
+[Coding Resources](http://codingheroes.io/resources/)
+
+
+**Monday - Milestones**
+
+**Tuesday - Milestones**
+
+**Wednesday - Milestones**
+
+**Thursday - Milestones**
+
+**Friday - FEATURE FREEZE + Demo Day**
+
+  </details>
+
+
+BUILD WEEK RESOURCES
