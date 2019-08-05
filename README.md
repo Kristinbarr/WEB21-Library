@@ -1119,85 +1119,86 @@ Helpful Resource Links
 
 #### Build Week - Front End Developer
 * [Build Week Culture Document](https://www.notion.so/Build-Week-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
-
 * [Celebrity Dead or Alive Product Canvas](https://docs.google.com/document/d/1NL372JKYr2JpmxQ9IyDyBX3U1mD9RacT6ExkP-4lsu4/edit)
-
 * [Build Week: Web Foundations Rubric(Google Doc)](https://docs.google.com/spreadsheets/d/1BbdmSMUdzURMo0wcsr4XSKvegDgB28WkK2wnjmORzDo/edit#gid=0)
-
 * [Build Week: Product List Airtable](https://airtable.com/shrzk3diKxkbWb5oA/tblM1xaStqkbmK0ou?blocks=hide)
 
-#### Career Development
-* []()
+#### Career Development Assignment
+- For this week, please use the feedback you got from your peers in Monday’s break-out groups to hone your story until you feel confident about it. Ask at least two more people (peers, friends, family, your coach) for feedback, and upload a short video of yourself (30-60 seconds) sharing your introduction with your sprint retro on Friday.
 
+
+### After Party w Henry Blevins
+Topic | Video
+------|-------
+Deploying React App to Netlify (and using _redirects) |[⚙️](https://www.youtube.com/watch?v=e6qXUS3C550)
 
 ### Helpful Resource Links
 
-###### Design Tools
-[Figma](https://www.figma.com)
-[Adobe XD](https://www.adobe.com/products/xd.html)
+Design Tools:
+[Figma](https://www.figma.com),
+[Adobe XD](https://www.adobe.com/products/xd.html),
 [Sketch](https://www.sketch.com)
 
-###### Design Inspiration
-[Marketing Site Design Inspiration](https://www.awwwards.com/websites/bootstrap/?page=1)
-[Dribbble | Marketing Site Designs](https://dribbble.com/search?q=marketing+site+design)
+Design Inspiration:
+[Marketing Site Design Inspiration](https://www.awwwards.com/websites/bootstrap/?page=1),
+[Dribbble | Marketing Site Designs](https://dribbble.com/search?q=marketing+site+design),
 [One Page Websites, Templates and Resources](https://onepagelove.com/)
 
-###### Fonts
-[Google fonts](https://fonts.google.com/)
+Fonts:
+[Google fonts](https://fonts.google.com/),
 [FontPair](https://fontpair.co/fonts/)
 
-###### Color Palettes
-[Color Hunt](https://colorhunt.co/)
+Color Palettes:
+[Color Hunt](https://colorhunt.co/),
 [Coolers](https://coolors.co/)
 
-###### Patterns
-[Gradients](https://uigradients.com/)
-[Cool Triangle BG generator](https://trianglify.io/)
+Patterns:
+[Gradients](https://uigradients.com/),
+[Cool Triangle BG generator](https://trianglify.io/),
 [FlatIcon pattern maker](https://pattern.flaticon.com/)
 
-###### Icons
-[Icon Collections](https://iconmonstr.com/)
-[SVG Icons](https://www.flaticon.com/)
+Icons:
+[Icon Collections](https://iconmonstr.com/),
+[SVG Icons](https://www.flaticon.com/),
 [Feather Icons](https://feathericons.com)
 
-###### Animations
-[Hover.css](http://ianlunn.github.io/Hover/)
-[Animate.css](https://daneden.github.io/animate.css/)
-[Anime.js](https://animejs.com/)
-[magic.css](https://www.minimamente.com/project/magic/)
-[bounce.js](http://bouncejs.com/)
-[Green Sock](https://greensock.com/gsap)
+Animations:
+[Hover.css](http://ianlunn.github.io/Hover/),
+[Animate.css](https://daneden.github.io/animate.css/),
+[Anime.js](https://animejs.com/),
+[magic.css](https://www.minimamente.com/project/magic/),
+[bounce.js](http://bouncejs.com/),
+[Green Sock](https://greensock.com/gsap),
 [Hamburger Menu Animations](https://github.com/jonsuh/hamburgers)
 
-###### Photos
-[Unsplash](https://unsplash.com/)
-[Pexels](https://www.pexels.com/)
-[CSS Clips](https://bennettfeely.com/clippy/)
-[Pixabay](https://pixabay.co)m
+Photos:
+[Unsplash](https://unsplash.com/),
+[Pexels](https://www.pexels.com/),
+[CSS Clips](https://bennettfeely.com/clippy/),
+[Pixabay](https://pixabay.com)
 
-###### Carousel
+Carousel:
 [Slick Slider](https://kenwheeler.github.io/slick/)
 
-###### Illustrations & Icons
-[Humaaans](https://www.humaaans.com/)
-[Font Awesome](https://fontawesome.com/icons)
-[Undraw | Illustrations](https://undraw.co/illustrations) customizable colors
-[CSS clip-path generator](https://bennettfeely.com/clippy/)
+Illustrations & Icons:
+[Humaaans](https://www.humaaans.com/),
+[Font Awesome](https://fontawesome.com/icons),
+[Undraw | Illustrations](https://undraw.co/illustrations),
+[CSS clip-path generator](https://bennettfeely.com/clippy/),
 [SVG & PNG Illustrations](https://freepik.com)
 
-###### Fake Data
-[Mockaroo](https://mockaroo.com/)
-[lorem ipsum](https://www.lipsum.com/))
+Fake Data:
+[Mockaroo](https://mockaroo.com/),
+[lorem ipsum](https://www.lipsum.com/),
 [Bob Ross Lorem Ipsum](https://www.bobrosslipsum.com/)
 
-###### Website Hosting
-[Netlify](https://www.netlify.com/)
-[Github Pages](https://pages.github.com/)
+Website Hosting:
+[Netlify](https://www.netlify.com/),
+[Github Pages](https://pages.github.com/),
 [Surge](https://surge.sh/)
 
-###### Other Resources
+Other Resources:
 [Coding Resources](http://codingheroes.io/resources/)
-
 
 **Monday - Milestones**
 
@@ -1212,4 +1213,69 @@ Helpful Resource Links
   </details>
 
 
-BUILD WEEK RESOURCES
+
+
+
+## Week 10 Sprint - Advanced React
+
+<details><summary>click to open</summary>
+
+##### Training Kit Weekly Sprint Overview: [Web Applications 2](https://learn.lambdaschool.com/web3/sprint/recq59MvEIZfUAohy)
+
+##### Career Development:
+- [ | ]()
+
+For this week’s assignment create a resume draft including the following:
+- All sections: Name/contact info, Summary (optional), Projects, Skills, Experience, Education
+- Power statements: in the experience and projects section of your resume
+- Formatting: formatting should be clean and consistent. For this first draft, we recommend plugging content into Creddle, but you can play around with the format and get more creative, if you wish!
+
+Once you have a finished draft, please run your resume through CV Compiler, which we’re excited to partner with to provide targeted feedback on your resume! It only takes a minute or two to get set up and use:
+1. Land to the website - https://cvcompiler.com/students/lambda
+2. Login (using LinkedIn or Github) -> Fill the form
+3. Enter the special promo code based on your track - ANDresumes, iOSresumes, DSresumes, WEBresumes, or UXresumes during checkout
+4. Upload your resume
+5. In case of any questions (e.g. issues with processing resumes), feel free to contact their support team - hello@cvcompiler.com.
+Please submit your resume draft, with CV Compiler feedback, to your TL with your sprint retrospective this week.
+
+Career Development Helpful Resources and Links:
+- [Rock Your Student Resume](https://cvcompiler.com/students/lambda)
+- [When Should You Disclose Your Disability During Your Job Search?](https://www.thebalancecareers.com/disclosing-disability-during-a-job-search-4158349)
+
+#### Day 45 (Mon Aug 5): Class Components
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recnDKrWb24lgaziC)
+
+Learning objectives:
+- explain class components, and use a class component to render some state data to the DOM
+- share data between components using state and props
+- respond to events triggered by user interaction and handle user input via forms in React
+
+Topic | Lecture | Slido | Guided Project
+------|---------|-------|----------------
+Class Components |[🎥][CCL]|[📊][CCS]|[⚙️][CCC]
+[CCL]:https://youtu.be/Y9J3IuFEJJc
+[CCS]:https://app.sli.do/event/anfswylv
+[CCC]:https://codesandbox.io/live/xkXz5J
+
+Helpful Resource Links
+- [Complete Guide to useEffect | overreacted.io](https://overreacted.io/a-complete-guide-to-useeffect/)
+- [React Events Cheatsheet](https://reactarmory.com/guides/react-events-cheatsheet)
+- [UUID(Universally Unique Identifier)](https://www.npmjs.com/package/uuid)
+
+Helpful Links from Isaiah Francios:
+- React Router:
+  [React Router Tutorial For Beginners | Dev Ed](https://www.youtube.com/watch?v=Law7wfdg_ls)
+  [React Router Complete Guide | Techsith](https://www.youtube.com/watch?v=XRfD8xIOroA)
+- Local Storage w/ React: [How To add dark mode easily with a custom React hook](https://medium.com/@ismailghallou/how-to-add-dark-mode-easily-with-a-custom-react-hook-5791d96ae9f)
+- Class Components: [React Class vs Functional Component | Techsith](https://www.youtube.com/watch?v=uGgPINlKqBs)
+- Component Lifecycle:
+  [React Component Lifecycle Hooks / Methods | Techsith](https://www.youtube.com/watch?v=kVyrzn29QPk)
+  [React Component Lifecycle Hooks / Methods | FFC](https://www.youtube.com/watch?v=m_mtV4YaI8c)
+- Everything to know about hooks: [React.js Hooks Crash Course | Academind](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
+- Redux: [Redux For Beginners Tutorial | Dev Ed](https://www.youtube.com/watch?v=CVpUuw9XSjY&t=1s)
+- Context Api: [React State Management, Context Api, Tutorial | Dev Ed](https://www.youtube.com/watch?v=35lXWvCuM8o)
+
+
+
+  </details>
