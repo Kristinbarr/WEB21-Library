@@ -1198,7 +1198,9 @@ Website Hosting:
 [Surge](https://surge.sh/)
 
 Other Resources:
-[Coding Resources](http://codingheroes.io/resources/)
+[Collected Coding Resources](http://codingheroes.io/resources/),
+[Github Pages - how to deploy your React App](https://www.youtube.com/watch?v=1Y-PqBH-htk),
+[Publish a react app using Netlify CLI](https://link.medium.com/5E62AJWhSY)
 
 **Monday - Milestones**
 
@@ -1220,17 +1222,15 @@ Other Resources:
 
 <details><summary>click to open</summary>
 
-##### Training Kit Weekly Sprint Overview: [Web Applications 2](https://learn.lambdaschool.com/web3/sprint/recq59MvEIZfUAohy)
+Training Kit Weekly Sprint Overview: [Web Applications 2](https://learn.lambdaschool.com/web3/sprint/recq59MvEIZfUAohy)
 
-##### Career Development:
-- [ | ]()
-
-For this week’s assignment create a resume draft including the following:
+Career Development:
+##### For this week’s assignment create a resume draft including the following:
 - All sections: Name/contact info, Summary (optional), Projects, Skills, Experience, Education
 - Power statements: in the experience and projects section of your resume
 - Formatting: formatting should be clean and consistent. For this first draft, we recommend plugging content into Creddle, but you can play around with the format and get more creative, if you wish!
 
-Once you have a finished draft, please run your resume through CV Compiler, which we’re excited to partner with to provide targeted feedback on your resume! It only takes a minute or two to get set up and use:
+##### Once you have a finished draft, please run your resume through CV Compiler, which we’re excited to partner with to provide targeted feedback on your resume! It only takes a minute or two to get set up and use:
 1. Land to the website - https://cvcompiler.com/students/lambda
 2. Login (using LinkedIn or Github) -> Fill the form
 3. Enter the special promo code based on your track - ANDresumes, iOSresumes, DSresumes, WEBresumes, or UXresumes during checkout
@@ -1242,9 +1242,15 @@ Career Development Helpful Resources and Links:
 - [Rock Your Student Resume](https://cvcompiler.com/students/lambda)
 - [When Should You Disclose Your Disability During Your Job Search?](https://www.thebalancecareers.com/disclosing-disability-during-a-job-search-4158349)
 
+
 #### Day 45 (Mon Aug 5): Class Components
 
 ##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recnDKrWb24lgaziC)
+
+Coding Challenge | Recording
+-----------------|---------
+Hitting the Jackpot|[🎥][CCCCL]
+[CCCCL]:https://youtu.be/ECSzjG3dPuw
 
 Learning objectives:
 - explain class components, and use a class component to render some state data to the DOM
@@ -1253,10 +1259,10 @@ Learning objectives:
 
 Topic | Lecture | Slido | Guided Project
 ------|---------|-------|----------------
-Class Components |[🎥][CCL]|[📊][CCS]|[⚙️][CCC]
+Class Components w Dustin |[🎥][CCL]|[📊][CCS]|[⚙️][CCC]
 [CCL]:https://youtu.be/Y9J3IuFEJJc
 [CCS]:https://app.sli.do/event/anfswylv
-[CCC]:https://codesandbox.io/live/xkXz5J
+[CCC]:https://codesandbox.io/s/class-components-ii-start-zrwli
 
 Helpful Resource Links
 - [Complete Guide to useEffect | overreacted.io](https://overreacted.io/a-complete-guide-to-useeffect/)
@@ -1276,6 +1282,32 @@ Helpful Links from Isaiah Francios:
 - Redux: [Redux For Beginners Tutorial | Dev Ed](https://www.youtube.com/watch?v=CVpUuw9XSjY&t=1s)
 - Context Api: [React State Management, Context Api, Tutorial | Dev Ed](https://www.youtube.com/watch?v=35lXWvCuM8o)
 
+
+#### Day 46 (Tue Aug 6): React Lifecycle Methods
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/rec1DPoOZSmocXfak/)
+
+Learning objectives:
+- describe the three phases of the React Component Lifecycle
+- properly explain what the `constructor` and `render` methods do and what their place is in the React Component Lifecycle
+- use the `componentDidMount` function to set a component's state post render
+
+Topic | Lecture | Pokemon | Earthquake | Dogs
+------|---------|---------|------------|-----
+Lifecycle Methods w Ryan Hamblin |[🎥][LML]|[📊][LMS]|[⚙️][LMCpoke]|[⚙️][LMCeq][⚙️][LMdogs]
+[LML]:https://youtu.be/vy57RoZLLSY
+[LMCpoke]:https://codesandbox.io/s/n3o80olx5m
+[LMCeq]:https://codesandbox.io/s/earthquakesreact-vsupt
+[LMdogs]:https://codesandbox.io/s/agitated-zhukovsky-m0we1
+
+After Party w Henry | Code
+--------------------|------
+[React Todo List][LMAPL]|[⚙️][LMAPC]
+[LMAPL]:https://youtu.be/w8dQr_BdYks
+[LMAPC]:https://github.com/Blevs/react-todo-recitation
+
+Helpful Resource Links
+- []()
 
 
   </details>
