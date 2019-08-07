@@ -1202,15 +1202,37 @@ Other Resources:
 [Github Pages - how to deploy your React App](https://www.youtube.com/watch?v=1Y-PqBH-htk),
 [Publish a react app using Netlify CLI](https://link.medium.com/5E62AJWhSY)
 
+**Friday before - Kickoff**
+- Kick-off checklist
+    - [ ]  Discover who your team is
+    - [ ]  Complete the ice breaker activity
+    - [ ]  If your team has a UX designer, they will lead the team in a meeting about the features/design of your product
+    - [ ]  Make a copy of the linked canvas and work together as a team to fill it out. [https://docs.google.com/document/d/1PRuUblVfB9gsop6rZ4gl-piXrkPA5qsSKkP9Rg0Duh0/edit?usp=sharing](https://docs.google.com/document/d/1PRuUblVfB9gsop6rZ4gl-piXrkPA5qsSKkP9Rg0Duh0/edit?usp=sharing)
+    - [ ]  Please find time to do this before Monday morning and get a link to this product canvas into the front end README
+
 **Monday - Milestones**
+- Use React and front end styling platforms such as Material UI, Reactstrap, or something like Styled-Components chosen and implemented as your technology choice (to be done and listed during your additions to the Product Canvas)
+- Front end is pulling in some data from backend
+- User Login/Signup Pages built and ready to handle the token being sent between backend and front end
+- React app and Backend App talking to one another, focus on CORS issues
 
 **Tuesday - Milestones**
+- Morning standup with Trello board open
+- Cover what has been completed in the last day and what every one is working on today
+- 80% of Front end features & UI Components, built and consuming data from the backend (Functionality over form for now)
 
 **Wednesday - Milestones**
+- Morning standup with Trello board open
+- Cover what has been completed in the last day and what every one is working on today.
+- 100% of Front end features & UI Components, built and consuming data from the backend (Now is the time to focus on Form).
+- Front end is pulling in all data necessary from backend, users can interact with ALL CRUD operations on the Project data.
 
 **Thursday - Milestones**
+- Document your projects within the Readme files in their Github repositories. Without having to talk to you specifically, any developer should be able to install, contribute to, and run your project based on the descriptions found in your readme
+
 
 **Friday - FEATURE FREEZE + Demo Day**
+- Morning Time before Lunch is all dedicated to polish and Demo Day prep
 
   </details>
 
