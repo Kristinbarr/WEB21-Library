@@ -1399,4 +1399,35 @@ Helpful Resource Links
 - [5 Tips to Help You Avoid React Hooks Pitfalls](https://kentcdodds.com/blog/react-hooks-pitfalls)
 - [Test your front-end against a real API | ReqRes.in](https://reqres.in/)
 
+#### Day 48 (Thu Aug 8): Testing Web Applications
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/rechTQVfCg4p85Hoi/)
+
+Learning objectives:
+
+- explain what automated testing is and its importance
+- use Jest to unit test functions
+- Use a popular library for testing components
+- select DOM nodes using queries
+
+| Topic          | Lecture    | Slido      |
+| -------------- | ---------- | ---------- |
+| Testing w Dustin | [🎥][twal] | [📊][twas] |
+
+[twal]: https://youtu.be/ANVR5P3LB3E
+[twas]: https://app.sli.do/event/haqv0coo
+
+| After Party w Henry       | Code        |
+| ------------------------- | ----------- |
+| [Advanced Form mgmt][twapl] | [⚙️][twapc] |
+
+[twapl]: https://youtu.be/g2rNKoQmso4
+[twapc]: https://github.com/Blevs/react-formik-users
+
+Helpful Resource Links
+
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+- [Jest  Delightful JavaScript Testing](https://jestjs.io/en/)
+- [Testing Library CheatSheet](https://testing-library.com/docs/react-testing-library/cheatsheet)
+
   </details>
