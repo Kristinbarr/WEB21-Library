@@ -1146,6 +1146,7 @@ Helpful Resource Links
 - [Celebrity Dead or Alive Product Canvas](https://docs.google.com/document/d/1NL372JKYr2JpmxQ9IyDyBX3U1mD9RacT6ExkP-4lsu4/edit)
 - [Build Week: Web Foundations Rubric(Google Doc)](https://docs.google.com/spreadsheets/d/1BbdmSMUdzURMo0wcsr4XSKvegDgB28WkK2wnjmORzDo/edit#gid=0)
 - [Build Week: Product List Airtable](https://airtable.com/shrzk3diKxkbWb5oA/tblM1xaStqkbmK0ou?blocks=hide)
+- [API Postman Documentation](https://documenter.getpostman.com/view/8035044/SVYkvfzS?version=latest#cbc25e0d-8a08-479f-b6a8-9548daf46689)
 
 #### Career Development Assignment
 
@@ -1229,12 +1230,11 @@ Other Resources:
 
 **Friday before - Kickoff**
 
-- Kick-off checklist
-  - [ ] Discover who your team is
-  - [ ] Complete the ice breaker activity
-  - [ ] If your team has a UX designer, they will lead the team in a meeting about the features/design of your product
-  - [ ] Make a copy of the linked canvas and work together as a team to fill it out. [https://docs.google.com/document/d/1PRuUblVfB9gsop6rZ4gl-piXrkPA5qsSKkP9Rg0Duh0/edit?usp=sharing](https://docs.google.com/document/d/1PRuUblVfB9gsop6rZ4gl-piXrkPA5qsSKkP9Rg0Duh0/edit?usp=sharing)
-  - [ ] Please find time to do this before Monday morning and get a link to this product canvas into the front end README
+- Discover who your team is
+- Complete the ice breaker activity
+- If your team has a UX designer, they will lead the team in a meeting about the features/design of your product
+- Make a copy of the linked canvas and work together as a team to fill it out. [Product Canvas Template](https://docs.google.com/document/d/1PRuUblVfB9gsop6rZ4gl-piXrkPA5qsSKkP9Rg0Duh0)
+- Please find time to do this before Monday morning and get a link to this product canvas into the front end README
 
 **Monday - Milestones**
 
@@ -1366,6 +1366,37 @@ Learning objectives:
 
 Helpful Resource Links
 
-- []()
+- [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
+
+#### Day 47 (Wed Aug 7): Advanced Form Management
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/reciwJYeSHSdkAxdh/)
+
+Learning objectives:
+
+- use Formik to control forms
+- validate user input in forms
+- make POST requests to pass data collected from a form to a database
+
+| Topic          | Lecture    | Slido      | Animal Form |
+| -------------- | ---------- | ---------- | ------------|
+| Forms w Dustin | [🎥][afml] | [📊][afms] | [⚙️][afmc] |
+
+[afml]: https://youtu.be/N0n1_n1ZRm4
+[afms]: https://app.sli.do/event/dnqpc2st
+[afmc]: https://codesandbox.io/s/festive-kalam-dwowv
+
+| After Party w Henry       | Code        |
+| ------------------------- | ----------- |
+| [Github User Card][lmapl] | [⚙️][lmapc] |
+
+[lmapl]: https://youtu.be/hk8miUjaNrQ
+[lmapc]: https://github.com/Blevs/react-github-cards-recitation
+
+Helpful Resource Links
+
+- [Better React Forms](https://www.youtube.com/watch?v=yNiJkjEwmpw)
+- [5 Tips to Help You Avoid React Hooks Pitfalls](https://kentcdodds.com/blog/react-hooks-pitfalls)
+- [Test your front-end against a real API | ReqRes.in](https://reqres.in/)
 
   </details>
