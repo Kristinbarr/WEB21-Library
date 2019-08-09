@@ -1348,9 +1348,9 @@ Learning objectives:
 - properly explain what the `constructor` and `render` methods do and what their place is in the React Component Lifecycle
 - use the `componentDidMount` function to set a component's state post render
 
-| Topic                            | Lecture   | Pokemon   | Earthquake    | Dogs                    |
-| -------------------------------- | --------- | --------- | ------------- | ----------------------- |
-| Lifecycle Methods w Ryan Hamblin | [🎥][lml] | [📊][lms] | [⚙️][lmcpoke] | [⚙️][lmceq][⚙️][lmdogs] |
+| Topic                            | Lecture   | Pokemon       | Earthquake  | Dogs         |
+| -------------------------------- | --------- | ------------- | ----------- | ------------ |
+| Lifecycle Methods w Ryan Hamblin | [🎥][lml] | [⚙️][lmcpoke] | [⚙️][lmceq] | [⚙️][lmdogs] |
 
 [lml]: https://youtu.be/vy57RoZLLSY
 [lmcpoke]: https://codesandbox.io/s/n3o80olx5m
@@ -1379,8 +1379,8 @@ Learning objectives:
 - make POST requests to pass data collected from a form to a database
 
 | Topic          | Lecture    | Slido      | Animal Form |
-| -------------- | ---------- | ---------- | ------------|
-| Forms w Dustin | [🎥][afml] | [📊][afms] | [⚙️][afmc] |
+| -------------- | ---------- | ---------- | ----------- |
+| Forms w Dustin | [🎥][afml] | [📊][afms] | [⚙️][afmc]  |
 
 [afml]: https://youtu.be/N0n1_n1ZRm4
 [afms]: https://app.sli.do/event/dnqpc2st
@@ -1410,27 +1410,27 @@ Learning objectives:
 - Use a popular library for testing components
 - select DOM nodes using queries
 
-| Topic          | Lecture    | Slido      |
-| -------------- | ---------- | ---------- |
+| Topic            | Lecture    | Slido      |
+| ---------------- | ---------- | ---------- |
 | Testing w Dustin | [🎥][twal] | [📊][twas] |
 
 [twal]: https://youtu.be/ANVR5P3LB3E
 [twas]: https://app.sli.do/event/haqv0coo
 
-| After Party w Henry       | Code        |
-| ------------------------- | ----------- |
-| [Advanced Form mgmt][twapl] | [⚙️][twapc] |
-| [React Testing][twapl2] | [⚙️][twapc2] |
+| After Party w Henry         | Code         |
+| --------------------------- | ------------ |
+| [Advanced Form mgmt][twapl] | [⚙️][twapc]  |
+| [React Testing][twapl2]     | [⚙️][twapc2] |
+
 [twapl]: https://youtu.be/g2rNKoQmso4
 [twapc]: https://github.com/Blevs/react-formik-users
 [twapl2]: https://youtu.be/Jf5zUc3MBtM
 [twapc2]: https://github.com/Blevs/react-testing-baseball
 
-
 Helpful Resource Links
 
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-- [Jest  Delightful JavaScript Testing](https://jestjs.io/en/)
+- [Jest Delightful JavaScript Testing](https://jestjs.io/en/)
 - [Testing Library CheatSheet](https://testing-library.com/docs/react-testing-library/cheatsheet)
 - [Firing Events in React Testing Library](https://www.leighhalliday.com/firing-events-react-testing-library)
 - [jest test results after fireEvent.click() (without enzym)](https://stackoverflow.com/questions/54453771/jest-test-results-after-fireevent-click-without-enzym)
