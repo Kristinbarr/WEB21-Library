@@ -1420,14 +1420,20 @@ Learning objectives:
 | After Party w Henry       | Code        |
 | ------------------------- | ----------- |
 | [Advanced Form mgmt][twapl] | [⚙️][twapc] |
-
+| [React Testing][twapl2] | [⚙️][twapc2] |
 [twapl]: https://youtu.be/g2rNKoQmso4
 [twapc]: https://github.com/Blevs/react-formik-users
+[twapl2]: https://youtu.be/Jf5zUc3MBtM
+[twapc2]: https://github.com/Blevs/react-testing-baseball
+
 
 Helpful Resource Links
 
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 - [Jest  Delightful JavaScript Testing](https://jestjs.io/en/)
 - [Testing Library CheatSheet](https://testing-library.com/docs/react-testing-library/cheatsheet)
+- [Firing Events in React Testing Library](https://www.leighhalliday.com/firing-events-react-testing-library)
+- [jest test results after fireEvent.click() (without enzym)](https://stackoverflow.com/questions/54453771/jest-test-results-after-fireevent-click-without-enzym)
+- [Regex cheat sheet](https://www.rexegg.com/regex-quickstart.html)
 
   </details>
