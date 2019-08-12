@@ -1266,11 +1266,13 @@ Other Resources:
 
   </details>
 
+# Web Applications 2
+
 ## Week 10 Sprint - Advanced React
 
 <details><summary>click to open</summary>
 
-Training Kit Weekly Sprint Overview: [Web Applications 2](https://learn.lambdaschool.com/web3/sprint/recq59MvEIZfUAohy)
+Training Kit Weekly Sprint Overview: [Advanced React](https://learn.lambdaschool.com/web3/sprint/recq59MvEIZfUAohy)
 
 Career Development:
 
@@ -1435,5 +1437,67 @@ Helpful Resource Links
 - [Firing Events in React Testing Library](https://www.leighhalliday.com/firing-events-react-testing-library)
 - [jest test results after fireEvent.click() (without enzym)](https://stackoverflow.com/questions/54453771/jest-test-results-after-fireevent-click-without-enzym)
 - [Regex cheat sheet](https://www.rexegg.com/regex-quickstart.html)
+
+#### Day 49 (Fri Jul 19): Sprint Challenge - Intro To React
+
+##### [GitHub Link: Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-React-Wars)
+
+| Q&A with Dan Levy | Slido        | Code         |
+| ----------------- | ------------ | ------------ |
+| [🎥][astqal]      | [📊][astqas] | [⚙️][astqac] |
+
+[astqal]: https://youtu.be/2d48rS0XebU
+[astqas]: https://app.sli.do/event/lrfvjdku?utm_source=slack&utm_medium=message
+[astqac]: https://repl.it/@justsml/Nested-AJAX-Calls
+
+
+  </details>
+
+
+## Week 11 Sprint - Advanced State Management
+
+<details><summary>click to open</summary>
+
+Training Kit Weekly Sprint Overview: [Advanced State Management](https://learn.lambdaschool.com/web3/sprint/recukritK1B1pFrcM)
+
+Career Development:
+
+##### For this week’s assignment create a resume draft including the following:
+
+-
+
+Career Development Helpful Resources and Links:
+
+- []()
+
+#### Day 50 (Mon Aug 12):
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recnDKrWb24lgaziC)
+
+| Coding Challenge    | Recording   |
+| ------------------- | ----------- |
+| Hitting the Jackpot | [🎥][ccccl] |
+
+[ccccl]: https://youtu.be/ECSzjG3dPuw
+
+Learning objectives:
+
+- explain class components, and use a class component to render some state data to the DOM
+- share data between components using state and props
+- respond to events triggered by user interaction and handle user input via forms in React
+
+| Topic                     | Lecture   | Slido     | Guided Project |
+| ------------------------- | --------- | --------- | -------------- |
+| Class Components w Dustin | [🎥][ccl] | [📊][ccs] | [⚙️][ccc]      |
+
+[ccl]: https://youtu.be/Y9J3IuFEJJc
+[ccs]: https://app.sli.do/event/anfswylv
+[ccc]: https://codesandbox.io/s/class-components-ii-start-zrwli
+
+Helpful Resource Links
+
+- [Complete Guide to useEffect | overreacted.io](https://overreacted.io/a-complete-guide-to-useeffect/)
+- [React Events Cheatsheet](https://reactarmory.com/guides/react-events-cheatsheet)
+- [UUID(Universally Unique Identifier)](https://www.npmjs.com/package/uuid)
 
   </details>
