@@ -1445,14 +1445,14 @@ Helpful Resource Links
 ##### [GitHub Link: Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-Form-Management)
 
 Helpful Resource Links
+
 - [Better React Forms with Formik](https://www.youtube.com/watch?v=yNiJkjEwmpw)
-- [ReactJS Basics - #14 Component Lifecycle](https://www.youtube.com/watch?v=Oioo0IdoEls&amp;t=4s)
+- [ReactJS Basics - #14 Component Lifecycle](https://www.youtube.com/watch?v=Oioo0IdoEls&t=4s)
 - [React Testing Examples](https://react-testing-examples.com/)
 - [Recipes - Testing Library](https://testing-library.com/docs/recipes)
 - [Api Directory | Programmbale Web](https://www.programmableweb.com/apis/directory)
 - [Creating Readable Tests Using RTL](https://medium.com/flatiron-labs/creating-readable-tests-using-react-testing-library-2bd03c49c284)
 - [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U)
-
 
   </details>
 
@@ -1476,17 +1476,37 @@ Career Development Helpful Resources and Links:
 
 ##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recByjgF7FwwH5Z7W/)
 
-| Coding Challenge    | Recording   |
-| ------------------- | ----------- |
-| Hitting the Jackpot | [🎥][caccl] |
-
-[ccccl]: https://youtu.be/ECSzjG3dPuw
-
 Learning objectives:
 
 - Student should be able to describe what the Context API is and the problem is solves
 - Student should be able to provide data to the component tree with a context provider
 - Student should be able to consume data from a context object in nested components
+
+| Topic                | Lecture   | React Music Player |
+| -------------------- | --------- | ------------------ |
+| Context API w Dustin | [🎥][cal] | [⚙️][cac]          |
+
+[cal]: https://youtu.be/-p3-Xlqw3h8
+[cac]: https://codesandbox.io/s/react-music-player-mndj8
+
+Helpful Resource Links
+
+- [React State Management Tutorial | Context Api](https://www.youtube.com/watch?v=35lXWvCuM8o)
+- [How the useContext Hook Works](https://daveceddia.com/usecontext-hook/)
+
+#### Day 51 (Tue Aug 13): The Reducer Pattern
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/rectpk6uIV3pCHJh8/)
+
+| Coding Challenge | Recording   |
+| ---------------- | ----------- |
+|                  | [🎥][caccl] |
+
+[ccccl]: https://youtu.be/ECSzjG3dPuw
+
+Learning objectives:
+
+-
 
 | Topic                | Lecture   | Guided Project |
 | -------------------- | --------- | -------------- |
@@ -1497,6 +1517,6 @@ Learning objectives:
 
 Helpful Resource Links
 
-- [React State Management Tutorial | Context Api](https://www.youtube.com/watch?v=35lXWvCuM8o)
+- []()
 
   </details>
