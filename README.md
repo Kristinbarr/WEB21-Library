@@ -906,6 +906,7 @@ Helpful Resource Links
 - [Codevolution | React Hooks Tutorial Playlist](https://www.youtube.com/playlist?list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A)
 - [ReactJS Tutorial Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 - [Data Fetching with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
+- [How the useEffect Hook Works](https://daveceddia.com/useeffect-hook-examples/)
 
 #### Day 33 (Thur Jul 18): Advanced Styling Techniques
 
@@ -1369,6 +1370,7 @@ Learning objectives:
 Helpful Resource Links
 
 - [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
+- [Understanding React - Component lifecycle](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)
 
 #### Day 47 (Wed Aug 7): Advanced Form Management
 
@@ -1438,21 +1440,21 @@ Helpful Resource Links
 - [jest test results after fireEvent.click() (without enzym)](https://stackoverflow.com/questions/54453771/jest-test-results-after-fireevent-click-without-enzym)
 - [Regex cheat sheet](https://www.rexegg.com/regex-quickstart.html)
 
-#### Day 49 (Fri Jul 19): Sprint Challenge - Intro To React
+#### Day 49 (Fri Aug 9): Sprint Challenge - Form Management
 
-##### [GitHub Link: Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-React-Wars)
+##### [GitHub Link: Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-Form-Management)
 
-| Q&A with Dan Levy | Slido        | Code         |
-| ----------------- | ------------ | ------------ |
-| [🎥][astqal]      | [📊][astqas] | [⚙️][astqac] |
-
-[astqal]: https://youtu.be/2d48rS0XebU
-[astqas]: https://app.sli.do/event/lrfvjdku?utm_source=slack&utm_medium=message
-[astqac]: https://repl.it/@justsml/Nested-AJAX-Calls
+Helpful Resource Links
+- [Better React Forms with Formik](https://www.youtube.com/watch?v=yNiJkjEwmpw)
+- [ReactJS Basics - #14 Component Lifecycle](https://www.youtube.com/watch?v=Oioo0IdoEls&amp;t=4s)
+- [React Testing Examples](https://react-testing-examples.com/)
+- [Recipes - Testing Library](https://testing-library.com/docs/recipes)
+- [Api Directory | Programmbale Web](https://www.programmableweb.com/apis/directory)
+- [Creating Readable Tests Using RTL](https://medium.com/flatiron-labs/creating-readable-tests-using-react-testing-library-2bd03c49c284)
+- [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U)
 
 
   </details>
-
 
 ## Week 11 Sprint - Advanced State Management
 
@@ -1470,34 +1472,31 @@ Career Development Helpful Resources and Links:
 
 - []()
 
-#### Day 50 (Mon Aug 12):
+#### Day 50 (Mon Aug 12): Context API
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recnDKrWb24lgaziC)
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recByjgF7FwwH5Z7W/)
 
 | Coding Challenge    | Recording   |
 | ------------------- | ----------- |
-| Hitting the Jackpot | [🎥][ccccl] |
+| Hitting the Jackpot | [🎥][caccl] |
 
 [ccccl]: https://youtu.be/ECSzjG3dPuw
 
 Learning objectives:
 
-- explain class components, and use a class component to render some state data to the DOM
-- share data between components using state and props
-- respond to events triggered by user interaction and handle user input via forms in React
+- Student should be able to describe what the Context API is and the problem is solves
+- Student should be able to provide data to the component tree with a context provider
+- Student should be able to consume data from a context object in nested components
 
-| Topic                     | Lecture   | Slido     | Guided Project |
-| ------------------------- | --------- | --------- | -------------- |
-| Class Components w Dustin | [🎥][ccl] | [📊][ccs] | [⚙️][ccc]      |
+| Topic                | Lecture   | Guided Project |
+| -------------------- | --------- | -------------- |
+| Context API w Dustin | [🎥][cal] | [⚙️][cac]      |
 
-[ccl]: https://youtu.be/Y9J3IuFEJJc
-[ccs]: https://app.sli.do/event/anfswylv
-[ccc]: https://codesandbox.io/s/class-components-ii-start-zrwli
+[cal]: h
+[cac]: h
 
 Helpful Resource Links
 
-- [Complete Guide to useEffect | overreacted.io](https://overreacted.io/a-complete-guide-to-useeffect/)
-- [React Events Cheatsheet](https://reactarmory.com/guides/react-events-cheatsheet)
-- [UUID(Universally Unique Identifier)](https://www.npmjs.com/package/uuid)
+- [React State Management Tutorial | Context Api](https://www.youtube.com/watch?v=35lXWvCuM8o)
 
   </details>
