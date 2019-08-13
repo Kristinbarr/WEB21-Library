@@ -1482,38 +1482,68 @@ Learning objectives:
 - Student should be able to provide data to the component tree with a context provider
 - Student should be able to consume data from a context object in nested components
 
-| Topic                | Lecture   | React Music Player |
-| -------------------- | --------- | ------------------ |
-| Context API w Dustin | [🎥][cal] | [⚙️][cac]          |
+| Topic                | Lecture   | React Music Player | Music Player - Context & State |
+| -------------------- | --------- | ------------------ | ------------------------------ |
+| Context API w Dustin | [🎥][cal] | [⚙️][cac]          | [⚙️][cac2]                     |
 
 [cal]: https://youtu.be/-p3-Xlqw3h8
 [cac]: https://codesandbox.io/s/react-music-player-mndj8
+[cac2]: https://codesandbox.io/s/react-music-player-1eum6
 
 Helpful Resource Links
 
 - [React State Management Tutorial | Context Api](https://www.youtube.com/watch?v=35lXWvCuM8o)
 - [How the useContext Hook Works](https://daveceddia.com/usecontext-hook/)
+- [When is it appropriate to use a constructor in REACT? | StackOverflow](https://stackoverflow.com/questions/53022332/when-is-it-appropriate-to-use-a-constructor-in-react)
 
 #### Day 51 (Tue Aug 13): The Reducer Pattern
 
 ##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/rectpk6uIV3pCHJh8/)
 
-| Coding Challenge | Recording   |
-| ---------------- | ----------- |
-|                  | [🎥][caccl] |
+| Coding Challenge    | Recording   |
+| ------------------- | ----------- |
+| [BBQ Skewers][rpcc] | [🎥][rpccl] |
 
-[ccccl]: https://youtu.be/ECSzjG3dPuw
+[rpcc]: https://edabit.com/challenge/uAGzHNBWbNj2iNqLr
+[rpccl]: h
 
 Learning objectives:
 
--
+- explain what immutability is in programming and demonstrate its benefits
+- describe reducer functions
+- employ the `useReducer` hook to manage state in a component
 
-| Topic                | Lecture   | Guided Project |
-| -------------------- | --------- | -------------- |
-| Context API w Dustin | [🎥][cal] | [⚙️][cac]      |
+| Topic                    | Lecture   | Repl.it   |
+| ------------------------ | --------- | --------- |
+| Reducer Pattern w Dustin | [🎥][rpl] | [⚙️][rpc] |
 
-[cal]: h
-[cac]: h
+[rpl]: h
+[rpc]: https://repl.it/@snowkid314/MintyLawfulParentheses
+
+Helpful Resource Links
+
+- [Why I love useReducer | YouTube](https://www.youtube.com/watch?v=o-nCM1857AQ&t=11m0s)
+- [Explaining Value vs. Reference in Javascript](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+- [Does it mutate?](https://doesitmutate.xyz/)
+
+#### Day 52 (Wed Aug 14): Redux
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recba2NUdVmgKYyR3/)
+
+Learning objectives:
+
+- explain what Redux is and the problem it solves
+- create a Redux Store and connect it to a React application
+- use the connect() function to "connect" React components to the Redux store
+- write Actions and Action Creators to describe state changes
+- write Reducers to respond to actions and update state
+
+| Topic          | Lecture   | Repl.it   |
+| -------------- | --------- | --------- |
+| Redux w Dustin | [🎥][rpl] | [⚙️][rpc] |
+
+[rpl]: h
+[rpc]: h
 
 Helpful Resource Links
 
