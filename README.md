@@ -1462,15 +1462,18 @@ Helpful Resource Links
 
 Training Kit Weekly Sprint Overview: [Advanced State Management](https://learn.lambdaschool.com/web3/sprint/recukritK1B1pFrcM)
 
-Career Development:
+| Career Development       | Recording   | Slides      |
+| ------------------------ | ----------- | ----------- |
+| Endorsement Expectations | [🎥][asmcr] | [📊][asmcs] |
 
-##### For this week’s assignment create a resume draft including the following:
+[asmcr][https://lambdaschool.zoom.us/recording/share/igb9-yvge8ri4m7x7dw3empppaklcoo-yiq_vxzy8gkwiumektzimw]
+[asmcs][https://docs.google.com/presentation/d/1fcdix4vqwv5ot7n31gvcnbf2ffrdsqginaownwuep0a/edit?usp=sharing]
 
--
+All career assignments and endorsement expectations:
 
-Career Development Helpful Resources and Links:
-
-- []()
+- [Course Track Careers Lessons and Assignments](https://docs.google.com/spreadsheets/d/1fLM8NCGP0FQP6DIj3EiDr7gay3JcCljiUuWCPm8w4F8/)
+- [Cover letter template](https://docs.google.com/document/d/1Qj5g85K8TEDEzXR5qthHPqOaisuPcgCfKKGkiF0Zb1s)
+- [Lambda Endorsement Requirements](https://www.notion.so/3-Endorsement-a7c9f98ddd924477933aa0d46fac71a0)
 
 #### Day 50 (Mon Aug 12): Context API
 
@@ -1513,12 +1516,20 @@ Learning objectives:
 - describe reducer functions
 - employ the `useReducer` hook to manage state in a component
 
-| Topic                    | Lecture   | Repl.it   |
-| ------------------------ | --------- | --------- |
-| Reducer Pattern w Dustin | [🎥][rpl] | [⚙️][rpc] |
+| Topic                    | Lecture   | Repl.it   | Reducer Pattern Sandbox |
+| ------------------------ | --------- | --------- | ----------------------- |
+| Reducer Pattern w Dustin | [🎥][rpl] | [⚙️][rpc] | [⚙️][rpc2]              |
 
-[rpl]: h
+[rpl]: https://youtu.be/ZsnujnUAneM
 [rpc]: https://repl.it/@snowkid314/MintyLawfulParentheses
+[rpc2]: https://codesandbox.io/s/thirsty-meitner-vyrlxjmmjl
+
+| After Party w Henry                 | Code        |
+| ----------------------------------- | ----------- |
+| [Shopping Cart - Context API][rpap] | [⚙️][rpapc] |
+
+[rpap]: https://youtu.be/TOF8lHAxojA
+[rpapc]: https://github.com/Blevs/react-shopping-cart/tree/solution
 
 Helpful Resource Links
 
@@ -1538,15 +1549,15 @@ Learning objectives:
 - write Actions and Action Creators to describe state changes
 - write Reducers to respond to actions and update state
 
-| Topic          | Lecture   | Repl.it   |
-| -------------- | --------- | --------- |
-| Redux w Dustin | [🎥][rpl] | [⚙️][rpc] |
+| Topic          | Lecture   | Guided Sandbox |
+| -------------- | --------- | -------------- |
+| Redux w Dustin | [🎥][rpl] | [⚙️][rpc]      |
 
 [rpl]: h
-[rpc]: h
+[rpc]: https://codesandbox.io/s/the-reducer-pattern-starter-gs362
 
 Helpful Resource Links
 
-- []()
+- [Redux For Beginners | React Redux Tutorial](https://www.youtube.com/watch?v=CVpUuw9XSjY)
 
   </details>
