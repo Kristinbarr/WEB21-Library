@@ -1549,15 +1549,58 @@ Learning objectives:
 - write Actions and Action Creators to describe state changes
 - write Reducers to respond to actions and update state
 
-| Topic          | Lecture   | Guided Sandbox |
-| -------------- | --------- | -------------- |
-| Redux w Dustin | [🎥][rpl] | [⚙️][rpc]      |
+| Topic          | Lecture    | Guided Sandbox |
+| -------------- | ---------- | -------------- |
+| Redux w Dustin | [🎥][rdxl] | [⚙️][rdxc]     |
 
-[rpl]: h
-[rpc]: https://codesandbox.io/s/the-reducer-pattern-starter-gs362
+[rdxl]: https://youtu.be/5vRQcTFvVos
+[rdxc]: https://codesandbox.io/s/the-reducer-pattern-starter-gs362
+
+| After Party w Henry                | Code         |
+| ---------------------------------- | ------------ |
+| [Reducer Todo - useReducer][rdxap] | [⚙️][rdxapc] |
+
+[rdxap]: https://youtu.be/ylR7du7jcBk
+[rdxapc]: https://github.com/Blevs/reducer-todo
 
 Helpful Resource Links
 
 - [Redux For Beginners | React Redux Tutorial](https://www.youtube.com/watch?v=CVpUuw9XSjY)
+- [Redux Dev tools | Chrome Extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+- [Rebuilding Redux with Hooks and Context](https://medium.com/maxime-heckel/rebuilding-redux-with-hooks-and-context-e16b59faf51c)
+
+#### Day 53 (Thu Aug 15): Async Redux
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recSoiWNJzGURrXYh/)
+
+| Coding Challenge    | Recording   |
+| ------------------- | ----------- |
+| [][arcc] | [🎥][arccl] |
+
+[arcc]: https://edabit.com/challenge/uAGzHNBWbNj2iNqLr
+[arccl]: h
+
+Learning objectives:
+
+- describe the Finite State Machine pattern and it's relationship to building Redux applications
+- implement Redux Middleware libraries into a Redux Store using `applyMiddleware`
+- effectively use `redux-thunk` and asynchronous action creators to consume data from external API's
+
+| Topic                | Lecture     | Guided Sandbox |
+| -------------------- | ----------- | -------------- |
+| Async Redux w Dustin | [🎥][ardxl] | [⚙️][ardxc]    |
+
+[ardxl]: h
+[ardxc]: h
+
+| After Party w Henry | Code          |
+| ------------------- | ------------- |
+| [Car Sales][ardxap] | [⚙️][ardxapc] |
+
+[ardxap]: h
+[ardxapc]: h
+Helpful Resource Links
+
+- [public-apis/public-apis](https://github.com/public-apis/public-apis)
 
   </details>
