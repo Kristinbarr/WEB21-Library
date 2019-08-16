@@ -1573,13 +1573,6 @@ Helpful Resource Links
 
 ##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recSoiWNJzGURrXYh/)
 
-| Coding Challenge    | Recording   |
-| ------------------- | ----------- |
-| [][arcc] | [🎥][arccl] |
-
-[arcc]: https://edabit.com/challenge/uAGzHNBWbNj2iNqLr
-[arccl]: h
-
 Learning objectives:
 
 - describe the Finite State Machine pattern and it's relationship to building Redux applications
@@ -1590,17 +1583,19 @@ Learning objectives:
 | -------------------- | ----------- | -------------- |
 | Async Redux w Dustin | [🎥][ardxl] | [⚙️][ardxc]    |
 
-[ardxl]: h
-[ardxc]: h
+[ardxl]: https://youtu.be/3msb2W9_YuM
+[ardxc]: https://codesandbox.io/s/brave-dewdney-3qs02
 
-| After Party w Henry | Code          |
-| ------------------- | ------------- |
-| [Car Sales][ardxap] | [⚙️][ardxapc] |
+| After Party w Henry         | Code          |
+| --------------------------- | ------------- |
+| [Car Sales - Redux][ardxap] | [⚙️][ardxapc] |
 
-[ardxap]: h
-[ardxapc]: h
+[ardxap]: https://youtu.be/yXlUoaT8UTU
+[ardxapc]: https://github.com/Blevs/Car-Sales
+
 Helpful Resource Links
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- [Redux DevTools | Chrome Extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
 
   </details>
