@@ -1634,16 +1634,17 @@ Learning objectives:
 - use mocks and spies in unit tests
 - fire events and test async operations
 
-| Topic                | Lecture   | Guided Project |
-| -------------------- | --------- | -------------- |
-| Context API w Dustin | [🎥][trl] | [⚙️][trc]      |
+| Topic                  | Lecture   | Guided Project |
+| ---------------------- | --------- | -------------- |
+| React Testing w Dustin | [🎥][trl] | [⚙️][trc]      |
 
-[trl]: h
+[trl]: hhttps://youtu.be/ltPWZf9ZNwE
 [trc]: hhttps://github.com/LambdaSchool/webtesting-iii-guided
 
 Helpful Resource Links
 
 - [Write Tests. Not Too Many. Mostly integration. | Kent C. Dodds](https://kentcdodds.com/blog/write-tests)
 - [Snapshot Testing | Jest](https://jestjs.io/docs/en/snapshot-testing)
+- [Mock Functions | Jest](https://jestjs.io/docs/en/mock-functions)
 
 </details>
