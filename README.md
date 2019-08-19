@@ -1598,4 +1598,49 @@ Helpful Resource Links
 - [public-apis/public-apis](https://github.com/public-apis/public-apis)
 - [Redux DevTools | Chrome Extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
 
+#### Day 54 (Fri Aug 16): Sprint Challenge - Advanced State Mangement
+
+##### [GitHub Link: Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-State-Management-Smurfs)
+
+- [What's the most developer-friendly React animation library?](https://www.freshtilledsoil.com/whats-the-most-developer-friendly-react-animation-library/)
+
   </details>
+
+## Week 12 Sprint - Advanced Web Applications
+
+<details><summary>click to open</summary>
+
+Training Kit Weekly Sprint Overview: [Advanced Web Applications](https://learn.lambdaschool.com/web3/sprint/recnhsJGy28gNi1K5)
+
+| Career Development          | Recording   | Slides      |
+| --------------------------- | ----------- | ----------- |
+| Presenting and Interviewing | [🎥][awacr] | [📊][awacs] |
+
+[awacr][]
+[awacs][]
+
+Helpul Resource Links
+
+- []()
+
+#### Day 50 (Mon Aug 12): Testing React
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recS9H6qCj0dQe32B/)
+
+Learning objectives:
+
+-
+
+| Topic                | Lecture   | Guided Project |
+| -------------------- | --------- | -------------- |
+| Context API w Dustin | [🎥][trl] | [⚙️][trc]      |
+
+[trl]: h
+[trc]: hhttps://github.com/LambdaSchool/webtesting-iii-guided
+
+Helpful Resource Links
+
+- [Write Tests. Not Too Many. Mostly integration. | Kent C. Dodds](https://kentcdodds.com/blog/write-tests)
+- [Snapshot Testing | Jest](https://jestjs.io/docs/en/snapshot-testing)
+
+</details>
