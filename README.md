@@ -1466,8 +1466,8 @@ Training Kit Weekly Sprint Overview: [Advanced State Management](https://learn.l
 | ------------------------ | ----------- | ----------- |
 | Endorsement Expectations | [🎥][asmcr] | [📊][asmcs] |
 
-[asmcr][https://lambdaschool.zoom.us/recording/share/igb9-yvge8ri4m7x7dw3empppaklcoo-yiq_vxzy8gkwiumektzimw]
-[asmcs][https://docs.google.com/presentation/d/1fcdix4vqwv5ot7n31gvcnbf2ffrdsqginaownwuep0a/edit?usp=sharing]
+[asmcr]: https://lambdaschool.zoom.us/recording/share/igb9-yvge8ri4m7x7dw3empppaklcoo-yiq_vxzy8gkwiumektzimw
+[asmcs]: https://docs.google.com/presentation/d/1fcdix4vqwv5ot7n31gvcnbf2ffrdsqginaownwuep0a/edit?usp=sharing
 
 All career assignments and endorsement expectations:
 
@@ -1616,20 +1616,23 @@ Training Kit Weekly Sprint Overview: [Advanced Web Applications](https://learn.l
 | --------------------------- | ----------- | ----------- |
 | Presenting and Interviewing | [🎥][awacr] | [📊][awacs] |
 
-[awacr][]
-[awacs][]
+[awacr]: TBD
+[awacs]: TBD
 
 Helpul Resource Links
 
-- []()
+- [Interview Questions Bank](https://drive.google.com/open?id=1F1jtr9gyDiEiJ6vnbWMLTf516RHZSdlM)
 
-#### Day 50 (Mon Aug 12): Testing React
+#### Day 55 (Mon Aug 19): Testing React
 
 ##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recS9H6qCj0dQe32B/)
 
 Learning objectives:
 
--
+- use Snapshot Testing to detect regressions
+- test asynchronous code
+- use mocks and spies in unit tests
+- fire events and test async operations
 
 | Topic                | Lecture   | Guided Project |
 | -------------------- | --------- | -------------- |
