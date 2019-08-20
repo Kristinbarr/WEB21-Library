@@ -1648,6 +1648,9 @@ Helpful Resource Links
 - [Snapshot Testing | Jest](https://jestjs.io/docs/en/snapshot-testing)
 - [Mock Functions | Jest](https://jestjs.io/docs/en/mock-functions)
 - [Jest Crash Course - Unit Testing in JavaScript | Traversy](https://www.youtube.com/watch?v=7r4xVDI2vho)
+- [Custom jest matchers to test the state of the DOM](https://github.com/testing-library/jest-dom)
+- [Setup and Teardown | Jest](https://jestjs.io/docs/en/setup-teardown.html)
+- [Manual Mocks | Jest](https://jestjs.io/docs/en/manual-mocks)
 
 #### Day 56 (Mon Aug 20): Client-Side Authentication
 
@@ -1662,11 +1665,27 @@ Learning objectives:
 | ------------------------- | ---------- | ----------------------------- |
 | Client Side Auth w Dustin | [🎥][csal] | [⚙️][csac]                    |
 
-[trl]: h
+[trl]: hhttps://youtu.be/1C-AXk_PsBw
 [trc]: https://codesandbox.io/s/auth-starter-0qsei
+
+| TL Hours            | Recording    | Code          |
+| ------------------- | ------------ | ------------- |
+| API CRUD Operations | [🎥][csatlh] | [⚙️][csatlhc] |
+
+[csatlh] :https://codesandbox.io/s/crud-react-g8d5w
+[csatlhc] :https://youtu.be/6TNt6RETyCM
+
+| After Party w Henry    | Code         |
+| ---------------------- | ------------ |
+| [React Testing][csaap] | [⚙️][csaapc] |
+
+[csaap]: h
+[csaapc]: h
 
 Helpful Resource Links
 
-- []()
+- [Creating Promises | Andy Lambda Student](https://files.slack.com/files-pri/T4JUEB3ME-FMJCDLTFA/download/3._creating_promises.mp4)
+- [JavaScript Promises Under the Hood](https://medium.com/@ningxia/javascript-promises-under-the-hood-4ce853fcb2c9)
+- [JSON Web Tokens Introduction](https://jwt.io/introduction/)
 
 </details>
