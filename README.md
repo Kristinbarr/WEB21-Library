@@ -41,6 +41,7 @@ Technical
 - [Rubber Duck Debugging](https://rubberduckdebugging.com/)
 - [DevDocs](https://devdocs.io/)
 - [GitHub BitBucket HTML Preview](https://htmlpreview.github.io/)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
 Personal Development
 
@@ -1503,9 +1504,9 @@ Helpful Resource Links
 
 ##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/rectpk6uIV3pCHJh8/)
 
-| Coding Challenge    | Recording   |
-| ------------------- | ----------- |
-| [BBQ Skewers][rpcc] | [🎥][rpccl] |
+| Coding Challenge    | Recording  |
+| ------------------- | ---------- |
+| [BBQ Skewers][rpcc] | [-][rpccl] |
 
 [rpcc]: https://edabit.com/challenge/uAGzHNBWbNj2iNqLr
 [rpccl]: h
@@ -1616,8 +1617,8 @@ Training Kit Weekly Sprint Overview: [Advanced Web Applications](https://learn.l
 | --------------------------- | ----------- | ----------- |
 | Presenting and Interviewing | [🎥][awacr] | [📊][awacs] |
 
-[awacr]: TBD
-[awacs]: TBD
+[awacr]: https://lambdaschool.zoom.us/recording/share/n8gufS05WuMwdo2_1CTErC_EcYE0ZasMmnwklDdSKc-wIumekTziMw
+[awacs]: https://docs.google.com/presentation/d/1aYNJjlA4ux14AWbkFO-cUsC_YVxDuKxj33MGtzKufS4/edit?usp=sharing
 
 Helpul Resource Links
 
@@ -1638,13 +1639,34 @@ Learning objectives:
 | ---------------------- | --------- | -------------- |
 | React Testing w Dustin | [🎥][trl] | [⚙️][trc]      |
 
-[trl]: hhttps://youtu.be/ltPWZf9ZNwE
-[trc]: hhttps://github.com/LambdaSchool/webtesting-iii-guided
+[trl]: https://youtu.be/ltPWZf9ZNwE
+[trc]: https://github.com/LambdaSchool/webtesting-iii-guided
 
 Helpful Resource Links
 
 - [Write Tests. Not Too Many. Mostly integration. | Kent C. Dodds](https://kentcdodds.com/blog/write-tests)
 - [Snapshot Testing | Jest](https://jestjs.io/docs/en/snapshot-testing)
 - [Mock Functions | Jest](https://jestjs.io/docs/en/mock-functions)
+- [Jest Crash Course - Unit Testing in JavaScript | Traversy](https://www.youtube.com/watch?v=7r4xVDI2vho)
+
+#### Day 56 (Mon Aug 20): Client-Side Authentication
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recQlbCZf9tOVgiXC/)
+
+Learning objectives:
+
+- handle authentication with tokens in a React app
+- implement protected routes using an authentication token and Redirect
+
+| Topic                     | Lecture    | Guided Sandbox - Auth Starter |
+| ------------------------- | ---------- | ----------------------------- |
+| Client Side Auth w Dustin | [🎥][csal] | [⚙️][csac]                    |
+
+[trl]: h
+[trc]: https://codesandbox.io/s/auth-starter-0qsei
+
+Helpful Resource Links
+
+- []()
 
 </details>
