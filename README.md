@@ -1677,10 +1677,10 @@ Learning objectives:
 
 | After Party w Henry    | Code         |
 | ---------------------- | ------------ |
-| [React Testing][csaap] | [⚙️][csaapc] |
+| [React Testing Gates][csaap] | [⚙️][csaapc] |
 
-[csaap]: h
-[csaapc]: h
+[csaap]: https://youtu.be/n5VnqNEjcZM
+[csaapc]: https://remarkablemark.org/blog/2018/06/28/jest-mock-default-named-export/
 
 Helpful Resource Links
 
