@@ -1654,7 +1654,7 @@ Helpful Resource Links
 - [Setup and Teardown | Jest](https://jestjs.io/docs/en/setup-teardown.html)
 - [Manual Mocks | Jest](https://jestjs.io/docs/en/manual-mocks)
 
-#### Day 56 (Mon Aug 20): Client-Side Authentication
+#### Day 56 (Tue Aug 20): Client-Side Authentication
 
 ##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recQlbCZf9tOVgiXC/)
 
@@ -1667,8 +1667,8 @@ Learning objectives:
 | ------------------------- | ---------- | ----------------------------- |
 | Client Side Auth w Dustin | [🎥][csal] | [⚙️][csac]                    |
 
-[trl]: hhttps://youtu.be/1C-AXk_PsBw
-[trc]: https://codesandbox.io/s/auth-starter-0qsei
+[csal]: https://youtu.be/1C-AXk_PsBw
+[csac]: https://codesandbox.io/s/auth-starter-0qsei
 
 | TL Hours            | Recording    | Code          |
 | ------------------- | ------------ | ------------- |
@@ -1692,5 +1692,33 @@ Helpful Resource Links
 - [HTTP Methods - REST API Tutorial](https://restfulapi.net/http-methods/#patch)
 - [Debugging APIs - Insomnia](https://insomnia.rest/)
 - [Mathematics for Computer Science | MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+
+#### Day 57 (Wed Aug 21): Deploying Web Apps
+
+##### [Training Kit Pre-Work]()
+
+Learning objectives:
+
+- explain how the world wide web works
+- explain what it means to "deploy" a static web app
+- demonstrate the ability to deploy and maintain a React App using ZEIT
+
+| Topic                   | Lecture    | Guided Sandbox - Auth Starter |
+| ----------------------- | ---------- | ----------------------------- |
+| Deploying Apps w Dustin | [🎥][dwal] | [⚙️][dwac]                    |
+
+[dwal]: -
+[dwac]: -
+
+| After Party w Henry | Code         |
+| ------------------- | ------------ |
+| [][dwaap]           | [⚙️][dwaapc] |
+
+[dwaap]: -
+[dwaapc]: -
+
+Helpful Resource Links
+
+- [zero config deployments | ZEIT](https://zeit.co/)
 
 </details>
