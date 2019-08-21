@@ -1156,9 +1156,11 @@ Helpful Resource Links
 
 ### After Party w Henry Blevins
 
-| Topic                                                  | Video                                             |
-| ------------------------------------------------------ | ------------------------------------------------- |
-| Deploying React App to Netlify (and using \_redirects) | [⚙️](https://www.youtube.com/watch?v=e6qXUS3C550) |
+| Topic                                                  | Video       |
+| ------------------------------------------------------ | ----------- |
+| Deploying React App to Netlify (and using \_redirects) | [⚙️][bw2ap] |
+
+[bw2ap]: https://www.youtube.com/watch?v=e6qXUS3C550
 
 ### Helpful Resource Links
 
@@ -1675,8 +1677,8 @@ Learning objectives:
 [csatlh] :https://codesandbox.io/s/crud-react-g8d5w
 [csatlhc] :https://youtu.be/6TNt6RETyCM
 
-| After Party w Henry    | Code         |
-| ---------------------- | ------------ |
+| After Party w Henry          | Code         |
+| ---------------------------- | ------------ |
 | [React Testing Gates][csaap] | [⚙️][csaapc] |
 
 [csaap]: https://youtu.be/n5VnqNEjcZM
@@ -1687,5 +1689,8 @@ Helpful Resource Links
 - [Creating Promises | Andy Lambda Student](https://files.slack.com/files-pri/T4JUEB3ME-FMJCDLTFA/download/3._creating_promises.mp4)
 - [JavaScript Promises Under the Hood](https://medium.com/@ningxia/javascript-promises-under-the-hood-4ce853fcb2c9)
 - [JSON Web Tokens Introduction](https://jwt.io/introduction/)
+- [HTTP Methods - REST API Tutorial](https://restfulapi.net/http-methods/#patch)
+- [Debugging APIs - Insomnia](https://insomnia.rest/)
+- [Mathematics for Computer Science | MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
 </details>
