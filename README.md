@@ -1695,7 +1695,14 @@ Helpful Resource Links
 
 #### Day 57 (Wed Aug 21): Deploying Web Apps
 
-##### [Training Kit Pre-Work]()
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/receOMvCB7dSyX5FL/)
+
+| Code Challenge                      | Recording  |
+| ----------------------------------- | ---------- |
+| [Book Shelf(class creation)][dwacc] | [🎥][dwaccr] |
+
+[dwacc]: https://edabit.com/challenge/s5Sz2ovKsvtGxNGgn
+[dwaccr]: TBD
 
 Learning objectives:
 
