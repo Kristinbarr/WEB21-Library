@@ -1653,6 +1653,8 @@ Helpful Resource Links
 - [Custom jest matchers to test the state of the DOM](https://github.com/testing-library/jest-dom)
 - [Setup and Teardown | Jest](https://jestjs.io/docs/en/setup-teardown.html)
 - [Manual Mocks | Jest](https://jestjs.io/docs/en/manual-mocks)
+- [open source doc helper | Docusaurus](https://docusaurus.io/)
+- [Documentation templates | Docz](https://www.docz.site/)
 
 #### Day 56 (Tue Aug 20): Client-Side Authentication
 
@@ -1697,8 +1699,8 @@ Helpful Resource Links
 
 ##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/receOMvCB7dSyX5FL/)
 
-| Code Challenge                      | Recording  |
-| ----------------------------------- | ---------- |
+| Code Challenge                      | Recording    |
+| ----------------------------------- | ------------ |
 | [Book Shelf(class creation)][dwacc] | [🎥][dwaccr] |
 
 [dwacc]: https://edabit.com/challenge/s5Sz2ovKsvtGxNGgn
@@ -1710,22 +1712,74 @@ Learning objectives:
 - explain what it means to "deploy" a static web app
 - demonstrate the ability to deploy and maintain a React App using ZEIT
 
-| Topic                   | Lecture    | Guided Sandbox - Auth Starter |
-| ----------------------- | ---------- | ----------------------------- |
-| Deploying Apps w Dustin | [🎥][dwal] | [⚙️][dwac]                    |
+| Topic                   | Lecture    | Zeit Docs  |
+| ----------------------- | ---------- | ---------- |
+| Deploying Apps w Dustin | [🎥][dwal] | [⚙️][dwac] |
 
-[dwal]: -
-[dwac]: -
+[dwal]: https://youtu.be/XQhWu8AdMBw
+[dwac]: https://zeit.co/docs
 
-| After Party w Henry | Code         |
-| ------------------- | ------------ |
-| [][dwaap]           | [⚙️][dwaapc] |
+| After Party w Henry         | Code         |
+| --------------------------- | ------------ |
+| [React Auth-friends][dwaap] | [⚙️][dwaapc] |
 
-[dwaap]: -
-[dwaapc]: -
+[dwaap]: https://youtu.be/5ELQAHtxX5k
+[dwaapc]: https://github.com/blevs/auth-friends
+
+| Q&A with Allen Hai  | Recording   |
+| ------------------- | ----------- |
+| Deploying with Zeit | [🎥][dwaqa] |
+
+[dwaqa]: https://youtu.be/Dq5k-6EeC0I
 
 Helpful Resource Links
 
 - [zero config deployments | ZEIT](https://zeit.co/)
+- [how to use traceroute, get IP addresses](https://support.cloudflare.com/hc/en-us/articles/200169336-How-do-I-run-a-traceroute-)
+- [How to perform traceroute checks in Windows, Linux and Mac OS?](https://www.siteground.com/kb/how_to_perform_traceroute_checks_in_windows_linux_and_macos/)
+- [Cheap Domain Names | NameSilo](https://www.namesilo.com/)
+- [service for generating different HTTP codes | HTTP Stat](https://httpstat.us/)
+- [React Styleguidist](https://react-styleguidist.js.org/)
+- [UI component styling | Storybook](https://storybook.js.org/)
 
-</details>
+#### Day 58 (Thu Aug 22): HTTP AJAX
+
+##### [Training Kit Pre-Work]()
+
+| Code Challenge                     | Recording   |
+| ---------------------------------- | ----------- |
+| [][hjcc] | [🎥][hjccr] |
+
+[hjcc]:
+[hjccr]: TBD
+
+Learning objectives:
+
+- make PUT requests to an external API using axios
+- make DELETE requests to an external API using axios
+
+| Topic              | Lecture   | Zeit Docs |
+| ------------------ | --------- | --------- |
+| HTTP AJAX w Dustin | [🎥][hjl] | [⚙️][hjc] |
+
+[hjl]: h
+[hjc]: https://codesandbox.io/s/trinkets-httpajax-ii-start-xhfz3
+
+| After Party w Henry        | Code        |
+| -------------------------- | ----------- |
+| [React Auth-friends][hjap] | [⚙️][hjapc] |
+
+[hjap]: h
+[hjapc]: h
+
+Data Visualization links
+- [Data Visualization in React Application](https://codeburst.io/data-visualization-in-react-application-f033858c71f3)
+- [Flexmonster & FusionCharts: React dashboard](https://codepen.io/ronika/pen/rgBWBx)
+- [Learning ReactJS Data Visualization](https://www.udemy.com/course/learning-reactjs-data-visualization/)
+- [Building simple data visualizations with React](https://dev.to/brettmstevens7/building-simple-data-visualizations-with-react-9em)
+
+Helpful Resource Links
+
+- [Array.prototype.find() | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find#Find_an_object_in_an_array_by_one_of_its_properties)
+
+  </details>
