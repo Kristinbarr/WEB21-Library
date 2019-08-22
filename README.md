@@ -1771,8 +1771,8 @@ Learning objectives:
 | -------------------------- | ----------- |
 | [React Auth-friends][hjap] | [⚙️][hjapc] |
 
-[hjap]: h
-[hjapc]: h
+[hjap]: https://youtu.be/_Ix_GuGq3VY
+[hjapc]: https://github.com/Blevs/node-express-preview
 
 Data Visualization links
 
