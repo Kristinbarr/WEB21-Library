@@ -1697,14 +1697,17 @@ Helpful Resource Links
 
 #### Day 57 (Wed Aug 21): Deploying Web Apps
 
+##### Lambda Showcase 2
+- [Lambda Showcase - Intro / How to Session 1](https://youtu.be/6fBCwbOg_Ko)
+- [Previous Lambda Showcase (for demo examples)](https://lambdaschool.com/lab-demos/hire-lambda)
+
 ##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/receOMvCB7dSyX5FL/)
 
-| Code Challenge                      | Recording    |
-| ----------------------------------- | ------------ |
-| [Book Shelf(class creation)][dwacc] | [🎥][dwaccr] |
+| Code Challenge                      |
+| ----------------------------------- |
+| [Book Shelf(class creation)][dwacc] |
 
 [dwacc]: https://edabit.com/challenge/s5Sz2ovKsvtGxNGgn
-[dwaccr]: TBD
 
 Learning objectives:
 
@@ -1746,12 +1749,11 @@ Helpful Resource Links
 
 ##### [Training Kit Pre-Work]()
 
-| Code Challenge                     | Recording   |
-| ---------------------------------- | ----------- |
-| [][hjcc] | [🎥][hjccr] |
+| Code Challenge                       |
+| ------------------------------------ |
+| [Reverse the Odd Length Words][hjcc] |
 
-[hjcc]:
-[hjccr]: TBD
+[hjcc]: https://edabit.com/challenge/yYfQoo6rkMezauG77
 
 Learning objectives:
 
@@ -1773,6 +1775,7 @@ Learning objectives:
 [hjapc]: h
 
 Data Visualization links
+
 - [Data Visualization in React Application](https://codeburst.io/data-visualization-in-react-application-f033858c71f3)
 - [Flexmonster & FusionCharts: React dashboard](https://codepen.io/ronika/pen/rgBWBx)
 - [Learning ReactJS Data Visualization](https://www.udemy.com/course/learning-reactjs-data-visualization/)
