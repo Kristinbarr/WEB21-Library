@@ -1764,7 +1764,7 @@ Learning objectives:
 | ------------------ | --------- | --------- |
 | HTTP AJAX w Dustin | [🎥][hjl] | [⚙️][hjc] |
 
-[hjl]: h
+[hjl]: https://youtu.be/oF78WjQ1LxA
 [hjc]: https://codesandbox.io/s/trinkets-httpajax-ii-start-xhfz3
 
 | After Party w Henry        | Code        |
