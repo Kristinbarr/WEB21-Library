@@ -1698,6 +1698,7 @@ Helpful Resource Links
 #### Day 57 (Wed Aug 21): Deploying Web Apps
 
 ##### Lambda Showcase 2
+
 - [Lambda Showcase - Intro / How to Session 1](https://youtu.be/6fBCwbOg_Ko)
 - [Previous Lambda Showcase (for demo examples)](https://lambdaschool.com/lab-demos/hire-lambda)
 
@@ -1747,7 +1748,7 @@ Helpful Resource Links
 
 #### Day 58 (Thu Aug 22): HTTP AJAX
 
-##### [Training Kit Pre-Work]()
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recupVjaAKPqbuk7Y/)
 
 | Code Challenge                       |
 | ------------------------------------ |
@@ -1767,12 +1768,15 @@ Learning objectives:
 [hjl]: https://youtu.be/oF78WjQ1LxA
 [hjc]: https://codesandbox.io/s/trinkets-httpajax-ii-start-xhfz3
 
-| After Party w Henry        | Code        |
-| -------------------------- | ----------- |
-| [React Auth-friends][hjap] | [⚙️][hjapc] |
+| After Party w Henry                  | Code         |
+| ------------------------------------ | ------------ |
+| [React Auth-friends][hjap]           | [⚙️][hjapc]  |
+| [HTTP Movies CRUD Operations][hjap2] | [⚙️][hjapc2] |
 
 [hjap]: https://youtu.be/_Ix_GuGq3VY
 [hjapc]: https://github.com/Blevs/node-express-preview
+[hjap2]: https://youtu.be/rLIMNq8E00o
+[hjap2]: https://github.com/Blevs/http-movies-recitation
 
 Data Visualization links
 
@@ -1784,5 +1788,6 @@ Data Visualization links
 Helpful Resource Links
 
 - [Array.prototype.find() | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find#Find_an_object_in_an_array_by_one_of_its_properties)
+- [Free Algorithm Books](https://github.com/790013438/Free-Algorithm-Books-1)
 
   </details>
