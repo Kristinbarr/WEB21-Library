@@ -4,12 +4,15 @@ Workshop code, lectures, notes, and solutions for the WEB21 cohort
 
 ## Lambda Links:
 
-Student Forms:
+<details><summary>Student Forms:</summary>
 
 - [M - Th Daily Standup Reports](https://airtable.com/shr8ZYuNjevMLRsxI)
 - [Student Sprint Retrospective](https://airtable.com/shruSVU97eR6CHE5A)
 - [Peer Code Review](https://airtable.com/shrVBzrhkcT6GqExr)
 - [Peer Code Review Checklist](https://github.com/LambdaSchool/Peer-Code-Review-Checklist)
+- [Career Readiness](https://airtable.com/shrQmQZhpxzQYvlhp)
+
+</details>
 
 Syllabus (Training Kit): [Lambda School Training Kit](https://learn.lambdaschool.com/)
 
