@@ -1764,9 +1764,9 @@ Learning objectives:
 - make PUT requests to an external API using axios
 - make DELETE requests to an external API using axios
 
-| Topic              | Lecture   | Zeit Docs |
-| ------------------ | --------- | --------- |
-| HTTP AJAX w Dustin | [🎥][hjl] | [⚙️][hjc] |
+| Topic              | Lecture   | Guided Project - trinkets |
+| ------------------ | --------- | ------------------------- |
+| HTTP AJAX w Dustin | [🎥][hjl] | [⚙️][hjc]                 |
 
 [hjl]: https://youtu.be/oF78WjQ1LxA
 [hjc]: https://codesandbox.io/s/trinkets-httpajax-ii-start-xhfz3
@@ -1779,7 +1779,7 @@ Learning objectives:
 [hjap]: https://youtu.be/_Ix_GuGq3VY
 [hjapc]: https://github.com/Blevs/node-express-preview
 [hjap2]: https://youtu.be/rLIMNq8E00o
-[hjap2]: https://github.com/Blevs/http-movies-recitation
+[hjapc2]: https://github.com/Blevs/http-movies-recitation
 
 Data Visualization links
 
