@@ -1785,6 +1785,7 @@ Data Visualization links
 - [Flexmonster & FusionCharts: React dashboard](https://codepen.io/ronika/pen/rgBWBx)
 - [Learning ReactJS Data Visualization](https://www.udemy.com/course/learning-reactjs-data-visualization/)
 - [Building simple data visualizations with React](https://dev.to/brettmstevens7/building-simple-data-visualizations-with-react-9em)
+- [visualization components and utils | Potion.js](https://potion.js.org/)
 
 Helpful Resource Links
 
