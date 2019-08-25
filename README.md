@@ -1134,7 +1134,6 @@ Helpful Resource Links
 
 #### Day 39 (Fri July 26): Sprint
 
-
 </details>
 
 ## Week 9 Build Week - Front End Developer
@@ -1802,3 +1801,76 @@ Helpful Resource Links
 
   </details>
 
+## Week 13 Build Week - Front End Developer
+
+<details><summary>click to open</summary>
+
+#### Build Week - Front End Developer
+
+- [World Index Product Canvas](https://docs.google.com/document/d/1PFJP4Uc2hheTuplDT-xi3WrRTXYYq1HRqFhwg4o_7Cw/edit)
+- [World Index Trello Board](https://trello.com/b/hZlG11DM/the-world-problems-index)
+- [Build Week Culture Document](https://www.notion.so/Full-Time-Build-Sprint-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
+- [Front End Framework Dev Role description](https://www.notion.so/Front-End-Framework-Developer-068c49e587d74517accc45aa9fe66bfc)
+- [Build Week: Web Unit 3 Rubric](https://www.notion.so/f57be7bfbeac4070895b51be1caccd51?v=8b5cff684a2f46aea171ee5f055257c2)
+- [Build Week: Product List Airtable](https://airtable.com/shrexoQXkhON6CISY/tbltprqtHnDVZm9Jm?blocks=hide)
+
+#### Career Development Assignment
+
+-
+
+### Helpful Resource Links
+
+- [Material UI](https://material-ui.com/)
+
+**Friday before - Kickoff**
+
+- Discover who your team and assigned TL are and get into a Slack Channel organized by your Project Lead.
+- Complete the ice breaker activity
+- Make sure you are proactive joining your team's Github org and Trello Board that is created by your assigned TL.
+- If your team has a UX designer, they will lead the team in a meeting about the features/design of your product
+- Make a copy of the linked canvas and work together as a team to fill it out.
+- Please find time to do this before Monday morning and get a link to this product canvas into the front end README and pin it to your Slack Channel.
+
+**Monday - Milestones**
+Morning Block
+
+- You will have a Career Lesson first thing Monday morning
+- Finish up Product Canvas (don't skimp on planning)
+- Populate backlog on Trello with user stories
+- Use React and front end styling platforms such as Material UI, Reactstrap, or something like Styled-Components chosen and implemented as your technology choice (to be done and listed during your additions to the Product Canvas)
+- Front end is pulling in some data from backend
+- User Login/Signup Pages built and ready to handle the token being sent between backend and front end
+- React app and Backend App talking to one another, focus on CORS issues
+
+**Tuesday - Milestones**
+
+- Morning standup with Trello board open
+- Cover what has been completed in the last day and what every one is working on today
+- 80% of Front end features & UI Components, built and consuming data from the backend (Functionality over form for now)
+
+**Wednesday - Milestones**
+
+- Morning standup with Trello board open
+- Cover what has been completed in the last day and what every one is working on today.
+- 100% of Front end features & UI Components, built and consuming data from the backend (Now is the time to focus on Form).
+- Front end is pulling in all data necessary from backend, users can interact with ALL CRUD operations on the Project data.
+
+**Thursday - Milestones**
+
+- Morning standup with Trello board open
+- Cover what has been completed in the last day and what every one is working on today
+- Complete Sprint Retro form by end of day
+- **_Strong emphasis on bug fixes and UI/UX_**
+- **No new features added after 11am PT 🥶**
+- Document your projects within the Readme files in their Github repositories. Without having to talk to you specifically, any developer should be able to install, contribute to, and run your project based on the descriptions found in your readme
+
+**Friday - FEATURE FREEZE + Demo Day**
+
+- Morning Time before Lunch is all dedicated to polish and Demo Day prep
+  - **_There will be a sign up sheet delivered to sign up to demo in the hour long school-wide demo_**
+- There will be a school wide demo held on Friday for 1 hour during the morning
+  - **Students will volunteer their projects to be demoed to their TLs**
+  - Only 10 Projects will be demoed across the entire student body
+- Group wide demos will take place in your TL groups - TLs will use the project rubric to assign a score.
+
+  </details>
