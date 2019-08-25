@@ -186,7 +186,7 @@ Helpful Resource Links
 
 #### Day 4 (Fri May 31): Sprint Challenge - CSS, Flexbox
 
-##### [GitHub link: Sprint-Challenge--User-Interface](https://github.com/LambdaSchool/Sprint-Challenge--User-Interface)
+##### Sprint Challenge: [Sprint-Challenge--User-Interface](https://github.com/LambdaSchool/Sprint-Challenge--User-Interface)
 
 ##### Career Development: [LS1905 2nd Orientation](https://youtu.be/upvCDyefikE)
 
@@ -299,6 +299,8 @@ Helpful Resource Links
 
 #### Day 9 (Fri Jun 7): Sprint Challenge - Media Queries, pre-processors
 
+##### Sprint Challenge: [Sprint-Challenge--Advanced-CSS](https://github.com/LambdaSchool/Sprint-Challenge--Advanced-CSS)
+
 </details>
 
 ## Week 3 Sprint - JavaScript Fundamentals
@@ -313,9 +315,9 @@ Helpful Resource Links
 
 ##### Training Kit Pre-Work: [JavaScript 1](https://learn.lambdaschool.com/fsw/module/recCT3KJYTIRYwQMh/)
 
-| Topic | Lecture    | Slido                 | Guided Project |
-| ----- | ---------- | --------------------- | -------------- |
-| JS 1  | [🎥][js1l] | [📊][js1s] [⚙️][js1c] |
+| Topic | Lecture    | Slido      | Guided Project |
+| ----- | ---------- | ---------- | -------------- |
+| JS 1  | [🎥][js1l] | [📊][js1s] | [⚙️][js1c]     |
 
 | Solutions    | Code                                                                                    |
 | ------------ | --------------------------------------------------------------------------------------- |
@@ -429,7 +431,7 @@ Helpful Resource Links
 
 #### Day 14 (Fri Jun 14): Sprint Challenge - JavaScript Fundamentals
 
-##### [Sprint-Challenge: JS Fundamentals]()
+##### Sprint-Challenge: [Sprint-Challenge--JavaScript](https://github.com/LambdaSchool/Sprint-Challenge--JavaScript)
 
   </details>
 
@@ -538,7 +540,7 @@ Helpful Resource Links
 
 #### Day 19 (Fri Jun 21): Sprint Challenge - Applied JavaScript
 
-##### [GitHub Link: Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-Applied-Javascript)
+##### Sprint Challenge: [Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-Applied-Javascript)
 
   </details>
 
@@ -549,13 +551,9 @@ Helpful Resource Links
 #### Build Week Docs
 
 - [Build Week: Culture Document](https://www.notion.so/Build-Week-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
-
 - [Build Week Milestones](https://www.notion.so/Build-week-Schedule-and-Daily-Milestones-7f0aca2ad598459fa4492fdac9881d5b)
-
 - [Build Week: Web UI Interface Developer Role](https://www.notion.so/lambdaschool/Web-UI-Developer-Role-9978e2084bcc45a7a182638acf38b956)
-
 - [Build Week: Web Foundations Rubric(Google Doc)](https://docs.google.com/spreadsheets/d/1BbdmSMUdzURMo0wcsr4XSKvegDgB28WkK2wnjmORzDo/edit#gid=0)
-
 - [Build Week: Product List Airtable](https://airtable.com/shrzk3diKxkbWb5oA/tblM1xaStqkbmK0ou?blocks=hide)
 
 #### Career Development
@@ -773,7 +771,7 @@ Helpful Resource Links
 
 #### Day 29 (Fri Jul 12): Sprint Challenge - Applied JavaScript
 
-##### [GitHub Link: Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-Applied-JavaScript-v2)
+##### Sprint Challenge: [Sprint-Challenge-Applied-Javascript-v2](https://github.com/LambdaSchool/Sprint-Challenge-Applied-JavaScript-v2)
 
 ##### Lambda Expert Panel [July 2019 recording (second half)](https://youtu.be/aNv7OpFLSVI)
 
@@ -954,7 +952,7 @@ Helpful Resource Links
 
 #### Day 34 (Fri Jul 19): Sprint Challenge - Intro To React
 
-##### [GitHub Link: Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-React-Wars)
+##### Sprint Challenge: [Sprint-Challenge-React-Wars](https://github.com/LambdaSchool/Sprint-Challenge-React-Wars)
 
 | Q&A with Dan Levy | Slido        | Code         |
 | ----------------- | ------------ | ------------ |
@@ -1136,8 +1134,6 @@ Helpful Resource Links
 
 #### Day 39 (Fri July 26): Sprint
 
-[Build week project list](https://airtable.com/shrDIdKTqxyHdZCrI/tblZdTNOY7ULU4UKz?blocks=hide)
-[Roles and Rubric for Build Week Sprint](https://www.notion.so/lambdaschool/0200d2f8b46345c48c1418fa1c33652c?v=995e7fc27b73425bbe0f8741a6ba2c15)
 
 </details>
 
@@ -1150,6 +1146,7 @@ Helpful Resource Links
 - [Build Week Culture Document](https://www.notion.so/Build-Week-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
 - [Celebrity Dead or Alive Product Canvas](https://docs.google.com/document/d/1NL372JKYr2JpmxQ9IyDyBX3U1mD9RacT6ExkP-4lsu4/edit)
 - [Build Week: Web Foundations Rubric(Google Doc)](https://docs.google.com/spreadsheets/d/1BbdmSMUdzURMo0wcsr4XSKvegDgB28WkK2wnjmORzDo/edit#gid=0)
+- [Roles and Rubric for Build Week Sprint](https://www.notion.so/lambdaschool/0200d2f8b46345c48c1418fa1c33652c?v=995e7fc27b73425bbe0f8741a6ba2c15)
 - [Build Week: Product List Airtable](https://airtable.com/shrzk3diKxkbWb5oA/tblM1xaStqkbmK0ou?blocks=hide)
 - [API Postman Documentation](https://documenter.getpostman.com/view/8035044/SVYkvfzS?version=latest#cbc25e0d-8a08-479f-b6a8-9548daf46689)
 
@@ -1194,6 +1191,8 @@ Icons:
 [Icon Collections](https://iconmonstr.com/),
 [SVG Icons](https://www.flaticon.com/),
 [Feather Icons](https://feathericons.com)
+[The Noun Project](https://thenounproject.com/)
+[IcoMoon](https://icomoon.io/)
 
 Animations:
 [Hover.css](http://ianlunn.github.io/Hover/),
@@ -1229,6 +1228,7 @@ Website Hosting:
 [Netlify](https://www.netlify.com/),
 [Github Pages](https://pages.github.com/),
 [Surge](https://surge.sh/)
+[Zeit](zeit.co)
 
 Other Resources:
 [Collected Coding Resources](http://codingheroes.io/resources/),
@@ -1448,7 +1448,7 @@ Helpful Resource Links
 
 #### Day 49 (Fri Aug 9): Sprint Challenge - Form Management
 
-##### [GitHub Link: Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-Form-Management)
+##### Sprint Challenge: [Sprint-Challenge-Form-Management](https://github.com/LambdaSchool/Sprint-Challenge-Form-Management)
 
 Helpful Resource Links
 
@@ -1509,12 +1509,11 @@ Helpful Resource Links
 
 ##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/rectpk6uIV3pCHJh8/)
 
-| Coding Challenge    | Recording  |
-| ------------------- | ---------- |
-| [BBQ Skewers][rpcc] | [-][rpccl] |
+| Coding Challenge    |
+| ------------------- |
+| [BBQ Skewers][rpcc] |
 
 [rpcc]: https://edabit.com/challenge/uAGzHNBWbNj2iNqLr
-[rpccl]: h
 
 Learning objectives:
 
@@ -1606,7 +1605,7 @@ Helpful Resource Links
 
 #### Day 54 (Fri Aug 16): Sprint Challenge - Advanced State Mangement
 
-##### [GitHub Link: Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-State-Management-Smurfs)
+##### Sprint-Challenge: [Sprint-Challenge-State-Management-Smurfs](https://github.com/LambdaSchool/Sprint-Challenge-State-Management-Smurfs)
 
 - [What's the most developer-friendly React animation library?](https://www.freshtilledsoil.com/whats-the-most-developer-friendly-react-animation-library/)
 
@@ -1792,5 +1791,14 @@ Helpful Resource Links
 
 - [Array.prototype.find() | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find#Find_an_object_in_an_array_by_one_of_its_properties)
 - [Free Algorithm Books](https://github.com/790013438/Free-Algorithm-Books-1)
+- [State Mgmt w React Hooks, no Redux or Context API](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8)
+- [JetBrains Academy - Learn Java and Kotlin by Building Projects](https://hyperskill.org/curriculum#todo)
+- [Object-Oriented programming w Java, Part 1](https://moocfi.github.io/courses/2013/programming-part-1/)
+- [Object-Oriented programming w Java, Part 2](https://moocfi.github.io/courses/2013/programming-part-2/)
+
+#### Day 54 (Fri Aug 16): Sprint Challenge - Advanced Web Applications
+
+##### Sprint Challenge: [Sprint-Challenge-React-Bubbles](https://github.com/LambdaSchool/react-bubbles)
 
   </details>
+
