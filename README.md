@@ -1817,10 +1817,30 @@ Helpful Resource Links
 
 #### Career Development Assignment
 
--
+FOR FRIDAY:
+
+- You have options depending on your familiarity and comfort level with interviewing; please complete the assignment that is the best match for you!
+
+  - If you are a very nervous interviewer or have limited experience:
+    - Complete the STAR & Common Interview Questions worksheet (linked below) with general responses that could apply to a range of technical work settings.
+  - Submit on Friday.
+- BONUS: practice answering these questions aloud, and extra bonus, film yourself doing it! You don’t need to submit this, but it’s a great way to build your comfort level talking about your skills.
+
+- If you are familiar with STAR/FEB but want to build your confidence relating your past experience to technical roles:
+  - Find a job description that you are fairly qualified for (you meet 50%-80% of the requirements)
+  - go through the mapping process we just did together
+  - write out responses in the STAR worksheet (linked below) that are specifically tailored to that role.
+  - Submit on Friday, and be sure to include a link to the description in your STAR worksheet.
+
+- BONUS: practice answering these questions aloud, and extra bonus, film yourself doing it! You don’t need to submit this, but it’s a great way to build your comfort level talking about your skills.
+
+- STAR WORKSHEET: you will need to make a copy and save to your Google drive to edit
+  https://docs.google.com/document/d/12dqHqzFTSuHxADm0E_vxMQWqyYVKJyPLuvsM7lnHdYg/edit?usp=sharing
 
 ### Helpful Resource Links
 
+- [Interview Types & STAR recording](https://lambdaschool.zoom.us/recording/share/W1vtTWXLaSC7lCeyhI1_Aq6vDjTuX-b01oTj-nUpNAOwIumekTziMw)
+- [Interview Types & STAR.pdf](https://lambdaschoolstudents.slack.com/files/UL1GPTBQR/FMQDCM2AC/interview_types___star.pdf)
 - [Material UI](https://material-ui.com/)
 
 **Friday before - Kickoff**
@@ -1833,7 +1853,6 @@ Helpful Resource Links
 - Please find time to do this before Monday morning and get a link to this product canvas into the front end README and pin it to your Slack Channel.
 
 **Monday - Milestones**
-Morning Block
 
 - You will have a Career Lesson first thing Monday morning
 - Finish up Product Canvas (don't skimp on planning)
