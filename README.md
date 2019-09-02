@@ -1771,7 +1771,7 @@ Learning objectives:
 
 | After Party w Henry                  | Code         |
 | ------------------------------------ | ------------ |
-| [React Auth-friends][hjap]           | [⚙️][hjapc]  |
+| [Node-Express Preview][hjap]         | [⚙️][hjapc]  |
 | [HTTP Movies CRUD Operations][hjap2] | [⚙️][hjapc2] |
 
 [hjap]: https://youtu.be/_Ix_GuGq3VY
@@ -1823,10 +1823,12 @@ FOR FRIDAY:
 
   - If you are a very nervous interviewer or have limited experience:
     - Complete the STAR & Common Interview Questions worksheet (linked below) with general responses that could apply to a range of technical work settings.
-  - Submit on Friday.
+
+
 - BONUS: practice answering these questions aloud, and extra bonus, film yourself doing it! You don’t need to submit this, but it’s a great way to build your comfort level talking about your skills.
 
 - If you are familiar with STAR/FEB but want to build your confidence relating your past experience to technical roles:
+
   - Find a job description that you are fairly qualified for (you meet 50%-80% of the requirements)
   - go through the mapping process we just did together
   - write out responses in the STAR worksheet (linked below) that are specifically tailored to that role.
