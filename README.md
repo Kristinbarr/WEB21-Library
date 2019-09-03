@@ -1962,6 +1962,13 @@ Learning objectives:
 [j2l]:
 [j2c]:
 
+| After Party w Henry Blevins          | Code         |
+| ------------------------------------ | ------------ |
+| [Node Express 1 - Users CRUD][ne1ap] | [⚙️][ne1apc] |
+
+[ne1ap]: https://youtu.be/8qZx8yGqImM
+[ne1apc]: https://github.com/Blevs/node-express-api1
+
 Helpful Resource Links
 
 -[]()
