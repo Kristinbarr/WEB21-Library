@@ -1904,10 +1904,10 @@ Training Kit Weekly Sprint Overview: [Web Java Fundamentals](https://learn.lambd
 
 | Career Development | Recording  | Slides     |
 | ------------------ | ---------- | ---------- |
-| topic              | [🎥][j1cr] | [📊][j1cs] |
+| topic TBD          | [🎥][j1cr] | [📊][j1cs] |
 
-[j1cr]: h
-[j1cs]: h
+[j1cr]: TBD
+[j1cs]: TBD
 
 Helpul Resource Links
 
@@ -1926,12 +1926,16 @@ Learning objectives:
 - create and manipulate the base Java types which include Boolean, byte, char (including Strings), short, int, long, float, and double.
 - craft multiple Java Classes which include comments, constructors, static and instance variables (fields), accessors, public and private methods and instantiate and use Objects of these classes.
 
-| Topic  | Lecture   | Guided Project |
-| ------ | --------- | -------------- |
-| Java 1 | [🎥][j1l] | [⚙️][j1c]      |
+Week installs - [installing JDK](https://github.com/LambdaSchool/java-installs-week01)
+
+| Topic  | Lecture   | Guided Project | SnackBar Lecture | SnackBar Code |
+| ------ | --------- | -------------- | ---------------- | ------------- |
+| Java 1 | [🎥][j1l] | [⚙️][j1c]      | [🎥][j1l2]       | [⚙️][j1c2]    |
 
 [j1l]: https://youtu.be/ARwPjMS3Tb0
 [j1c]: https://github.com/LambdaSchool/java-EmployeeApp.git
+[j1l2]: https://youtu.be/BnXoklW9zBo
+[jlc2]: https://github.com/LambdaSchool/java-SnackBar
 
 Helpful Resource Links
 
@@ -1939,6 +1943,29 @@ Helpful Resource Links
 - [4 Pillars | CoreJavaGuru](http://www.corejavaguru.com/java/oop/4pillars.php)
 - [What Are OOP Concepts in Java? 4 Primary Concepts - Stackify](https://stackify.com/oops-concepts-in-java/)
 
-Daily Project [Snack Bar](https://github.com/LambdaSchool/java-SnackBar.git)
+Daily Project - [Snack Bar](https://github.com/LambdaSchool/java-SnackBar.git)
+
+#### Day 66 (Mon Sep 3): Java 2 - Language Fundamentals
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recL7w1spe3C8pvcR/)
+
+Learning objectives:
+
+- craft and use for loops, while loops, do while loops, and recursion
+- craft Java conditionals including if-then, if-then-else, and switch statements and branching statements including break, continue, and return.
+- craft and manipulate Arrays, and collections with initializers including ArrayList, HashSet, and HashMap.
+
+| Topic  | Lecture   | Guided Project |
+| ------ | --------- | -------------- |
+| Java 1 | [🎥][j2l] | [⚙️][j2c]      |
+
+[j2l]:
+[j2c]:
+
+Helpful Resource Links
+
+-[]()
+
+Daily Project - [WordCount](https://github.com/LambdaSchool/java-WordCount)
 
 </details>
