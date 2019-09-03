@@ -1796,7 +1796,7 @@ Helpful Resource Links
 - [Object-Oriented programming w Java, Part 1](https://moocfi.github.io/courses/2013/programming-part-1/)
 - [Object-Oriented programming w Java, Part 2](https://moocfi.github.io/courses/2013/programming-part-2/)
 
-#### Day 54 (Fri Aug 16): Sprint Challenge - Advanced Web Applications
+#### Day 59 (Fri Aug 16): Sprint Challenge - Advanced Web Applications
 
 ##### Sprint Challenge: [Sprint-Challenge-React-Bubbles](https://github.com/LambdaSchool/react-bubbles)
 
@@ -1821,20 +1821,18 @@ FOR FRIDAY:
 
 - You have options depending on your familiarity and comfort level with interviewing; please complete the assignment that is the best match for you!
 
-  - If you are a very nervous interviewer or have limited experience:
-    - Complete the STAR & Common Interview Questions worksheet (linked below) with general responses that could apply to a range of technical work settings.
+- If you are a very nervous interviewer or have limited experience:
 
-
-- BONUS: practice answering these questions aloud, and extra bonus, film yourself doing it! You don’t need to submit this, but it’s a great way to build your comfort level talking about your skills.
+  - Complete the STAR & Common Interview Questions worksheet (linked below) with general responses that could apply to a range of technical work settings.
+  - BONUS: practice answering these questions aloud, and extra bonus, film yourself doing it! You don’t need to submit this, but it’s a great way to build your comfort level talking about your skills.
 
 - If you are familiar with STAR/FEB but want to build your confidence relating your past experience to technical roles:
 
   - Find a job description that you are fairly qualified for (you meet 50%-80% of the requirements)
-  - go through the mapping process we just did together
+  - Go through the mapping process we just did together.
   - write out responses in the STAR worksheet (linked below) that are specifically tailored to that role.
-  - Submit on Friday, and be sure to include a link to the description in your STAR worksheet.
-
-- BONUS: practice answering these questions aloud, and extra bonus, film yourself doing it! You don’t need to submit this, but it’s a great way to build your comfort level talking about your skills.
+  - Include a link to the description in your STAR worksheet.
+  - BONUS: practice answering these questions aloud, and extra bonus, film yourself doing it! You don’t need to submit this, but it’s a great way to build your comfort level talking about your skills.
 
 - STAR WORKSHEET: you will need to make a copy and save to your Google drive to edit
   https://docs.google.com/document/d/12dqHqzFTSuHxADm0E_vxMQWqyYVKJyPLuvsM7lnHdYg/edit?usp=sharing
@@ -1843,7 +1841,6 @@ FOR FRIDAY:
 
 - [Interview Types & STAR recording](https://lambdaschool.zoom.us/recording/share/W1vtTWXLaSC7lCeyhI1_Aq6vDjTuX-b01oTj-nUpNAOwIumekTziMw)
 - [Interview Types & STAR.pdf](https://lambdaschoolstudents.slack.com/files/UL1GPTBQR/FMQDCM2AC/interview_types___star.pdf)
-- [Material UI](https://material-ui.com/)
 
 **Friday before - Kickoff**
 
@@ -1896,3 +1893,52 @@ FOR FRIDAY:
 - Group wide demos will take place in your TL groups - TLs will use the project rubric to assign a score.
 
   </details>
+
+# Web API: Java
+
+## Week 14 Sprint - Web Java Fundamentals
+
+<details><summary>click to open</summary>
+
+Training Kit Weekly Sprint Overview: [Web Java Fundamentals](https://learn.lambdaschool.com/web4java/sprint/recoJ4ZqNQWX3cy6E)
+
+| Career Development | Recording  | Slides     |
+| ------------------ | ---------- | ---------- |
+| topic              | [🎥][j1cr] | [📊][j1cs] |
+
+[j1cr]: h
+[j1cs]: h
+
+Helpul Resource Links
+
+- [Interview Questions Bank](https://drive.google.com/open?id=1F1jtr9gyDiEiJ6vnbWMLTf516RHZSdlM)
+
+#### Day 65 (Mon Sep 2): Java 1 - JDK and Java Classes
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recAGVTYNZyJbEFpu/)
+
+Learning objectives:
+
+- install the software needed for Week 1 for the Java Back End Course.
+- using the standard Java Development Kit (JDK), enter source code, generate bytecode, prepare a shippable application (JAR file), execute that application and view the application’s output.
+- understand what to expect in the Java Back End Course
+- explain the basic concept of Object Oriented Programming and how they relate to Java.
+- create and manipulate the base Java types which include Boolean, byte, char (including Strings), short, int, long, float, and double.
+- craft multiple Java Classes which include comments, constructors, static and instance variables (fields), accessors, public and private methods and instantiate and use Objects of these classes.
+
+| Topic  | Lecture   | Guided Project |
+| ------ | --------- | -------------- |
+| Java 1 | [🎥][j1l] | [⚙️][j1c]      |
+
+[j1l]: https://youtu.be/ARwPjMS3Tb0
+[j1c]: https://github.com/LambdaSchool/java-EmployeeApp.git
+
+Helpful Resource Links
+
+- [Java OOPs Concepts - Javatpoint](https://www.javatpoint.com/java-oops-concepts)
+- [4 Pillars | CoreJavaGuru](http://www.corejavaguru.com/java/oop/4pillars.php)
+- [What Are OOP Concepts in Java? 4 Primary Concepts - Stackify](https://stackify.com/oops-concepts-in-java/)
+
+Daily Project [Snack Bar](https://github.com/LambdaSchool/java-SnackBar.git)
+
+</details>
