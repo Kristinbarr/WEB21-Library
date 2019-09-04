@@ -2025,15 +2025,15 @@ Learning objectives:
 | ------ | --------- | ------------------------------- |
 | Java 3 | [🎥][j3l] | [⚙️][j3c]                       |
 
-[j3l]:
+[j3l]: TBD
 [j3c]: https://github.com/LambdaSchool/java-transportation
 
-| After Party w Henry Blevins | Code         |
-| --------------------------- | ------------ |
-| [][ne2ap]                   | [⚙️][ne2apc] |
+| After Party w Henry Blevins        | Code         |
+| ---------------------------------- | ------------ |
+| [Node Express 2 - Routing][ne2ap] | [⚙️][ne2apc] |
 
-[ne2ap]:
-[ne2apc]:
+[ne2ap]: https://youtu.be/FsLBTg7NY7c
+[ne2apc]: https://github.com/Blevs/webapi-ii-routing
 
 Helpful Resource Links
 
