@@ -46,6 +46,38 @@ Technical
 - [GitHub BitBucket HTML Preview](https://htmlpreview.github.io/)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
+Technical interviewing, code challenges, and whiteboarding
+
+Best:
+
+1. https://www.interviewcake.com/
+2. https://www.interviewcake.com/data-structures-and-algorithms-guide/
+3. https://www.interviewing.io/
+4. https://www.pramp.com/
+5. https://www.skilledinc.com/
+
+Others:
+
+1. https://www.hackerrank.com
+2. https://leetcode.com/explore/
+3. https://coderbyte.com/
+4. https://triplebyte.com/
+5. https://www.codewars.com/
+6. https://www.codesignal.com/
+7. https://github.com/Pau1fitz/react-interview (React and Redux-specific questions)
+8. https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/
+9. https://www.geeksforgeeks.org/
+10. https://medium.com/quick-code/top-tutorials-learn-data-structure-and-algorithm-for-an-interview-preparation-96e1f7518e26
+11. https://www.byte-by-byte.com/studying-data-structures-and-algorithms/
+12. https://www.byte-by-byte.com/coding-interview-questions/
+13. https://github.com/h5bp/Front-end-Developer-Interview-Questions
+
+Books:
+
+1. https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=sr_1_2?ie=UTF8&qid=1550198805&sr=8-2&keywords=grokking+algorithm
+2. https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?ie=UTF8&qid=1550198891&sr=8-2&keywords=cracking+the+coding+interview
+3. https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1550198948&sr=8-1&keywords=introduction+to+algorithms
+
 Personal Development
 
 - [The Pomodoro Technique®](https://francescocirillo.com/pages/pomodoro-technique)
