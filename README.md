@@ -1960,9 +1960,9 @@ Learning objectives:
 
 Week installs - [installing JDK](https://github.com/LambdaSchool/java-installs-week01)
 
-| Topic  | Lecture   | Guided Project | SnackBar Lecture | SnackBar Code |
-| ------ | --------- | -------------- | ---------------- | ------------- |
-| Java 1 | [🎥][j1l] | [⚙️][j1c]      | [🎥][j1l2]       | [⚙️][j1c2]    |
+| Topic  | Lecture   | GP - EmployeeApp | SnackBar Lecture | SnackBar Code |
+| ------ | --------- | ---------------- | ---------------- | ------------- |
+| Java 1 | [🎥][j1l] | [⚙️][j1c]        | [🎥][j1l2]       | [⚙️][j1c2]    |
 
 [j1l]: https://youtu.be/ARwPjMS3Tb0
 [j1c]: https://github.com/LambdaSchool/java-EmployeeApp.git
@@ -2021,15 +2021,15 @@ Learning objectives:
 - use and implement abstract classes.
 - use and implement Lambda Expressions.
 
-| Topic  | Lecture   | Guided Project - transportation |
-| ------ | --------- | ------------------------------- |
-| Java 3 | [🎥][j3l] | [⚙️][j3c]                       |
+| Topic  | Lecture   | GP - transportation |
+| ------ | --------- | ------------------- |
+| Java 3 | [🎥][j3l] | [⚙️][j3c]           |
 
-[j3l]: TBD
+[j3l]: https://youtu.be/SadrLTX6-ic
 [j3c]: https://github.com/LambdaSchool/java-transportation
 
-| After Party w Henry Blevins        | Code         |
-| ---------------------------------- | ------------ |
+| After Party w Henry Blevins       | Code         |
+| --------------------------------- | ------------ |
 | [Node Express 2 - Routing][ne2ap] | [⚙️][ne2apc] |
 
 [ne2ap]: https://youtu.be/FsLBTg7NY7c
@@ -2037,7 +2037,8 @@ Learning objectives:
 
 Helpful Resource Links
 
-- []()
+- [Java Lambda Expressions Tutorial with examples
+  ](https://beginnersbook.com/2017/10/java-lambda-expressions-tutorial-with-examples/)
 
 Daily Project - [java-AnimalKingdom](https://github.com/LambdaSchool/java-AnimalKingdom)
 
