@@ -1943,9 +1943,9 @@ Helpful Resource Links
 - [4 Pillars | CoreJavaGuru](http://www.corejavaguru.com/java/oop/4pillars.php)
 - [What Are OOP Concepts in Java? 4 Primary Concepts - Stackify](https://stackify.com/oops-concepts-in-java/)
 
-Daily Project - [Snack Bar](https://github.com/LambdaSchool/java-SnackBar.git)
+Daily Project - [java-SnackBar](https://github.com/LambdaSchool/java-SnackBar.git)
 
-#### Day 66 (Mon Sep 3): Java 2 - Language Fundamentals
+#### Day 66 (Tue Sep 3): Java 2 - Language Fundamentals
 
 ##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recL7w1spe3C8pvcR/)
 
@@ -1957,10 +1957,12 @@ Learning objectives:
 
 | Topic  | Lecture   | Guided Project |
 | ------ | --------- | -------------- |
-| Java 1 | [🎥][j2l] | [⚙️][j2c]      |
+| Java 2 | [🎥][j2l] | [⚙️][j2c]      |
 
-[j2l]:
-[j2c]:
+[j2l]: https://youtu.be/2YUmBRnKJUs
+[j2c]: https://github.com/LambdaSchool/java-LoopingAndCollections.git
+
+- [Afternoon Q&A with John Mitchell](https://youtu.be/7PzLuhbzTKc)
 
 | After Party w Henry Blevins          | Code         |
 | ------------------------------------ | ------------ |
@@ -1971,8 +1973,40 @@ Learning objectives:
 
 Helpful Resource Links
 
--[]()
+- [Java Tutorial | W3Schools](https://www.w3schools.com/java/)
+- [Java Programming Language | GeeksforGeeks](https://www.geeksforgeeks.org/java/)
+- [HashMap put() Method in Java | G4G](https://www.geeksforgeeks.org/hashmap-put-method-in-java/)
 
-Daily Project - [WordCount](https://github.com/LambdaSchool/java-WordCount)
+Daily Project - [java-WordCount](https://github.com/LambdaSchool/java-WordCount)
+
+#### Day 67 (Wed Sep 4): Java 3 - Interfaces, Abstract Classes, Lambda Expressions
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec6Hrk77HupYeoN5/)
+
+Learning objectives:
+
+- use and implement interfaces.
+- use and implement abstract classes.
+- use and implement Lambda Expressions.
+
+| Topic  | Lecture   | Guided Project - transportation |
+| ------ | --------- | ------------------------------- |
+| Java 3 | [🎥][j3l] | [⚙️][j3c]                       |
+
+[j3l]:
+[j3c]: https://github.com/LambdaSchool/java-transportation
+
+| After Party w Henry Blevins | Code         |
+| --------------------------- | ------------ |
+| [][ne2ap]                   | [⚙️][ne2apc] |
+
+[ne2ap]:
+[ne2apc]:
+
+Helpful Resource Links
+
+- []()
+
+Daily Project - [java-AnimalKingdom](https://github.com/LambdaSchool/java-AnimalKingdom)
 
 </details>
