@@ -2039,7 +2039,37 @@ Helpful Resource Links
 
 - [Java Lambda Expressions Tutorial with examples
   ](https://beginnersbook.com/2017/10/java-lambda-expressions-tutorial-with-examples/)
+- [How to do it in Java](https://howtodoinjava.com/)
 
 Daily Project - [java-AnimalKingdom](https://github.com/LambdaSchool/java-AnimalKingdom)
+
+#### Day 68 (Thu Sep 5): Java 4 - IntelliJ Deep Dive, Dependencies
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recRgxzhqKQqZ3BNV/)
+
+Learning objectives:
+
+- download, commit and branch source control repositories.
+- use IntelliJ in the following areas: code entry, refactoring, debugging, application analysis, version control, IDE customization, production and distribution
+- use and implement code annotations, dependencies, dependency injections, and Java libraries.
+
+| Topic                  | Lecture   | GP - messaging |
+| ---------------------- | --------- | -------------- |
+| Java 4: IntelliJ, Deps | [🎥][j4l] | [⚙️][j4c]      |
+
+[j4l]: https://www.youtube.com/watch?v=iV_6GlfaqgM
+[j4c]: https://github.com/LambdaSchool/java-messaging
+
+Helpful Resource Links
+
+- [Documentation | IntelliJ IDEA](https://www.jetbrains.com/idea/documentation/)
+- [Intellij Idea Tutorial | Tutorialspoint](https://www.tutorialspoint.com/intellij_idea/index.htm)
+- [IntelliJ IDEA Handbook | Java Code Geeks](https://www.javacodegeeks.com/minibook/intellij-idea-handbook)
+- [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
+- [InversionOfControl](https://martinfowler.com/bliki/InversionOfControl.html)
+- [Dependency Injection | Wikipedia](https://en.wikipedia.org/wiki/Dependency_injection)
+- [Inversion of control | Wikipedia](https://en.wikipedia.org/wiki/Inversion_of_control)
+
+Daily Project - [java-athletes](https://github.com/LambdaSchool/java-athletes.git)
 
 </details>
