@@ -2060,6 +2060,13 @@ Learning objectives:
 [j4l]: https://www.youtube.com/watch?v=iV_6GlfaqgM
 [j4c]: https://github.com/LambdaSchool/java-messaging
 
+| After Party w Henry Blevins        | Code         |
+| ---------------------------------- | ------------ |
+| [Node Express - middleware][ne3ap] | [⚙️][ne3apc] |
+
+[ne3ap]: https://www.youtube.com/watch?v=GdlYk3rw4XI
+[ne3apc]: https://github.com/Blevs/node-api-iii
+
 Helpful Resource Links
 
 - [Documentation | IntelliJ IDEA](https://www.jetbrains.com/idea/documentation/)
