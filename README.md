@@ -1987,11 +1987,11 @@ Learning objectives:
 - craft Java conditionals including if-then, if-then-else, and switch statements and branching statements including break, continue, and return.
 - craft and manipulate Arrays, and collections with initializers including ArrayList, HashSet, and HashMap.
 
-| Topic  | Lecture   | Guided Project |
-| ------ | --------- | -------------- |
-| Java 2 | [🎥][j2l] | [⚙️][j2c]      |
+| Topic                          | Lecture   | Guided Project |
+| ------------------------------ | --------- | -------------- |
+| Java 2 - Language Fundamentals | [🎥][j2l] | [⚙️][j2c]      |
 
-[j2l]: https://youtu.be/2YUmBRnKJUs
+[j2l]: https://youtu.be/8mUwWEZPGBQ
 [j2c]: https://github.com/LambdaSchool/java-LoopingAndCollections.git
 
 - [Afternoon Q&A with John Mitchell](https://youtu.be/7PzLuhbzTKc)
