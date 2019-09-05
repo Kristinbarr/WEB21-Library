@@ -2021,11 +2021,11 @@ Learning objectives:
 - use and implement abstract classes.
 - use and implement Lambda Expressions.
 
-| Topic  | Lecture   | GP - transportation |
-| ------ | --------- | ------------------- |
-| Java 3 | [🎥][j3l] | [⚙️][j3c]           |
+| Topic                                              | Lecture   | GP - transportation |
+| -------------------------------------------------- | --------- | ------------------- |
+| Java 3: Interfaces, Abstract Classes, Lambda Funcs | [🎥][j3l] | [⚙️][j3c]           |
 
-[j3l]: https://youtu.be/SadrLTX6-ic
+[j3l]: https://youtu.be/zF7pjXVk6KA
 [j3c]: https://github.com/LambdaSchool/java-transportation
 
 | After Party w Henry Blevins       | Code         |
