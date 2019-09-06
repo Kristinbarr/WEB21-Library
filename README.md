@@ -1994,7 +1994,7 @@ Learning objectives:
 [j2l]: https://youtu.be/8mUwWEZPGBQ
 [j2c]: https://github.com/LambdaSchool/java-LoopingAndCollections.git
 
-- [Afternoon Q&A with John Mitchell](https://youtu.be/7PzLuhbzTKc)
+- [Q&A with John Mitchell - Java 2](https://youtu.be/7PzLuhbzTKc)
 
 | After Party w Henry Blevins          | Code         |
 | ------------------------------------ | ------------ |
