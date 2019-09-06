@@ -2060,6 +2060,8 @@ Learning objectives:
 [j4l]: https://www.youtube.com/watch?v=iV_6GlfaqgM
 [j4c]: https://github.com/LambdaSchool/java-messaging
 
+ - [Q&A with John Mitchell - Java 4](https://youtu.be/DfueBHNxhXE)
+
 | After Party w Henry Blevins        | Code         |
 | ---------------------------------- | ------------ |
 | [Node Express - middleware][ne3ap] | [⚙️][ne3apc] |
