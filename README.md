@@ -2081,4 +2081,9 @@ Helpful Resource Links
 
 Daily Project - [java-athletes](https://github.com/LambdaSchool/java-athletes.git)
 
+#### Day 69 (Fri Sep 6): Sprint Challenge - Java Fundamentals
+
+##### Sprint Challenge: [Sprint-Challenge--Java-Fundamentals-piggybank](https://github.com/LambdaSchool/Sprint-Challenge--Java-Fundamentals-piggybank)
+
+
 </details>
