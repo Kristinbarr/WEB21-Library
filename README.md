@@ -2138,6 +2138,12 @@ Week installs - [installing Postman and PostgreSQL, set environment variables](h
 
 Helpful Resource Links
 
+- [REST Architecture Dissertation | Roy T. Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+- [Apache Maven](http://maven.apache.org)
+- [Maven Library Index](https://mvnrepository.com)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Apache Tomcat](http://tomcat.apache.org/)
+- [Spring Bean lifecycle tutorial](https://www.concretepage.com/spring/spring-bean-life-cycle-tutorial)
 - [Maven/Spring project without IntelliJ IDEA Ultimate Version](https://start.spring.io/)
 - [convrting markdown to React](https://github.com/rexxars/react-markdown)
 
