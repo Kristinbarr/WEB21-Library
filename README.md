@@ -2060,7 +2060,7 @@ Learning objectives:
 [j4l]: https://www.youtube.com/watch?v=iV_6GlfaqgM
 [j4c]: https://github.com/LambdaSchool/java-messaging
 
- - [Q&A with John Mitchell - Java 4](https://youtu.be/DfueBHNxhXE)
+- [Q&A with John Mitchell - Java 4](https://youtu.be/DfueBHNxhXE)
 
 | After Party w Henry Blevins        | Code         |
 | ---------------------------------- | ------------ |
@@ -2085,5 +2085,62 @@ Daily Project - [java-athletes](https://github.com/LambdaSchool/java-athletes.gi
 
 ##### Sprint Challenge: [Sprint-Challenge--Java-Fundamentals-piggybank](https://github.com/LambdaSchool/Sprint-Challenge--Java-Fundamentals-piggybank)
 
+## Week 15 Sprint - RDBMs and API Introduction
+
+<details><summary>click to open</summary>
+
+Training Kit Weekly Sprint Overview: [RDBMs and API Introduction](https://learn.lambdaschool.com/web4java/sprint/recRVUSWQEtosl0Cz)
+
+| Career Development               | Recording    | Slides       |
+| -------------------------------- | ------------ | ------------ |
+| Interview Etiquette Presentation | [🎥][rdbmcr] | [📊][rdbmcs] |
+
+[rdbmcr]: TBD
+[rdbmcs]: TBD
+
+Helpul Resource Links
+
+- [Interview Prep Tool](https://docs.google.com/document/d/1cdcormJk0hM3Wy70yxHzmOC17xiVnfPBBahevCbU5zo/edit?usp=sharing)
+- [Technical Interview Prep](https://docs.google.com/document/d/1g9BkZOc2YSyYsa2q-qblXsXcvvU_xteuRt7IxTybAVU/edit?usp=sharing)
+- [Pramp](https://www.pramp.com/#/)
+- [US Cities and Towns](https://www.citytowninfo.com/places)
+- [2019 Cost of Living Calculator](https://www.bestplaces.net/cost-of-living/)
+- [Cost of Living Calculator | PayScale](https://www.payscale.com/cost-of-living-calculator)
+
+#### Day 70 (Mon Sep 9): Intro to Maven, Spring, and Tomcat Using REST API
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recqtftA9E98qpbak/)
+
+Learning objectives:
+
+- Student should be able to install the software needed for Week 2 for the Java Back End Course.
+- Student should be able to explain the fundamentals of REST API
+- Student should be able to explain the uses of and differences between Maven, Spring, and Tomcat
+- Student should be able to build a REST service using Spring Boot
+- Student should be able to implement Beans throughout the Beans’ lifecycle controlling the Beans using annotations.
+- Student should be able to produce a complete application following the Maven Phases.
+
+Week installs - [installing Postman and PostgreSQL, set environment variables](https://github.com/LambdaSchool/java-installs-week02)
+
+| Topic                       | Lecture     | GP - WebEmployees |
+| --------------------------- | ----------- | ----------------- |
+| Maven, Spring, Tomcat, REST | [🎥][mstrl] | [⚙️][mstrc]       |
+
+[mstrl]:
+[mstrc]: https://github.com/LambdaSchool/java-webemployees.git
+
+| After Party w Henry Blevins         | Code          |
+| ----------------------------------- | ------------- |
+| [Node Express - middleware][rdbmap] | [⚙️][rdbmapc] |
+
+[rdbmap]: https://youtu.be/mMr3vmDJLCQ
+[rdbmapc]: https://github.com/Blevs/webapi-ii-guided/tree/recitation
+
+Helpful Resource Links
+
+- [Maven/Spring project without IntelliJ IDEA Ultimate Version](https://start.spring.io/)
+- [convrting markdown to React](https://github.com/rexxars/react-markdown)
+
+Daily Project - [java-countries](https://github.com/LambdaSchool/java-countries)
 
 </details>
