@@ -2126,15 +2126,15 @@ Week installs - [installing Postman and PostgreSQL, set environment variables](h
 | --------------------------- | ----------- | ----------------- |
 | Maven, Spring, Tomcat, REST | [🎥][mstrl] | [⚙️][mstrc]       |
 
-[mstrl]:
+[mstrl]: https://www.youtube.com/watch?v=F_v_ABGNMSA
 [mstrc]: https://github.com/LambdaSchool/java-webemployees.git
 
-| After Party w Henry Blevins         | Code          |
-| ----------------------------------- | ------------- |
-| [Node Express - middleware][rdbmap] | [⚙️][rdbmapc] |
+| After Party w Henry Blevins       | Code        |
+| --------------------------------- | ----------- |
+| [Node Express - middleware][mwap] | [⚙️][mwapc] |
 
-[rdbmap]: https://youtu.be/mMr3vmDJLCQ
-[rdbmapc]: https://github.com/Blevs/webapi-ii-guided/tree/recitation
+[mwap]: https://youtu.be/mMr3vmDJLCQ
+[mwapc]: https://github.com/Blevs/webapi-ii-guided/tree/recitation
 
 Helpful Resource Links
 
@@ -2148,5 +2148,41 @@ Helpful Resource Links
 - [convrting markdown to React](https://github.com/rexxars/react-markdown)
 
 Daily Project - [java-countries](https://github.com/LambdaSchool/java-countries)
+
+#### Day 71 (Tue Sep 10): Intro to Maven, Spring, and Tomcat Using REST API
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recyJ663TrxVgpqY9/)
+
+Learning objectives:
+
+- explain what SQL is and its advantages
+- explain what a Relational Database is and its core components.
+- query data from a single table
+- query data from multiple tables.
+- open an existing database, or create a new one, while adding tables to a PostgreSQL database
+- explain data normalization and normal forms while normalizing data to the 3rd Normal Form (3NF).
+
+| Topic         | Lecture      | GP - WebEmployees |
+| ------------- | ------------ | ----------------- |
+| RDBMS and SQL | [🎥][rdbmsl] | [⚙️][rdbmsc]      |
+
+[rdbmsl]: https://github.com/Kristinbarr/java-rdbms
+[rdbmsc]: https://www.youtube.com/watch?v=IfCYPo38R2A
+
+| After Party w Henry Blevins | Code          |
+| --------------------------- | ------------- |
+| [Node Express - ][rdbmap]   | [⚙️][rdbmapc] |
+
+[rdbmap]: https://youtu.be/OUxElfKd84I
+[rdbmapc]: https://github.com/Blevs/webdb-recitation-i/tree/recitation
+
+Helpful Resource Links
+
+- [weekly installs - WK3](https://github.com/LambdaSchool/java-installs-week03)
+- [PostgreSQL tutorial](http://www.postgresqltutorial.com)
+- [database designer](https://www.dbdesigner.net/)
+- [SQL tutorial | W3 Schools](https://www.w3schools.com/sql/default.asp)
+
+Daily Project - [java-sql](https://github.com/LambdaSchool/java-sql)
 
 </details>
