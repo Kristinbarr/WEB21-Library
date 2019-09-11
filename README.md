@@ -1934,14 +1934,7 @@ FOR FRIDAY:
 
 Training Kit Weekly Sprint Overview: [Web Java Fundamentals](https://learn.lambdaschool.com/web4java/sprint/recoJ4ZqNQWX3cy6E)
 
-| Career Development | Recording  | Slides     |
-| ------------------ | ---------- | ---------- |
-| topic TBD          | [🎥][j1cr] | [📊][j1cs] |
-
-[j1cr]: TBD
-[j1cs]: TBD
-
-Helpul Resource Links
+Career Development Helpul Resource Links
 
 - [Interview Questions Bank](https://drive.google.com/open?id=1F1jtr9gyDiEiJ6vnbWMLTf516RHZSdlM)
 
@@ -2149,7 +2142,7 @@ Helpful Resource Links
 
 Daily Project - [java-countries](https://github.com/LambdaSchool/java-countries)
 
-#### Day 71 (Tue Sep 10): Intro to Maven, Spring, and Tomcat Using REST API
+#### Day 71 (Tue Sep 10): Java RDBMS and SQL Basics
 
 ##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recyJ663TrxVgpqY9/)
 
@@ -2166,12 +2159,12 @@ Learning objectives:
 | ------------- | ------------ | ----------------- |
 | RDBMS and SQL | [🎥][rdbmsl] | [⚙️][rdbmsc]      |
 
-[rdbmsl]: https://github.com/Kristinbarr/java-rdbms
+[rdbmsl]: https://github.com/lambdaschool/java-rdbms
 [rdbmsc]: https://www.youtube.com/watch?v=IfCYPo38R2A
 
-| After Party w Henry Blevins | Code          |
-| --------------------------- | ------------- |
-| [Node Express - ][rdbmap]   | [⚙️][rdbmapc] |
+| After Party w Henry Blevins     | Code          |
+| ------------------------------- | ------------- |
+| [Node Express - web db][rdbmap] | [⚙️][rdbmapc] |
 
 [rdbmap]: https://youtu.be/OUxElfKd84I
 [rdbmapc]: https://github.com/Blevs/webdb-recitation-i/tree/recitation
@@ -2182,7 +2175,43 @@ Helpful Resource Links
 - [PostgreSQL tutorial](http://www.postgresqltutorial.com)
 - [database designer](https://www.dbdesigner.net/)
 - [SQL tutorial | W3 Schools](https://www.w3schools.com/sql/default.asp)
+- [Markdown Tables generator - TablesGenerator.com](https://www.tablesgenerator.com/markdown_tables#)
+- [Learn Java 8 - Full Tutorial for Beginners](https://www.youtube.com/watch?v=grEKMHGYyns&t=2038s)
+- [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
 Daily Project - [java-sql](https://github.com/LambdaSchool/java-sql)
+
+#### Day 72 (Wed Sep 11): Java Inserting and Modifying Data Using CRUD Operations and Seeding Data
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec3THcdjv8BumGCt/)
+
+Learning objectives:
+
+- explain CRUD operations, HTTP methods, and how they are related
+- perform CRUD operations on an RDBMS using SQL.
+- perform CRUD operations on an RDBMS using JPA and Hibernate.
+- implement seed data using SQL statements
+- implement a data seeding class using JPA and Hibernate
+- use Rest client to access a full CRUD Java Rest Web API application using the Module's Guide Project as an example.
+
+| Topic               | Lecture     | GP - Restaurants |
+| ------------------- | ----------- | ---------------- |
+| CRUD ops, seed data | [🎥][crudl] | [⚙️][crudc]      |
+
+[crudl]:
+[crudc]: https://github.com/LambdaSchool/java-crudyrestaurants.git
+
+| After Party w Henry Blevins        | Code           |
+| ---------------------------------- | -------------- |
+| [Node - SQL Schema, seed][sqlsdap] | [⚙️][sqlsdapc] |
+
+[sqlsdap]: https://youtu.be/z9ZY2sIjEBE
+[sqlsdapc]: https://github.com/Blevs/webdb-ii-recitation/tree/recitation
+
+Helpful Resource Links
+
+- [Up & Running w PostgreSQL](https://www.youtube.com/watch?v=niiJ_eHPocM)
+
+Daily Project - [java-orders](https://github.com/LambdaSchool/java-orders)
 
 </details>
