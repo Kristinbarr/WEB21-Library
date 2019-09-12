@@ -2196,10 +2196,10 @@ Learning objectives:
 
 | Topic               | Lecture     | GP - Restaurants |
 | ------------------- | ----------- | ---------------- |
-| CRUD ops, seed data | [🎥][crudl] | [⚙️][crudc]      |
+| CRUD ops, seed data | [🎥][crudsl] | [⚙️][crudsc]      |
 
-[crudl]:
-[crudc]: https://github.com/LambdaSchool/java-crudyrestaurants.git
+[crudsl]: https://youtu.be/vbHb5YmTi6A
+[crudsc]: https://github.com/LambdaSchool/java-crudyrestaurants.git
 
 | After Party w Henry Blevins        | Code           |
 | ---------------------------------- | -------------- |
@@ -2211,6 +2211,9 @@ Learning objectives:
 Helpful Resource Links
 
 - [Up & Running w PostgreSQL](https://www.youtube.com/watch?v=niiJ_eHPocM)
+- [Kim Swinton lambda notes | Gdoc](https://docs.google.com/document/d/1T7CL4-2MxQ52Dc4bgkUo-BZdqGPInbywozFKMyhCQc8/edit?usp=sharing)
+- [Node prototyping | RunKit](https://runkit.com/home)
+- [Lambda Expressions in Java 8 - GeeksforGeeks](https://www.geeksforgeeks.org/lambda-expressions-java-8/)
 
 Daily Project - [java-orders](https://github.com/LambdaSchool/java-orders)
 
