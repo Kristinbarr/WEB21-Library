@@ -2194,9 +2194,9 @@ Learning objectives:
 - implement a data seeding class using JPA and Hibernate
 - use Rest client to access a full CRUD Java Rest Web API application using the Module's Guide Project as an example.
 
-| Topic               | Lecture     | GP - Restaurants |
-| ------------------- | ----------- | ---------------- |
-| CRUD ops, seed data | [🎥][crudsl] | [⚙️][crudsc]      |
+| Topic               | Lecture      | GP - Restaurants |
+| ------------------- | ------------ | ---------------- |
+| CRUD ops, seed data | [🎥][crudsl] | [⚙️][crudsc]     |
 
 [crudsl]: https://youtu.be/vbHb5YmTi6A
 [crudsc]: https://github.com/LambdaSchool/java-crudyrestaurants.git
@@ -2216,5 +2216,37 @@ Helpful Resource Links
 - [Lambda Expressions in Java 8 - GeeksforGeeks](https://www.geeksforgeeks.org/lambda-expressions-java-8/)
 
 Daily Project - [java-orders](https://github.com/LambdaSchool/java-orders)
+
+#### Day 73 (Thu Sep 12): Java Data Modeling, Custom Querying with Introduction to Authentication
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec2oQCFWOVShtxIx/)
+
+Learning objectives:
+
+- trace through a Java Spring, Spring Data, JPA, Hibernate application
+- implement Spring Security and OAuth2 to provide authentication for a project.
+- use SQL, JPA and Hibernate to perform advanced query operations on a RDBMS through a Spring Application.
+- Implement in Spring Data JPA the various database entity relationships.
+- use JPA constructs to create advanced queries
+
+| Topic                                | Lecture     | GP - Restaurants |
+| ------------------------------------ | ----------- | ---------------- |
+| Data Modeling, Custom Queries, Oauth | [🎥][dmcql] | [⚙️][dmcqc]      |
+
+[dmcql]: https://www.youtube.com/watch?v=FP39Zc99QN0
+[dmcqc]: https://github.com/Kristinbarr/java-oauth2
+
+| After Party w Henry Blevins  | Code        |
+| ---------------------------- | ----------- |
+| [Node - Data Modeling][dmap] | [⚙️][dmapc] |
+
+[dmap]: https://youtu.be/_ixmnIYC2GI
+[dmapc]: https://github.com/Blevs/webdb-iii-recitation/tree/recitation
+
+Helpful Resource Links
+
+- [SQL queries cheat sheet](https://github.com/LambdaSchool/java-rdbms)
+
+Daily Project - [java-safezoos](https://github.com/LambdaSchool/java-safezoos)
 
 </details>
