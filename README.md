@@ -2249,4 +2249,8 @@ Helpful Resource Links
 
 Daily Project - [java-safezoos](https://github.com/LambdaSchool/java-safezoos)
 
+#### Day 74 (Fri Sep 13): Sprint Challenge - RDBMs and API Introduction
+
+##### Sprint Challenge: [Sprint-Challenge--RDBMS-and-API-Intros-java-todos](https://github.com/LambdaSchool/Sprint-Challenge--RDBMS-and-API-Intros-java-todos)
+
 </details>
