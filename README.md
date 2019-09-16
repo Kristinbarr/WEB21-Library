@@ -2259,16 +2259,18 @@ Daily Project - [java-safezoos](https://github.com/LambdaSchool/java-safezoos)
 
 Training Kit Weekly Sprint Overview: [Java Frameworks](https://learn.lambdaschool.com/web4java/sprint/recSqm5AAEkJcIl3p)
 
-| Career Development                         | Recording   | Slides      |
-| ------------------------------------------ | ----------- | ----------- |
-| Offers, negotiations, and NDAs with Rachel | [🎥][jfcr] | [📊][jfcs] |
+| Career Development                               | Recording  | Slides     |
+| ------------------------------------------------ | ---------- | ---------- |
+| Offers, negotiations, and NDAs with Rachel Cohen | [🎥][jfcr] | [📊][jfcs] |
 
-[jfcr]: h
+[jfcr]: https://lambdaschool.zoom.us/recording/share/18CJj72khEAsTuQwJhUEP2zzdh0v8VcjbHS0sDykiSGwIumekTziMw
 [jfcs]: https://lambdaschoolstudents.slack.com/files/UL1GPTBQR/FNDRDD5EU/offers__negotiations__ndas.pdf?origin_team=T4JUEB3ME
 
 Career Development Helpul Resource Links
 
-- []()
+- [Considering the offer 1-pager](https://drive.google.com/file/d/11SchyDwteG67rl40t-Dc7_MUTUvV9gsV/view?usp=sharing)
+- [Negotiation talking points](https://docs.google.com/document/d/1LNsgF5UIiigsrK9tAASt92uTBrjaEFSJmRWYxBXZUQ0/edit?usp=sharing)
+- [Budgeting spreadsheet](https://docs.google.com/spreadsheets/d/1Avpn9zSrcvMbWCr7FomzHRuPHGAOTnc3tZ_x7nwNb2c/edit?usp=sharing)
 
 #### Day 75 (Mon Sep 16): Exception Handling and Logging
 
@@ -2285,9 +2287,9 @@ Learning objectives:
 
 Week installs - [installing Heroku and Tomcat](https://github.com/LambdaSchool/java-installs-week03)
 
-| Topic              | Lecture    | GP -       |
-| ------------------ | ---------- | ---------- |
-| Errors and Logging | [🎥][ehll] | [⚙️][ehlc] |
+| Topic              | Lecture    | GP - exception logging |
+| ------------------ | ---------- | ---------------------- |
+| Errors and Logging | [🎥][ehll] | [⚙️][ehlc]             |
 
 [ehll]: h
 [ehlc]: https://github.com/LambdaSchool/java-oauth2ExceptionLogging
@@ -2303,7 +2305,6 @@ Helpful Resource Links
 - [Validation snippet resource](https://www.baeldung.com/javax-validation)
 - [current list of exceptions in V8](https://programming.guide/java/list-of-java-exceptions.html)
 - [current list of exceptions in V11](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Exception.html)
-
 
 Daily Project - [java-school](https://github.com/LambdaSchool/java-school.git)
 
