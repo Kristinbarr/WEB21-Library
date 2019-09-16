@@ -2253,4 +2253,49 @@ Daily Project - [java-safezoos](https://github.com/LambdaSchool/java-safezoos)
 
 ##### Sprint Challenge: [Sprint-Challenge--RDBMS-and-API-Intros-java-todos](https://github.com/LambdaSchool/Sprint-Challenge--RDBMS-and-API-Intros-java-todos)
 
+## Week 16 Sprint - Java Frameworks
+
+<details><summary>click to open</summary>
+
+Training Kit Weekly Sprint Overview: [Java Frameworks](https://learn.lambdaschool.com/web4java/sprint/recSqm5AAEkJcIl3p)
+
+| Career Development                         | Recording   | Slides      |
+| ------------------------------------------ | ----------- | ----------- |
+| Offers, negotiations, and NDAs with Rachel | [🎥][asmcr] | [📊][asmcs] |
+
+[asmcr]: h
+[asmcs]: h
+
+Career Development Helpul Resource Links
+
+- []()
+
+#### Day 75 (Mon Sep 16): Exception Handling and Logging
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec3E1WYDyoiEF1e3/)
+
+Learning objectives:
+
+- install the software needed for Week 3 for the Java Back End Course.
+- troubleshoot running services using both system and programmatically generated logs
+- dynamically change levels of logging
+- implement industry standard exception handling including user friendly exception messages
+- Implement exception handling using a variety of Java constructs
+- explain what middleware is and its different types.
+
+Week installs - [installing Heroku and Tomcat](https://github.com/LambdaSchool/java-installs-week03)
+
+| Topic              | Lecture   | GP -      |
+| ------------------ | --------- | --------- |
+| Errors and Logging | [🎥][ehll] | [⚙️][ehlc] |
+
+[ehll]: h
+[ehlc]: https://github.com/LambdaSchool/java-oauth2ExceptionLogging
+
+Helpful Resource Links
+
+- []()
+
+Daily Project - [java-school](https://github.com/LambdaSchool/java-school.git)
+
 </details>
