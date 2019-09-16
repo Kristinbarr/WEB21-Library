@@ -2294,6 +2294,13 @@ Week installs - [installing Heroku and Tomcat](https://github.com/LambdaSchool/j
 [ehll]: h
 [ehlc]: https://github.com/LambdaSchool/java-oauth2ExceptionLogging
 
+| After Party w Henry Blevins    | Code         |
+| ------------------------------ | ------------ |
+| [Node - Webdb postgres][nwpap] | [⚙️][nwpapc] |
+
+[nwpap]: https://youtu.be/_483yj45jcw
+[nwpapc]: https://github.com/Blevs/webdb-postgres
+
 Helpful Resource Links
 
 - [Logback - logging layouts](https://logback.qos.ch/manual/layouts.html)
