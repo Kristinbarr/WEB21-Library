@@ -2261,10 +2261,10 @@ Training Kit Weekly Sprint Overview: [Java Frameworks](https://learn.lambdaschoo
 
 | Career Development                         | Recording   | Slides      |
 | ------------------------------------------ | ----------- | ----------- |
-| Offers, negotiations, and NDAs with Rachel | [🎥][asmcr] | [📊][asmcs] |
+| Offers, negotiations, and NDAs with Rachel | [🎥][jfcr] | [📊][jfcs] |
 
-[asmcr]: h
-[asmcs]: h
+[jfcr]: h
+[jfcs]: https://lambdaschoolstudents.slack.com/files/UL1GPTBQR/FNDRDD5EU/offers__negotiations__ndas.pdf?origin_team=T4JUEB3ME
 
 Career Development Helpul Resource Links
 
@@ -2285,8 +2285,8 @@ Learning objectives:
 
 Week installs - [installing Heroku and Tomcat](https://github.com/LambdaSchool/java-installs-week03)
 
-| Topic              | Lecture   | GP -      |
-| ------------------ | --------- | --------- |
+| Topic              | Lecture    | GP -       |
+| ------------------ | ---------- | ---------- |
 | Errors and Logging | [🎥][ehll] | [⚙️][ehlc] |
 
 [ehll]: h
@@ -2294,7 +2294,16 @@ Week installs - [installing Heroku and Tomcat](https://github.com/LambdaSchool/j
 
 Helpful Resource Links
 
-- []()
+- [Logback - logging layouts](https://logback.qos.ch/manual/layouts.html)
+- [SLF4J: Different Log Files for Different Log Levels - MBcoder](https://logback.qos.ch/manual/layouts.html)
+- [](https://www.baeldung.com/spring-boot-actuators)
+- [Sring Boot Actuators - Endpoints](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-endpoints.html)
+- [HTTP Statuses | Spring Docs](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/http/HttpStatus.html)
+- [Problem Details for HTTP APIs](https://tools.ietf.org/html/draft-nottingham-http-problem-07)
+- [Validation snippet resource](https://www.baeldung.com/javax-validation)
+- [current list of exceptions in V8](https://programming.guide/java/list-of-java-exceptions.html)
+- [current list of exceptions in V11](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Exception.html)
+
 
 Daily Project - [java-school](https://github.com/LambdaSchool/java-school.git)
 
