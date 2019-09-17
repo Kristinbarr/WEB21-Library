@@ -2329,19 +2329,20 @@ Learning objectives:
 | Paging and Sorting with Swagger | [🎥][pssl] | [⚙️][pssc]         |
 
 [pssl]: h
-[pssc]: https://github.com/LambdaSchool/java-oauth2ExceptionLogging
+[pssc]: https://github.com/LambdaSchool/java-pages-swagger.git
 
 | After Party w Henry Blevins | Code      |
 | --------------------------- | --------- |
-| [Node - ][ap]               | [⚙️][apc] |
+| [Node - Web Auth1][wa1ap]               | [⚙️][wa1apc] |
 
-[ap]: h
-[apc]: h
+[wa1ap]: https://youtu.be/-URfEGeLBTQ
+[wa1apc]: https://github.com/Blevs/webauth-i-recitation/tree/recitation
 
 Helpful Resource Links
 
-- []()
+- [Java Bean Validation Basics | Baeldung](https://www.baeldung.com/javax-validation)
+- [Generate printable version of swagger documentation](http://editor.swagger.io/)
 
-Daily Project - [java-school](https://github.com/LambdaSchool/java-school.git)
+Daily Project - [java-schoolpagesswagger](https://github.com/LambdaSchool/java-schoolpagesswagger.git)
 
 </details>
