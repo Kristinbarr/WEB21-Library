@@ -2315,4 +2315,33 @@ Helpful Resource Links
 
 Daily Project - [java-school](https://github.com/LambdaSchool/java-school.git)
 
+#### Day 76 (Tue Sep 17): Paging and Sorting with Detailed Swagger Documentation
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rectsFbVqprkP0Zor/)
+
+Learning objectives:
+
+- implement paging and sorting to display chunks of large dataset.
+- document a REST service using Swagger
+
+| Topic                           | Lecture    | GP - pages-swagger |
+| ------------------------------- | ---------- | ------------------ |
+| Paging and Sorting with Swagger | [🎥][pssl] | [⚙️][pssc]         |
+
+[pssl]: h
+[pssc]: https://github.com/LambdaSchool/java-oauth2ExceptionLogging
+
+| After Party w Henry Blevins | Code      |
+| --------------------------- | --------- |
+| [Node - ][ap]               | [⚙️][apc] |
+
+[ap]: h
+[apc]: h
+
+Helpful Resource Links
+
+- []()
+
+Daily Project - [java-school](https://github.com/LambdaSchool/java-school.git)
+
 </details>
