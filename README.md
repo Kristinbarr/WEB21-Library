@@ -2344,8 +2344,39 @@ Helpful Resource Links
 - [Generate printable version of swagger documentation](http://editor.swagger.io/)
 - [Difference between FetchType LAZY and EAGER in Java Persistence API?](https://stackoverflow.com/questions/2990799/difference-between-fetchtype-lazy-and-eager-in-java-persistence-api)
 - [A beginner's guide to Hibernate fetching strategies - Vlad Mihalcea](https://vladmihalcea.com/hibernate-facts-the-importance-of-fetch-strategy/)
-- [React Auth wuth Java Backend with Jonathan Heinz](https://youtu.be/QjOFK4GRa4k)
+- [React Auth with Java Backend with Jonathan Heinz](https://youtu.be/QjOFK4GRa4k)
 
 Daily Project - [java-schoolpagesswagger](https://github.com/LambdaSchool/java-schoolpagesswagger.git)
+
+#### Day 77 (Wed Sep 18): Automated Testing using TDD
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recDboXln5wm4aKJt/)
+
+Learning objectives:
+
+- follow the TDD model using JUnit, RestAssured, mocks and stubs.
+- explain what automated testing is and why it is important.
+- use JUnit to write, run, and interpret the output of unit tests.
+
+| Topic | Lecture    | GP - Java Restaurants |
+| ----- | ---------- | --------------------- |
+| TDD   | [🎥][tddl] | [⚙️][tddc]            |
+
+[tddl]:
+[tddc]: https://github.com/LambdaSchool/java-restaurants
+
+| After Party w Henry Blevins | Code         |
+| --------------------------- | ------------ |
+| [Node - Web Auth2][wa2ap]   | [⚙️][wa2apc] |
+
+[wa2ap]:
+[wa2apc]:
+
+Helpful Resource Links
+
+- [](https://javabrains.io/courses/spring_bootquickstart/)
+
+Daily Project - [java-schooltest](https://github.com/LambdaSchool/java-schooltest)
+
 
 </details>
