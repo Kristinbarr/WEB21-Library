@@ -2365,18 +2365,17 @@ Learning objectives:
 [tddl]:
 [tddc]: https://github.com/LambdaSchool/java-restaurants
 
-| After Party w Henry Blevins | Code         |
-| --------------------------- | ------------ |
-| [Node - Web Auth2][wa2ap]   | [⚙️][wa2apc] |
+| After Party w Henry Blevins         | Code         |
+| ----------------------------------- | ------------ |
+| [Web Auth2 Cookies and CORS][wa2ap] | [⚙️][wa2apc] |
 
-[wa2ap]:
-[wa2apc]:
+[wa2ap]: https://youtu.be/vGaHggC_VFo
+[wa2apc]: https://github.com/Blevs/webauth-ii-recitation
 
 Helpful Resource Links
 
-- [](https://javabrains.io/courses/spring_bootquickstart/)
+- [Spring Boot Quick Start | Java Brains](https://javabrains.io/courses/spring_bootquickstart/)
 
 Daily Project - [java-schooltest](https://github.com/LambdaSchool/java-schooltest)
-
 
 </details>
