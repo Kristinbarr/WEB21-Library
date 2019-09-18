@@ -2291,7 +2291,7 @@ Week installs - [installing Heroku and Tomcat](https://github.com/LambdaSchool/j
 | ------------------ | ---------- | ---------------------- |
 | Errors and Logging | [🎥][ehll] | [⚙️][ehlc]             |
 
-[ehll]: h
+[ehll]: https://youtu.be/DZEFzukiG54
 [ehlc]: https://github.com/LambdaSchool/java-oauth2ExceptionLogging
 
 | After Party w Henry Blevins    | Code         |
@@ -2328,12 +2328,12 @@ Learning objectives:
 | ------------------------------- | ---------- | ------------------ |
 | Paging and Sorting with Swagger | [🎥][pssl] | [⚙️][pssc]         |
 
-[pssl]: h
+[pssl]: https://youtu.be/FMbeLC7NZ9A
 [pssc]: https://github.com/LambdaSchool/java-pages-swagger.git
 
-| After Party w Henry Blevins | Code      |
-| --------------------------- | --------- |
-| [Node - Web Auth1][wa1ap]               | [⚙️][wa1apc] |
+| After Party w Henry Blevins | Code         |
+| --------------------------- | ------------ |
+| [Node - Web Auth1][wa1ap]   | [⚙️][wa1apc] |
 
 [wa1ap]: https://youtu.be/-URfEGeLBTQ
 [wa1apc]: https://github.com/Blevs/webauth-i-recitation/tree/recitation
@@ -2344,6 +2344,7 @@ Helpful Resource Links
 - [Generate printable version of swagger documentation](http://editor.swagger.io/)
 - [Difference between FetchType LAZY and EAGER in Java Persistence API?](https://stackoverflow.com/questions/2990799/difference-between-fetchtype-lazy-and-eager-in-java-persistence-api)
 - [A beginner's guide to Hibernate fetching strategies - Vlad Mihalcea](https://vladmihalcea.com/hibernate-facts-the-importance-of-fetch-strategy/)
+- [React Auth wuth Java Backend with Jonathan Heinz](https://youtu.be/QjOFK4GRa4k)
 
 Daily Project - [java-schoolpagesswagger](https://github.com/LambdaSchool/java-schoolpagesswagger.git)
 
