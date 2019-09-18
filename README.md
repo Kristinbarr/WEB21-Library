@@ -2342,6 +2342,8 @@ Helpful Resource Links
 
 - [Java Bean Validation Basics | Baeldung](https://www.baeldung.com/javax-validation)
 - [Generate printable version of swagger documentation](http://editor.swagger.io/)
+- [Difference between FetchType LAZY and EAGER in Java Persistence API?](https://stackoverflow.com/questions/2990799/difference-between-fetchtype-lazy-and-eager-in-java-persistence-api)
+- [A beginner's guide to Hibernate fetching strategies - Vlad Mihalcea](https://vladmihalcea.com/hibernate-facts-the-importance-of-fetch-strategy/)
 
 Daily Project - [java-schoolpagesswagger](https://github.com/LambdaSchool/java-schoolpagesswagger.git)
 
