@@ -2236,6 +2236,8 @@ Learning objectives:
 [dmcql]: https://www.youtube.com/watch?v=FP39Zc99QN0
 [dmcqc]: https://github.com/Kristinbarr/java-oauth2
 
+[Q&A with John Mitchell](https://youtu.be/ct1wqnNGOms)
+
 | After Party w Henry Blevins  | Code        |
 | ---------------------------- | ----------- |
 | [Node - Data Modeling][dmap] | [⚙️][dmapc] |
@@ -2252,6 +2254,9 @@ Daily Project - [java-safezoos](https://github.com/LambdaSchool/java-safezoos)
 #### Day 74 (Fri Sep 13): Sprint Challenge - RDBMs and API Introduction
 
 ##### Sprint Challenge: [Sprint-Challenge--RDBMS-and-API-Intros-java-todos](https://github.com/LambdaSchool/Sprint-Challenge--RDBMS-and-API-Intros-java-todos)
+
+[Q&A with John Mitchell](https://youtu.be/Op1h4QpAEfA)
+
 
 ## Week 16 Sprint - Java Frameworks
 
@@ -2365,6 +2370,10 @@ Learning objectives:
 [tddl]:
 [tddc]: https://github.com/LambdaSchool/java-restaurants
 
+| Q&A with John Mitchell | code |
+|-------------|-----|
+| [] | [] |
+
 | After Party w Henry Blevins         | Code         |
 | ----------------------------------- | ------------ |
 | [Web Auth2 Cookies and CORS][wa2ap] | [⚙️][wa2apc] |
@@ -2375,6 +2384,7 @@ Learning objectives:
 Helpful Resource Links
 
 - [Spring Boot Quick Start | Java Brains](https://javabrains.io/courses/spring_bootquickstart/)
+- [Command Line Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/)
 
 Daily Project - [java-schooltest](https://github.com/LambdaSchool/java-schooltest)
 
