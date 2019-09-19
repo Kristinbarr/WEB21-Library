@@ -2078,6 +2078,8 @@ Daily Project - [java-athletes](https://github.com/LambdaSchool/java-athletes.gi
 
 ##### Sprint Challenge: [Sprint-Challenge--Java-Fundamentals-piggybank](https://github.com/LambdaSchool/Sprint-Challenge--Java-Fundamentals-piggybank)
 
+</details>
+
 ## Week 15 Sprint - RDBMs and API Introduction
 
 <details><summary>click to open</summary>
@@ -2257,6 +2259,7 @@ Daily Project - [java-safezoos](https://github.com/LambdaSchool/java-safezoos)
 
 [Q&A with John Mitchell](https://youtu.be/Op1h4QpAEfA)
 
+</details>
 
 ## Week 16 Sprint - Java Frameworks
 
@@ -2336,6 +2339,8 @@ Learning objectives:
 [pssl]: https://youtu.be/FMbeLC7NZ9A
 [pssc]: https://github.com/LambdaSchool/java-pages-swagger.git
 
+[Q&A with John Mitchell]()
+
 | After Party w Henry Blevins | Code         |
 | --------------------------- | ------------ |
 | [Node - Web Auth1][wa1ap]   | [⚙️][wa1apc] |
@@ -2367,12 +2372,15 @@ Learning objectives:
 | ----- | ---------- | --------------------- |
 | TDD   | [🎥][tddl] | [⚙️][tddc]            |
 
-[tddl]:
+[tddl]: https://youtu.be/G2PP1vNl0Bc
 [tddc]: https://github.com/LambdaSchool/java-restaurants
 
-| Q&A with John Mitchell | code |
-|-------------|-----|
-| [] | [] |
+| Q&A with John Mitchell | code - products |
+| ---------------------- | --------------- |
+| [🎥09-18-19][day77qa]          | [⚙️][day77qac]  |
+
+[day77qa]: https://youtu.be/GB74CGT_djI
+[day77qac]: https://github.com/Kristinbarr/QA_products_091819
 
 | After Party w Henry Blevins         | Code         |
 | ----------------------------------- | ------------ |
@@ -2385,6 +2393,7 @@ Helpful Resource Links
 
 - [Spring Boot Quick Start | Java Brains](https://javabrains.io/courses/spring_bootquickstart/)
 - [Command Line Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/)
+- [Swagger Annotations](https://github.com/swagger-api/swagger-core/wiki/Annotations)
 
 Daily Project - [java-schooltest](https://github.com/LambdaSchool/java-schooltest)
 
