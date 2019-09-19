@@ -2404,4 +2404,44 @@ Helpful Resource Links
 
 Daily Project - [java-schooltest](https://github.com/LambdaSchool/java-schooltest)
 
+
+#### Day 78 (Wed Sep 19): Java Deployment and Best Practices
+
+##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec7pCiBPzI4DkAJT/)
+
+Learning objectives:
+
+- connect a Spring Back End Application to a JavaScript based front end application
+- connect a Spring Back End application to a Java based front end application
+- locally deploy a full RESTful Web Services application with a JAR and WAR using PostgreSQL, Maven, Spring including Spring Boot, and Tomcat
+- deploy to a cloud service a full RESTful Web Services application with a JAR using PostgreSQL, Maven, Spring including Spring Boot, and Tomcat
+- use CURL to perform CRUD operations using a Spring Application
+
+| Topic | Lecture    | GP - Java Restaurants |
+| ----- | ---------- | --------------------- |
+| TDD   | [🎥][jdl] | [⚙️][jdc]            |
+
+[jdl]:
+[jdc]: https://github.com/LambdaSchool/java-starthere
+
+| Q&A with John Mitchell | code - products |
+| ---------------------- | --------------- |
+| [🎥09-19-19][day78qa]  | [⚙️][day78qac]  |
+
+[day78qa]:
+[day78qac]:
+
+| After Party w Henry Blevins         | Code         |
+| ----------------------------------- | ------------ |
+| [Web Auth 3 - JSON Web Tokens][wa3ap] | [⚙️][wa3apc] |
+
+[wa3ap]: https://youtu.be/LHLoTuxYwIk
+[wa3apc]: https://github.com/Blevs/webauth-iii-recitation
+
+Helpful Resource Links
+
+- []()
+
+Daily Project - [java-schooldeploy](https://github.com/LambdaSchool/java-schooldeploy)
+
 </details>
