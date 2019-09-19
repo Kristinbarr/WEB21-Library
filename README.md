@@ -2261,6 +2261,7 @@ Daily Project - [java-safezoos](https://github.com/LambdaSchool/java-safezoos)
 
 </details>
 
+
 ## Week 16 Sprint - Java Frameworks
 
 <details><summary>click to open</summary>
@@ -2339,7 +2340,13 @@ Learning objectives:
 [pssl]: https://youtu.be/FMbeLC7NZ9A
 [pssc]: https://github.com/LambdaSchool/java-pages-swagger.git
 
-[Q&A with John Mitchell]()
+| Q&A with John Mitchell | code - products |
+| ---------------------- | --------------- |
+| [🎥09-17-19][day76qa]  | [⚙️][day76qac]  |
+
+[day76qa]: https://youtu.be/FzAFmqg7gCk
+[day76qac]: https://github.com/Kristinbarr/QA_products_091719
+
 
 | After Party w Henry Blevins | Code         |
 | --------------------------- | ------------ |
@@ -2356,7 +2363,7 @@ Helpful Resource Links
 - [A beginner's guide to Hibernate fetching strategies - Vlad Mihalcea](https://vladmihalcea.com/hibernate-facts-the-importance-of-fetch-strategy/)
 - [React Auth with Java Backend with Jonathan Heinz](https://youtu.be/QjOFK4GRa4k)
 
-Daily Project - [java-schoolpagesswagger](https://github.com/LambdaSchool/java-schoolpagesswagger.git)
+##### Daily Project - [java-schoolpagesswagger](https://github.com/LambdaSchool/java-schoolpagesswagger.git)
 
 #### Day 77 (Wed Sep 18): Automated Testing using TDD
 
@@ -2377,7 +2384,7 @@ Learning objectives:
 
 | Q&A with John Mitchell | code - products |
 | ---------------------- | --------------- |
-| [🎥09-18-19][day77qa]          | [⚙️][day77qac]  |
+| [🎥09-18-19][day77qa]  | [⚙️][day77qac]  |
 
 [day77qa]: https://youtu.be/GB74CGT_djI
 [day77qac]: https://github.com/Kristinbarr/QA_products_091819
