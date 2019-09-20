@@ -2261,7 +2261,6 @@ Daily Project - [java-safezoos](https://github.com/LambdaSchool/java-safezoos)
 
 </details>
 
-
 ## Week 16 Sprint - Java Frameworks
 
 <details><summary>click to open</summary>
@@ -2347,7 +2346,6 @@ Learning objectives:
 [day76qa]: https://youtu.be/FzAFmqg7gCk
 [day76qac]: https://github.com/Kristinbarr/QA_products_091719
 
-
 | After Party w Henry Blevins | Code         |
 | --------------------------- | ------------ |
 | [Node - Web Auth1][wa1ap]   | [⚙️][wa1apc] |
@@ -2404,7 +2402,6 @@ Helpful Resource Links
 
 Daily Project - [java-schooltest](https://github.com/LambdaSchool/java-schooltest)
 
-
 #### Day 78 (Thu Sep 19): Java Deployment and Best Practices
 
 [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec7pCiBPzI4DkAJT/)
@@ -2417,22 +2414,17 @@ Learning objectives:
 - deploy to a cloud service a full RESTful Web Services application with a JAR using PostgreSQL, Maven, Spring including Spring Boot, and Tomcat
 - use CURL to perform CRUD operations using a Spring Application
 
-| Topic | Lecture    | GP - Java Restaurants |
-| ----- | ---------- | --------------------- |
-| TDD   | [🎥][jdl] | [⚙️][jdc]            |
+| Topic | Lecture   | GP - Java Restaurants |
+| ----- | --------- | --------------------- |
+| TDD   | [🎥][jdl] | [⚙️][jdc]             |
 
 [jdl]:
 [jdc]: https://github.com/LambdaSchool/java-starthere
 
-| Q&A with John Mitchell | code - products |
-| ---------------------- | --------------- |
-| [🎥09-19-19][day78qa]  | [⚙️][day78qac]  |
+[Q&A with John Mitchell](https://youtu.be/Kn1lxaiadtY)
 
-[day78qa]:
-[day78qac]:
-
-| After Party w Henry Blevins         | Code         |
-| ----------------------------------- | ------------ |
+| After Party w Henry Blevins           | Code         |
+| ------------------------------------- | ------------ |
 | [Web Auth 3 - JSON Web Tokens][wa3ap] | [⚙️][wa3apc] |
 
 [wa3ap]: https://youtu.be/LHLoTuxYwIk
@@ -2441,6 +2433,7 @@ Learning objectives:
 Helpful Resource Links
 
 - [The world's largest ebook library | Z-Library](https://z-lib.org/)
+- [The SQL Tutorial for Data Analysis | Mode](https://mode.com/sql-tutorial/introduction-to-sql)
 
 Daily Project - [java-schooldeploy](https://github.com/LambdaSchool/java-schooldeploy)
 
