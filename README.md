@@ -2444,4 +2444,8 @@ Helpful Resource Links
 
 Daily Project - [java-schooldeploy](https://github.com/LambdaSchool/java-schooldeploy)
 
+#### Day 79 (Fri Sep 20): Sprint Challenge - Java Deployment and Best Practices
+
+[Sprint-Challenge--Java-Frameworks-java-bookstore](https://github.com/LambdaSchool/Sprint-Challenge--Java-Frameworks-java-bookstore)
+
 </details>
