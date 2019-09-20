@@ -108,11 +108,11 @@ Job Search and Interviewing
 
 #### Day 1 (Tue May 28): User Interface 1 & 2
 
-##### Training Kit Weekly Sprint Overview: [Intro to UI & Git](https://learn.lambdaschool.com/fsw/sprint/recfwzvi7qhma7xbg)
+Training Kit Weekly Sprint Overview: [Intro to UI & Git](https://learn.lambdaschool.com/fsw/sprint/recfwzvi7qhma7xbg)
 
-##### Training Kit Pre-Work: [User Interface 1](https://learn.lambdaschool.com/fsw/module/recl0IyzS2Vl89lZa/)
+Training Kit Pre-Work: [User Interface 1](https://learn.lambdaschool.com/fsw/module/recl0IyzS2Vl89lZa/)
 
-##### Training Kit Pre-Work: [User Interface 2](https://learn.lambdaschool.com/fsw/module/recGvXyWT6AvGtMHR/)
+Training Kit Pre-Work: [User Interface 2](https://learn.lambdaschool.com/fsw/module/recGvXyWT6AvGtMHR/)
 
 | Topic    | Lecture       |
 | -------- | ------------- |
@@ -151,7 +151,7 @@ Helpful Resources & Links
 
 #### Day 2 (Wed May 29): User Interface 3
 
-##### Training Kit Pre-Work: [User Interface 3](https://learn.lambdaschool.com/fsw/module/recaVbBZhh8BTyMdM/)
+Training Kit Pre-Work: [User Interface 3](https://learn.lambdaschool.com/fsw/module/recaVbBZhh8BTyMdM/)
 
 | Topic | Lecture    | Code       |
 | ----- | ---------- | ---------- |
@@ -182,7 +182,7 @@ Helpful Resources & Links
 
 ### Day 3 (Thu May 30): Git for Web Development
 
-##### Training Kit Pre-Work: [Git for Web Dev](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
+Training Kit Pre-Work: [Git for Web Dev](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
 
 | Topic      | Lecture    | Code |
 | ---------- | ---------- | ---- |
@@ -218,9 +218,9 @@ Helpful Resource Links
 
 #### Day 4 (Fri May 31): Sprint Challenge - CSS, Flexbox
 
-##### Sprint Challenge: [Sprint-Challenge--User-Interface](https://github.com/LambdaSchool/Sprint-Challenge--User-Interface)
+Sprint Challenge: [Sprint-Challenge--User-Interface](https://github.com/LambdaSchool/Sprint-Challenge--User-Interface)
 
-##### Career Development: [LS1905 2nd Orientation](https://youtu.be/upvCDyefikE)
+Career Development: [LS1905 2nd Orientation](https://youtu.be/upvCDyefikE)
 
 </details>
 
@@ -228,13 +228,13 @@ Helpful Resource Links
 
 <details><summary>click to open</summary>
 
-##### Training Kit Weekly Sprint Overview: [Advanced CSS](https://learn.lambdaschool.com/fsw/sprint/recixiqgpgmdj81ms)
+Training Kit Weekly Sprint Overview: [Advanced CSS](https://learn.lambdaschool.com/fsw/sprint/recixiqgpgmdj81ms)
 
-##### Training Kit Career Development: [Intro to Careers and the Tech Landscape](https://learn.lambdaschool.com/cd/sprint/recFsbIJCXzTlWydm)
+Training Kit Career Development: [Intro to Careers and the Tech Landscape](https://learn.lambdaschool.com/cd/sprint/recFsbIJCXzTlWydm)
 
-##### Career Development Lecture: [Intro to Careers and the Tech Field](https://youtu.be/jX5f-yygH9k)
+Career Development Lecture: [Intro to Careers and the Tech Field](https://youtu.be/jX5f-yygH9k)
 
-##### Training Kit Pre-Work: [Responsive Design 1](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
+Training Kit Pre-Work: [Responsive Design 1](https://learn.lambdaschool.com/fsw/module/recudrqsgpwcepcms)
 
 #### Day 5 (Mon Jun 3): Responsive Design 1
 
@@ -260,7 +260,7 @@ Helpful Resource Links
 
 #### Day 6 (Tue Jun 4): Responsive Design 2
 
-##### Training Kit Pre-work: [Responsive Design 2](https://learn.lambdaschool.com/fsw/module/rece3iqptdxavi0dw)
+Training Kit Pre-work: [Responsive Design 2](https://learn.lambdaschool.com/fsw/module/rece3iqptdxavi0dw)
 
 | Topic | Lecture    | Code       | Slido      |
 | ----- | ---------- | ---------- | ---------- |
@@ -290,7 +290,7 @@ Helpful Resource Links
 
 #### Day 7 (Wed Jun 5): Preprocessing 1
 
-##### Training Kit Pre-Work: [Preprocessing 1](https://learn.lambdaschool.com/fsw/module/reculyBhIYkuoBRqh/)
+Training Kit Pre-Work: [Preprocessing 1](https://learn.lambdaschool.com/fsw/module/reculyBhIYkuoBRqh/)
 
 | Topic | Lecture    | Code       |
 | ----- | ---------- | ---------- |
@@ -312,7 +312,7 @@ Helpful Resource Links
 
 #### Day 8 (Thur Jun 6): Preprocessing 2
 
-##### Training Kit Pre-Work: [Preprocessing 2](https://learn.lambdaschool.com/fsw/module/rec1hRu3bO6L0uxn2/)
+Training Kit Pre-Work: [Preprocessing 2](https://learn.lambdaschool.com/fsw/module/rec1hRu3bO6L0uxn2/)
 
 | Topic | Lecture    | slido      | Code       |
 | ----- | ---------- | ---------- | ---------- |
@@ -331,7 +331,7 @@ Helpful Resource Links
 
 #### Day 9 (Fri Jun 7): Sprint Challenge - Media Queries, pre-processors
 
-##### Sprint Challenge: [Sprint-Challenge--Advanced-CSS](https://github.com/LambdaSchool/Sprint-Challenge--Advanced-CSS)
+Sprint Challenge: [Sprint-Challenge--Advanced-CSS](https://github.com/LambdaSchool/Sprint-Challenge--Advanced-CSS)
 
 </details>
 
@@ -341,11 +341,11 @@ Helpful Resource Links
 
 #### Day 10 (Mon Jun 10): JavaScript 1
 
-##### Training Kit Weekly Sprint Overview: [JavaScript Fundamentals](https://learn.lambdaschool.com/fsw/sprint/recclZwJxMU8kUngT)
+Training Kit Weekly Sprint Overview: [JavaScript Fundamentals](https://learn.lambdaschool.com/fsw/sprint/recclZwJxMU8kUngT)
 
-##### Career Development: [Team Dynamics and Feedback](https://youtu.be/qJ1OYfsBri4)
+Career Development: [Team Dynamics and Feedback](https://youtu.be/qJ1OYfsBri4)
 
-##### Training Kit Pre-Work: [JavaScript 1](https://learn.lambdaschool.com/fsw/module/recCT3KJYTIRYwQMh/)
+Training Kit Pre-Work: [JavaScript 1](https://learn.lambdaschool.com/fsw/module/recCT3KJYTIRYwQMh/)
 
 | Topic | Lecture    | Slido      | Guided Project |
 | ----- | ---------- | ---------- | -------------- |
@@ -371,7 +371,7 @@ Helpful Resource Links
 
 #### Day 11 (Tues Jun 11): JavaScript 2
 
-##### Training Kit Pre-Work: [JavaScript 2](https://learn.lambdaschool.com/fsw/module/rec1oaBmEoSilO2yf/)
+Training Kit Pre-Work: [JavaScript 2](https://learn.lambdaschool.com/fsw/module/rec1oaBmEoSilO2yf/)
 
 | Topic | Lecture    | slido      | Code       | Guided Project |
 | ----- | ---------- | ---------- | ---------- | -------------- |
@@ -409,7 +409,7 @@ Helpful Resource Links
 
 #### Day 12 (Wed Jun 12): JavaScript 3
 
-##### Training Kit Pre-Work: [JavaScript 3](https://learn.lambdaschool.com/fsw/module/rec0AWuNLezbpit7m/)
+Training Kit Pre-Work: [JavaScript 3](https://learn.lambdaschool.com/fsw/module/rec0AWuNLezbpit7m/)
 
 | Topic | Lecture    | Guided Project | Breakout Code |
 | ----- | ---------- | -------------- | ------------- |
@@ -432,7 +432,7 @@ Helpful Resource Links
 
 #### Day 13 (Thu Jun 13): JavaScript 4
 
-##### Training Kit Pre-Work: [JavaScript 4](https://learn.lambdaschool.com/fsw/module/recyS588eOvVUKAMc/)
+Training Kit Pre-Work: [JavaScript 4](https://learn.lambdaschool.com/fsw/module/recyS588eOvVUKAMc/)
 
 | Topic | Lecture    | Slido      | Guided Project | Breakout Challenge | Breakout Solution |
 | ----- | ---------- | ---------- | -------------- | ------------------ | ----------------- |
@@ -463,7 +463,7 @@ Helpful Resource Links
 
 #### Day 14 (Fri Jun 14): Sprint Challenge - JavaScript Fundamentals
 
-##### Sprint-Challenge: [Sprint-Challenge--JavaScript](https://github.com/LambdaSchool/Sprint-Challenge--JavaScript)
+Sprint-Challenge: [Sprint-Challenge--JavaScript](https://github.com/LambdaSchool/Sprint-Challenge--JavaScript)
 
   </details>
 
@@ -473,7 +473,7 @@ Helpful Resource Links
 
 #### Day 15 (Mon Jun 17): DOM 1
 
-##### Career Development: [Financial Planning, Offers, and Negotiations](https://youtu.be/L-UX0pkVuVc)
+Career Development: [Financial Planning, Offers, and Negotiations](https://youtu.be/L-UX0pkVuVc)
 
 Helpful Career Development Links:
 
@@ -482,9 +482,9 @@ Helpful Career Development Links:
 - [You need a budget](https://www.youneedabudget.com/)
 - [Simple | Online Banking With Built-In Budgeting & Saving Tools](https://www.simple.com/)
 
-##### Training Kit Weekly Sprint Overview: [Applied JS](https://learn.lambdaschool.com/fsw/sprint/recPSZMPrmESUYo2C)
+Training Kit Weekly Sprint Overview: [Applied JS](https://learn.lambdaschool.com/fsw/sprint/recPSZMPrmESUYo2C)
 
-##### Training Kit Pre-Work: [DOM 1](https://learn.lambdaschool.com/fsw/module/rectn5PUU5ubcQkPu/)
+Training Kit Pre-Work: [DOM 1](https://learn.lambdaschool.com/fsw/module/rectn5PUU5ubcQkPu/)
 
 | Topic | Lecture     | Slido       | Guided Project | Project Solution |
 | ----- | ----------- | ----------- | -------------- | ---------------- |
@@ -509,7 +509,7 @@ Helpful Resource Links:
 
 #### Day 16 (Tues Jun 18): DOM 2
 
-##### Training Kit Pre-Work: [DOM 2](https://learn.lambdaschool.com/fsw/module/recJWv3RIfa4NFXbn/)
+Training Kit Pre-Work: [DOM 2](https://learn.lambdaschool.com/fsw/module/recJWv3RIfa4NFXbn/)
 
 | Topic | Lecture     | slido       | Guided Project | Breakout Challenge |
 | ----- | ----------- | ----------- | -------------- | ------------------ |
@@ -533,7 +533,7 @@ Helpful Resource Links
 
 #### Day 17 (Wed Jun 19): Components 1
 
-##### Training Kit Pre-Work: [Components 1](https://learn.lambdaschool.com/fsw/module/rec847sNXZX9CVDNl/)
+Training Kit Pre-Work: [Components 1](https://learn.lambdaschool.com/fsw/module/rec847sNXZX9CVDNl/)
 
 | Topic        | Lecture     | slido       | Guided Project | Guided Solution |
 | ------------ | ----------- | ----------- | -------------- | --------------- |
@@ -554,7 +554,7 @@ Helpful Resource Links
 
 #### Day 18 (Thu Jun 20): Components 2
 
-##### Training Kit Pre-Work: [Components 2](https://learn.lambdaschool.com/fsw/module/recd6kDKS6eMapSRq/)
+Training Kit Pre-Work: [Components 2](https://learn.lambdaschool.com/fsw/module/recd6kDKS6eMapSRq/)
 
 | Topic        | Lecture     | Slido       | Guided Proj(Accordian) | Guided Proj Solution |
 | ------------ | ----------- | ----------- | ---------------------- | -------------------- |
@@ -572,7 +572,7 @@ Helpful Resource Links
 
 #### Day 19 (Fri Jun 21): Sprint Challenge - Applied JavaScript
 
-##### Sprint Challenge: [Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-Applied-Javascript)
+Sprint Challenge: [Sprint-Challenge-Applied-Javascript](https://github.com/LambdaSchool/Sprint-Challenge-Applied-Javascript)
 
   </details>
 
@@ -655,9 +655,9 @@ Helpful Resource Links
 
 <details><summary>click to open</summary>
 
-##### Training Kit Weekly Sprint Overview: [Applied Javascript](https://learn.lambdaschool.com/web2/sprint/recPSZMPrmESUYo2C)
+Training Kit Weekly Sprint Overview: [Applied Javascript](https://learn.lambdaschool.com/web2/sprint/recPSZMPrmESUYo2C)
 
-##### Career Development:[Portfolios and Artifacts Lecture](https://youtu.be/WXuvOYJ7yEQ)
+Career Development:[Portfolios and Artifacts Lecture](https://youtu.be/WXuvOYJ7yEQ)
 
 > - [Portfolio rubric](https://drive.google.com/file/d/1g24hcozfJLAMPHIlFRo2RDFstpiZW-p8/view)
 > - [Blog rubric](https://drive.google.com/file/d/1ovpUZXfzv9YetKVuFFLBIuCrf4uV396u/view?usp=sharing)
@@ -670,7 +670,7 @@ next week: [Team Dynamics and Feedback](https://youtu.be/qJ1OYfsBri4)
 
 #### Day 25 (Mon Jul 8): DOM 1
 
-##### Training Kit Pre-Work: [DOM 1](https://learn.lambdaschool.com/web2/module/rectn5PUU5ubcQkPu/)
+Training Kit Pre-Work: [DOM 1](https://learn.lambdaschool.com/web2/module/rectn5PUU5ubcQkPu/)
 
 Learning objectives:
 
@@ -701,7 +701,7 @@ Helpful Resource Links
 
 #### Day 26 (Tue Jul 9): DOM 2
 
-##### Training Kit Pre-Work: [DOM 2](https://learn.lambdaschool.com/web2/module/recJWv3RIfa4NFXbn/)
+Training Kit Pre-Work: [DOM 2](https://learn.lambdaschool.com/web2/module/recJWv3RIfa4NFXbn/)
 
 Learning objectives:
 
@@ -737,7 +737,7 @@ Helpful Resource Links
 
 #### Day 27 (Wed Jul 10): Components 1
 
-##### Training Kit Pre-Work: [Components 1](https://learn.lambdaschool.com/web2/module/rec847sNXZX9CVDNl/)
+Training Kit Pre-Work: [Components 1](https://learn.lambdaschool.com/web2/module/rec847sNXZX9CVDNl/)
 
 Learning objectives:
 
@@ -762,7 +762,7 @@ Learning objectives:
 
 #### Day 28 (Wed Jul 11): Components 2
 
-##### Training Kit Pre-Work: [Components 2](https://learn.lambdaschool.com/web2/module/recd6kDKS6eMapSRq)
+Training Kit Pre-Work: [Components 2](https://learn.lambdaschool.com/web2/module/recd6kDKS6eMapSRq)
 
 Learning objectives:
 
@@ -803,9 +803,9 @@ Helpful Resource Links
 
 #### Day 29 (Fri Jul 12): Sprint Challenge - Applied JavaScript
 
-##### Sprint Challenge: [Sprint-Challenge-Applied-Javascript-v2](https://github.com/LambdaSchool/Sprint-Challenge-Applied-JavaScript-v2)
+[Sprint-Challenge-Applied-Javascript-v2](https://github.com/LambdaSchool/Sprint-Challenge-Applied-JavaScript-v2)
 
-##### Lambda Expert Panel [July 2019 recording (second half)](https://youtu.be/aNv7OpFLSVI)
+Lambda Expert Panel [July 2019 recording (second half)](https://youtu.be/aNv7OpFLSVI)
 
 </details>
 
@@ -813,9 +813,9 @@ Helpful Resource Links
 
 <details><summary>click to open</summary>
 
-##### Training Kit Weekly Sprint Overview: [Intro to React](https://learn.lambdaschool.com/fsw/sprint/recYL2HDPPpkDmGEm)
+Training Kit Weekly Sprint Overview: [Intro to React](https://learn.lambdaschool.com/fsw/sprint/recYL2HDPPpkDmGEm)
 
-##### Career Development: [LinkedIn Presentation | Caitlin Forehand]()
+Career Development: [LinkedIn Presentation | Caitlin Forehand]()
 
 > - [LinkedIn Presentation Slides](https://docs.google.com/presentation/d/1fRAeas776uOTb6OjiVu2qzO8UEORICyEoi2uHwUkshg/edit?usp=sharing)
 > - [Setting up your LinkedIn Profile](https://docs.google.com/document/d/1Gp4ZjEwRUY2a1dcbXK0Ml5LE4ZzWRnUjHa9pJnNFIpo/edit)
@@ -823,7 +823,7 @@ Helpful Resource Links
 
 #### Day 30 (Mon Jul 15): React Components and Component State
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/recZau7hH8vzww14N/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/recZau7hH8vzww14N/)
 
 Learning objectives:
 
@@ -862,7 +862,7 @@ Helpful Resource Links
 
 #### Day 31 (Tue Jul 16): Composing React Components and Passing Data Via Props
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/recgzSGQtp2HYwgSR/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/recgzSGQtp2HYwgSR/)
 
 Learning objectives:
 
@@ -907,7 +907,7 @@ Helpful Resource Links
 
 #### Day 32 (Wed Jul 17): Component Side Effects
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/recKe8PW6ZMwjL1Qg/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/recKe8PW6ZMwjL1Qg/)
 
 Learning objectives:
 
@@ -944,7 +944,7 @@ Helpful Resource Links
 
 #### Day 33 (Thur Jul 18): Advanced Styling Techniques
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web2/module/recNDoSqyUw3eq1y3/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web2/module/recNDoSqyUw3eq1y3/)
 
 Learning objectives:
 
@@ -984,7 +984,7 @@ Helpful Resource Links
 
 #### Day 34 (Fri Jul 19): Sprint Challenge - Intro To React
 
-##### Sprint Challenge: [Sprint-Challenge-React-Wars](https://github.com/LambdaSchool/Sprint-Challenge-React-Wars)
+Sprint Challenge: [Sprint-Challenge-React-Wars](https://github.com/LambdaSchool/Sprint-Challenge-React-Wars)
 
 | Q&A with Dan Levy | Slido        | Code         |
 | ----------------- | ------------ | ------------ |
@@ -1000,15 +1000,15 @@ Helpful Resource Links
 
 <details><summary>click to open</summary>
 
-##### Training Kit Weekly Sprint Overview: [Single Page Applications](https://learn.lambdaschool.com/web2/sprint/recRT8JKvbTiGaosk)
+Training Kit Weekly Sprint Overview: [Single Page Applications](https://learn.lambdaschool.com/web2/sprint/recRT8JKvbTiGaosk)
 
-##### Career Development: [Networking Strategies Presentation | Kathleen Hunt](https://files.slack.com/files-pri/T4JUEB3ME-FLNBNQ60M/download/networking_strategies_and_cold_outreach.mp4)
+Career Development: [Networking Strategies Presentation | Kathleen Hunt](https://files.slack.com/files-pri/T4JUEB3ME-FLNBNQ60M/download/networking_strategies_and_cold_outreach.mp4)
 
 > - [Cold Outreach](https://youtu.be/2uqgQ3i1EEU)
 
 #### Day 35 (Mon Jul 22): React Router 1
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web2/module/rec2TJ1vrdfcnx2EG)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web2/module/rec2TJ1vrdfcnx2EG)
 
 Learning objectives:
 
@@ -1039,7 +1039,7 @@ Helpful Resource Links
 
 #### Day 36 (Tue Jul 23): React Router 2
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web2/module/recYkF1FDilIedmwX/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web2/module/recYkF1FDilIedmwX/)
 
 Learning objectives:
 
@@ -1073,7 +1073,7 @@ Helpful Resource Links
 
 #### Day 37 (Wed Jul 24): React Form Management
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web2/module/rect081xiYT2cfxGF/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web2/module/rect081xiYT2cfxGF/)
 
 Learning objectives:
 
@@ -1112,7 +1112,7 @@ Helpful Resource Links
 
 #### Day 38 (Thu Jul 25): React Composing and Sharing Non-Visual Behavior
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/recAxmnYmusEi8JuL/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/recAxmnYmusEi8JuL/)
 
 Learning objectives:
 
@@ -1314,13 +1314,13 @@ Training Kit Weekly Sprint Overview: [Advanced React](https://learn.lambdaschool
 
 Career Development:
 
-##### For this week’s assignment create a resume draft including the following:
+For this week’s assignment create a resume draft including the following:
 
 - All sections: Name/contact info, Summary (optional), Projects, Skills, Experience, Education
 - Power statements: in the experience and projects section of your resume
 - Formatting: formatting should be clean and consistent. For this first draft, we recommend plugging content into Creddle, but you can play around with the format and get more creative, if you wish!
 
-##### Once you have a finished draft, please run your resume through CV Compiler, which we’re excited to partner with to provide targeted feedback on your resume! It only takes a minute or two to get set up and use:
+Once you have a finished draft, please run your resume through CV Compiler, which we’re excited to partner with to provide targeted feedback on your resume! It only takes a minute or two to get set up and use:
 
 1. Land to the website - https://cvcompiler.com/students/lambda
 2. Login (using LinkedIn or Github) -> Fill the form
@@ -1336,7 +1336,7 @@ Career Development Helpful Resources and Links:
 
 #### Day 45 (Mon Aug 5): Class Components
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recnDKrWb24lgaziC)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recnDKrWb24lgaziC)
 
 | Coding Challenge    | Recording   |
 | ------------------- | ----------- |
@@ -1380,7 +1380,7 @@ Helpful Links from Isaiah Francios:
 
 #### Day 46 (Tue Aug 6): React Lifecycle Methods
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/rec1DPoOZSmocXfak/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/rec1DPoOZSmocXfak/)
 
 Learning objectives:
 
@@ -1411,7 +1411,7 @@ Helpful Resource Links
 
 #### Day 47 (Wed Aug 7): Advanced Form Management
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/reciwJYeSHSdkAxdh/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/fsw/module/reciwJYeSHSdkAxdh/)
 
 Learning objectives:
 
@@ -1442,7 +1442,7 @@ Helpful Resource Links
 
 #### Day 48 (Thu Aug 8): Testing Web Applications
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/rechTQVfCg4p85Hoi/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/rechTQVfCg4p85Hoi/)
 
 Learning objectives:
 
@@ -1479,7 +1479,7 @@ Helpful Resource Links
 
 #### Day 49 (Fri Aug 9): Sprint Challenge - Form Management
 
-##### Sprint Challenge: [Sprint-Challenge-Form-Management](https://github.com/LambdaSchool/Sprint-Challenge-Form-Management)
+Sprint Challenge: [Sprint-Challenge-Form-Management](https://github.com/LambdaSchool/Sprint-Challenge-Form-Management)
 
 Helpful Resource Links
 
@@ -1514,7 +1514,7 @@ All career assignments and endorsement expectations:
 
 #### Day 50 (Mon Aug 12): Context API
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recByjgF7FwwH5Z7W/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recByjgF7FwwH5Z7W/)
 
 Learning objectives:
 
@@ -1538,7 +1538,7 @@ Helpful Resource Links
 
 #### Day 51 (Tue Aug 13): The Reducer Pattern
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/rectpk6uIV3pCHJh8/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/rectpk6uIV3pCHJh8/)
 
 | Coding Challenge    |
 | ------------------- |
@@ -1575,7 +1575,7 @@ Helpful Resource Links
 
 #### Day 52 (Wed Aug 14): Redux
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recba2NUdVmgKYyR3/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recba2NUdVmgKYyR3/)
 
 Learning objectives:
 
@@ -1607,7 +1607,7 @@ Helpful Resource Links
 
 #### Day 53 (Thu Aug 15): Async Redux
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recSoiWNJzGURrXYh/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recSoiWNJzGURrXYh/)
 
 Learning objectives:
 
@@ -1636,7 +1636,7 @@ Helpful Resource Links
 
 #### Day 54 (Fri Aug 16): Sprint Challenge - Advanced State Mangement
 
-##### Sprint-Challenge: [Sprint-Challenge-State-Management-Smurfs](https://github.com/LambdaSchool/Sprint-Challenge-State-Management-Smurfs)
+[Sprint-Challenge-State-Management-Smurfs](https://github.com/LambdaSchool/Sprint-Challenge-State-Management-Smurfs)
 
 - [What's the most developer-friendly React animation library?](https://www.freshtilledsoil.com/whats-the-most-developer-friendly-react-animation-library/)
 
@@ -1661,7 +1661,7 @@ Helpul Resource Links
 
 #### Day 55 (Mon Aug 19): Testing React
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recS9H6qCj0dQe32B/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recS9H6qCj0dQe32B/)
 
 Learning objectives:
 
@@ -1691,7 +1691,7 @@ Helpful Resource Links
 
 #### Day 56 (Tue Aug 20): Client-Side Authentication
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recQlbCZf9tOVgiXC/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recQlbCZf9tOVgiXC/)
 
 Learning objectives:
 
@@ -1730,12 +1730,12 @@ Helpful Resource Links
 
 #### Day 57 (Wed Aug 21): Deploying Web Apps
 
-##### Lambda Showcase 2
+Lambda Showcase 2:
 
 - [Lambda Showcase - Intro / How to Session 1](https://youtu.be/6fBCwbOg_Ko)
 - [Previous Lambda Showcase (for demo examples)](https://lambdaschool.com/lab-demos/hire-lambda)
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/receOMvCB7dSyX5FL/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/receOMvCB7dSyX5FL/)
 
 | Code Challenge                      |
 | ----------------------------------- |
@@ -1781,7 +1781,7 @@ Helpful Resource Links
 
 #### Day 58 (Thu Aug 22): HTTP AJAX
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recupVjaAKPqbuk7Y/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web3/module/recupVjaAKPqbuk7Y/)
 
 | Code Challenge                       |
 | ------------------------------------ |
@@ -1830,7 +1830,7 @@ Helpful Resource Links
 
 #### Day 59 (Fri Aug 16): Sprint Challenge - Advanced Web Applications
 
-##### Sprint Challenge: [Sprint-Challenge-React-Bubbles](https://github.com/LambdaSchool/react-bubbles)
+[Sprint-Challenge-React-Bubbles](https://github.com/LambdaSchool/react-bubbles)
 
   </details>
 
@@ -1940,7 +1940,7 @@ Career Development Helpul Resource Links
 
 #### Day 65 (Mon Sep 2): Java 1 - JDK and Java Classes
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recAGVTYNZyJbEFpu/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recAGVTYNZyJbEFpu/)
 
 Learning objectives:
 
@@ -1972,7 +1972,7 @@ Daily Project - [java-SnackBar](https://github.com/LambdaSchool/java-SnackBar.gi
 
 #### Day 66 (Tue Sep 3): Java 2 - Language Fundamentals
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recL7w1spe3C8pvcR/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recL7w1spe3C8pvcR/)
 
 Learning objectives:
 
@@ -2006,7 +2006,7 @@ Daily Project - [java-WordCount](https://github.com/LambdaSchool/java-WordCount)
 
 #### Day 67 (Wed Sep 4): Java 3 - Interfaces, Abstract Classes, Lambda Expressions
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec6Hrk77HupYeoN5/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec6Hrk77HupYeoN5/)
 
 Learning objectives:
 
@@ -2038,7 +2038,7 @@ Daily Project - [java-AnimalKingdom](https://github.com/LambdaSchool/java-Animal
 
 #### Day 68 (Thu Sep 5): Java 4 - IntelliJ Deep Dive, Dependencies
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recRgxzhqKQqZ3BNV/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recRgxzhqKQqZ3BNV/)
 
 Learning objectives:
 
@@ -2076,7 +2076,7 @@ Daily Project - [java-athletes](https://github.com/LambdaSchool/java-athletes.gi
 
 #### Day 69 (Fri Sep 6): Sprint Challenge - Java Fundamentals
 
-##### Sprint Challenge: [Sprint-Challenge--Java-Fundamentals-piggybank](https://github.com/LambdaSchool/Sprint-Challenge--Java-Fundamentals-piggybank)
+[Sprint-Challenge--Java-Fundamentals-piggybank](https://github.com/LambdaSchool/Sprint-Challenge--Java-Fundamentals-piggybank)
 
 </details>
 
@@ -2104,7 +2104,7 @@ Helpul Resource Links
 
 #### Day 70 (Mon Sep 9): Intro to Maven, Spring, and Tomcat Using REST API
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recqtftA9E98qpbak/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recqtftA9E98qpbak/)
 
 Learning objectives:
 
@@ -2146,7 +2146,7 @@ Daily Project - [java-countries](https://github.com/LambdaSchool/java-countries)
 
 #### Day 71 (Tue Sep 10): Java RDBMS and SQL Basics
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recyJ663TrxVgpqY9/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recyJ663TrxVgpqY9/)
 
 Learning objectives:
 
@@ -2185,7 +2185,7 @@ Daily Project - [java-sql](https://github.com/LambdaSchool/java-sql)
 
 #### Day 72 (Wed Sep 11): Java Inserting and Modifying Data Using CRUD Operations and Seeding Data
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec3THcdjv8BumGCt/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec3THcdjv8BumGCt/)
 
 Learning objectives:
 
@@ -2221,7 +2221,7 @@ Daily Project - [java-orders](https://github.com/LambdaSchool/java-orders)
 
 #### Day 73 (Thu Sep 12): Java Data Modeling, Custom Querying with Introduction to Authentication
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec2oQCFWOVShtxIx/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec2oQCFWOVShtxIx/)
 
 Learning objectives:
 
@@ -2255,7 +2255,7 @@ Daily Project - [java-safezoos](https://github.com/LambdaSchool/java-safezoos)
 
 #### Day 74 (Fri Sep 13): Sprint Challenge - RDBMs and API Introduction
 
-##### Sprint Challenge: [Sprint-Challenge--RDBMS-and-API-Intros-java-todos](https://github.com/LambdaSchool/Sprint-Challenge--RDBMS-and-API-Intros-java-todos)
+[Sprint-Challenge--RDBMS-and-API-Intros-java-todos](https://github.com/LambdaSchool/Sprint-Challenge--RDBMS-and-API-Intros-java-todos)
 
 [Q&A with John Mitchell](https://youtu.be/Op1h4QpAEfA)
 
@@ -2283,7 +2283,7 @@ Career Development Helpul Resource Links
 
 #### Day 75 (Mon Sep 16): Exception Handling and Logging
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec3E1WYDyoiEF1e3/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec3E1WYDyoiEF1e3/)
 
 Learning objectives:
 
@@ -2326,7 +2326,7 @@ Daily Project - [java-school](https://github.com/LambdaSchool/java-school.git)
 
 #### Day 76 (Tue Sep 17): Paging and Sorting with Detailed Swagger Documentation
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rectsFbVqprkP0Zor/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rectsFbVqprkP0Zor/)
 
 Learning objectives:
 
@@ -2363,11 +2363,11 @@ Helpful Resource Links
 - [A beginner's guide to Hibernate fetching strategies - Vlad Mihalcea](https://vladmihalcea.com/hibernate-facts-the-importance-of-fetch-strategy/)
 - [React Auth with Java Backend with Jonathan Heinz](https://youtu.be/QjOFK4GRa4k)
 
-##### Daily Project - [java-schoolpagesswagger](https://github.com/LambdaSchool/java-schoolpagesswagger.git)
+Daily Project - [java-schoolpagesswagger](https://github.com/LambdaSchool/java-schoolpagesswagger.git)
 
 #### Day 77 (Wed Sep 18): Automated Testing using TDD
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recDboXln5wm4aKJt/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/recDboXln5wm4aKJt/)
 
 Learning objectives:
 
@@ -2405,9 +2405,9 @@ Helpful Resource Links
 Daily Project - [java-schooltest](https://github.com/LambdaSchool/java-schooltest)
 
 
-#### Day 78 (Wed Sep 19): Java Deployment and Best Practices
+#### Day 78 (Thu Sep 19): Java Deployment and Best Practices
 
-##### [Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec7pCiBPzI4DkAJT/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4java/module/rec7pCiBPzI4DkAJT/)
 
 Learning objectives:
 
@@ -2440,7 +2440,7 @@ Learning objectives:
 
 Helpful Resource Links
 
-- []()
+- [The world's largest ebook library | Z-Library](https://z-lib.org/)
 
 Daily Project - [java-schooldeploy](https://github.com/LambdaSchool/java-schooldeploy)
 
