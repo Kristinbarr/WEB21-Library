@@ -2442,3 +2442,35 @@ Daily Project - [java-schooldeploy](https://github.com/LambdaSchool/java-schoold
 [Sprint-Challenge--Java-Frameworks-java-bookstore](https://github.com/LambdaSchool/Sprint-Challenge--Java-Frameworks-java-bookstore)
 
 </details>
+
+## Week 17 Build Week - Back End Developer
+
+<details><summary>click to open</summary>
+
+#### Build Week - Back End Developer - JAVA
+
+- [Build Week Culture Document](https://www.notion.so/Full-Time-Build-Sprint-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
+- [Schedule and Daily Milestones](https://www.notion.so/6e719d512134435f8a89ca2862f8d3e7?v=6c8d3bd7bbcb44539f8659fc96caa906)
+- [One Line A Day Product Canvas](https://docs.google.com/document/d/1PRUeo9IU9TlMUnkcy8MotBb6HTvSYqJxYHK-rLm1zPQ)
+- [Role Descriptions](https://www.notion.so/0200d2f8b46345c48c1418fa1c33652c?v=995e7fc27b73425bbe0f8741a6ba2c15)
+- [Build Week Rubric](https://www.notion.so/Rubrics-c0783f6d9b7e435f9ce47e8cd2d0ee3b)
+- [Build Week: Product List Airtable](https://airtable.com/shrzk3diKxkbWb5oA/tblM1xaStqkbmK0ou?blocks=hide)
+
+#### Career Development Assignment
+
+| Career Development                 | recording    | slides        |
+| ---------------------------------- | ------------ | ------------- |
+| Job search and endorsement in labs | [🎥][wk17cd] | [📊][wk17cds] |
+
+[wk17cd]: https://lambdaschool.zoom.us/recording/play/2OQXNyIUehnsi3w0zDbavEjnrkSKBDoaPPNdIGqWZn4o_nrFM7riZWTuF9MJtzz4?continueMode=true
+[wk17cds]: https://lambdaschoolstudents.slack.com/files/UF77V7NDU/FNN0CPUGY/job_search_strategy__1_.pdf?origin_team=T4JUEB3ME
+
+Helpful Resource Links
+
+- [Endorsement Requirements by track](https://drive.google.com/drive/folders/1ygeXmuaG73IgzFrRLtj2ak6KeykAP_ZY?usp=sharing)
+- [Job hunting app Sign Up | Huntr](https://app.huntr.co/lambda-school/signup)
+
+
+- [How Recursion Works](https://www.youtube.com/watch?v=ozmE8G6YKww)
+
+</details>
