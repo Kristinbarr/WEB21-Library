@@ -2465,11 +2465,24 @@ Daily Project - [java-schooldeploy](https://github.com/LambdaSchool/java-schoold
 [wk17cd]: https://lambdaschool.zoom.us/recording/play/2OQXNyIUehnsi3w0zDbavEjnrkSKBDoaPPNdIGqWZn4o_nrFM7riZWTuF9MJtzz4?continueMode=true
 [wk17cds]: https://lambdaschoolstudents.slack.com/files/UF77V7NDU/FNN0CPUGY/job_search_strategy__1_.pdf?origin_team=T4JUEB3ME
 
-Helpful Resource Links
+Career Development Helpful Resource Links
 
 - [Endorsement Requirements by track](https://drive.google.com/drive/folders/1ygeXmuaG73IgzFrRLtj2ak6KeykAP_ZY?usp=sharing)
 - [Job hunting app Sign Up | Huntr](https://app.huntr.co/lambda-school/signup)
 
+#### Day 80-84 (Mon-Fri Sep 23-27): Build Week
+
+
+| After Party w Henry Blevins   | Code         |
+| ----------------------------- | ------------ |
+| [Backend Build Week 2][bw3ap] | [⚙️][bw3apc] |
+
+[bw3ap]: https://youtu.be/_zWMVoSznQE
+[bw3apc]: https://github.com/Blevs/backend-bw-ii-testing
+
+- [Q&A with JOhn Mitchell - 09-23-19](https://youtu.be/HPkPM7j_xaI)
+
+ Helpful Resource Links
 
 - [How Recursion Works](https://www.youtube.com/watch?v=ozmE8G6YKww)
 
