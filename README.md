@@ -2418,7 +2418,7 @@ Learning objectives:
 | ----- | --------- | --------------------- |
 | TDD   | [🎥][jdl] | [⚙️][jdc]             |
 
-[jdl]:
+[jdl]: https://youtu.be/h_Xg-23_ivA
 [jdc]: https://github.com/LambdaSchool/java-starthere
 
 [Q&A with John Mitchell](https://youtu.be/Kn1lxaiadtY)
