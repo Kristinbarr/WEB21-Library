@@ -2414,9 +2414,9 @@ Learning objectives:
 - deploy to a cloud service a full RESTful Web Services application with a JAR using PostgreSQL, Maven, Spring including Spring Boot, and Tomcat
 - use CURL to perform CRUD operations using a Spring Application
 
-| Topic | Lecture   | GP - Java Restaurants |
-| ----- | --------- | --------------------- |
-| TDD   | [🎥][jdl] | [⚙️][jdc]             |
+| Topic                              | Lecture   | GP - Starthere |
+| ---------------------------------- | --------- | -------------- |
+| Java Deployment and Best Practices | [🎥][jdl] | [⚙️][jdc]      |
 
 [jdl]: https://youtu.be/h_Xg-23_ivA
 [jdc]: https://github.com/LambdaSchool/java-starthere
@@ -2472,7 +2472,6 @@ Career Development Helpful Resource Links
 
 #### Day 80-84 (Mon-Fri Sep 23-27): Build Week
 
-
 | After Party w Henry Blevins   | Code         |
 | ----------------------------- | ------------ |
 | [Backend Build Week 2][bw3ap] | [⚙️][bw3apc] |
@@ -2480,10 +2479,12 @@ Career Development Helpful Resource Links
 [bw3ap]: https://youtu.be/_zWMVoSznQE
 [bw3apc]: https://github.com/Blevs/backend-bw-ii-testing
 
-- [Q&A with JOhn Mitchell - 09-23-19](https://youtu.be/HPkPM7j_xaI)
+- [Q&A with John Mitchell - 09-23-19](https://youtu.be/HPkPM7j_xaI)
 
- Helpful Resource Links
+Helpful Resource Links
 
 - [How Recursion Works](https://www.youtube.com/watch?v=ozmE8G6YKww)
+- [The latest Voice of Customer and CX trends | Usabilla Blog](https://usabilla.com/blog/how-to-design-for-color-blindness/)
+- [Extract prominent colors from an image | Vibrant](https://jariz.github.io/vibrant.js/)
 
 </details>
