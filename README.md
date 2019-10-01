@@ -1838,7 +1838,7 @@ Helpful Resource Links
 
 <details><summary>click to open</summary>
 
-#### Build Week - Front End Developer
+Build Week - Front End Developer
 
 - [World Index Product Canvas](https://docs.google.com/document/d/1PFJP4Uc2hheTuplDT-xi3WrRTXYYq1HRqFhwg4o_7Cw/edit)
 - [World Index Trello Board](https://trello.com/b/hZlG11DM/the-world-problems-index)
@@ -1847,7 +1847,7 @@ Helpful Resource Links
 - [Build Week: Web Unit 3 Rubric](https://www.notion.so/f57be7bfbeac4070895b51be1caccd51?v=8b5cff684a2f46aea171ee5f055257c2)
 - [Build Week: Product List Airtable](https://airtable.com/shrexoQXkhON6CISY/tbltprqtHnDVZm9Jm?blocks=hide)
 
-#### Career Development Assignment
+Career Development Assignment
 
 FOR FRIDAY:
 
@@ -1928,7 +1928,7 @@ FOR FRIDAY:
 
 # Web API: Java
 
-## Week 14 Sprint - Web Java Fundamentals
+## Week 14 Sprint (Java) - Web Java Fundamentals
 
 <details><summary>click to open</summary>
 
@@ -2080,7 +2080,7 @@ Daily Project - [java-athletes](https://github.com/LambdaSchool/java-athletes.gi
 
 </details>
 
-## Week 15 Sprint - RDBMs and API Introduction
+## Week 15 Sprint (Java) - RDBMs and API Introduction
 
 <details><summary>click to open</summary>
 
@@ -2261,7 +2261,7 @@ Daily Project - [java-safezoos](https://github.com/LambdaSchool/java-safezoos)
 
 </details>
 
-## Week 16 Sprint - Java Frameworks
+## Week 16 Sprint (Java) - Java Frameworks
 
 <details><summary>click to open</summary>
 
@@ -2443,11 +2443,11 @@ Daily Project - [java-schooldeploy](https://github.com/LambdaSchool/java-schoold
 
 </details>
 
-## Week 17 Build Week - Back End Developer
+## Week 17 Build Week (Java) - Back End Developer
 
 <details><summary>click to open</summary>
 
-#### Build Week - Back End Developer - JAVA
+#### Build Week (Java)- Back End Developer - JAVA
 
 - [Build Week Culture Document](https://www.notion.so/Full-Time-Build-Sprint-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
 - [Schedule and Daily Milestones](https://www.notion.so/6e719d512134435f8a89ca2862f8d3e7?v=6c8d3bd7bbcb44539f8659fc96caa906)
@@ -2486,5 +2486,92 @@ Helpful Resource Links
 - [How Recursion Works](https://www.youtube.com/watch?v=ozmE8G6YKww)
 - [The latest Voice of Customer and CX trends | Usabilla Blog](https://usabilla.com/blog/how-to-design-for-color-blindness/)
 - [Extract prominent colors from an image | Vibrant](https://jariz.github.io/vibrant.js/)
+
+</details>
+
+## Week 14 Sprint (Node) - Build a Web API (Node)
+
+<details><summary>click to open</summary>
+
+Training Kit Weekly Sprint Overview: [Build a Web API](https://learn.lambdaschool.com/web4node/sprint/reckzQd7ZgiFY5ok5)
+
+| Career Development                                | Recording  | Slides     |
+| ------------------------------------------------- | ---------- | ---------- |
+| behavioral interview questions with Kathleen Hunt | [🎥][n1cr] | [📊][n1cs] |
+
+[n1cr]:
+[n1cs]:
+
+Career Development Helpul Resource Links
+
+- []()
+
+#### Day 65 (Mon Sep 30): Intro to Node.js and Express
+
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/recZiPP8Oyg1WlHxT/)
+
+Lecture content:
+
+- introduce node.js and Express.
+- what is node.js, what can it do? what can’t it do?
+- what is Express? why use it?
+- relationship between Express and node.js.
+- see a high level overview of the main features of Express.
+- learn how to manually test our Web API using a tool called Postman.services.
+- create our first CRUD Web API.
+
+Learning objectives:
+
+- Student should be able to explain what Node.js is and its core features.
+- Student should be able to explain what Express is and its core features.
+- Student should be able to create an API that can respond to GET requests.
+- Student should be able to use postman to manually test Web APIs.
+
+| Topic            | Lecture     | GP - webapi-guided |
+| ---------------- | ----------- | ------------------ |
+| intro to Node.js | [🎥][wapil] | [⚙️][wapilc]       |
+
+[wapil]: https://youtu.be/DZEFzukiG54
+[wapilc]: https://github.com/LambdaSchool/java-oauth2ExceptionLogging
+
+Helpful Resource Links
+
+- []()
+
+Daily Project - [Node API 1 Project](https://github.com/LambdaSchool/node-api1-project.git)
+
+#### Day 66 (Mon Oct 1): Server Side Routing with Express
+
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/recZiPP8Oyg1WlHxT/)
+
+Lecture content:
+
+- use the routing feature of express to build several endpoints.
+- cover different ways to pass data to a Web API.
+- introduce REST as a way to guide the architecture of our web
+- using Express Routers to organize our code.
+
+Learning objectives:
+
+- explain how routing works in an express application.
+- read data from the query string, request body and route parameters.
+- explain the basics of the REST architectural style.
+- use Express Routers to organize Web API code.
+
+| Topic            | Lecture     | GP - webapi-guided |
+| ---------------- | ----------- | ------------------ |
+| intro to Node.js | [🎥][wapil] | [⚙️][wapilc]       |
+
+[wapil]:
+[wapilc]:
+
+Helpful Resource Links
+
+- [Basic Routing | Express.js](https://expressjs.com/en/starter/basic-routing.html)
+- []()
+
+Daily Project - [Web API II - Node Express Lab](https://github.com/LambdaSchool/Node-Express-Lab)
+
+
 
 </details>
