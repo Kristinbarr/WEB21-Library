@@ -2489,7 +2489,9 @@ Helpful Resource Links
 
 </details>
 
-## Week 14 Sprint (Node) - Build a Web API (Node)
+# Web API: Node
+
+## Week 14 Sprint (Node) - Build a Web API
 
 <details><summary>click to open</summary>
 
@@ -2527,22 +2529,22 @@ Learning objectives:
 - Student should be able to create an API that can respond to GET requests.
 - Student should be able to use postman to manually test Web APIs.
 
-| Topic            | Lecture     | GP - webapi-guided |
-| ---------------- | ----------- | ------------------ |
-| intro to Node.js | [🎥][wapil] | [⚙️][wapilc]       |
+| Topic            | Lecture      | GP - webapi-guided |
+| ---------------- | ------------ | ------------------ |
+| intro to Node.js | [🎥][wapi1l] | [⚙️][wapi1c]       |
 
-[wapil]: https://youtu.be/DZEFzukiG54
-[wapilc]: https://github.com/LambdaSchool/java-oauth2ExceptionLogging
+[wapi1l]: https://youtu.be/nmlYV5VQeV8
+[wapi1c]: https://github.com/LambdaSchool/webapi-i-guided
 
 Helpful Resource Links
 
-- []()
+- [the New Hard Parts: Asynchronous ES6+ JS Features](https://frontendmasters.com/courses/javascript-new-hard-parts/)
 
 Daily Project - [Node API 1 Project](https://github.com/LambdaSchool/node-api1-project.git)
 
-#### Day 66 (Mon Oct 1): Server Side Routing with Express
+#### Day 66 (Tues Oct 1): Server Side Routing with Express
 
-[Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/recZiPP8Oyg1WlHxT/)
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/recBjiSulq0PYLCIj/)
 
 Lecture content:
 
@@ -2558,20 +2560,75 @@ Learning objectives:
 - explain the basics of the REST architectural style.
 - use Express Routers to organize Web API code.
 
-| Topic            | Lecture     | GP - webapi-guided |
-| ---------------- | ----------- | ------------------ |
-| intro to Node.js | [🎥][wapil] | [⚙️][wapilc]       |
+| Topic               | Lecture    | Guided Project |
+| ------------------- | ---------- | -------------- |
+| SErver Side Routing | [🎥][ssrl] | [⚙️][ssrc]     |
 
-[wapil]:
-[wapilc]:
+[wapil]: https://www.youtube.com/watch?v=Z9GlifSzqQk&feature=youtu.be
+[wapilc]: https://github.com/LambdaSchool/webapi-ii-guided
 
 Helpful Resource Links
 
 - [Basic Routing | Express.js](https://expressjs.com/en/starter/basic-routing.html)
-- []()
+- [Web Security - OWASP™ Foundation](https://www.owasp.org/?gclid=Cj0KCQjw8svsBRDqARIsAHKVyqFWQPbqiwkAnp4Gjt0le1-wn-XwpZiXZem2EAbsfAYcd6qhkduqZgkaAm_GEALw_wcB)
 
 Daily Project - [Web API II - Node Express Lab](https://github.com/LambdaSchool/Node-Express-Lab)
 
+#### Day 67 (Wed Oct 2): Express Middleware
 
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/recCJjYFEz0i5O5p5/)
+
+Lecture content:
+
+- the what, why and how of Middleware.
+- different types of Express Middleware.
+- how to create Custom Middleware.
+- error handling middleware.
+
+Learning objectives:
+
+- explain what middleware is and the different types.
+- write custom middleware.
+- write error handling middleware
+
+| Topic                    | Lecture    | Guided Project |
+| ------------------------ | ---------- | -------------- |
+| Middleware w/ Mack Weber | [🎥][exml] | [⚙️][exmc]     |
+
+[exml]: https://youtu.be/RmkZRGj456M
+[exmc]: https://github.com/LambdaSchool/webapi-iii-guided
+
+Helpful Resource Links
+
+- [how to use express.json](https://expressjs.com/en/api.html#express.json)
+
+Daily Project - [Web API III - Node Blog](https://github.com/LambdaSchool/Node-Blog)
+
+#### Day 68 (Thu Oct 3): Web Deployment and Best Practices
+
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/recs9QOkOAtZhsjc4/)
+
+Lecture content:
+
+- extract configuration values into environment variables.
+- deploy an API to Heroku.
+
+Learning objectives:
+
+- extract configuration into environment variables
+- deploy a web-api to Heroku
+
+| Topic               | Lecture     | Guided Project |
+| ------------------- | ----------- | -------------- |
+| deploying to heroku | [🎥][depnl] | [⚙️][depnc]    |
+
+[depnl]:
+[depnc]: https://github.com/LambdaSchool/webapi-iv-guided
+
+Helpful Resource Links
+
+- []()
+
+Daily Project - [Web API IV - Module Challenge](https://github.com/LambdaSchool/webapi-iv-challenge)
 
 </details>
