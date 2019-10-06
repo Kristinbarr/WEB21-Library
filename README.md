@@ -2622,12 +2622,12 @@ Learning objectives:
 | ------------------- | ----------- | -------------- |
 | deploying to heroku | [🎥][depnl] | [⚙️][depnc]    |
 
-[depnl]:
+[depnl]: https://youtu.be/k3xPKZQS0uE
 [depnc]: https://github.com/LambdaSchool/webapi-iv-guided
 
 Helpful Resource Links
 
-- []()
+- [web21 recorded deployment lecture](https://youtu.be/jLD6hGc92bE)
 
 Daily Project - [Web API IV - Module Challenge](https://github.com/LambdaSchool/webapi-iv-challenge)
 
