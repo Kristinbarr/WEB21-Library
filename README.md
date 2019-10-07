@@ -2673,7 +2673,7 @@ Learning objectives:
 | -------------------- | ----------- | -------------- |
 | relational databases | [🎥][nrdbl] | [⚙️][nrdbc]    |
 
-[nrdbl]:
+[nrdbl]: https://youtu.be/frsBElrVPN0
 [nrdbc]: https://github.com/LambdaSchool/webdb-i-guided
 
 Helpful Resource Links
