@@ -2631,4 +2631,58 @@ Helpful Resource Links
 
 Daily Project - [Web API IV - Module Challenge](https://github.com/LambdaSchool/webapi-iv-challenge)
 
+#### Day 69 (Fri Oct 4): Sprint Challenge - Build a Web API
+
+[Sprint Challenge - Web API Unit Challenge](https://github.com/LambdaSchool/webapi-challenge.git)
+
+## Week 15 Sprint (Node) - Adding Persistent Data
+
+#### Day 70 (Mon Oct 7): Intro to Relational Databases
+
+Training Kit Weekly Sprint Overview: [Adding Data Persistence](https://learn.lambdaschool.com/web4node/sprint/receFLR7MpwQXesIN)
+
+| Career Development | Recording  | Slides     |
+| ------------------ | ---------- | ---------- |
+|                    | [🎥][n1cr] | [📊][n1cs] |
+
+[n1cr]:
+[n1cs]:
+
+Career Development Helpul Resource Links
+
+- []()
+
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/recFG7SqlSCAB8iU7)
+
+Lecture content:
+
+- Introduction to Relational Databases
+- The basics of Structured Query Language (SQL)
+- Select, Insert, Update, and Delete queries in SQL
+- Setup for Knex.js
+- Select, Insert, Update, and Delete queries using Knex
+
+Learning objectives:
+
+- explain what a Relational Database is and its core components
+- explain what SQL is and its advantages
+- query, insert, and modify data in SQL
+- write database queries using knex.js
+
+| Topic                | Lecture     | Guided Project |
+| -------------------- | ----------- | -------------- |
+| relational databases | [🎥][nrdbl] | [⚙️][nrdbc]    |
+
+[nrdbl]:
+[nrdbc]: https://github.com/LambdaSchool/webdb-i-guided
+
+Helpful Resource Links
+
+- [Overview of SQL](https://www.w3schools.com/sql/default.asp)
+- [Knex documentation](https://knexjs.org/)
+- [Knex Cheatsheet | devhints.io](https://devhints.io/knex)
+- [SQLite vs PostgreSQL - Which database to use and why?](https://tableplus.com/blog/2018/08/sqlite-vs-postgresql-which-database-to-use-and-why.html)
+
+Daily Project - [webdb-i-challenge](https://github.com/LambdaSchool/webdb-i-challenge)
+
 </details>
