@@ -2716,6 +2716,7 @@ Learning objectives:
 Helpful Resource Links
 
 - [Knex Docs](https://knexjs.org/)
+- [SQL Try It| W3Schools](https://www.w3schools.com/Sql/tryit.asp?filename=trysql_select_top)
 - [SQL Tutorial | W3Resource](https://www.w3resource.com/sql/tutorials.php)
 - [Install SQLite Studio](https://sqlitestudio.pl/index.rvt?act=download)
 - [Merging Vs. Rebasing Tutorial](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
@@ -2744,15 +2745,16 @@ Learning objectives:
 | ----- | ---------- | -------------- |
 | Joins | [🎥][dbjl] | [⚙️][dbjc]     |
 
-[dbjl]: https://github.com/LambdaSchool/node-db3-guided
-[dbjc]:
+[dbjl]: https://youtu.be/GNaZckwCBz4
+[dbjc]: https://github.com/LambdaSchool/node-db3-guided
 
 Helpful Resource Links
 
-- [SQL Try It| W3Schools](https://www.w3schools.com/Sql/tryit.asp?filename=trysql_select_top)
 - [SQL Joins | W3Resource](https://www.w3resource.com/sql/joins/sql-joins.php)
 - [A Visual Explanation od SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+- [SQL simple interactive exercises | SQLBolt](https://sqlbolt.com/lesson/select_queries_order_of_execution)
+- [SQL Server ROUND() Function](https://www.w3schools.com/sql/func_sqlserver_round.asp)
 
-Daily Project - [webdb-iii-challenge](https://github.com/LambdaSchool/node-db3-challenge)
+Daily Project - [node-db3-challenge](https://github.com/LambdaSchool/node-db3-challenge)
 
 </details>
