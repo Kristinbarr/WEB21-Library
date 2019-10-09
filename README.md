@@ -2650,7 +2650,7 @@ Training Kit Weekly Sprint Overview: [Adding Data Persistence](https://learn.lam
 
 Career Development Helpul Resource Links
 
-- []()
+- [Support for Careers](https://www.notion.so/Support-for-Careers-8c1bf3461bb544caa27acbd444446025)
 
 [Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/recFG7SqlSCAB8iU7)
 
@@ -2684,5 +2684,75 @@ Helpful Resource Links
 - [SQLite vs PostgreSQL - Which database to use and why?](https://tableplus.com/blog/2018/08/sqlite-vs-postgresql-which-database-to-use-and-why.html)
 
 Daily Project - [webdb-i-challenge](https://github.com/LambdaSchool/webdb-i-challenge)
+
+#### Day 71 (Tue Oct 8): Database Schema Design
+
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/recIbfNn9xRhLTOv4/)
+
+Lecture content:
+
+- Database Management Systems (DBMS)
+- SQLite studio
+- Primary keys
+- Data Types and Column Constraints
+- Knex CLI
+- Migrations
+- Seeds
+
+Learning objectives:
+
+- use SQLite Studio on an existing database
+- explain what is a database schema
+- create and use knex migrations
+- create and use knex seeds
+
+| Topic         | Lecture     | Guided Project |
+| ------------- | ----------- | -------------- |
+| Schema Design | [🎥][dbsdl] | [⚙️][dbsdc]    |
+
+[dbsdl]: https://youtu.be/P5C6ctwtPOo
+[dbsdc]: https://github.com/LambdaSchool/webdb-ii-guided
+
+Helpful Resource Links
+
+- [Knex Docs](https://knexjs.org/)
+- [SQL Tutorial | W3Resource](https://www.w3resource.com/sql/tutorials.php)
+- [Install SQLite Studio](https://sqlitestudio.pl/index.rvt?act=download)
+- [Merging Vs. Rebasing Tutorial](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
+Daily Project - [webdb-ii-challenge](https://github.com/LambdaSchool/webdb-ii-challenge)
+
+#### Day 72 (Wed Oct 9): Database Schema Design
+
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/recIbfNn9xRhLTOv4/)
+
+Lecture content:
+
+- Foreign keys
+- SQL joins
+- Aggregate functions
+- Knex joins
+- Database access functions
+
+Learning objectives:
+
+- explain the role of a foreign key
+- query data from multiple tables
+- write database access methods
+
+| Topic | Lecture    | Guided Project |
+| ----- | ---------- | -------------- |
+| Joins | [🎥][dbjl] | [⚙️][dbjc]     |
+
+[dbjl]: https://github.com/LambdaSchool/node-db3-guided
+[dbjc]:
+
+Helpful Resource Links
+
+- [SQL Try It| W3Schools](https://www.w3schools.com/Sql/tryit.asp?filename=trysql_select_top)
+- [SQL Joins | W3Resource](https://www.w3resource.com/sql/joins/sql-joins.php)
+- [A Visual Explanation od SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+
+Daily Project - [webdb-iii-challenge](https://github.com/LambdaSchool/node-db3-challenge)
 
 </details>
