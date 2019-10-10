@@ -2779,7 +2779,7 @@ Learning objectives:
 | ----- | --------- | -------------- |
 | Joins | [🎥][dml] | [⚙️][dmc]      |
 
-[dml]:
+[dml]: https://youtu.be/6pyExJ8yyw8
 [dmc]: https://github.com/LambdaSchool/node-db4-guided
 
 Helpful Resource Links
