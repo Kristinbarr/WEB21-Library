@@ -2723,7 +2723,7 @@ Helpful Resource Links
 
 Daily Project - [webdb-ii-challenge](https://github.com/LambdaSchool/webdb-ii-challenge)
 
-#### Day 72 (Wed Oct 9): Database Schema Design
+#### Day 72 (Wed Oct 9): Multi-Table Queries
 
 [Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/recIbfNn9xRhLTOv4/)
 
@@ -2756,5 +2756,38 @@ Helpful Resource Links
 - [SQL Server ROUND() Function](https://www.w3schools.com/sql/func_sqlserver_round.asp)
 
 Daily Project - [node-db3-challenge](https://github.com/LambdaSchool/node-db3-challenge)
+
+#### Day 73 (Thu Oct 10): Data Modeling
+
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/rec5J23yAIdjmFbgP/)
+
+Lecture content:
+
+- Normalizing the model.
+- One to many relationships.
+- Many to many relationships.
+- One to one relationships.
+- Creating multi table schemas in knex
+
+Learning objectives:
+
+- explain data normalization
+- explain different table relationships
+- create table relationships using knex
+
+| Topic | Lecture   | Guided Project |
+| ----- | --------- | -------------- |
+| Joins | [🎥][dml] | [⚙️][dmc]      |
+
+[dml]:
+[dmc]: https://github.com/LambdaSchool/node-db4-guided
+
+Helpful Resource Links
+
+- [SQL Server: Natural Key Verses Surrogate Key — DatabaseJournal.com](https://www.databasejournal.com/features/mssql/article.php/3922066/SQL-Server-Natural-Key-Verses-Surrogate-Key.htm)
+
+Daily Project - [node-db4-challenge](https://github.com/LambdaSchool/node-db4-challenge)
+
+#### Day 74 (Fri Oct 11): Sprint - Adding Data Persistence
 
 </details>
