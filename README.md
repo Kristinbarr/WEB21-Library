@@ -2637,6 +2637,8 @@ Daily Project - [Web API IV - Module Challenge](https://github.com/LambdaSchool/
 
 ## Week 15 Sprint (Node) - Adding Persistent Data
 
+<details><summary>click to open</summary>
+
 #### Day 70 (Mon Oct 7): Intro to Relational Databases
 
 Training Kit Weekly Sprint Overview: [Adding Data Persistence](https://learn.lambdaschool.com/web4node/sprint/receFLR7MpwQXesIN)
@@ -2682,6 +2684,7 @@ Helpful Resource Links
 - [Knex documentation](https://knexjs.org/)
 - [Knex Cheatsheet | devhints.io](https://devhints.io/knex)
 - [SQLite vs PostgreSQL - Which database to use and why?](https://tableplus.com/blog/2018/08/sqlite-vs-postgresql-which-database-to-use-and-why.html)
+- [YDKJS - Async & Performance](https://rileygelwicks.gitbooks.io/you-dont-know-js/content/async%20&%20performance/ch3.html)
 
 Daily Project - [webdb-i-challenge](https://github.com/LambdaSchool/webdb-i-challenge)
 
@@ -2785,9 +2788,137 @@ Learning objectives:
 Helpful Resource Links
 
 - [SQL Server: Natural Key Verses Surrogate Key — DatabaseJournal.com](https://www.databasejournal.com/features/mssql/article.php/3922066/SQL-Server-Natural-Key-Verses-Surrogate-Key.htm)
+- [DB Migrations with Knex | Perk Framework](http://perkframework.com/v1/guides/database-migrations-knex.html)
+- [SQLite vs PostgreSQL - Which database to use and why?](https://tableplus.com/blog/2018/08/sqlite-vs-postgresql-which-database-to-use-and-why.html)
+- [Database Normalization explained](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 
 Daily Project - [node-db4-challenge](https://github.com/LambdaSchool/node-db4-challenge)
 
 #### Day 74 (Fri Oct 11): Sprint - Adding Data Persistence
+
+[Sprint Challenge - WEB DB Challenge](https://github.com/LambdaSchool/node-db-challenge)
+
+</details>
+
+## Week 16 Sprint (Node) - Authentication and Testing
+
+<details><summary>click to open</summary>
+
+#### Day 75 (Mon Oct 14): Intro to Authentication
+
+Training Kit Weekly Sprint Overview: [Adding Data Persistence](https://learn.lambdaschool.com/web4node/sprint/receFLR7MpwQXesIN)
+
+| Career Development | Recording  | Slides     |
+| ------------------ | ---------- | ---------- |
+|                    | [🎥][n3cr] | [📊][n1cs] |
+
+[n3cr]:
+[n3cs]:
+
+Career Development Helpul Resource Links
+
+- [Support for Careers](https://www.notion.so/Support-for-Careers-8c1bf3461bb544caa27acbd444446025)
+
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/recQD9lnhqWEFh6g4/)
+
+Learning objectives:
+
+- explain what is authentication and provide guidelines for password security.
+- hash passwords before saving them to the database.
+- verify passwords using bcrypt
+- Write middleware to verify credentials using bcrypt.js
+
+| Topic         | Lecture      | Guided Project |
+| ------------- | ------------ | -------------- |
+| Intro to Auth | [🎥][nauthl] | [⚙️][nauthc]   |
+
+[nauthl]:
+[nauthc]: https://github.com/LambdaSchool/webauth-i-guided
+
+Helpful Resource Links
+
+-
+
+Daily Project - [webauth-i-challenge](https://github.com/LambdaSchool/webauth-i-challenge)
+
+#### Day 76 (Tue Oct 15): Sessions and Cookies
+
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/recFG7SqlSCAB8iU7)
+
+Lecture content:
+
+-
+
+Learning objectives:
+
+-
+
+| Topic         | Lecture      | Guided Project |
+| ------------- | ------------ | -------------- |
+| Intro to Auth | [🎥][nauthl] | [⚙️][nauthc]   |
+
+[nauthl]:
+[nauthc]:
+
+Helpful Resource Links
+
+-
+
+
+Daily Project - [webauth-i-challenge](https://github.com/LambdaSchool/webauth-i-challenge)
+
+#### Day 77 (Wed Oct 16): Using JSON Web Tokens (JWT)
+
+[Training Kit Pre-Work]()
+
+Lecture content:
+
+-
+
+Learning objectives:
+
+-
+
+| Topic | Lecture    | Guided Project |
+| ----- | ---------- | -------------- |
+| Joins | [🎥][dbjl] | [⚙️][dbjc]     |
+
+[dbjl]:
+[dbjc]:
+
+Helpful Resource Links
+
+- []()
+
+Daily Project - [node-db3-challenge]()
+
+#### Day 78 (Thu Oct 17): Testing the Back End
+
+[Training Kit Pre-Work]()
+
+Lecture content:
+
+-
+
+Learning objectives:
+
+-
+
+| Topic | Lecture    | Guided Project |
+| ----- | ---------- | -------------- |
+| Joins | [🎥][dbjl] | [⚙️][dbjc]     |
+
+[dbjl]:
+[dbjc]:
+
+Helpful Resource Links
+
+- []()
+
+Daily Project - [node-db3-challenge]()
+
+#### Day 79 (Fri Oct 18): Sprint Challenge - Authentication
+
+[Sprint Challenge - WEB Auth Challenge](https://github.com/LambdaSchool/Sprint-Challenge-Authentication)
 
 </details>
