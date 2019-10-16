@@ -2851,45 +2851,43 @@ Learning objectives:
 - implement logout using a sessions based API
 - restrict access to resources, allowing access only for authenticated users
 
-| Topic         | Lecture      | Guided Project |
-| ------------- | ------------ | -------------- |
-| Intro to Auth | [🎥][nauthl] | [⚙️][nauthc]   |
+| Topic              | Lecture      | Guided Project |
+| ------------------ | ------------ | -------------- |
+| sessions & cookies | [🎥][nscl] | [⚙️][nscc]   |
 
-[nauthl]: https://youtu.be/msyDg0cKDMQ
-[nauthc]: https://github.com/LambdaSchool/webauth-ii-guided
+[nscl]: https://youtu.be/msyDg0cKDMQ
+[nscc]: https://github.com/LambdaSchool/webauth-ii-guided
 
 Helpful Resource Links
 
 -
-
 
 Daily Project - [webauth-i-challenge](https://github.com/LambdaSchool/webauth-i-challenge)
 (project assignment builds on Monday's repo)
 
 #### Day 77 (Wed Oct 16): Using JSON Web Tokens (JWT)
 
-[Training Kit Pre-Work]()
-
-Lecture content:
-
--
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/reciCHdNjavSKaaLt/)
 
 Learning objectives:
 
--
+- explain the three different parts of a JSON web token
+- produce and send a JSON Web Token (JWT)
 
 | Topic | Lecture    | Guided Project |
 | ----- | ---------- | -------------- |
-| Joins | [🎥][dbjl] | [⚙️][dbjc]     |
+| JWT   | [🎥][jwtl] | [⚙️][jwtc]     |
 
-[dbjl]:
-[dbjc]:
+[jwtl]: https://youtu.be/Xy0nTKOR5u8
+[jwtc]: https://github.com/LambdaSchool/webauth-iii-guided
 
 Helpful Resource Links
 
-- []()
+- [jwt debugger](https://jwt.io/)
+- [Anatomy of a JSON Web Token | Scotch.io](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token)
+- [JWT implementation | npm](https://www.npmjs.com/package/jsonwebtoken)
 
-Daily Project - [node-db3-challenge]()
+Daily Project - [webauth-iii-challenge](https://github.com/LambdaSchool/webauth-iii-challenge)
 
 #### Day 78 (Thu Oct 17): Testing the Back End
 
