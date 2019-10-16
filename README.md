@@ -2832,12 +2832,12 @@ Learning objectives:
 | ------------- | ------------ | -------------- |
 | Intro to Auth | [🎥][nauthl] | [⚙️][nauthc]   |
 
-[nauthl]:
+[nauthl]: https://youtu.be/OFEAYBViC3M
 [nauthc]: https://github.com/LambdaSchool/webauth-i-guided
 
 Helpful Resource Links
 
--
+- [Password Haystacks: How Well Hidden is Your Needle? | GRC's](https://www.grc.com/haystack.htm)
 
 Daily Project - [webauth-i-challenge](https://github.com/LambdaSchool/webauth-i-challenge)
 
@@ -2845,20 +2845,18 @@ Daily Project - [webauth-i-challenge](https://github.com/LambdaSchool/webauth-i-
 
 [Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/recFG7SqlSCAB8iU7)
 
-Lecture content:
-
--
-
 Learning objectives:
 
--
+- use in-memory sessions to persist authentication information across requests
+- implement logout using a sessions based API
+- restrict access to resources, allowing access only for authenticated users
 
 | Topic         | Lecture      | Guided Project |
 | ------------- | ------------ | -------------- |
 | Intro to Auth | [🎥][nauthl] | [⚙️][nauthc]   |
 
-[nauthl]:
-[nauthc]:
+[nauthl]: https://youtu.be/msyDg0cKDMQ
+[nauthc]: https://github.com/LambdaSchool/webauth-ii-guided
 
 Helpful Resource Links
 
@@ -2866,6 +2864,7 @@ Helpful Resource Links
 
 
 Daily Project - [webauth-i-challenge](https://github.com/LambdaSchool/webauth-i-challenge)
+(project assignment builds on Monday's repo)
 
 #### Day 77 (Wed Oct 16): Using JSON Web Tokens (JWT)
 
