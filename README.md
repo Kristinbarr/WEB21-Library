@@ -2851,9 +2851,9 @@ Learning objectives:
 - implement logout using a sessions based API
 - restrict access to resources, allowing access only for authenticated users
 
-| Topic              | Lecture      | Guided Project |
-| ------------------ | ------------ | -------------- |
-| sessions & cookies | [🎥][nscl] | [⚙️][nscc]   |
+| Topic              | Lecture    | Guided Project |
+| ------------------ | ---------- | -------------- |
+| sessions & cookies | [🎥][nscl] | [⚙️][nscc]     |
 
 [nscl]: https://youtu.be/msyDg0cKDMQ
 [nscc]: https://github.com/LambdaSchool/webauth-ii-guided
@@ -2886,33 +2886,31 @@ Helpful Resource Links
 - [jwt debugger](https://jwt.io/)
 - [Anatomy of a JSON Web Token | Scotch.io](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token)
 - [JWT implementation | npm](https://www.npmjs.com/package/jsonwebtoken)
+- [JWT vs cookies | StackOverflow](https://stackoverflow.com/questions/37582444/jwt-vs-cookies-for-token-based-authentication#targetText=Both%20cookies%20and%20bearer%20tokens,often%20encoded%20as%20a%20JWT.)
 
 Daily Project - [webauth-iii-challenge](https://github.com/LambdaSchool/webauth-iii-challenge)
 
 #### Day 78 (Thu Oct 17): Testing the Back End
 
-[Training Kit Pre-Work]()
-
-Lecture content:
-
--
+[Training Kit Pre-Work](https://learn.lambdaschool.com/web4node/module/reciXdxRA8zXJXDID/)
 
 Learning objectives:
 
--
+- Test Web API Endpoints
+- Test Data Access Code
 
-| Topic | Lecture    | Guided Project |
-| ----- | ---------- | -------------- |
-| Joins | [🎥][dbjl] | [⚙️][dbjc]     |
+| Topic      | Lecture    | Guided Project |
+| ---------- | ---------- | -------------- |
+| Testing BE | [🎥][betl] | [⚙️][betc]     |
 
-[dbjl]:
-[dbjc]:
+[betl]:
+[betc]: https://github.com/LambdaSchool/node-server-testing-guided
 
 Helpful Resource Links
 
 - []()
 
-Daily Project - [node-db3-challenge]()
+Daily Project - [node-server-testing-challenge](https://github.com/LambdaSchool/node-server-testing-challenge)
 
 #### Day 79 (Fri Oct 18): Sprint Challenge - Authentication
 
