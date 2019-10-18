@@ -2899,16 +2899,18 @@ Learning objectives:
 - Test Web API Endpoints
 - Test Data Access Code
 
-| Topic      | Lecture    | Guided Project |
-| ---------- | ---------- | -------------- |
-| Testing BE | [🎥][betl] | [⚙️][betc]     |
+| Topic      | Pre-Lecture basics | Lecture    | Guided Project |
+| ---------- | ------------------ | ---------- | -------------- |
+| Testing BE | [🎥][betpl]        | [🎥][betl] | [⚙️][betc]     |
 
-[betl]:
+[betpl]: https://youtu.be/f7upfXY6xXM
+[betl]: https://youtu.be/MQb-SvRiQ-s
 [betc]: https://github.com/LambdaSchool/node-server-testing-guided
 
 Helpful Resource Links
 
-- []()
+- [Jest tesing docs](https://jestjs.io/docs/en/getting-started.html)
+- [Moving Existing API From REST To GraphQL | YT](https://www.youtube.com/watch?v=broQmxQAMjM)
 
 Daily Project - [node-server-testing-challenge](https://github.com/LambdaSchool/node-server-testing-challenge)
 
