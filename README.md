@@ -2635,6 +2635,8 @@ Daily Project - [Web API IV - Module Challenge](https://github.com/LambdaSchool/
 
 [Sprint Challenge - Web API Unit Challenge](https://github.com/LambdaSchool/webapi-challenge.git)
 
+</details>
+
 ## Week 15 Sprint (Node) - Adding Persistent Data
 
 <details><summary>click to open</summary>
@@ -2911,11 +2913,56 @@ Helpful Resource Links
 
 - [Jest tesing docs](https://jestjs.io/docs/en/getting-started.html)
 - [Moving Existing API From REST To GraphQL | YT](https://www.youtube.com/watch?v=broQmxQAMjM)
+- [The Ultimate Guide to handling JWTs on frontend clients (GraphQL)](https://blog.hasura.io/best-practices-of-using-jwt-with-graphql/)
 
 Daily Project - [node-server-testing-challenge](https://github.com/LambdaSchool/node-server-testing-challenge)
 
 #### Day 79 (Fri Oct 18): Sprint Challenge - Authentication
 
 [Sprint Challenge - WEB Auth Challenge](https://github.com/LambdaSchool/Sprint-Challenge-Authentication)
+
+</details>
+
+## Week 17 Build Week (Node) - Back End Developer
+
+<details><summary>click to open</summary>
+
+#### Build Week (Node)- Back End Developer - NODE
+
+- [Build Week Culture Document](https://www.notion.so/Full-Time-Build-Sprint-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
+- [Schedule and Daily Milestones](https://www.notion.so/6e719d512134435f8a89ca2862f8d3e7?v=6c8d3bd7bbcb44539f8659fc96caa906)
+- [Post Here Product Canvas](https://docs.google.com/document/d/1hgBMuwGRNM7u7ZzSd3B7xv-GOK4Wm3tS0fvCAXRFXjo/edit?usp=sharing)
+- [Role Descriptions](https://www.notion.so/0200d2f8b46345c48c1418fa1c33652c?v=995e7fc27b73425bbe0f8741a6ba2c15)
+- [Build Week Rubric](https://www.notion.so/Rubrics-c0783f6d9b7e435f9ce47e8cd2d0ee3b)
+- [Build Week: Product List Airtable](https://airtable.com/shrzk3diKxkbWb5oA/tblM1xaStqkbmK0ou?blocks=hide)
+
+#### Day 80-84 (Mon-Fri Oct 21-25): Build Week
+
+Helpful Resource Links
+
+- []()
+
+</details>
+
+# Labs
+
+## Week 18 Labs - WK1
+
+<details><summary>click to open</summary>
+
+#### Day 81 (Mon Oct 28)
+
+Student Information:
+[Labs Student Handbook](https://www.notion.so/Lambda-Labs-Student-Handbook-cd09a9c47fd14f36a8b7fec281d871c1)
+
+[Labs Rubrics](https://www.notion.so/The-Labs-Rubrics-64eae46cf3ec43b88e1d4c761698a947#fd5aca30706a44e5aa7dcac3abd27ddb)
+
+[Labs 18 Lession Review](https://airtable.com/shrlSkbJhD5OnwfTm)
+
+[Labs 18 Project Selection](https://www.notion.so/Labs-18-Projects-Students-33b46129228348a2bdd253a30c7b1f2d)
+
+[Labs 18 Google Calendar](https://calendar.google.com/calendar?cid=bGFtYmRhc2Nob29sLmNvbV81cWw1NGdkdTZic2R1ZzBpMDVxNjFjcTYxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+[Labs 18 Kickoff](https://youtu.be/V4k3X6laXuI)
 
 </details>
