@@ -2946,23 +2946,40 @@ Helpful Resource Links
 
 # Labs
 
-## Week 18 Labs - WK1
+## Week 18 - Labs 18 - WK1
 
 <details><summary>click to open</summary>
 
 #### Day 81 (Mon Oct 28)
 
 Student Information:
-[Labs Student Handbook](https://www.notion.so/Lambda-Labs-Student-Handbook-cd09a9c47fd14f36a8b7fec281d871c1)
 
-[Labs Rubrics](https://www.notion.so/The-Labs-Rubrics-64eae46cf3ec43b88e1d4c761698a947#fd5aca30706a44e5aa7dcac3abd27ddb)
+- [Labs Student Handbook](https://www.notion.so/Lambda-Labs-Student-Handbook-cd09a9c47fd14f36a8b7fec281d871c1)
+- [Labs Rubrics](https://www.notion.so/The-Labs-Rubrics-64eae46cf3ec43b88e1d4c761698a947#fd5aca30706a44e5aa7dcac3abd27ddb)
 
-[Labs 18 Lession Review](https://airtable.com/shrlSkbJhD5OnwfTm)
+Labs 18 Information:
 
-[Labs 18 Project Selection](https://www.notion.so/Labs-18-Projects-Students-33b46129228348a2bdd253a30c7b1f2d)
+- [Labs 18 Lession Review](https://airtable.com/shrlSkbJhD5OnwfTm)
+- [Labs 18 Project Selection](https://www.notion.so/Labs-18-Projects-Students-33b46129228348a2bdd253a30c7b1f2d)
+- [Labs 18 Google Calendar](https://calendar.google.com/calendar?cid=bGFtYmRhc2Nob29sLmNvbV81cWw1NGdkdTZic2R1ZzBpMDVxNjFjcTYxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-[Labs 18 Google Calendar](https://calendar.google.com/calendar?cid=bGFtYmRhc2Nob29sLmNvbV81cWw1NGdkdTZic2R1ZzBpMDVxNjFjcTYxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+| Presentations                              | Recording               | Slides             |
+| ------------------------------------------ | ----------------------- | ------------------ |
+| Kickoff w Bernie                           | [🎥][kickoff]           | [📊][kickoff sl]   |
+| Labs Logistics w Bernie                    | [🎥][labs log]          | [📊][labs log sl]  |
+| Stakeholder Communication (TLs?) w Jessica | [🎥][stkld comm]        | [📊][stkld sl]     |
+| Measuring Success w Holdy                  | [🎥][measuring success] | [📊][meas s sl]    |
+| Intro to Product Teams                     | [🎥][prod team]         | [📊][prod team sl] |
 
-[Labs 18 Kickoff](https://youtu.be/V4k3X6laXuI)
+[kickoff]: https://youtu.be/V4k3X6laXuI
+[kickoff sl]: https://docs.google.com/presentation/d/15BjHmWX4pOadYq_uYyDm5CdD0hmKVAFXlxpy4VWR_n0/edit
+[labs log]: https://youtu.be/6_DNrO1xJWQ
+[labs log sl]: https://docs.google.com/presentation/d/1Oomftn7HOthhE3Wy9-8dapT5affJeAGzngTEZSOSLoQ/edit?usp=sharing
+[stkld comm]: https://youtu.be/BTT34Ml8fHM
+[stkld sl]: tba
+[measuring success]: tba
+[meas s sl]: https://docs.google.com/presentation/d/1nPH7ebpWKUThul5plV98hf13GOe937thI2M7MPtVl5Y/edit#slide=id.p
+[prod team]: tba
+[prod team sl]: tba
 
 </details>
