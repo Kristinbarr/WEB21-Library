@@ -2632,6 +2632,7 @@ Learning objectives:
 Helpful Resource Links
 
 - [web21 recorded deployment lecture](https://youtu.be/jLD6hGc92bE)
+- [web14 recorded deployment lecture](https://youtu.be/jHrKliRcMEQ)
 
 Daily Project - [Web API IV - Module Challenge](https://github.com/LambdaSchool/webapi-iv-challenge)
 
