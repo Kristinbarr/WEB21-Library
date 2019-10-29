@@ -10,7 +10,7 @@ Workshop code, lectures, notes, and solutions for the WEB21 cohort
 - [Student Sprint Retrospective](https://airtable.com/shruSVU97eR6CHE5A)
 - [Peer Code Review](https://airtable.com/shrVBzrhkcT6GqExr)
 - [Peer Code Review Checklist](https://github.com/LambdaSchool/Peer-Code-Review-Checklist)
-- [Career Readiness](https://airtable.com/shrQmQZhpxzQYvlhp)
+- [Career Readiness Assignment Submission Form](https://airtable.com/shrPRn2u4XaL7DtHx)
 
 </details>
 
@@ -23,6 +23,10 @@ Web21 Calendar: [Google Calendar Link](https://calendar.google.com/calendar/r?ci
 Lambda Course Info: [Precourse, WEB, CS, Labs, Career, Next](https://learn.lambdaschool.com/course/cs-fsw)
 
 Student Orientation: [LS1905 video](https://youtu.be/i2FlKBBZtS0)
+Career Success:
+
+- [Career Lessons and Assignments](https://docs.google.com/spreadsheets/d/1fLM8NCGP0FQP6DIj3EiDr7gay3JcCljiUuWCPm8w4F8/edit#gid=0)
+- [Tech job hunting template](https://airtable.com/shrN6LSwDGNqxiXf5/tblg2bg3Tzog6LuBM/viwFjwlI2PgxmFuvV?blocks=hide)
 
 ## General Helpful Resources and Links
 
@@ -2940,7 +2944,7 @@ Daily Project - [node-server-testing-challenge](https://github.com/LambdaSchool/
 
 Helpful Resource Links
 
-- []()
+- [Postgres and Heroku for WEB18 w/ Luis Hernandez](https://youtu.be/4WECh9OVvgk)
 
 </details>
 
@@ -2963,23 +2967,42 @@ Labs 18 Information:
 - [Labs 18 Project Selection](https://www.notion.so/Labs-18-Projects-Students-33b46129228348a2bdd253a30c7b1f2d)
 - [Labs 18 Google Calendar](https://calendar.google.com/calendar?cid=bGFtYmRhc2Nob29sLmNvbV81cWw1NGdkdTZic2R1ZzBpMDVxNjFjcTYxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-| Presentations                              | Recording               | Slides             |
-| ------------------------------------------ | ----------------------- | ------------------ |
-| Kickoff w Bernie                           | [🎥][kickoff]           | [📊][kickoff sl]   |
-| Labs Logistics w Bernie                    | [🎥][labs log]          | [📊][labs log sl]  |
-| Stakeholder Communication (TLs?) w Jessica | [🎥][stkld comm]        | [📊][stkld sl]     |
-| Measuring Success w Holdy                  | [🎥][measuring success] | [📊][meas s sl]    |
-| Intro to Product Teams                     | [🎥][prod team]         | [📊][prod team sl] |
+| Presentations                              | Recording       | Slides          |
+| ------------------------------------------ | --------------- | --------------- |
+| Kickoff w Bernie                           | [🎥][kickoff]   | [📊][kickoffs]  |
+| Labs Logistics w Bernie                    | [🎥][labslog]   | [📊][labslogs]  |
+| Stakeholder Communication (TLs?) w Jessica | [🎥][stkldcomm] | [NA][stklds]    |
+| Measuring Success w Holdy                  | [🎥][meassucc]  | [📊][meass]     |
+| Intro to Product Teams w Alex              | [🎥][prodteam]  | [NA][prodteams] |
 
 [kickoff]: https://youtu.be/V4k3X6laXuI
-[kickoff sl]: https://docs.google.com/presentation/d/15BjHmWX4pOadYq_uYyDm5CdD0hmKVAFXlxpy4VWR_n0/edit
-[labs log]: https://youtu.be/6_DNrO1xJWQ
-[labs log sl]: https://docs.google.com/presentation/d/1Oomftn7HOthhE3Wy9-8dapT5affJeAGzngTEZSOSLoQ/edit?usp=sharing
-[stkld comm]: https://youtu.be/BTT34Ml8fHM
-[stkld sl]: tba
-[measuring success]: tba
-[meas s sl]: https://docs.google.com/presentation/d/1nPH7ebpWKUThul5plV98hf13GOe937thI2M7MPtVl5Y/edit#slide=id.p
-[prod team]: tba
-[prod team sl]: tba
+[kickoffs]: https://docs.google.com/presentation/d/15BjHmWX4pOadYq_uYyDm5CdD0hmKVAFXlxpy4VWR_n0/edit
+[labslog]: https://youtu.be/6_DNrO1xJWQ
+[labslogs]: https://docs.google.com/presentation/d/1Oomftn7HOthhE3Wy9-8dapT5affJeAGzngTEZSOSLoQ/edit?usp=sharing
+[stkldcomm]: https://youtu.be/BTT34Ml8fHM
+[stklds]: tba
+[meassucc]: https://youtu.be/EQDDo7ZSdzA
+[meass]: https://docs.google.com/presentation/d/1nPH7ebpWKUThul5plV98hf13GOe937thI2M7MPtVl5Y/edit#slide=id.p
+[prodteam]: https://youtu.be/SAYh6EIZi1o
+[prodteams]: tba
+
+#### Day 82 (Tue Oct 29)
+
+| Presentations                       | Recording     | Slides         |
+| ----------------------------------- | ------------- | -------------- |
+| Teamwork and Collaboration w Bernie | [🎥][tmwkcol] | [📊][tmwkcols] |
+| Intro to Product Cycle w Alex       | [🎥][prodcyc] | [📊][prodcycs] |
+| PVD Guided Project w Alex           | [🎥][pvd]     | [📊][pvds]     |
+
+[tmwkcol]: TBA
+[tmwkcols]: TBA
+[prodcyc]: https://youtu.be/EtVwKPaqI34
+[prodcycs]: TBA
+[pvd]: TBA
+[pvds]: TBA
+
+Guided Project Assignment: https://www.notion.so/PVD-Guided-Project-3937607f40b44f73b673626106d34b72
+
+Guided Project Submission Form: https://airtable.com/shrUJMRzenhZadRVC
 
 </details>
