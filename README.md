@@ -34,8 +34,8 @@ Career Success:
 
 Technical
 
-- [CodePen](https://codepen.io/)
-- [repl.it](https://repl.it)
+- [Code playground | CodePen](https://codepen.io/)
+- [Code REPL environment | repl.it](https://repl.it)
 - [JS Fiddle](https://jsfiddle.net/)
 - [JSBin](http://jsbin.com/)
 - [OneTab-Tab Manager - Chrome Extension](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en)
@@ -49,10 +49,9 @@ Technical
 - [DevDocs](https://devdocs.io/)
 - [GitHub BitBucket HTML Preview](https://htmlpreview.github.io/)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+- [User flow builder | Userflow](https://getuserflow.com/demo)
 
-Technical interviewing, code challenges, and whiteboarding
-
-Best:
+Technical Interviewing:
 
 1. https://www.interviewcake.com/
 2. https://www.interviewcake.com/data-structures-and-algorithms-guide/
@@ -60,7 +59,7 @@ Best:
 4. https://www.pramp.com/
 5. https://www.skilledinc.com/
 
-Others:
+Code Challenges and Whiteboarding:
 
 1. https://www.hackerrank.com
 2. https://leetcode.com/explore/
@@ -2451,7 +2450,7 @@ Daily Project - [java-schooldeploy](https://github.com/LambdaSchool/java-schoold
 
 <details><summary>click to open</summary>
 
-#### Build Week (Java)- Back End Developer - JAVA
+#### Build Week (Java) - Back End Developer - JAVA
 
 - [Build Week Culture Document](https://www.notion.so/Full-Time-Build-Sprint-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
 - [Schedule and Daily Milestones](https://www.notion.so/6e719d512134435f8a89ca2862f8d3e7?v=6c8d3bd7bbcb44539f8659fc96caa906)
@@ -2479,9 +2478,11 @@ Career Development Helpful Resource Links
 | After Party w Henry Blevins   | Code         |
 | ----------------------------- | ------------ |
 | [Backend Build Week 2][bw3ap] | [⚙️][bw3apc] |
+| [Backend Rtesting][bwbet]     |
 
 [bw3ap]: https://youtu.be/_zWMVoSznQE
 [bw3apc]: https://github.com/Blevs/backend-bw-ii-testing
+[bwbet]: https://youtu.be/_zWMVoSznQE
 
 - [Q&A with John Mitchell - 09-23-19](https://youtu.be/HPkPM7j_xaI)
 
@@ -2932,7 +2933,9 @@ Daily Project - [node-server-testing-challenge](https://github.com/LambdaSchool/
 
 <details><summary>click to open</summary>
 
-#### Build Week (Node)- Back End Developer - NODE
+#### Day 80-84 (Mon-Fri Oct 21-25): Build Week (Node)
+
+Build Week Document Links
 
 - [Build Week Culture Document](https://www.notion.so/Full-Time-Build-Sprint-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
 - [Schedule and Daily Milestones](https://www.notion.so/6e719d512134435f8a89ca2862f8d3e7?v=6c8d3bd7bbcb44539f8659fc96caa906)
@@ -2941,11 +2944,15 @@ Daily Project - [node-server-testing-challenge](https://github.com/LambdaSchool/
 - [Build Week Rubric](https://www.notion.so/Rubrics-c0783f6d9b7e435f9ce47e8cd2d0ee3b)
 - [Build Week: Product List Airtable](https://airtable.com/shrzk3diKxkbWb5oA/tblM1xaStqkbmK0ou?blocks=hide)
 
-#### Day 80-84 (Mon-Fri Oct 21-25): Build Week
-
 Helpful Resource Links
 
 - [Postgres and Heroku for WEB18 w/ Luis Hernandez](https://youtu.be/4WECh9OVvgk)
+- [Build Week - Backend - Testing | Henry Blevins](https://www.youtube.com/watch?v=_zWMVoSznQE&t=164s)
+- [extended zoom calls | Go Brief](https://gobrief.com/)
+
+Build Week Demo Recording
+
+- [Build Week Demo Day Oct 25, 2019](https://youtu.be/GQoPMRK_eyU)
 
 </details>
 
@@ -2955,12 +2962,13 @@ Helpful Resource Links
 
 <details><summary>click to open</summary>
 
-#### Day 81 (Mon Oct 28)
+#### Day 81 (Mon Oct 28): Labs W1D1
 
 Student Information:
 
 - [Labs Student Handbook](https://www.notion.so/Lambda-Labs-Student-Handbook-cd09a9c47fd14f36a8b7fec281d871c1)
 - [Labs Rubrics](https://www.notion.so/The-Labs-Rubrics-64eae46cf3ec43b88e1d4c761698a947#fd5aca30706a44e5aa7dcac3abd27ddb)
+- [Labs Leading a Retrospective](https://www.notion.so/Leading-a-Retrospective-d1e17ec7881f47b0afed47c1fefc84a6)
 
 Labs 18 Information:
 
@@ -2987,7 +2995,7 @@ Labs 18 Information:
 [prodteam]: https://youtu.be/SAYh6EIZi1o
 [prodteams]: tba
 
-#### Day 82 (Tue Oct 29)
+#### Day 82 (Tue Oct 29): Labs W1D2
 
 | Presentations                       | Recording     | Slides         |
 | ----------------------------------- | ------------- | -------------- |
@@ -2995,15 +3003,55 @@ Labs 18 Information:
 | Intro to Product Cycle w Alex       | [🎥][prodcyc] | [📊][prodcycs] |
 | PVD Guided Project w Alex           | [🎥][pvd]     | [📊][pvds]     |
 
-[tmwkcol]: TBA
+[tmwkcol]: https://youtu.be/PxcIdChpeS8
 [tmwkcols]: TBA
 [prodcyc]: https://youtu.be/EtVwKPaqI34
-[prodcycs]: TBA
-[pvd]: TBA
+[prodcycs]: https://www.notion.so/Introduction-to-Product-Cycles-6fb386f1a5314e9cb45746b776a2d515
+[pvd]: https://youtu.be/FuRQ5lBto9A
 [pvds]: TBA
 
-Guided Project Assignment: https://www.notion.so/PVD-Guided-Project-3937607f40b44f73b673626106d34b72
+Guided Project Assignment: [PVD Research Customer Interviewing Assignment](https://www.notion.so/PVD-Guided-Project-3937607f40b44f73b673626106d34b72)
 
-Guided Project Submission Form: https://airtable.com/shrUJMRzenhZadRVC
+Guided Project Submission Form: [Customer Interview Submission Form](https://airtable.com/shrUJMRzenhZadRVC)
+Helpful Links:
+
+- [User flow builder | Userflow](https://getuserflow.com/demo)
+- [Forms and Surveys | Typeform](https://www.typeform.com/)
+- [customerdevlabs.com](https://customerdevlabs.com/)
+
+#### Day 83 (Wed Oct 30): Labs W1D3
+
+Labs group chosen: **Startup Grant Database**
+
+- Web(no current UX or DS), Lambda Co-op(with stakeholder), Build-On(previous UX)
+- Save entrepreneurs and their mentors time in finding cash grants.
+- [Startup Grant Database Notion PVD](https://www.notion.so/lambdaschool/Startup-Grant-Database-f126d11906074d2d9ec6f77eb6b51363)
+- [Startup Grant Database Video Pitch](https://www.loom.com/share/d6a48bb8df87494a8386a0f4928d0be6)
+- [Stakeholder partner fund site](https://www.1517fund.com)
+- [project existing trello board](https://trello.com/b/T3ej9wIi/starup-grant-db-16)
+- [PVD Meeting Adgenda](https://www.notion.so/Product-Vision-Document-Meeting-Agenda-49dc742c343a4fe4a3a63676ed3b1dd5)
+- [Kicking Off a Co-Op Project in Lambda Labs](https://www.notion.so/Kicking-Off-A-Co-Op-Project-25216a8193bf412e8bc5f0e4e4008ac9)
+- [Stakeholder first meeting recording](https://lambdaschool.zoom.us/recording/play/C271gVtAi95LOcJv8nHOwEUKyzGvopffRaOwjtivfsg9BG4F2iaDRiqEXKEusEzU?continueMode=true)
+- [Grant list Airtable](https://airtable.com/shrBg8fMyUSa7Chod/tblKdJ1l6oCKwwFKy?blocks=hide)
+
+Startup Grant DB inspo sites:
+
+- [niche.com for filtering example](https://www.niche.com/colleges/scholarships/)
+- [Zillow for filtering example](https://www.zillow.com/)
+- []()
+
+Helpful Links:
+
+- [Markdown note taking app | Typora.io](https://typora.io/)
+
+#### Day 84 (Thu Oct 31): Labs W1D4
+
+#### Day 85 (Fri Nov 1): Labs W1D5
+
+| Presentations                       | Recording     | Slides         |
+| ----------------------------------- | ------------- | -------------- |
+| Usability Onboarding w David Monson | [🎥][tmwkcol] | [📊][tmwkcols] |
+
+[tmwkcol]: https://youtu.be/C8kqpvkPNh8
 
 </details>
