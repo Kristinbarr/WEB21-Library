@@ -818,11 +818,19 @@ Lambda Expert Panel [July 2019 recording (second half)](https://youtu.be/aNv7OpF
 
 Training Kit Weekly Sprint Overview: [Intro to React](https://learn.lambdaschool.com/fsw/sprint/recYL2HDPPpkDmGEm)
 
-Career Development: [LinkedIn Presentation | Caitlin Forehand]()
+| Career Development      | Recording                                          | Slides       |
+| ----------------------- | -------------------------------------------------- | ------------ |
+| LinkedIn w Rachel Cohen | [[Rachel Cohen]][crdvlnkr][[Kathleen Hunt]][crdvlnkr2] | [📊][crdvlnks] |
 
-> - [LinkedIn Presentation Slides](https://docs.google.com/presentation/d/1fRAeas776uOTb6OjiVu2qzO8UEORICyEoi2uHwUkshg/edit?usp=sharing)
+[crdvlnkr]: https://lambdaschool.zoom.us/recording/play/SrfWb5NPc_IChnWH7sxD8kUlkPgwOS3msPqcud0tOJLJfvpl07Tv2VjpTFzSv-0e?continueMode=true
+[crdvlnkr2]: https://youtu.be/qlrYRTVzzBQ
+[crdvlnks]: https://docs.google.com/presentation/d/1fRAeas776uOTb6OjiVu2qzO8UEORICyEoi2uHwUkshg/edit?usp=sharing
+
+> - [LinkedIn Checklist Rubric](https://drive.google.com/file/d/1B01yrV21Fk8VkXEM81CA6f5RFUHEXXIR/view)
+> - [LinkedIn Expectations and Resume How-to Guide](https://docs.google.com/document/d/1mwoc-fy-ucYOCgOMYClmyUFB7ucHiGAW4jRTMt1cbGM/edit)
 > - [Setting up your LinkedIn Profile](https://docs.google.com/document/d/1Gp4ZjEwRUY2a1dcbXK0Ml5LE4ZzWRnUjHa9pJnNFIpo/edit)
-> - [Cold Outreach Templates](https://docs.google.com/document/d/1owl_mvOeXt08TfEQlfYGimRzQ9QIDLY1ewBgK7SHC5I/edit)
+> - [LinkedIn Cold Outreach Template(300 char or less)](https://docs.google.com/document/d/1HLfnzpXFY3vn1UzBEhE1g7pNnEzNZIfS2Dw6b3FORj8/edit)
+> - [LinkedIn Cold Outreach Templates](https://docs.google.com/document/d/1owl_mvOeXt08TfEQlfYGimRzQ9QIDLY1ewBgK7SHC5I/edit)
 
 #### Day 30 (Mon Jul 15): React Components and Component State
 
@@ -3018,6 +3026,7 @@ Helpful Links:
 - [User flow builder | Userflow](https://getuserflow.com/demo)
 - [Forms and Surveys | Typeform](https://www.typeform.com/)
 - [customerdevlabs.com](https://customerdevlabs.com/)
+- [User Testing Feedback | Useberry](https://www.useberry.com/)
 
 #### Day 83 (Wed Oct 30): Labs W1D3
 
@@ -3043,8 +3052,11 @@ Startup Grant DB inspo sites:
 Helpful Links:
 
 - [Markdown note taking app | Typora.io](https://typora.io/)
+- [Figma Tips from Lambda UX](https://www.notion.so/Figma-Tips-Tricks-61b8361c23ca48e49dc182d91b909404)
 
 #### Day 84 (Thu Oct 31): Labs W1D4
+
+Halloween half day!
 
 #### Day 85 (Fri Nov 1): Labs W1D5
 
