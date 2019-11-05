@@ -818,19 +818,21 @@ Lambda Expert Panel [July 2019 recording (second half)](https://youtu.be/aNv7OpF
 
 Training Kit Weekly Sprint Overview: [Intro to React](https://learn.lambdaschool.com/fsw/sprint/recYL2HDPPpkDmGEm)
 
-| Career Development      | Recording                                          | Slides       |
-| ----------------------- | -------------------------------------------------- | ------------ |
+| Career Development      | Recording                                              | Slides         |
+| ----------------------- | ------------------------------------------------------ | -------------- |
 | LinkedIn w Rachel Cohen | [[Rachel Cohen]][crdvlnkr][[Kathleen Hunt]][crdvlnkr2] | [📊][crdvlnks] |
 
 [crdvlnkr]: https://lambdaschool.zoom.us/recording/play/SrfWb5NPc_IChnWH7sxD8kUlkPgwOS3msPqcud0tOJLJfvpl07Tv2VjpTFzSv-0e?continueMode=true
 [crdvlnkr2]: https://youtu.be/qlrYRTVzzBQ
 [crdvlnks]: https://docs.google.com/presentation/d/1fRAeas776uOTb6OjiVu2qzO8UEORICyEoi2uHwUkshg/edit?usp=sharing
 
-> - [LinkedIn Checklist Rubric](https://drive.google.com/file/d/1B01yrV21Fk8VkXEM81CA6f5RFUHEXXIR/view)
-> - [LinkedIn Expectations and Resume How-to Guide](https://docs.google.com/document/d/1mwoc-fy-ucYOCgOMYClmyUFB7ucHiGAW4jRTMt1cbGM/edit)
-> - [Setting up your LinkedIn Profile](https://docs.google.com/document/d/1Gp4ZjEwRUY2a1dcbXK0Ml5LE4ZzWRnUjHa9pJnNFIpo/edit)
-> - [LinkedIn Cold Outreach Template(300 char or less)](https://docs.google.com/document/d/1HLfnzpXFY3vn1UzBEhE1g7pNnEzNZIfS2Dw6b3FORj8/edit)
-> - [LinkedIn Cold Outreach Templates](https://docs.google.com/document/d/1owl_mvOeXt08TfEQlfYGimRzQ9QIDLY1ewBgK7SHC5I/edit)
+Career Dev helpful links:
+
+- [LinkedIn Checklist Rubric](https://drive.google.com/file/d/1HXuqNTEWvVNfat_UzLKC2oKz38mpnsyt/view)
+- [LinkedIn Expectations and Resume How-to Guide](https://docs.google.com/document/d/1mwoc-fy-ucYOCgOMYClmyUFB7ucHiGAW4jRTMt1cbGM/edit)
+- [Setting up your LinkedIn Profile](https://docs.google.com/document/d/1Gp4ZjEwRUY2a1dcbXK0Ml5LE4ZzWRnUjHa9pJnNFIpo/edit)
+- [LinkedIn Cold Outreach Template(300 char or less)](https://docs.google.com/document/d/1HLfnzpXFY3vn1UzBEhE1g7pNnEzNZIfS2Dw6b3FORj8/edit)
+- [LinkedIn Cold Outreach Templates](https://docs.google.com/document/d/1owl_mvOeXt08TfEQlfYGimRzQ9QIDLY1ewBgK7SHC5I/edit)
 
 #### Day 30 (Mon Jul 15): React Components and Component State
 
@@ -3021,6 +3023,18 @@ Labs 18 Information:
 Guided Project Assignment: [PVD Research Customer Interviewing Assignment](https://www.notion.so/PVD-Guided-Project-3937607f40b44f73b673626106d34b72)
 
 Guided Project Submission Form: [Customer Interview Submission Form](https://airtable.com/shrUJMRzenhZadRVC)
+
+**Prototyping tools**
+
+- Figma
+- Adobe XD
+- Invision
+- InVision Studio
+- Principle
+- Framer.js
+- Zeplin
+- Marvel
+
 Helpful Links:
 
 - [User flow builder | Userflow](https://getuserflow.com/demo)
@@ -3045,9 +3059,10 @@ Labs group chosen: **Startup Grant Database**
 
 Startup Grant DB inspo sites:
 
-- [niche.com for filtering example](https://www.niche.com/colleges/scholarships/)
-- [Zillow for filtering example](https://www.zillow.com/)
-- []()
+- [niche.com - filtering example](https://www.niche.com/colleges/scholarships/)
+- [Zillow - filtering example](https://www.zillow.com/)
+- [Reddit - Moderator role example](https://www.reddit.com/)
+- [Airtable - table view example](https://airtable.com/shrBg8fMyUSa7Chod/tblKdJ1l6oCKwwFKy?blocks=hide)
 
 Helpful Links:
 
@@ -3060,10 +3075,42 @@ Halloween half day!
 
 #### Day 85 (Fri Nov 1): Labs W1D5
 
-| Presentations                       | Recording     | Slides         |
-| ----------------------------------- | ------------- | -------------- |
-| Usability Onboarding w David Monson | [🎥][tmwkcol] | [📊][tmwkcols] |
+| Presentation                        | Recording | Slides     |
+| ----------------------------------- | --------- | ---------- |
+| Usability Onboarding w David Monson | [🎥][usb] | [📊][usbs] |
 
-[tmwkcol]: https://youtu.be/C8kqpvkPNh8
+[usb]: https://youtu.be/C8kqpvkPNh8
+[usbs]: TBA
+
+</details>
+
+## Week 19 - Labs 18 - WK2
+
+<details><summary>click to open</summary>
+
+#### Day 86 (Mon Nov 4): Labs W2D1
+
+| Presentation                 | Recording  | Slides      |
+| ---------------------------- | ---------- | ----------- |
+| Release Canvas w Alex Parker | [🎥][rlsc] | [📊][rlscs] |
+
+[rlsc]: https://youtu.be/C8kqpvkPNh8
+[rlscs]: tba
+
+Helpful Links
+
+- [Experience Management, limit 10 uses? | Qualtrics](https://www.qualtrics.com/)
+- [Survey Software | Survey Monkey](https://www.surveymonkey.com/)
+- [Survey Software | Google Forms](https://docs.google.com/forms/u/0/)
+
+removing node_modules to save space: `find -name node_modules -type d -prune -rm -rf {} \;`
+
+#### Day 87 (Mon Nov 5): Labs W2D2
+
+#### Day 88 (Mon Nov 6): Labs W2D3
+
+#### Day 89 (Mon Nov 7): Labs W2D4
+
+#### Day 90 (Mon Nov 8): Labs W2D5
 
 </details>
