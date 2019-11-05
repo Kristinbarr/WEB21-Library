@@ -3075,12 +3075,14 @@ Halloween half day!
 
 #### Day 85 (Fri Nov 1): Labs W1D5
 
-| Presentation                        | Recording | Slides     |
-| ----------------------------------- | --------- | ---------- |
-| Usability Onboarding w David Monson | [🎥][usb] | [📊][usbs] |
+| Presentation             | Recording | Slides     |
+| ------------------------ | --------- | ---------- |
+| Usability w David Monson | [🎥][usb] | [📊][usbs] |
 
 [usb]: https://youtu.be/C8kqpvkPNh8
 [usbs]: TBA
+
+[PVD WK1 Checkin](https://lambdaschool.zoom.us/recording/share/2eNX6xSz7LeztH5T2GLC9Wuzm0gssoc3CXI1RnJlbV2wIumekTziMw?startTime=1572643649000)
 
 </details>
 
