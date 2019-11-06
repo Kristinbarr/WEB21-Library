@@ -3092,12 +3092,14 @@ Halloween half day!
 
 #### Day 86 (Mon Nov 4): Labs W2D1
 
-| Presentation                 | Recording  | Slides      |
-| ---------------------------- | ---------- | ----------- |
-| Release Canvas w Alex Parker | [🎥][rlsc] | [📊][rlscs] |
+| Presentation                 | Recording  | Guided release canvas |
+| ---------------------------- | ---------- | --------------------- |
+| Release Canvas w Alex Parker | [🎥][rlsc] | [📊][rlscs]           |
 
 [rlsc]: https://youtu.be/C8kqpvkPNh8
-[rlscs]: tba
+[rlscs]: https://www.notion.so/Mention-7437dcf59e0049eaad75aae8e0b0fae1
+
+- [Brownbag with Alysa Buchanan on User Testing/UX](https://youtu.be/LMw_iHT7ckI)
 
 Helpful Links
 
@@ -3107,12 +3109,45 @@ Helpful Links
 
 removing node_modules to save space: `find -name node_modules -type d -prune -rm -rf {} \;`
 
-#### Day 87 (Mon Nov 5): Labs W2D2
+#### Day 87 (Tue Nov 5): Labs W2D2
 
-#### Day 88 (Mon Nov 6): Labs W2D3
+| Presentation                                        | Recording    | Slides      |
+| --------------------------------------------------- | ------------ | ----------- |
+| Collaborating with Git w Bernie Durfee              | [🎥][colgit] | NA          |
+| Refresh (Health, Wellness, burnout) w Elizabeth Lin | [🎥][rfsh]   | [📊][rfshs] |
+| Design Basics w David Monson                        | [🎥][dsnb]   | [📊][dsnbs] |
 
-#### Day 89 (Mon Nov 7): Labs W2D4
+[colgit]: https://youtu.be/Kdaibb4rY2o
+[rfsh]: https://youtu.be/mk8k9qa-uDI
+[rfshs]: https://docs.google.com/presentation/d/1ET1p4dzEB6YLmvIXCB_GqdToITERQDyMDXu7UYdSXUs/edit#slide=id.g5f1c058c42_0_242
+[dsnb]: TBA
+[dsnbs]: TBA
 
-#### Day 90 (Mon Nov 8): Labs W2D5
+Helpful Links
+
+- [Image processing Pachyderm Beginner Tutorial](https://docs.pachyderm.com/getting_started/beginner_tutorial)
+- [Automated Kubernetes ML workflow Deployment | Kubeflow](https://www.kubeflow.org/)
+- [Deep Learning Color Generator | Eva Design](https://colors.eva.design/)
+- [Flowcharts, wireframes | Whimsical](https://whimsical.com/)
+- [color theory | colors.co](http://colors.co/)
+- [color pallete | coolers](https://coolors.co/)
+- [color scheme | ColorSpace](https://mycolor.space/)
+- [color combos | Paletton](https://paletton.com/)
+- [gradients | CSS Gradient](https://cssgradient.io/)
+- [for fun | Hellvetica](https://hellveticafont.com/)
+- [for fun | foundtype](http://foundtype.com/)
+
+#### Day 88 (Wed Nov 6): Labs W2D3
+
+| Presentation                       | Recording   | Slides       |
+| ---------------------------------- | ----------- | ------------ |
+| Project Management w Bernie Durfee | [🎥][prjmg] | [📊][prjmgs] |
+
+[prjmg]: TBA
+[prjmgs]: TBA
+
+#### Day 89 (Thu Nov 7): Labs W2D4
+
+#### Day 90 (Fri Nov 8): Labs W2D5
 
 </details>
