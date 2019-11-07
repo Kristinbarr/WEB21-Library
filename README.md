@@ -3139,12 +3139,11 @@ Helpful Links
 
 #### Day 88 (Wed Nov 6): Labs W2D3
 
-| Presentation                       | Recording   | Slides       |
-| ---------------------------------- | ----------- | ------------ |
-| Project Management w Bernie Durfee | [🎥][prjmg] | [📊][prjmgs] |
+| Presentation                       | Recording   |
+| ---------------------------------- | ----------- |
+| Project Management w Bernie Durfee | [🎥][prjmg] |
 
-[prjmg]: TBA
-[prjmgs]: TBA
+[prjmg]: https://youtu.be/s9bAnOuXrpo
 
 #### Day 89 (Thu Nov 7): Labs W2D4
 
