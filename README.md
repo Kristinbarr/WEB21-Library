@@ -3145,7 +3145,15 @@ Helpful Links
 
 [prjmg]: https://youtu.be/s9bAnOuXrpo
 
+[Brown Bag with Namrata Ganatra CTO](https://youtu.be/4HKmYZZsSKo)
+
 #### Day 89 (Thu Nov 7): Labs W2D4
+
+| Presentation                    | Recording   |
+| ------------------------------- | ----------- |
+| Peer Reviews with Bernie Durfee | [🎥][prvws] |
+
+[prvws]: https://youtu.be/PCOLLHTD9dQ
 
 #### Day 90 (Fri Nov 8): Labs W2D5
 
