@@ -3136,6 +3136,8 @@ Helpful Links
 - [gradients | CSS Gradient](https://cssgradient.io/)
 - [for fun | Hellvetica](https://hellveticafont.com/)
 - [for fun | foundtype](http://foundtype.com/)
+- [Labs UX Design Notion](https://www.notion.so/UX-Design-299caa16d8d948e48bc0f4ed152e9494)
+- [Preping for your first Lambda Therapy Session](https://docs.google.com/document/d/169SPRYJV54qG9NlQ7l6PdjnHXbeHJA8ta33zWHxEHIg/edit?ts=5db0afb5)
 
 #### Day 88 (Wed Nov 6): Labs W2D3
 
@@ -3155,6 +3157,20 @@ Helpful Links
 
 [prvws]: https://youtu.be/PCOLLHTD9dQ
 
+Helpful links
+
+- [Gatsby as a Create React App Replacement | Khaled Garbaya 2019](https://youtu.be/kqtlCL6Btqw)
+- [Beyond Static: Building Dynamic Webapps with Gatsby | Dustin Schau 2019](https://youtu.be/zeVC-gD3u7M)
+
 #### Day 90 (Fri Nov 8): Labs W2D5
+
+| Presentation                           | Recording  | Slides      |
+| -------------------------------------- | ---------- | ----------- |
+| Pairing with Bernie Durfee             | [🎥][prg]  | NA          |
+| DS - Data Mining 101 w Jon-Cody Sokoll | [🎥][dtmn] | [📊][dtmns] |
+
+[prg]: https://youtu.be/rMgaCjtqyf4
+[dtmn]: TBA
+[dtmns]: https://lambdaschoolstudents.slack.com/files/UJ5308HL6/FPYMTQQ6N/datamining101.pdf?origin_team=T4JUEB3ME
 
 </details>
