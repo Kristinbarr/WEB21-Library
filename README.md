@@ -3141,13 +3141,14 @@ Helpful Links
 
 #### Day 88 (Wed Nov 6): Labs W2D3
 
-| Presentation                       | Recording   |
-| ---------------------------------- | ----------- |
-| Project Management w Bernie Durfee | [🎥][prjmg] |
+| Presentation                       | Recording       | Blog Post       |
+| ---------------------------------- | --------------- | --------------- |
+| Project Management w Bernie Durfee | [🎥][prjmg]     | NA              |
+| Brown Bag with Namrata Ganatra CTO | [🎥][bbnamrata] | [📰][bbnamblog] |
 
 [prjmg]: https://youtu.be/s9bAnOuXrpo
-
-[Brown Bag with Namrata Ganatra CTO](https://youtu.be/4HKmYZZsSKo)
+[bbnamrata]: https://youtu.be/4HKmYZZsSKo
+[bbnamblog]: https://lambdaschool.com/the-commons/building-the-tech-career-you-deserve-q-a-with-namrata-ganatra
 
 #### Day 89 (Thu Nov 7): Labs W2D4
 
