@@ -2986,24 +2986,22 @@ Labs 18 Information:
 - [Labs 18 Project Selection](https://www.notion.so/Labs-18-Projects-Students-33b46129228348a2bdd253a30c7b1f2d)
 - [Labs 18 Google Calendar](https://calendar.google.com/calendar?cid=bGFtYmRhc2Nob29sLmNvbV81cWw1NGdkdTZic2R1ZzBpMDVxNjFjcTYxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-| Presentations                              | Recording       | Slides          |
-| ------------------------------------------ | --------------- | --------------- |
-| Kickoff w Bernie                           | [🎥][kickoff]   | [📊][kickoffs]  |
-| Labs Logistics w Bernie                    | [🎥][labslog]   | [📊][labslogs]  |
-| Stakeholder Communication (TLs?) w Jessica | [🎥][stkldcomm] | [NA][stklds]    |
-| Measuring Success w Holdy                  | [🎥][meassucc]  | [📊][meass]     |
-| Intro to Product Teams w Alex              | [🎥][prodteam]  | [NA][prodteams] |
+| Presentations                              | Recording       | Slides         |
+| ------------------------------------------ | --------------- | -------------- |
+| Kickoff w Bernie                           | [🎥][kickoff]   | [📊][kickoffs] |
+| Labs Logistics w Bernie                    | [🎥][labslog]   | [📊][labslogs] |
+| Stakeholder Communication (TLs?) w Jessica | [🎥][stkldcomm] | NA             |
+| Measuring Success w Holdy                  | [🎥][meassucc]  | [📊][meass]    |
+| Intro to Product Teams w Alex              | [🎥][prodteam]  | NA             |
 
 [kickoff]: https://youtu.be/V4k3X6laXuI
 [kickoffs]: https://docs.google.com/presentation/d/15BjHmWX4pOadYq_uYyDm5CdD0hmKVAFXlxpy4VWR_n0/edit
 [labslog]: https://youtu.be/6_DNrO1xJWQ
 [labslogs]: https://docs.google.com/presentation/d/1Oomftn7HOthhE3Wy9-8dapT5affJeAGzngTEZSOSLoQ/edit?usp=sharing
 [stkldcomm]: https://youtu.be/BTT34Ml8fHM
-[stklds]: tba
 [meassucc]: https://youtu.be/EQDDo7ZSdzA
 [meass]: https://docs.google.com/presentation/d/1nPH7ebpWKUThul5plV98hf13GOe937thI2M7MPtVl5Y/edit#slide=id.p
 [prodteam]: https://youtu.be/SAYh6EIZi1o
-[prodteams]: tba
 
 #### Day 82 (Tue Oct 29): Labs W1D2
 
@@ -3115,13 +3113,12 @@ removing node_modules to save space: `find -name node_modules -type d -prune -rm
 | --------------------------------------------------- | ------------ | ----------- |
 | Collaborating with Git w Bernie Durfee              | [🎥][colgit] | NA          |
 | Refresh (Health, Wellness, burnout) w Elizabeth Lin | [🎥][rfsh]   | [📊][rfshs] |
-| Design Basics w David Monson                        | [🎥][dsnb]   | [📊][dsnbs] |
+| Design Basics w David Monson                        | [🎥][dsnb]   | NA          |
 
 [colgit]: https://youtu.be/Kdaibb4rY2o
 [rfsh]: https://youtu.be/mk8k9qa-uDI
 [rfshs]: https://docs.google.com/presentation/d/1ET1p4dzEB6YLmvIXCB_GqdToITERQDyMDXu7UYdSXUs/edit#slide=id.g5f1c058c42_0_242
 [dsnb]: TBA
-[dsnbs]: TBA
 
 Helpful Links
 
@@ -3173,5 +3170,47 @@ Helpful links
 [prg]: https://youtu.be/rMgaCjtqyf4
 [dtmn]: TBA
 [dtmns]: https://lambdaschoolstudents.slack.com/files/UJ5308HL6/FPYMTQQ6N/datamining101.pdf?origin_team=T4JUEB3ME
+
+</details>
+
+## Week 20 - Labs 18 - WK3
+
+<details><summary>click to open</summary>
+
+#### Day 91 (Mon Nov 11): Labs W3D1
+
+| Presentation | Recording | Slides  |
+| ------------ | --------- | ------- |
+|              | [🎥][]    | [📊][s] |
+
+[]:
+[s]: TBA
+
+Helpful Links
+
+#### Day 91 (Mon Nov 11): Labs W3D1
+
+| Presentation | Recording | Guided release canvas |
+| ------------ | --------- | --------------------- |
+|              | [🎥][]    | [📊][s]               |
+
+[]:
+[s]: TBA
+
+Helpful Links
+
+#### Day 92 (Tue Nov 12): Labs W3D2
+
+Helpful Links
+
+#### Day 93 (Wed Nov 13): Labs W3D3
+
+Helpful Links
+
+#### Day 94 (Thu Nov 14): Labs W3D4
+
+Helpful Links
+
+#### Day 95 (Fri Nov 15): Labs W3D5
 
 </details>
