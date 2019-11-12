@@ -3179,29 +3179,25 @@ Helpful links
 
 #### Day 91 (Mon Nov 11): Labs W3D1
 
-| Presentation | Recording | Slides  |
-| ------------ | --------- | ------- |
-|              | [🎥][]    | [📊][s] |
-
-[]:
-[s]: TBA
-
 Helpful Links
 
-#### Day 91 (Mon Nov 11): Labs W3D1
-
-| Presentation | Recording | Guided release canvas |
-| ------------ | --------- | --------------------- |
-|              | [🎥][]    | [📊][s]               |
-
-[]:
-[s]: TBA
-
-Helpful Links
+- [Ben's quick guide to connect Heroku and PGadmin4](https://share.vidyard.com/watch/DxFYR1sWWToh3mM1GTHkoW)
+- [Mario's yarn command Node cheatsheet](https://docs.google.com/document/d/1b6Pflz3F98CMElHuIZVAUkqw0S5zmnXfw2USutxXNzE/edit?usp=sharing)
+- [Knex Cheatsheet | Devhints](https://devhints.io/knex)
 
 #### Day 92 (Tue Nov 12): Labs W3D2
 
 Helpful Links
+
+- [Auth0 React SDK Quickstarts: Login](https://auth0.com/docs/quickstart/spa/react#read-the-user-profile)
+- [Adding Groups, Roles and Permissions to your Auth0 users, for free!](https://medium.com/tojs/adding-groups-roles-and-permissions-to-your-auth0-users-for-free-8fc0562b2205)
+
+Brownbag with Samanth Egge
+
+brownbag links
+- [JX Install PostgreSQL on Win10 with John Mitchell](https://www.youtube.com/watch?v=y1DV86i9vDY)
+- [JX Install PostgreSQL on Mac with John Mitchell](https://www.youtube.com/watch?v=JU7rIkXyQYs)
+- []()
 
 #### Day 93 (Wed Nov 13): Labs W3D3
 
