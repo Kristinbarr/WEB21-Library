@@ -3195,16 +3195,23 @@ Helpful Links
 - [Auth0 React SDK Quickstarts: Login](https://auth0.com/docs/quickstart/spa/react#read-the-user-profile)
 - [Adding Groups, Roles and Permissions to your Auth0 users, for free!](https://medium.com/tojs/adding-groups-roles-and-permissions-to-your-auth0-users-for-free-8fc0562b2205)
 
-Brownbag with Samanth Egge
-
 brownbag links
+
+- [Brownbag with Samanth Egge](https://www.youtube.com/watch?v=xSN2WhPHE5s&index=3&t=0s)
 - [JX Install PostgreSQL on Win10 with John Mitchell](https://www.youtube.com/watch?v=y1DV86i9vDY)
 - [JX Install PostgreSQL on Mac with John Mitchell](https://www.youtube.com/watch?v=JU7rIkXyQYs)
-- []()
 
 #### Day 93 (Wed Nov 13): Labs W3D3
 
+| Presentation                    | Recording   |
+| ------------------------------- | ----------- |
+| User Stories with Bernie Durfee | [🎥][usrst] |
+
+[usrst]: https://youtu.be/s89AO8FDne8
+
 Helpful Links
+
+- [Learn how to handle authentication with Node using Passport.js](https://www.freecodecamp.org/news/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e/)
 
 #### Day 94 (Thu Nov 14): Labs W3D4
 
