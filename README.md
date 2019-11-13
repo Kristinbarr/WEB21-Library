@@ -3159,6 +3159,7 @@ Helpful links
 
 - [Gatsby as a Create React App Replacement | Khaled Garbaya 2019](https://youtu.be/kqtlCL6Btqw)
 - [Beyond Static: Building Dynamic Webapps with Gatsby | Dustin Schau 2019](https://youtu.be/zeVC-gD3u7M)
+- [How to Use Material Data Tables on the Web](https://medium.com/google-design/how-to-use-material-data-tables-on-the-web-b12e881119a4)
 
 #### Day 90 (Fri Nov 8): Labs W2D5
 
@@ -3181,6 +3182,7 @@ Helpful links
 
 Helpful Links
 
+- [material-ui table and drawer demo](https://codesandbox.io/s/material-demo-57er5)
 - [Ben's quick guide to connect Heroku and PGadmin4](https://share.vidyard.com/watch/DxFYR1sWWToh3mM1GTHkoW)
 - [Mario's yarn command Node cheatsheet](https://docs.google.com/document/d/1b6Pflz3F98CMElHuIZVAUkqw0S5zmnXfw2USutxXNzE/edit?usp=sharing)
 - [Knex Cheatsheet | Devhints](https://devhints.io/knex)
@@ -3189,6 +3191,7 @@ Helpful Links
 
 Helpful Links
 
+- [Free Auth0 Tutorial - Secure Your ReactJs Applications With Auth0](https://www.udemy.com/share/101EeuCUYZd1dQQ3o=/)
 - [Auth0 React SDK Quickstarts: Login](https://auth0.com/docs/quickstart/spa/react#read-the-user-profile)
 - [Adding Groups, Roles and Permissions to your Auth0 users, for free!](https://medium.com/tojs/adding-groups-roles-and-permissions-to-your-auth0-users-for-free-8fc0562b2205)
 
