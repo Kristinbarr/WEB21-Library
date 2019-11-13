@@ -3203,6 +3203,14 @@ brownbag links
 
 #### Day 93 (Wed Nov 13): Labs W3D3
 
+| Career Development Presentation          | Recording   | Slides       | Interview Prep Guide |
+| ---------------------------------------- | ----------- | ------------ | -------------------- |
+| Interviewing with Nilza Santana-Castillo | [🎥][cditv] | [📊][cditvs] | [🗺][cditvg]          |
+
+[cditv]: https://youtu.be/VAo5Jlg2yWU
+[cditvs]: https://docs.google.com/presentation/d/1eHFWgdUZRrqJz7-N3Q81OspyCP06VvxPVN-0GU29OdE/edit?usp=sharing
+[cditvg]: https://docs.google.com/presentation/d/1fiGZXNQoZh-UZjIa0m1tnp7gJZ7VXPj2xL9S71_iRIg/edit?usp=sharing
+
 | Presentation                    | Recording   |
 | ------------------------------- | ----------- |
 | User Stories with Bernie Durfee | [🎥][usrst] |
