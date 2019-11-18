@@ -1194,23 +1194,21 @@ Helpful Resource Links
 - [Build Week: Product List Airtable](https://airtable.com/shrzk3diKxkbWb5oA/tblM1xaStqkbmK0ou?blocks=hide)
 - [API Postman Documentation](https://documenter.getpostman.com/view/8035044/SVYkvfzS?version=latest#cbc25e0d-8a08-479f-b6a8-9548daf46689)
 
-#### Career Development Assignment
+Career Development Assignment
 
 - For this week, please use the feedback you got from your peers in Monday’s break-out groups to hone your story until you feel confident about it. Ask at least two more people (peers, friends, family, your coach) for feedback, and upload a short video of yourself (30-60 seconds) sharing your introduction with your sprint retro on Friday.
 
-### After Party w Henry Blevins
-
-| Topic                                                  | Video       |
+| After Party w Henry Blevins                            | Video       |
 | ------------------------------------------------------ | ----------- |
-| Deploying React App to Netlify (and using \_redirects) | [⚙️][bw2ap] |
+| Deploying React App to Netlify (and using \_redirects) | [🎥][bw2ap] |
 
 [bw2ap]: https://www.youtube.com/watch?v=e6qXUS3C550
 
-### Helpful Resource Links
+Helpful Resource Links
 
 Design Tools:
-[Figma](https://www.figma.com),
-[Adobe XD](https://www.adobe.com/products/xd.html),
+[Figma](https://www.figma.com)
+[Adobe XD](https://www.adobe.com/products/xd.html)
 [Sketch](https://www.sketch.com)
 
 Design Inspiration:
@@ -2469,7 +2467,7 @@ Daily Project - [java-schooldeploy](https://github.com/LambdaSchool/java-schoold
 - [Build Week Rubric](https://www.notion.so/Rubrics-c0783f6d9b7e435f9ce47e8cd2d0ee3b)
 - [Build Week: Product List Airtable](https://airtable.com/shrzk3diKxkbWb5oA/tblM1xaStqkbmK0ou?blocks=hide)
 
-#### Career Development Assignment
+Career Development Assignment
 
 | Career Development                 | recording    | slides        |
 | ---------------------------------- | ------------ | ------------- |
@@ -3226,5 +3224,40 @@ Helpful Links
 Helpful Links
 
 #### Day 95 (Fri Nov 15): Labs W3D5
+
+Helpful Links
+
+</details>
+
+## Week 21 - Labs 18 - WK4
+
+<details><summary>click to open</summary>
+
+#### Day 96 (Mon Nov 18): Labs W4D1
+
+[TL Training Pre-work](https://www.notion.so/Team-Lead-TL-Training-LS1912-dae3a518027c4d6f91716e08f8978e13)
+
+| TL Training                               | Video         | Assignment     | Extra Resource |
+| ----------------------------------------- | ------------- | -------------- | -------------- |
+| How to Build a Great Team                 | [🎥][tltd1v]  | 3-5 take-aways | [📁][tltd1e]   |
+| Building a Psychologically Safe Workplace | [🎥][tltd1v2] | 3-5 take-aways | NA             |
+| Day 1 Training Lecture                    | [🎥][tltd1l]  |                | NA             |
+
+[tltd1v]: https://www.youtube.com/watch?v=xMMBpRDwp1s
+[tltd1e]: https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/
+[tltd1v2]: https://youtu.be/LhoLuui9gX8
+[tltd1l]: https://lambdaschoolstudents.slack.com/files/UJQ5DJ68N/FQFDPA68H/ls1912_tl_training_day_1.mp4
+
+[Brown bag with Alumni Cass and Cam](https://lambdaschool.zoom.us/recording/share/W2f5BlbfbonjW06FOCebNVx26CT1nlgEYjl9zHGDFjmwIumekTziMw)
+
+Helpful Links
+
+#### Day 97 (Tue Nov 19): Labs W4D2
+
+#### Day 98 (Wed Nov 20): Labs W4D3
+
+#### Day 99 (Thu Nov 21): Labs W4D4
+
+#### Day 100 (Fri Nov 22): Labs W4D5
 
 </details>
