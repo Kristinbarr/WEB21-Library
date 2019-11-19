@@ -3223,9 +3223,13 @@ Helpful Links
 
 Helpful Links
 
+- []()
+
 #### Day 95 (Fri Nov 15): Labs W3D5
 
 Helpful Links
+
+- [Linking User Accounts](https://auth0.com/docs/link-accounts)
 
 </details>
 
@@ -3235,22 +3239,28 @@ Helpful Links
 
 #### Day 96 (Mon Nov 18): Labs W4D1
 
+[Labs Forms and Attendance Policy](https://www.notion.so/Labs-Forms-and-Attendance-Policy-88d923d7589647858d3a4ee283f1f068)
+
 [TL Training Pre-work](https://www.notion.so/Team-Lead-TL-Training-LS1912-dae3a518027c4d6f91716e08f8978e13)
+[TL Training GCal](https://bit.ly/2Zjgp5Y)
 
 | TL Training                               | Video         | Assignment     | Extra Resource |
 | ----------------------------------------- | ------------- | -------------- | -------------- |
 | How to Build a Great Team                 | [🎥][tltd1v]  | 3-5 take-aways | [📁][tltd1e]   |
 | Building a Psychologically Safe Workplace | [🎥][tltd1v2] | 3-5 take-aways | NA             |
-| Day 1 Training Lecture                    | [🎥][tltd1l]  |                | NA             |
+| Day 1 Training Lecture                    | [🎥][tltd1l]  | NA             | NA             |
+| Day 1 EoD Stand Up                        | [🎥][tltd1l2] | NA             | NA             |
 
 [tltd1v]: https://www.youtube.com/watch?v=xMMBpRDwp1s
 [tltd1e]: https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/
 [tltd1v2]: https://youtu.be/LhoLuui9gX8
-[tltd1l]: https://lambdaschoolstudents.slack.com/files/UJQ5DJ68N/FQFDPA68H/ls1912_tl_training_day_1.mp4
+[tltd1l]: https://youtu.be/Rgv96Pfvi04
+[tltd1l2]: https://youtu.be/wmGD30Jyb-o
 
 [Brown bag with Alumni Cass and Cam](https://lambdaschool.zoom.us/recording/share/W2f5BlbfbonjW06FOCebNVx26CT1nlgEYjl9zHGDFjmwIumekTziMw)
 
 Helpful Links
+
 
 #### Day 97 (Tue Nov 19): Labs W4D2
 
