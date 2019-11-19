@@ -3240,7 +3240,6 @@ Helpful Links
 #### Day 96 (Mon Nov 18): Labs W4D1
 
 [Labs Forms and Attendance Policy](https://www.notion.so/Labs-Forms-and-Attendance-Policy-88d923d7589647858d3a4ee283f1f068)
-
 [TL Training LS1912](https://www.notion.so/Team-Lead-TL-Training-LS1912-dae3a518027c4d6f91716e08f8978e13)
 [TL Training GCal](https://bit.ly/2Zjgp5Y)
 
@@ -3257,14 +3256,34 @@ Helpful Links
 [tltd1l]: https://youtu.be/Rgv96Pfvi04
 [tltd1l2]: https://youtu.be/wmGD30Jyb-o
 
-[Brown bag with Alumni Cass and Cam](https://lambdaschool.zoom.us/recording/share/W2f5BlbfbonjW06FOCebNVx26CT1nlgEYjl9zHGDFjmwIumekTziMw)
+[Brown Bag with Alumni Cass and Cam](https://lambdaschool.zoom.us/recording/share/W2f5BlbfbonjW06FOCebNVx26CT1nlgEYjl9zHGDFjmwIumekTziMw)
 
 Helpful Links
 
-
 #### Day 97 (Tue Nov 19): Labs W4D2
 
+| Labs Presentation                         | Recording  |
+| ----------------------------------------- | ---------- |
+| Product Quality Assurance w Bernie Durfee | [🎥][lpqa] |
+
+[lpqa]: https://youtu.be/STVhYt6Ddew
+
+| Brownbag                                    | Recording    | Code          |
+| ------------------------------------------- | ------------ | ------------- |
+| Cypress Front End Testing w Isaiah Francois | [🎥][bbcfet] | [🐙][bbcfetc] |
+
+[bbcfet]: https://youtu.be/puggVHfX1b8
+[bbcfetc]: https://github.com/FrancoisCoding/cypress-testing-application
+
+| TL Training            | Video       | Assignment   | Extra Resource        |
+| ---------------------- | ----------- | ------------ | --------------------- |
+| Day 2 Training Lecture | [🎥][tltd2] | Case Studies | [Student Guide][tlsg] |
+
+[tltd2]: https://youtu.be/d0IoV1jcJoU
+[tlsg]: http://lambdaschool.com/studentguide
+
 TL Selected Articles
+
 - [Why We All Need a Mentor, or Two](https://99u.adobe.com/articles/63902/why-we-all-need-a-mentor-or-two)
 - [Good Leaders are Great Storytellers - 6 tips](https://firstround.com/review/good-leaders-are-great-storytellers-our-6-tips-for-telling-stories-that-resonate/)
 - [The Secrets to Designing a Curiosity-Driven Career](https://firstround.com/review/the-secrets-to-designing-a-curiosity-driven-career/)
@@ -3281,7 +3300,7 @@ TL Selected Articles
 - [7 Ways to De-escalate Your Office Tension](https://99u.adobe.com/articles/63747/a-world-class-mediator-shares-7-ways-to-de-escalate-your-office-tension)
 - [9 Lessons for the First-Time Manager](https://99u.adobe.com/articles/62789/9-lessons-for-the-first-time-manager)
 - [Our 6 Must Reads for Cutting Through Conflict and Tough Conversations](https://firstround.com/review/our-6-must-reads-for-cutting-through-conflict-and-tough-conversations/)
-- [Simon Sinek: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y&amp;t=37s)
+- [Simon Sinek: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y&t=37s)
 - [The 6 Decision-Making Frameworks That Help Startup Leaders Tackle Tough Calls](https://firstround.com/review/the-6-decision-making-frameworks-that-help-startup-leaders-tackle-tough-calls/)
 - [Diagnosing (And Curing) Your Communication Issues](https://99u.adobe.com/articles/17396/diagnosing-and-curing-your-communication-issues)
 - [cypher13: Friendly Collaboration](https://99u.adobe.com/articles/5636/cypher13-friendly-collaboration)
