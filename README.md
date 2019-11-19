@@ -3241,7 +3241,7 @@ Helpful Links
 
 [Labs Forms and Attendance Policy](https://www.notion.so/Labs-Forms-and-Attendance-Policy-88d923d7589647858d3a4ee283f1f068)
 
-[TL Training Pre-work](https://www.notion.so/Team-Lead-TL-Training-LS1912-dae3a518027c4d6f91716e08f8978e13)
+[TL Training LS1912](https://www.notion.so/Team-Lead-TL-Training-LS1912-dae3a518027c4d6f91716e08f8978e13)
 [TL Training GCal](https://bit.ly/2Zjgp5Y)
 
 | TL Training                               | Video         | Assignment     | Extra Resource |
@@ -3263,6 +3263,32 @@ Helpful Links
 
 
 #### Day 97 (Tue Nov 19): Labs W4D2
+
+TL Selected Articles
+- [Why We All Need a Mentor, or Two](https://99u.adobe.com/articles/63902/why-we-all-need-a-mentor-or-two)
+- [Good Leaders are Great Storytellers - 6 tips](https://firstround.com/review/good-leaders-are-great-storytellers-our-6-tips-for-telling-stories-that-resonate/)
+- [The Secrets to Designing a Curiosity-Driven Career](https://firstround.com/review/the-secrets-to-designing-a-curiosity-driven-career/)
+- [We Studied 100 Mentor-Mentee Matches — Here’s What Makes Mentorship Work](https://firstround.com/review/we-studied-100-mentor-mentee-matches-heres-what-makes-mentorship-work/)
+- [The Essential Questions That Have Powered This Top Silicon Valley Manager’s Career](https://firstround.com/review/the-essential-questions-that-have-powered-this-top-silicon-valley-managers-career/)
+- [From Checking Your Ego to Making Meetings Less Scary for Introverts: 99U’s 10 Best Ideas for Leaders](https://99u.adobe.com/articles/60545/from-checking-your-ego-to-making-meetings-less-scary-for-introverts-99us-10-best-ideas-for-leaders)
+- [Clean Up Corrosive Interpersonal Dynamics on Your Team with This System](https://firstround.com/review/clean-up-corrosive-interpersonal-dynamics-on-your-team-with-this-system/)
+- [Ten Human Skills for the Future of Work](https://99u.adobe.com/articles/63914/ten-human-skills-for-the-future-of-work)
+- [Why Self-Observation Is the Skill of the Future](https://99u.adobe.com/articles/61579/michael-ventura-self-observation-is-the-skill-of-the-future)
+- [Abraham Lincoln's Brilliant Method for Handling Setbacks](https://www.inc.com/ilan-mochari/lincoln-lesson-setbacks.html)
+- [Reddit and Facebook Veteran On How to Troubleshoot Troublemakers](https://firstround.com/review/reddit-and-facebook-veteran-on-how-to-troubleshoot-troublemakers/)
+- [Unlocking the Power of Stable Teams with Twitter’s SVP of Engineering](https://firstround.com/review/Twitter-Engineering-SVP-Chris-Fry-on-the-Power-of-Stable-Teams/)
+- [7 Important Habits of Leaders Who Know How to Listen](https://www.lollydaskal.com/leadership/7-important-habits-of-leaders-who-know-how-to-listen/)
+- [7 Ways to De-escalate Your Office Tension](https://99u.adobe.com/articles/63747/a-world-class-mediator-shares-7-ways-to-de-escalate-your-office-tension)
+- [9 Lessons for the First-Time Manager](https://99u.adobe.com/articles/62789/9-lessons-for-the-first-time-manager)
+- [Our 6 Must Reads for Cutting Through Conflict and Tough Conversations](https://firstround.com/review/our-6-must-reads-for-cutting-through-conflict-and-tough-conversations/)
+- [Simon Sinek: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y&amp;t=37s)
+- [The 6 Decision-Making Frameworks That Help Startup Leaders Tackle Tough Calls](https://firstround.com/review/the-6-decision-making-frameworks-that-help-startup-leaders-tackle-tough-calls/)
+- [Diagnosing (And Curing) Your Communication Issues](https://99u.adobe.com/articles/17396/diagnosing-and-curing-your-communication-issues)
+- [cypher13: Friendly Collaboration](https://99u.adobe.com/articles/5636/cypher13-friendly-collaboration)
+- [Taking A Team’s Temperature](https://99u.adobe.com/articles/5713/taking-a-teams-temperature)
+- [How Creatives Handle Tough Transitions and Moments of Uncertainty](https://99u.adobe.com/articles/64745/how-creatives-handle-tough-transitions-and-moments-of-uncertainty)
+- [The 4 Different Types of Workplace Learning Styles](https://www.cornerstoneondemand.com/resources/articles/4-different-types-workplace-learning-styles)
+- [Weighing the Risk: Be Open to the Outcome, Not Attached to It](https://99u.adobe.com/articles/63419/weighing-the-risk-be-open-to-the-outcome-not-attached-to-it)
 
 #### Day 98 (Wed Nov 20): Labs W4D3
 
