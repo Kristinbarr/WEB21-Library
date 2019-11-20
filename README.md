@@ -2983,6 +2983,7 @@ Labs 18 Information:
 - [Labs 18 Lession Review](https://airtable.com/shrlSkbJhD5OnwfTm)
 - [Labs 18 Project Selection](https://www.notion.so/Labs-18-Projects-Students-33b46129228348a2bdd253a30c7b1f2d)
 - [Labs 18 Google Calendar](https://calendar.google.com/calendar?cid=bGFtYmRhc2Nob29sLmNvbV81cWw1NGdkdTZic2R1ZzBpMDVxNjFjcTYxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- [Labs Career and Professional Development](https://learn.lambdaschool.com/cr/sprint/rec7HWWCFp4WIpVd4)
 
 | Presentations                              | Recording       | Slides         |
 | ------------------------------------------ | --------------- | -------------- |
@@ -3287,6 +3288,7 @@ Helpful Links
 [tlsg]: http://lambdaschool.com/studentguide
 
 TL Helpful Links
+
 - [Magazines | First Round Review](https://firstround.com/review/magazines/)
 - [Leadership - Adobe 99U](https://99u.adobe.com/category/leadership)
 
@@ -3319,10 +3321,23 @@ TL Selected Articles
 
 #### Day 98 (Wed Nov 20): Labs W4D3
 
-Labs Helpful links for students
+| TL Training            | Recording     | Extra Resources                |
+| ---------------------- | ------------- | ------------------------------ |
+| Day 3 Training Lecture | [🎥][tltd3]   | [📁][tltd3e]                   |
+| Day 3 Q&A with TLs     | [🎥][tltd3qa] | [power of introverts][tltd3e2] |
+
+[tltd3]: https://youtu.be/gLLBG5GhRdU
+[tltd3e]: TBA
+[tltd3qa]: TBA
+[tltd3e2]: https://www.youtube.com/watch?v=c0KYU2j0TM4
+
+[Brown Bag - DS Derek Mracek, Automated Essay Scoring](https://youtu.be/SjYEfu7yNzM)
+
+Labs Helpful Links for Students
 
 - [VS Code Can Do That?](https://vscodecandothat.com/)
 - [VS Code Top-Ten Pro Tips](https://www.youtube.com/watch?v=u21W_tfPVrY)
+- [That Weird JS Playlist](https://www.youtube.com/playlist?list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI)
 - [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
 
 Helpful Links
