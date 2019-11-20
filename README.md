@@ -3244,6 +3244,7 @@ Helpful Links
 [TL Training GCal](https://bit.ly/2Zjgp5Y)
 [WEBPT14 GCal](https://calendar.google.com/calendar?cid=bGFtYmRhc2Nob29sLmNvbV9mOXJkbHY0YjNqMjBlb25janFxdmRxYmdub0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 [WEBPT14 Culture Doc](https://docs.google.com/document/d/1Ddl6UGbdYn5CyR8VgmSZ0jFi74SzdhukXXkiDVeJA28/edit)
+[New Student Orientation TK](https://learn.lambdaschool.com/ll/sprint/recQf3zxkHFPeRABL)
 
 | TL Training                               | Video         | Assignment     | Extra Resource |
 | ----------------------------------------- | ------------- | -------------- | -------------- |
