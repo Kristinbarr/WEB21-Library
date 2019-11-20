@@ -3223,7 +3223,7 @@ Helpful Links
 
 Helpful Links
 
-- []()
+- [Linking User Accounts | Auth0](https://auth0.com/docs/link-accounts)
 
 #### Day 95 (Fri Nov 15): Labs W3D5
 
@@ -3242,6 +3242,8 @@ Helpful Links
 [Labs Forms and Attendance Policy](https://www.notion.so/Labs-Forms-and-Attendance-Policy-88d923d7589647858d3a4ee283f1f068)
 [TL Training LS1912](https://www.notion.so/Team-Lead-TL-Training-LS1912-dae3a518027c4d6f91716e08f8978e13)
 [TL Training GCal](https://bit.ly/2Zjgp5Y)
+[WEBPT14 GCal](https://calendar.google.com/calendar?cid=bGFtYmRhc2Nob29sLmNvbV9mOXJkbHY0YjNqMjBlb25janFxdmRxYmdub0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+[WEBPT14 Culture Doc](https://docs.google.com/document/d/1Ddl6UGbdYn5CyR8VgmSZ0jFi74SzdhukXXkiDVeJA28/edit)
 
 | TL Training                               | Video         | Assignment     | Extra Resource |
 | ----------------------------------------- | ------------- | -------------- | -------------- |
@@ -3282,6 +3284,10 @@ Helpful Links
 [tltd2]: https://youtu.be/d0IoV1jcJoU
 [tlsg]: http://lambdaschool.com/studentguide
 
+TL Helpful Links
+- [Magazines | First Round Review](https://firstround.com/review/magazines/)
+- [Leadership - Adobe 99U](https://99u.adobe.com/category/leadership)
+
 TL Selected Articles
 
 - [Why We All Need a Mentor, or Two](https://99u.adobe.com/articles/63902/why-we-all-need-a-mentor-or-two)
@@ -3310,6 +3316,17 @@ TL Selected Articles
 - [Weighing the Risk: Be Open to the Outcome, Not Attached to It](https://99u.adobe.com/articles/63419/weighing-the-risk-be-open-to-the-outcome-not-attached-to-it)
 
 #### Day 98 (Wed Nov 20): Labs W4D3
+
+Labs Helpful links for students
+
+- [VS Code Can Do That?](https://vscodecandothat.com/)
+- [VS Code Top-Ten Pro Tips](https://www.youtube.com/watch?v=u21W_tfPVrY)
+- [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
+
+Helpful Links
+
+- [awslabs/git-secrets: Prevents committing secrets and credentials](https://github.com/awslabs/git-secrets)
+- [Configuration and Config Vars | Heroku Dev Center](https://devcenter.heroku.com/articles/config-vars)
 
 #### Day 99 (Thu Nov 21): Labs W4D4
 
