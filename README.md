@@ -3240,7 +3240,8 @@ Helpful Links
 #### Day 96 (Mon Nov 18): Labs W4D1
 
 [Labs Forms and Attendance Policy](https://www.notion.so/Labs-Forms-and-Attendance-Policy-88d923d7589647858d3a4ee283f1f068)
-[TL Training LS1912](https://www.notion.so/Team-Lead-TL-Training-LS1912-dae3a518027c4d6f91716e08f8978e13)
+[TL Training Week LS1912](https://www.notion.so/Team-Lead-TL-Training-LS1912-dae3a518027c4d6f91716e08f8978e13)
+[PT TL Handbook](https://www.notion.so/Part-Time-TL-Handbook-fc34b78b14ef4083b98ee3f1be043b26)
 [TL Training GCal](https://bit.ly/2Zjgp5Y)
 [WEBPT14 GCal](https://calendar.google.com/calendar?cid=bGFtYmRhc2Nob29sLmNvbV9mOXJkbHY0YjNqMjBlb25janFxdmRxYmdub0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 [WEBPT14 Culture Doc](https://docs.google.com/document/d/1Ddl6UGbdYn5CyR8VgmSZ0jFi74SzdhukXXkiDVeJA28/edit)
