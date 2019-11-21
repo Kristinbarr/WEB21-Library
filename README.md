@@ -32,7 +32,7 @@ Workshop code, lectures, notes, and solutions for the WEB21 cohort
 
 - [Career Lessons and Assignments](https://docs.google.com/spreadsheets/d/1fLM8NCGP0FQP6DIj3EiDr7gay3JcCljiUuWCPm8w4F8/edit#gid=0)
 - [Tech job hunting template](https://airtable.com/shrN6LSwDGNqxiXf5/tblg2bg3Tzog6LuBM/viwFjwlI2PgxmFuvV?blocks=hide)
-</details>
+  </details>
 
 ## General Helpful Resources and Links
 
@@ -142,6 +142,7 @@ Helpful Resources & Links
   - [📖 HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
   - [📓 SEMrush.com - How to Use Semantic HTML5](https://www.semrush.com/blog/semantic-html5-guide/)
   - [📓 Semantic HTML Tutorial | HTML & CSS Is Hard](https://internetingishard.com/html-and-css/semantic-html/)
+  - [Why Use Semantic HTML?](https://www.lifewire.com/why-use-semantic-html-3468271)
   - [🎨 A Single Div](https://a.singlediv.com/)
   - [📘 The W3C Markup Validation Service](https://validator.w3.org/)
 
@@ -177,6 +178,7 @@ Helpful Resources & Links
   - [🦆 Quackit-Flexbox Examples](https://www.quackit.com/css/flexbox/examples/flexbox_website_layout_examples.cfm)
   - [👱🏻 Flexbox - Wes Bos free 20 video series](https://flexbox.io/)
   - [💪 FLEX: A simple visual cheatsheet for flexbox](http://flexbox.malven.co/)
+  - [THE ULTIMATE FLEXBOX CHEAT SHEET](https://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 
 - CSS Grid:
   - [🥕 Grid Garden](https://cssgridgarden.com/)
@@ -216,11 +218,14 @@ Helpful Resource Links
   - [YouTube | How To Setup SSH for GitHub](https://www.youtube.com/watch?v=3aKda-oXWc8)
   - [💩 Oh, shit, git!](https://ohshitgit.com/)
   - [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+  - [Git Pretty Flowchart](http://justinhileman.info/article/git-pretty/)
+
 - Terminal/Command Line:
   - [🎓 Command Line 101](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/command-line-101)
   - [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
   - [Oh-My-ZSH cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
   - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+  - [Learn the Command Line simulaiton | Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 
 [gitl]: https://youtu.be/qWe8gXvC8KU
 [octotree]: https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US
@@ -3330,21 +3335,31 @@ TL Selected Articles
 | TL Training            | Recording     | Extra Resources                |
 | ---------------------- | ------------- | ------------------------------ |
 | Day 3 Training Lecture | [🎥][tltd3]   | [📁][tltd3e]                   |
-| Day 3 Q&A with TLs     | [🎥][tltd3qa] | [power of introverts][tltd3e2] |
+| Day 3 Q&A with TLs     | [🎥][tltd3qa] | [Power of Introverts][tltd3e2] |
 
 [tltd3]: https://youtu.be/gLLBG5GhRdU
 [tltd3e]: TBA
-[tltd3qa]: TBA
+[tltd3qa]: https://youtu.be/_yiBzu_thxQ
 [tltd3e2]: https://www.youtube.com/watch?v=c0KYU2j0TM4
 
-[Brown Bag - DS Derek Mracek, Automated Essay Scoring](https://youtu.be/SjYEfu7yNzM)
-
-Labs Helpful Links for Students
+TL Helpful Links for Students
 
 - [VS Code Can Do That?](https://vscodecandothat.com/)
 - [VS Code Top-Ten Pro Tips](https://www.youtube.com/watch?v=u21W_tfPVrY)
 - [That Weird JS Playlist](https://www.youtube.com/playlist?list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI)
 - [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
+
+| Career Development | Recording    | Goal Tracker | SMART Goals | Feedback Guide | Conflict Scenarios |
+| ------------------ | ------------ | ------------ | ----------- | -------------- | ------------------ |
+| Success on the Job | [🎥][cdsotj] | [📁][cdgt]   | [📁][cdsg]  | [📁][cdfg]     | [📁][cdcs]         |
+
+[cdsotj]: https://youtu.be/tdRyUscEC3M
+[cdgt]: https://docs.google.com/spreadsheets/d/14u6JRNBqB2Jk2_LOgIsqaASKN6PTmP_OVWwINmRObCM
+[cdsg]: https://docs.google.com/document/d/1mURVmfv-I1Y1AAi_sTcUYxtMIseTvWJVS_3JN9-PGdY
+[cdfg]: https://docs.google.com/document/d/1vviZFnVPTBWDMcX90VV5UZqPaA8piVAC6c0zHfc-cZQ
+[cdcs]: https://docs.google.com/document/d/1kyZCEY2bMmywU26VR6u4Eilxfa6kZGhcGpWRHzm0IWo
+
+[Brown Bag - DS Derek Mracek, Automated Essay Scoring](https://youtu.be/SjYEfu7yNzM)
 
 Helpful Links
 
@@ -3352,6 +3367,10 @@ Helpful Links
 - [Configuration and Config Vars | Heroku Dev Center](https://devcenter.heroku.com/articles/config-vars)
 
 #### Day 99 (Thu Nov 21): Labs W4D4
+
+| TL Training               | Recording   | Assignment | Extra Resource |
+| ------------------------- | ----------- | ---------- | -------------- |
+| Day 4 Training Lecture    | [🎥][tltd4] |            | [📁][tltd4]    |
 
 #### Day 100 (Fri Nov 22): Labs W4D5
 
