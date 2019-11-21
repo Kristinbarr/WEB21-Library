@@ -2,9 +2,9 @@
 
 Workshop code, lectures, notes, and solutions for the WEB21 cohort
 
-## Lambda Links:
+## Student Forms
 
-<details><summary>Student Forms:</summary>
+<details><summary>Click to open</summary>
 
 - [M - Th Daily Standup Reports](https://airtable.com/shr8ZYuNjevMLRsxI)
 - [Student Sprint Retrospective](https://airtable.com/shruSVU97eR6CHE5A)
@@ -14,25 +14,31 @@ Workshop code, lectures, notes, and solutions for the WEB21 cohort
 
 </details>
 
-Syllabus (Training Kit): [Lambda School Training Kit](https://learn.lambdaschool.com/)
+## Lambda Course Links
 
-Progress Report Dashboard: [sign in with 'first-last'](https://dashboards.lambdaschool.com/students/)
+<details><summary>Click to open</summary>
 
-Web21 Calendar: [Google Calendar Link](https://calendar.google.com/calendar/r?cid=bGFtYmRhc2Nob29sLmNvbV9zOWthNm9wMnU2cG43ZzkwNHNoNjJucTVza0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- [Lambda Syllabus Training Kit](https://learn.lambdaschool.com/)
+- [Student Progress Dashboard](https://dashboards.lambdaschool.com/)
+- [Web21 GCal Link](https://calendar.google.com/calendar/r?cid=bGFtYmRhc2Nob29sLmNvbV9zOWthNm9wMnU2cG43ZzkwNHNoNjJucTVza0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- [Lambda Course Info: Precourse, WEB, CS, Labs, Career, Next](https://learn.lambdaschool.com/course/cs-fsw)
+- [Student Orientation: LS1905 video](https://youtu.be/i2FlKBBZtS0)
 
-Lambda Course Info: [Precourse, WEB, CS, Labs, Career, Next](https://learn.lambdaschool.com/course/cs-fsw)
+</details>
 
-Student Orientation: [LS1905 video](https://youtu.be/i2FlKBBZtS0)
-Career Success:
+## Career Success
+
+<details><summary>Click to open</summary>
 
 - [Career Lessons and Assignments](https://docs.google.com/spreadsheets/d/1fLM8NCGP0FQP6DIj3EiDr7gay3JcCljiUuWCPm8w4F8/edit#gid=0)
 - [Tech job hunting template](https://airtable.com/shrN6LSwDGNqxiXf5/tblg2bg3Tzog6LuBM/viwFjwlI2PgxmFuvV?blocks=hide)
+</details>
 
 ## General Helpful Resources and Links
 
 <details><summary>click to open</summary>
 
-Technical
+Technical:
 
 - [Code playground | CodePen](https://codepen.io/)
 - [Code REPL environment | repl.it](https://repl.it)
@@ -126,7 +132,7 @@ Utilities
 - [Codepen](https://codepen.io/)
 - [Repl.it](http://repl.it/)
 - [PerfectPixel - Chrome Extension][perfectpixel]
-- [Pesticide - Chrome Extension][https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh?hl=en-us]
+- [Pesticide - Chrome Extension](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh?hl=en-us)
 - [Git/Github Flow cheatsheet - Google Docs](https://docs.google.com/document/d/13qS0FImmfZ7rIAGHnu1_7R1Z8GiCrATAXTbgfw4x8XA/edit)
 
 Helpful Resources & Links
