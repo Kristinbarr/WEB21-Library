@@ -3368,9 +3368,11 @@ Helpful Links
 
 #### Day 99 (Thu Nov 21): Labs W4D4
 
-| TL Training               | Recording   | Assignment | Extra Resource |
-| ------------------------- | ----------- | ---------- | -------------- |
-| Day 4 Training Lecture    | [🎥][tltd4] |            | [📁][tltd4]    |
+| TL Training               | Recording   | Extra Resource |
+| ------------------------- | ----------- | -------------- |
+| Day 4 Training Lecture    | [🎥][tltd4] | [📁][tltd4]    |
+
+[tltd4]: TBA
 
 #### Day 100 (Fri Nov 22): Labs W4D5
 
