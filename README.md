@@ -3376,4 +3376,9 @@ Helpful Links
 
 #### Day 100 (Fri Nov 22): Labs W4D5
 
+TL Helpful Links
+
+- [16 Weeks of Leadership at Lambda School | Medium](https://medium.com/@rodriguespatrick/16-weeks-of-leadership-at-lambda-school-fc39c8aa4439)
+- [TL Training Leadership Mgmt Resources](https://www.notion.so/TL-Training-Leadership-Management-Resources-3b6e798c233342618173ebe0b5689e8d)
+
 </details>
