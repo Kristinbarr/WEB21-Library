@@ -3382,3 +3382,11 @@ TL Helpful Links
 - [TL Training Leadership Mgmt Resources](https://www.notion.so/TL-Training-Leadership-Management-Resources-3b6e798c233342618173ebe0b5689e8d)
 
 </details>
+
+## Week 22 - Labs 18 - WK5
+
+<details><summary>click to open</summary>
+
+#### Day 101 (Mon Dec 2): Labs W5D1
+
+</details>
