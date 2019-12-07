@@ -206,6 +206,7 @@ Utilities
 Helpful Resource Links
 
 - Git/GitHub:
+
   - [Git - Download](https://git-scm.com/download/)
   - [Learn Git Branching](https://learngitbranching.js.org/)
   - [🐙 Github/Git Cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
@@ -3368,9 +3369,9 @@ Helpful Links
 
 #### Day 99 (Thu Nov 21): Labs W4D4
 
-| TL Training               | Recording   | Extra Resource |
-| ------------------------- | ----------- | -------------- |
-| Day 4 Training Lecture    | [🎥][tltd4] | [📁][tltd4]    |
+| TL Training            | Recording   | Extra Resource |
+| ---------------------- | ----------- | -------------- |
+| Day 4 Training Lecture | [🎥][tltd4] | [📁][tltd4]    |
 
 [tltd4]: TBA
 
@@ -3383,30 +3384,38 @@ TL Helpful Links
 
 </details>
 
-## Week 22 - Labs 18 - WK5
+## Week 22 - Labs 18 - WK5 / TL WEBPT14
 
 <details><summary>click to open</summary>
 
-#### Day 101 (Mon Dec 2): Labs W5D1
+#### Day 101 (Mon Dec 2): Labs W5D1 / TL
 
 Helpful Links
 
 - [How to set a reminder in Slack](https://slack.com/help/articles/208423427-set-a-reminder)
 
-#### Day 102 (Tue Dec 3): Labs W5D2
+#### Day 102 (Tue Dec 3): Labs W5D2 / TL
 
 Helpful Links
 
 - [Unit Testing React HOC, connected, components](https://dev.to/papaponmx/unit-testing-hoc-connected-components-2d8h)
 - [How to mock Auth0 spa hooks to test your React components](https://itnext.io/how-to-mock-auth0-spa-hooks-to-test-your-react-components-e45b6a38fddb)
 
-#### Day 103 (Wed Dec 4): Labs W5D3
+#### Day 103 (Wed Dec 4): Labs W5D3 / TL
 
 Helpful Links
 
 - [jestjs Expect | Jest Docs](https://jestjs.io/docs/en/expect)
 
-#### Day 104 (Thu Dec 5): Labs W5D4
+#### Day 104 (Thu Dec 5): Labs W5D4 / TL
+
+Helpful Links
+
+- [How to Use a Knowledge Graph for Precision Medicine](https://blog.grakn.ai/precision-medicine-knowledge-graph-eea957d60c08)
+
+WEBPT14 Helpful Links
+
+- [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 
 #### Day 105 (Fri Dec 6): Labs W5D5
 
