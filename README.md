@@ -2505,6 +2505,8 @@ Career Development Helpful Resource Links
 [bwbet]: https://youtu.be/_zWMVoSznQE
 
 - [Q&A with John Mitchell - 09-23-19](https://youtu.be/HPkPM7j_xaI)
+- [java-to-node Pt. 1 | Will Umstead](https://youtu.be/2OwZP9cFipo)
+- [java-to-node Pt. 2 | Will Umstead](https://youtu.be/TdJB4MNUEW4)
 
 Helpful Resource Links
 
@@ -3403,8 +3405,6 @@ Helpful Links
 
 #### Day 103 (Wed Dec 4): Labs W5D3 / TL
 
-Helpful Links
-
 - [jestjs Expect | Jest Docs](https://jestjs.io/docs/en/expect)
 
 #### Day 104 (Thu Dec 5): Labs W5D4 / TL
@@ -3417,6 +3417,10 @@ WEBPT14 Helpful Links
 
 - [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 
-#### Day 105 (Fri Dec 6): Labs W5D5
+#### Day 105 (Fri Dec 6): Labs W5D5 / TL
+
+Helpful Links
+
+- [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
 
 </details>
