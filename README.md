@@ -3405,6 +3405,14 @@ Helpful Links
 
 #### Day 103 (Wed Dec 4): Labs W5D3 / TL
 
+| Career Development    | Recording  |
+| --------------------- | ---------- |
+| Professional Branding | [🎥][cdpb] |
+
+[cdpb]: https://youtu.be/ImhdfxUUPrk
+
+Helpful Links
+
 - [jestjs Expect | Jest Docs](https://jestjs.io/docs/en/expect)
 
 #### Day 104 (Thu Dec 5): Labs W5D4 / TL
