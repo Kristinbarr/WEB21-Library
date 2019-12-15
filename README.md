@@ -877,7 +877,7 @@ Helpful Resource Links
 - [React Docs | Getting Started](https://reactjs.org/docs/getting-started.html)
 - [React Hooks - Use state(get started)](https://www.youtube.com/watch?v=-G43PbpmGrA)
 - [What problems does React solve?](https://scotch.io/@anitashah/what-problems-does-reactjs-solve-when-must-you-select-reactjs)
-- [Chrome Extension | React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- [React Dev Tools | Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 - [Babel.js to see React handle JSX](https://bit.ly/2LQuPXo)
 - [javscript.io | Import and Export](http://javascript.info/import-export)
 - [Coding Games and Programming Challenges](https://www.codingame.com/playgrounds/6450/destructuring-objects-and-arrays-in-js)
@@ -3430,5 +3430,55 @@ WEBPT14 Helpful Links
 Helpful Links
 
 - [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
+
+</details>
+
+## Week 23 - Labs 18 - WK6 / TL WEBPT14
+
+<details><summary>click to open</summary>
+
+#### Day 106 (Mon Dec 9): Labs W6D1 / TL
+
+Helpful Links
+
+#### Day 107 (Tue Dec 10): Labs W6D2 / TL
+
+Helpful Links
+
+#### Day 108 (Wed Dec 11): Labs W6D3 / TL
+
+| Career Development | Recording  |
+| ------------------ | ---------- |
+| Resumes 2.0        | [🎥][cdr2] |
+
+[cdr2]: https://youtu.be/Go259pE1lEM
+
+Career Dev Links
+
+- ["Lambda School is" paragraphs](https://docs.google.com/document/d/19OxIgJYkLMq4c1o5zHu1Na4a3PYcyutOosVfg6a03RI/edit?usp=sharing)
+- [Action Verbs for a Technical Resume](https://docs.google.com/document/d/1wZkDPBWtQZDGGdvStD61iRx_jOWVlIyyQl9UOYHtZgA/edit?usp=sharing)
+
+#### Day 109 (Thu Dec 12): Labs W6D4 / TL
+
+Helpful Links
+
+WEBPT14 Helpful Links
+
+#### Day 110 (Fri Dec 13): Labs W6D5 / TL
+
+DS Links
+
+- [DS Lambda Lecture - ML on the Edge](https://youtu.be/JdEXsZVRNCU)
+- [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
+- [Live demo of PoseNet JS](https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html)
+
+DS Mobile/Native Links
+
+- [TensorFlow Lite](https://www.tensorflow.org/lite/)
+- [What's New in Core ML3 | Apple Developer](https://developer.apple.com/machine-learning/core-ml/)
+- [Python to JS compiler | Transcrypt](https://transcrypt.org/)
+- [BERT Explained: A Complete Guide with Theory and Tutorial](https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/)
+- [3 cool machine learning projects using TensorFlow and the Raspberry Pi](https://opensource.com/article/17/2/machine-learning-projects-tensorflow-raspberry-pi)
+- [Project Soli-human motion radar Google ATAP](https://atap.google.com/soli/)
 
 </details>
