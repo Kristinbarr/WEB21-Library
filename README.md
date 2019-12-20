@@ -3482,3 +3482,40 @@ DS Mobile/Native Links
 - [Project Soli-human motion radar Google ATAP](https://atap.google.com/soli/)
 
 </details>
+
+## Week 24 - Labs 18 - WK7 / TL WEBPT14
+
+<details><summary>click to open</summary>
+
+#### Day 111 (Mon Dec 16): Labs W7D1 / TL
+
+Helpful Links
+
+#### Day 112 (Tue Dec 17): Labs W7D2 / TL
+
+Helpful Links
+
+#### Day 113 (Wed Dec 18): Labs W7D3 / TL
+
+| Career Development | Recording  |
+| ------------------ | ---------- |
+| Portfolio and Artifacts        | [🎥][cdpaa] |
+
+[cdpaa]:
+
+Career Dev Links
+
+
+#### Day 114 (Thu Dec 19): Labs W7D4 / TL
+
+Helpful Links
+
+Helpful links - TL Responsive Design 2
+
+- [Is the default font-size of every browser 16px? Why? | Stack Overflow](https://stackoverflow.com/questions/29511983/is-the-default-font-size-of-every-browser-16px-why)
+- [Understanding CSS Before and After Pseudo-elements](https://dev.to/finallynero/understanding-css-before-and-after-pseudo-elements-ml0)
+
+#### Day 115 (Fri Dec 20): Labs W7D5 / TL
+
+
+</details>
