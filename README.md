@@ -3493,7 +3493,9 @@ Helpful Links
 
 #### Day 112 (Tue Dec 17): Labs W7D2 / TL
 
-Helpful Links
+Helpful Links - TL Responsive Design 1
+
+- [You Need to Stop Targeting Tags in CSS | Frontstuff](https://frontstuff.io/you-need-to-stop-targeting-tags-in-css)
 
 #### Day 113 (Wed Dec 18): Labs W7D3 / TL
 
@@ -3517,5 +3519,10 @@ Helpful links - TL Responsive Design 2
 
 #### Day 115 (Fri Dec 20): Labs W7D5 / TL
 
+Helpful Links - image compression
+
+- [Compress PNG images while preserving transparency | TinyPNG](https://tinypng.com/)
+- [Photo Editor : Pixlr X - free image editing online](http://www.pixlr.com/x)
+- []()
 
 </details>
