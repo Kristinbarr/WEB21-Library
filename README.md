@@ -3499,13 +3499,23 @@ Helpful Links - TL Responsive Design 1
 
 #### Day 113 (Wed Dec 18): Labs W7D3 / TL
 
-| Career Development | Recording  |
-| ------------------ | ---------- |
-| Portfolio and Artifacts        | [🎥][cdpaa] |
+| Career Development    | Recording   | Portfolio rubric | GitHub rubric | App Store rubric | Blog rubric  |
+| --------------------- | ----------- | ---------------- | ------------- | ---------------- | ------------ |
+| Portfolio & Artifacts | [🎥][cdpaa] | [🎯][cdpaar]     | [🎯][cdpaag]  | [🎯][cdpaaap]    | [🎯][cdpaab] |
 
-[cdpaa]:
+[cdpaa]: https://lambdaschool.zoom.us/recording/share/dkWTUahvhMjCw0WgMfJ4kYJYtVtMOrMA15YyPVuKQQSwIumekTziMw?startTime=1576699442000
+[cdpaar]: https://drive.google.com/file/d/15iB86TUKAMUaHxB3zf74A5oRTwmAVnkL/view?usp=sharing
+[cdpaag]: https://drive.google.com/file/d/1geqZSdwle2YU6dRGjBbvFT2U9WqReOLU/view?usp=sharing
+[cdpaaap]: https://drive.google.com/file/d/1nz1m59ZxnzviZO5jTkgXBl9GM8g0lt9E/view?usp=sharing
+[cdpaab]: https://drive.google.com/file/d/1_G5H6Y4MQJFZJS-ucAsdSpatqVf1q_Li/view?usp=sharing
 
-Career Dev Links
+Portfolio getting started Links:
+
+- [Build a portfolio website](https://github.com/LambdaSchool/portfolio-website)
+- [Web design resources](https://gist.github.com/justsml/badccebfb44fd20dae39b49a2e29085b#web-design-resources)
+- [Submit an app the the App Store](https://developer.apple.com/app-store/submissions/)
+- [Publish an app in the Google Play Store](https://developer.android.com/studio/publish)
+- [Medium’s curation guidelines (best practices for writing)](https://help.medium.com/hc/en-us/articles/360006362473-Medium-s-Curation-Guidelines-everything-writers-need-to-know)
 
 
 #### Day 114 (Thu Dec 19): Labs W7D4 / TL
