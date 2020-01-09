@@ -3536,3 +3536,13 @@ Helpful Links - image compression
 - []()
 
 </details>
+
+## Week 25 - Labs 18 - WK8 / TL WEBPT14
+
+<details><summary>click to open</summary>
+
+- [Career Development - Technical Projects](https://youtu.be/ecG_UNHOK6o)
+- [Labs18 Final Project Presentations Group 1](https://youtu.be/mxnDs_ke-9s)
+- [Labs18 Final Project Presentations Group 2](https://youtu.be/jiYX80Lz964)
+
+</details>
