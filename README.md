@@ -3517,7 +3517,6 @@ Portfolio getting started Links:
 - [Publish an app in the Google Play Store](https://developer.android.com/studio/publish)
 - [Medium’s curation guidelines (best practices for writing)](https://help.medium.com/hc/en-us/articles/360006362473-Medium-s-Curation-Guidelines-everything-writers-need-to-know)
 
-
 #### Day 114 (Thu Dec 19): Labs W7D4 / TL
 
 Helpful Links
@@ -3541,8 +3540,17 @@ Helpful Links - image compression
 
 <details><summary>click to open</summary>
 
-- [Career Development - Technical Projects](https://youtu.be/ecG_UNHOK6o)
+| Career Development                          | slides      |
+| ------------------------------------------- | ----------- |
+| Technical Projects w Parth Shah [🎥][cdtpl] | [📊][cdtps] |
+
+[cdtpl]: https://youtu.be/ecG_UNHOK6o
+[cdtps]: https://docs.google.com/presentation/d/1IOj0Vs_Iw9Y3-RzDVc1wBNI-SACJBs2EuRgDOHDc5kc/edit?usp=sharing
+
+- [The Future of JavaScript - New Features and Disruptive Trends in 2020](https://youtu.be/f0DrPLKf6Ro)
 - [Labs18 Final Project Presentations Group 1](https://youtu.be/mxnDs_ke-9s)
 - [Labs18 Final Project Presentations Group 2](https://youtu.be/jiYX80Lz964)
+- [Labs 18 Shark Tank (Part I)](https://youtu.be/mW-hJxlnVwk)
+- [Shark Tank (Labs and Build Weeks)  January 10, 2020](https://youtu.be/mgMUUEkYqJc)
 
 </details>
