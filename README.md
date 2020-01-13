@@ -3540,6 +3540,8 @@ Helpful Links - image compression
 
 <details><summary>click to open</summary>
 
+#### Day 116-120 (Jan 6-10)
+
 | Career Development                          | slides      |
 | ------------------------------------------- | ----------- |
 | Technical Projects w Parth Shah [🎥][cdtpl] | [📊][cdtps] |
@@ -3551,6 +3553,56 @@ Helpful Links - image compression
 - [Labs18 Final Project Presentations Group 1](https://youtu.be/mxnDs_ke-9s)
 - [Labs18 Final Project Presentations Group 2](https://youtu.be/jiYX80Lz964)
 - [Labs 18 Shark Tank (Part I)](https://youtu.be/mW-hJxlnVwk)
-- [Shark Tank (Labs and Build Weeks)  January 10, 2020](https://youtu.be/mgMUUEkYqJc)
+- [Shark Tank (Labs and Build Weeks) January 10, 2020](https://youtu.be/mgMUUEkYqJc)
+
+</details>
+
+# Computer Science
+
+## Week 26 Sprint - Intro to Pythong and OOP / TL WEBPT14
+
+<details><summary>click to open</summary>
+
+Training Kit Weekly Sprint Overview: [Intro to Python and OOP](https://learn.lambdaschool.com/cs/sprint/recd4D4w3QrigPqUF)
+
+#### Day 121 (Mon Jan 13): Intro to Python 1
+
+Learning objectives:
+
+- create a simple Python program that utilizes the basic types and data structures, uses correct syntax throughout, and employs conditionals and loops
+- compare and contrast the characteristics of Lists, Tuples, Sets, and Dictionaries in Python
+- write Python code that shows the ability to perform operations on each Lists, Dictionaries, Tuples, and Sets
+
+| Topic             | Lecture    |
+| ----------------- | ---------- |
+| Intro to Python 1 | [🎥][itp1] |
+
+[itp1]: https://youtu.be/FIE815TOC84
+
+Helpful Resource Links
+
+- [Lambda CS Wiki](https://github.com/LambdaSchool/CS-Wiki/wiki)
+- [Python videos | Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
+- [Installing-Python-3-and-pipenv(windows)](https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv)
+- [Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview](https://www.youtube.com/watch?v=-nh9rCzPJ20)
+- [Visual Studio Code (Mac) - Setting up a Python Development Environment and Complete Overview](https://www.youtube.com/watch?v=06I63_p-2A4)
+- [Typecasting in Python | Python type Conversion with Example](https://www.stackoftuts.com/python-3/typecasting-in-python/)
+- [Code debugger/stepper | Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
+
+
+#### Day 122 (Tue Jan 14): Intro to Python 2
+
+
+
+| Topic             | Lecture    |
+| ----------------- | ---------- |
+| Intro to Python 2 | [🎥][itp2] |
+
+[itp2]: h
+
+
+#### Day 123 (Wed Jan 15): Intro to Python 3
+
+#### Day 124 (Thu Jan 16): Intro to Python 4
 
 </details>
