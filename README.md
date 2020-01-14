@@ -3582,24 +3582,32 @@ Learning objectives:
 Helpful Resource Links
 
 - [Lambda CS Wiki](https://github.com/LambdaSchool/CS-Wiki/wiki)
+- [JS/Python Cheatsheet](https://github.com/LambdaSchool/CS-Wiki/wiki/Javascript-Python-cheatsheet)
+- [CS24 Intro to Python 1 Recording w Bryan Fukumoto](https://youtu.be/7O8QqYKtmVY)
 - [Python videos | Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
 - [Installing-Python-3-and-pipenv(windows)](https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv)
 - [Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview](https://www.youtube.com/watch?v=-nh9rCzPJ20)
 - [Visual Studio Code (Mac) - Setting up a Python Development Environment and Complete Overview](https://www.youtube.com/watch?v=06I63_p-2A4)
 - [Typecasting in Python | Python type Conversion with Example](https://www.stackoftuts.com/python-3/typecasting-in-python/)
 - [Code debugger/stepper | Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
-
+- [Python String Formatting Best Practices – Real Python](https://realpython.com/python-string-formatting/#1-old-style-string-formatting-operator)
+- [Old Style Formatting | Python Docs](https://docs.python.org/3/library/stdtypes.html#old-string-formatting)
+- [Python args and kwargs: Demystified – Real Python](https://realpython.com/python-kwargs-and-args/)
 
 #### Day 122 (Tue Jan 14): Intro to Python 2
 
-
+Learning objectives:
 
 | Topic             | Lecture    |
 | ----------------- | ---------- |
 | Intro to Python 2 | [🎥][itp2] |
 
-[itp2]: h
+[itp2]: https://youtu.be/v3_PcKzRrKw
 
+Helpful Resources Links
+
+- [How to Solve It | Polya Wikipedia](https://en.wikipedia.org/wiki/How_to_Solve_It)
+- [Python Tutorial: Formatted Output](https://www.python-course.eu/python3_formatted_output.php)
 
 #### Day 123 (Wed Jan 15): Intro to Python 3
 
