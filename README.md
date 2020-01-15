@@ -3598,6 +3598,10 @@ Helpful Resource Links
 
 Learning objectives:
 
+- name and describe the details of each step of Lambda’s Problem Solving Framework
+- examine and interpret project requirements and create an action plan based on those requirements
+- create a Python program, demonstrate its successful performance, and explain the process used to create the program
+
 | Topic             | Lecture    |
 | ----------------- | ---------- |
 | Intro to Python 2 | [🎥][itp2] |
@@ -3607,9 +3611,35 @@ Learning objectives:
 Helpful Resources Links
 
 - [How to Solve It | Polya Wikipedia](https://en.wikipedia.org/wiki/How_to_Solve_It)
+- [os module | Python Docs](https://docs.python.org/3.7/library/os.html)
 - [Python Tutorial: Formatted Output](https://www.python-course.eu/python3_formatted_output.php)
+- [basic old/new string formatting](https://pyformat.info/)
+- [f strings in Python](https://realpython.com/python-f-strings/#f-strings-a-new-and-improved-way-to-format-strings-in-python)
+- [slices in Python | Stack Overflow](https://stackoverflow.com/a/509295)
+- [List Comprehensions | Python Docs](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
+- [Dictionaries | Python Docs](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
+- [args and kwargs in Python | GeeksforGeeks](https://www.geeksforgeeks.org/args-kwargs-python/)
+- [args and kwargs in Python | Real Python](https://realpython.com/python-kwargs-and-args/)
+- [Python global, local, and nonlocal variables](https://www.programiz.com/python-programming/global-local-nonlocal-variables)
+- [Reading and writing files | Python Docs](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
+- [Calendar | Python Docs](https://docs.python.org/3.6/library/calendar.html)
 
 #### Day 123 (Wed Jan 15): Intro to Python 3
+
+Learning objectives:
+
+- understand and apply the concepts of object-oriented design using Python
+
+| Topic             | Lecture    |
+| ----------------- | ---------- |
+| Intro to Python 3 | [🎥][itp3] |
+
+[itp3]: https://youtu.be/WpYBYOmTq6E
+
+Helpful Resources Links:
+
+- [4 Basic Princicples of OOP | Medium](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727)
+- [Difference between **str** and **repr**?](https://stackoverflow.com/questions/1436703/difference-between-str-and-repr)
 
 #### Day 124 (Thu Jan 16): Intro to Python 4
 
