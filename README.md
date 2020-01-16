@@ -3643,4 +3643,20 @@ Helpful Resources Links:
 
 #### Day 124 (Thu Jan 16): Intro to Python 4
 
+Learning objectives:
+
+- demonstrate an understanding of inheritance through appropriate method overriding and use of super()
+- demonstrate an understanding of association through appropriate class design
+
+
+| Topic             | Lecture    |
+| ----------------- | ---------- |
+| Intro to Python 4 | [🎥][itp4] |
+
+[itp4]: https://youtu.be/Q-Wa1lJky6E
+
+Helpful Resources Links:
+
+- []()
+
 </details>
