@@ -3648,7 +3648,6 @@ Learning objectives:
 - demonstrate an understanding of inheritance through appropriate method overriding and use of super()
 - demonstrate an understanding of association through appropriate class design
 
-
 | Topic             | Lecture    |
 | ----------------- | ---------- |
 | Intro to Python 4 | [🎥][itp4] |
@@ -3658,5 +3657,70 @@ Learning objectives:
 Helpful Resources Links:
 
 - []()
+
+#### Day 125 (Fri Jan 17): Sprint Challenge
+
+</details>
+
+## Week 27 Sprint - Algorithms / TL WEBPT14
+
+<details><summary>click to open</summary>
+
+Training Kit Weekly Sprint Overview: [Algorithms](https://learn.lambdaschool.com/cs/sprint/recd9grrKlURJ453N)
+
+#### Day 126 (Mon Jan 20): Iterative Sorting
+
+~~ MLK HOLIDAY - Watch a recording ~~
+
+| Topic                    | Lecture     |
+| ------------------------ | ----------- |
+| CS24 w/ Artem Litchmanov | [🎥][acs24] |
+
+[acs24]: https://youtu.be/igRrFfv8FdQ
+
+Helpful Resources Links:
+
+- [Counting Sort | GeeksforGeeks](https://youtu.be/7zuGmKfUt7s)
+- [VisuAlgo - Sorting (Bubble, Selection, Insertion, Merge, Quick, Counting, Radix)](https://visualgo.net/en/sorting)
+- [Bubble Sort - Timo Bingmann | YT](https://www.youtube.com/watch?v=Cq7SMsQBEUw)
+
+#### Day 127 (Tue Jan 21): Recursive Sorting
+
+| Topic             | Lecture   |
+| ----------------- | --------- |
+| Recursive Sorting | [🎥][ars] |
+
+[ars]: tbd
+
+Helpful Resources Links:
+
+- [understanding log - Triangle of Power](https://youtu.be/sULa9Lc4pck)
+
+#### Day 128 (Wed Jan 22): A First-Pass Solution
+
+| Topic             | Lecture   |
+| ----------------- | --------- |
+| 1st Pass solution | [🎥][afps] |
+
+[afps]: tbd
+
+Helpful Resources Links:
+
+- []()
+
+#### Day 129 (Thu Jan 23): Writing better Solutions
+
+| Topic             | Lecture   |
+| ----------------- | --------- |
+| better solutions | [🎥][abs] |
+
+[abs]: tbd
+
+Helpful Resources Links:
+
+- []()
+
+#### Day 130 (Fri Jan 24): Sprint Challnge
+
 
 </details>
