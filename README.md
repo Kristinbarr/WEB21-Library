@@ -3660,6 +3660,10 @@ Helpful Resources Links:
 
 #### Day 125 (Fri Jan 17): Sprint Challenge
 
+- [Lambda Expert Panel Blog App Part II ](https://youtu.be/SwSJx2coRso)
+- [Lambda Expert Panel Slides](https://docs.google.com/document/d/1mJgtX0hPG-09rQMxI5bqPYf54yPu1-VKHWV16qgNvs8/edit?usp=sharing)
+- [Brown Bag - Job Search Persistence w/ Jimmy Hooker](https://youtu.be/u9HWW6Oz6hE)
+
 </details>
 
 ## Week 27 Sprint - Algorithms / TL WEBPT14
@@ -3672,9 +3676,9 @@ Training Kit Weekly Sprint Overview: [Algorithms](https://learn.lambdaschool.com
 
 ~~ MLK HOLIDAY - Watch a recording ~~
 
-| Topic                    | Lecture     |
-| ------------------------ | ----------- |
-| CS24 w/ Artem Litchmanov | [🎥][acs24] |
+| Topic                     | Lecture     |
+| ------------------------- | ----------- |
+| CSPT4 w/ Artem Litchmanov | [🎥][acs24] |
 
 [acs24]: https://youtu.be/igRrFfv8FdQ
 
@@ -3683,23 +3687,26 @@ Helpful Resources Links:
 - [Counting Sort | GeeksforGeeks](https://youtu.be/7zuGmKfUt7s)
 - [VisuAlgo - Sorting (Bubble, Selection, Insertion, Merge, Quick, Counting, Radix)](https://visualgo.net/en/sorting)
 - [Bubble Sort - Timo Bingmann | YT](https://www.youtube.com/watch?v=Cq7SMsQBEUw)
+- [Big O cheatsheet](https://www.bigocheatsheet.com/)
+- [Why is constant dropped from big O analysis? | SO](https://stackoverflow.com/questions/22188851/why-is-constant-always-dropped-from-big-o-analysis)
 
 #### Day 127 (Tue Jan 21): Recursive Sorting
 
-| Topic             | Lecture   |
-| ----------------- | --------- |
-| Recursive Sorting | [🎥][ars] |
+| Topic                              | Lecture   |
+| ---------------------------------- | --------- |
+| Recursive Sorting and Iterative QA | [🎥][ars] |
 
-[ars]: tbd
+[ars]: https://youtu.be/mtV3GpOMIBY
 
 Helpful Resources Links:
 
 - [understanding log - Triangle of Power](https://youtu.be/sULa9Lc4pck)
+- []()
 
 #### Day 128 (Wed Jan 22): A First-Pass Solution
 
-| Topic             | Lecture   |
-| ----------------- | --------- |
+| Topic             | Lecture    |
+| ----------------- | ---------- |
 | 1st Pass solution | [🎥][afps] |
 
 [afps]: tbd
@@ -3710,8 +3717,8 @@ Helpful Resources Links:
 
 #### Day 129 (Thu Jan 23): Writing better Solutions
 
-| Topic             | Lecture   |
-| ----------------- | --------- |
+| Topic            | Lecture   |
+| ---------------- | --------- |
 | better solutions | [🎥][abs] |
 
 [abs]: tbd
@@ -3721,6 +3728,5 @@ Helpful Resources Links:
 - []()
 
 #### Day 130 (Fri Jan 24): Sprint Challnge
-
 
 </details>
