@@ -3701,7 +3701,7 @@ Helpful Resources Links:
 Helpful Resources Links:
 
 - [understanding log - Triangle of Power](https://youtu.be/sULa9Lc4pck)
-- []()
+- [Algebra 2 - Logarithms | Khan Academy](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:logs)
 
 #### Day 128 (Wed Jan 22): A First-Pass Solution
 
