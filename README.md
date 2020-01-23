@@ -3706,8 +3706,8 @@ Helpful Resources Links:
 #### Day 128 (Wed Jan 22): A First-Pass Solution
 
 | Topic      | Lecture    | Dialy Project |
-| ---------- | ---------- | ------ |
-| Algorithms | [🎥][afps] | [][afpsp]|
+| ---------- | ---------- | ------------- |
+| Algorithms | [🎥][afps] | [📖][afpsp]   |
 
 [afps]: https://youtu.be/NVFxlO5bVQI
 [afpsp]: https://github.com/LambdaSchool/Algorithms
@@ -3715,6 +3715,7 @@ Helpful Resources Links:
 Helpful Resources Links:
 
 - [Asking Good Questions](https://zellwk.com/blog/asking-questions/)
+- [Brown Bag w Patrick Masson- Open Source Initiative](https://youtu.be/DfN-wYSmMkg)
 
 #### Day 129 (Thu Jan 23): Writing better Solutions
 
