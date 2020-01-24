@@ -3719,14 +3719,15 @@ Helpful Resources Links:
 
 #### Day 129 (Thu Jan 23): Writing better Solutions
 
-| Topic            | Lecture   |
-| ---------------- | --------- |
-| better solutions | [🎥][abs] |
+| Topic           | Lecture   |
+| --------------- | --------- |
+| Algos 2 w Brady | [🎥][abs] |
 
-[abs]: tbd
+[abs]: https://youtu.be/GmtTgERLjTM
 
 Helpful Resources Links:
 
+- [How To Understand Any Recursive Code](https://www.youtube.com/watch?v=B3U6LExgevE)
 - []()
 
 #### Day 130 (Fri Jan 24): Sprint Challnge
