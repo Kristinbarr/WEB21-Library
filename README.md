@@ -3660,7 +3660,7 @@ Helpful Resources Links:
 
 #### Day 125 (Fri Jan 17): Sprint Challenge
 
-- [Lambda Expert Panel Blog App Part II ](https://youtu.be/SwSJx2coRso)
+- [Lambda Expert Panel Blog App Part II](https://youtu.be/SwSJx2coRso)
 - [Lambda Expert Panel Slides](https://docs.google.com/document/d/1mJgtX0hPG-09rQMxI5bqPYf54yPu1-VKHWV16qgNvs8/edit?usp=sharing)
 - [Brown Bag - Job Search Persistence w/ Jimmy Hooker](https://youtu.be/u9HWW6Oz6hE)
 
@@ -3705,7 +3705,7 @@ Helpful Resources Links:
 
 #### Day 128 (Wed Jan 22): A First-Pass Solution
 
-| Topic      | Lecture    | Dialy Project |
+| Topic      | Lecture    | Daily Project |
 | ---------- | ---------- | ------------- |
 | Algorithms | [🎥][afps] | [📖][afpsp]   |
 
@@ -3730,6 +3730,42 @@ Helpful Resources Links:
 - [How To Understand Any Recursive Code](https://www.youtube.com/watch?v=B3U6LExgevE)
 - []()
 
-#### Day 130 (Fri Jan 24): Sprint Challnge
+#### Day 130 (Fri Jan 24): Sprint Challenge
+
+</details>
+
+## Week 28 Sprint - Data Structures / TL WEBPT14
+
+<details><summary>click to open</summary>
+
+Training Kit Sprint Overview: [Data Structures](https://learn.lambdaschool.com/cs/sprint/recR4gHcvD21ziR9a)
+
+#### Day 131 (Mon Jan 27): Linked Lists
+
+| Topic                | Lecture    |
+| -------------------- | ---------- |
+| Linked Lists w Brian | [🎥][dsll] |
+
+[dsll]: https://youtu.be/dg5LLBWLFnE
+
+Helpful Resources Links:
+
+- [Lambda Problem Solving Framework](https://github.com/LambdaSchool/CS-Wiki/wiki/Lambda-Problem-Solving-Framework)
+
+#### Day 132 (Tue Jan 28): Queues and Stacks
+
+| Topic                | Lecture    |
+| -------------------- | ---------- |
+| Linked Lists w Brian | [🎥][dsqs] |
+
+[dsqs]: https://youtu.be/Cu6kgDe0aS8
+
+Helpful Resources Links:
+
+#### Day 133 (Wed Jan 29): Binary Search Trees
+
+#### Day 134 (Thu Jan 30): Tree Traversal
+
+#### Day 135 (Fri Jan 31): Sprint Challenge
 
 </details>
