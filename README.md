@@ -3754,18 +3754,46 @@ Helpful Resources Links:
 
 #### Day 132 (Tue Jan 28): Queues and Stacks
 
-| Topic                | Lecture    |
-| -------------------- | ---------- |
-| Linked Lists w Brian | [🎥][dsqs] |
+| Topic                     | Lecture    |
+| ------------------------- | ---------- |
+| Queues and Stacks w Brian | [🎥][dsqs] |
 
 [dsqs]: https://youtu.be/Cu6kgDe0aS8
 
 Helpful Resources Links:
 
+- []()
+
 #### Day 133 (Wed Jan 29): Binary Search Trees
+
+| Topic               | Lecture     |
+| ------------------- | ----------- |
+| Binary Search Trees | [🎥][dsbst] |
+
+[dsbst]: https://youtu.be/Cu6kgDe0aS8
+
+Helpful Resources Links:
+
+- []()
 
 #### Day 134 (Thu Jan 30): Tree Traversal
 
+| Topic                        | Lecture    |
+| ---------------------------- | ---------- |
+| Tree Traversal w Brian Doyle | [🎥][dstt] |
+
+[dstt]: https://youtu.be/TDmLKbxFZLY
+
 #### Day 135 (Fri Jan 31): Sprint Challenge
+
+[Sprint-Challenge--Data-Structures-Python](https://github.com/LambdaSchool/Sprint-Challenge--Data-Structures-Python)
+
+</details>
+
+## Week 29 Build Week - Computer Science / TL WEBPT14
+
+<details><summary>click to open</summary>
+
+#### Day 136-140 (Mon-Fri Feb 3-7): Build Week
 
 </details>
