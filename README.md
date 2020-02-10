@@ -3796,4 +3796,16 @@ Helpful Resources Links:
 
 #### Day 136-140 (Mon-Fri Feb 3-7): Build Week
 
+[BW Kickoff w Brian](https://youtu.be/57sZ95sMliw)
+[Build an RPG Game w React+Redux Pt.1](https://youtu.be/QZcNGfcn-oo)
+[Build an RPG Game w React+Redux Pt.2](https://youtu.be/DyWUW7Px1MQ)
+[react-vis | composable charting library](https://uber.github.io/react-vis/)
+[Lessons on React, Keyboard Input, Forms, Event Listeners and Debugging](https://medium.com/@alexbostock/lessons-about-react-keyboard-input-forms-event-listeners-and-debugging-e79016c20ef1)
+[CSS Blurred video BG Login screen| codepen](https://codepen.io/maggiben/pen/KwdeaM)
+[Project: Digital Wasteland](https://wasteland.netlify.com/register)
+[Project: Space Beez](https://spacebeez.netlify.com/)
+[Henry Blevins - React Props and Destructuring](https://youtu.be/65xwhD6PFH0)
+[generate text, graphics and more | tracery.io](https://www.tracery.io/)
+
 </details>
+
