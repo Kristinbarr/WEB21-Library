@@ -3559,7 +3559,7 @@ Helpful Links - image compression
 
 # Computer Science
 
-## Week 26 Sprint - Intro to Pythong and OOP / TL WEBPT14
+## Week 26 Sprint - Intro to Python and OOP / TL WEBPT14
 
 <details><summary>click to open</summary>
 
@@ -3573,17 +3573,20 @@ Learning objectives:
 - compare and contrast the characteristics of Lists, Tuples, Sets, and Dictionaries in Python
 - write Python code that shows the ability to perform operations on each Lists, Dictionaries, Tuples, and Sets
 
-| Topic             | Lecture    |
-| ----------------- | ---------- |
-| Intro to Python 1 | [🎥][itp1] |
+| Topic                                   | Lecture        |
+| --------------------------------------- | -------------- |
+| Intro to Python 1 CS24 w Brady Fukumoto | [🎥][itp1cs24] |
+| Intro to Python 1 CS25 w Brady Fukumoto | [🎥][itp1]     |
+| Intro to Python 1 CS26 w Brady Fukumoto | [🎥][itp12]    |
 
+[itp1cs24]: https://youtu.be/7O8QqYKtmVY
 [itp1]: https://youtu.be/FIE815TOC84
+[itp12]: https://youtu.be/YCWYP95pwdU
 
 Helpful Resource Links
 
 - [Lambda CS Wiki](https://github.com/LambdaSchool/CS-Wiki/wiki)
 - [JS/Python Cheatsheet](https://github.com/LambdaSchool/CS-Wiki/wiki/Javascript-Python-cheatsheet)
-- [CS24 Intro to Python 1 Recording w Bryan Fukumoto](https://youtu.be/7O8QqYKtmVY)
 - [Python videos | Corey Schafer YouTube](https://www.youtube.com/user/schafer5/playlists)
 - [Installing-Python-3-and-pipenv(windows)](https://github.com/LambdaSchool/CS-Wiki/wiki/Installing-Python-3-and-pipenv)
 - [Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview](https://www.youtube.com/watch?v=-nh9rCzPJ20)
@@ -3623,6 +3626,7 @@ Helpful Resources Links
 - [Python global, local, and nonlocal variables](https://www.programiz.com/python-programming/global-local-nonlocal-variables)
 - [Reading and writing files | Python Docs](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
 - [Calendar | Python Docs](https://docs.python.org/3.6/library/calendar.html)
+- [algo visualizer project by Lambda Michael Chrupcala](https://algoviews.now.sh/)
 
 #### Day 123 (Wed Jan 15): Intro to Python 3
 
@@ -3808,4 +3812,3 @@ Helpful Resources Links:
 [generate text, graphics and more | tracery.io](https://www.tracery.io/)
 
 </details>
-
