@@ -3638,8 +3638,8 @@ Learning objectives:
 
 | Topic                              | Lecture     |
 | ---------------------------------- | ----------- |
-| Intro to Python 3 w Brady Fukumoto | [🎥][itp3]  |
-| Intro to Python 3 w Brady Fukumoto | [🎥][itp32] |
+| Intro to Python 3 CS25 w Brady Fukumoto | [🎥][itp3]  |
+| Intro to Python 3 CS26 w Brady Fukumoto | [🎥][itp32] |
 
 [itp3]: https://youtu.be/WpYBYOmTq6E
 [itp32]: https://youtu.be/47thb9kJ5Cg
@@ -3663,8 +3663,7 @@ Learning objectives:
 | Intro to Python 4 CS26 w Brady Fukumoto | [🎥][itp42] |
 
 [itp4]: https://youtu.be/Q-Wa1lJky6E
-
-[itp42]:
+[itp42]: https://youtu.be/GUfbfsbE-a8
 
 Helpful Resources Links:
 
