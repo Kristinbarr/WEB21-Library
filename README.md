@@ -3605,11 +3605,13 @@ Learning objectives:
 - examine and interpret project requirements and create an action plan based on those requirements
 - create a Python program, demonstrate its successful performance, and explain the process used to create the program
 
-| Topic             | Lecture    |
-| ----------------- | ---------- |
-| Intro to Python 2 | [🎥][itp2] |
+| Topic                                   | Lecture     |
+| --------------------------------------- | ----------- |
+| Intro to Python 2 CS25 w Brady Fukumoto | [🎥][itp2]  |
+| Intro to Python 2 CS26 w Brady Fukumoto | [🎥][itp22] |
 
 [itp2]: https://youtu.be/v3_PcKzRrKw
+[itp22]: https://youtu.be/MJCIJSRf-sQ
 
 Helpful Resources Links
 
@@ -3634,16 +3636,19 @@ Learning objectives:
 
 - understand and apply the concepts of object-oriented design using Python
 
-| Topic             | Lecture    |
-| ----------------- | ---------- |
-| Intro to Python 3 | [🎥][itp3] |
+| Topic                              | Lecture     |
+| ---------------------------------- | ----------- |
+| Intro to Python 3 w Brady Fukumoto | [🎥][itp3]  |
+| Intro to Python 3 w Brady Fukumoto | [🎥][itp32] |
 
 [itp3]: https://youtu.be/WpYBYOmTq6E
+[itp32]: https://youtu.be/47thb9kJ5Cg
 
 Helpful Resources Links:
 
 - [4 Basic Princicples of OOP | Medium](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727)
 - [Difference between **str** and **repr**?](https://stackoverflow.com/questions/1436703/difference-between-str-and-repr)
+- [Understanding the asterisk(\*) of Python | Medium](https://medium.com/understand-the-python/understanding-the-asterisk-of-python-8b9daaa4a558)
 
 #### Day 124 (Thu Jan 16): Intro to Python 4
 
@@ -3652,15 +3657,18 @@ Learning objectives:
 - demonstrate an understanding of inheritance through appropriate method overriding and use of super()
 - demonstrate an understanding of association through appropriate class design
 
-| Topic             | Lecture    |
-| ----------------- | ---------- |
-| Intro to Python 4 | [🎥][itp4] |
+| Topic                                   | Lecture     |
+| --------------------------------------- | ----------- |
+| Intro to Python 4 CS25 w Brady Fukumoto | [🎥][itp4]  |
+| Intro to Python 4 CS26 w Brady Fukumoto | [🎥][itp42] |
 
 [itp4]: https://youtu.be/Q-Wa1lJky6E
 
+[itp42]:
+
 Helpful Resources Links:
 
-- []()
+- [Python OOP Tutorials - Working with Classes | YT Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
 #### Day 125 (Fri Jan 17): Sprint Challenge
 
