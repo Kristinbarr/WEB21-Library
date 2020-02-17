@@ -3636,8 +3636,8 @@ Learning objectives:
 
 - understand and apply the concepts of object-oriented design using Python
 
-| Topic                              | Lecture     |
-| ---------------------------------- | ----------- |
+| Topic                                   | Lecture     |
+| --------------------------------------- | ----------- |
 | Intro to Python 3 CS25 w Brady Fukumoto | [🎥][itp3]  |
 | Intro to Python 3 CS26 w Brady Fukumoto | [🎥][itp32] |
 
@@ -3687,11 +3687,13 @@ Training Kit Weekly Sprint Overview: [Algorithms](https://learn.lambdaschool.com
 
 ~~ MLK HOLIDAY - Watch a recording ~~
 
-| Topic                     | Lecture     |
-| ------------------------- | ----------- |
-| CSPT4 w/ Artem Litchmanov | [🎥][acs24] |
+| Topic                                | Lecture     |
+| ------------------------------------ | ----------- |
+| CSPT4 w/ Artem Litchmanov            | [🎥][acs24] |
+| Iterative Sorting CS26 w Brian Doyle | [🎥][is26] |
 
 [acs24]: https://youtu.be/igRrFfv8FdQ
+[is26]: https://youtu.be/hjUQ8N8EDbA
 
 Helpful Resources Links:
 
