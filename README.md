@@ -3708,13 +3708,16 @@ Helpful Resources Links:
 | Topic                              | Lecture   |
 | ---------------------------------- | --------- |
 | Recursive Sorting and Iterative QA | [🎥][ars] |
+| Recursive Sorting CS26 w Brian Doyle | [🎥][ars2] |
 
 [ars]: https://youtu.be/mtV3GpOMIBY
+[ars2]: https://youtu.be/AR3haDaL-ok
 
 Helpful Resources Links:
 
 - [understanding log - Triangle of Power](https://youtu.be/sULa9Lc4pck)
 - [Algebra 2 - Logarithms | Khan Academy](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:logs)
+- [Why My Teenage Code Was Terrible: Sorting Algorithms and Big O Notation](https://www.youtube.com/watch?v=RGuJga2Gl_k)
 
 #### Day 128 (Wed Jan 22): A First-Pass Solution
 
