@@ -3690,7 +3690,7 @@ Training Kit Weekly Sprint Overview: [Algorithms](https://learn.lambdaschool.com
 | Topic                                | Lecture     |
 | ------------------------------------ | ----------- |
 | CSPT4 w/ Artem Litchmanov            | [🎥][acs24] |
-| Iterative Sorting CS26 w Brian Doyle | [🎥][is26] |
+| Iterative Sorting CS26 w Brian Doyle | [🎥][is26]  |
 
 [acs24]: https://youtu.be/igRrFfv8FdQ
 [is26]: https://youtu.be/hjUQ8N8EDbA
@@ -3705,9 +3705,9 @@ Helpful Resources Links:
 
 #### Day 127 (Tue Jan 21): Recursive Sorting
 
-| Topic                              | Lecture   |
-| ---------------------------------- | --------- |
-| Recursive Sorting and Iterative QA | [🎥][ars] |
+| Topic                                | Lecture    |
+| ------------------------------------ | ---------- |
+| Recursive Sorting and Iterative QA   | [🎥][ars]  |
 | Recursive Sorting CS26 w Brian Doyle | [🎥][ars2] |
 
 [ars]: https://youtu.be/mtV3GpOMIBY
@@ -3721,17 +3721,20 @@ Helpful Resources Links:
 
 #### Day 128 (Wed Jan 22): A First-Pass Solution
 
-| Topic      | Lecture    | Daily Project |
-| ---------- | ---------- | ------------- |
-| Algorithms | [🎥][afps] | [📖][afpsp]   |
+| Topic                                  | Lecture     | Daily Project |
+| -------------------------------------- | ----------- | ------------- |
+| Algorithms                             | [🎥][afps]  | [📖][afpsp]   |
+| First Pass Solution CS26 w Brian Doyle | [🎥][afps2] |
 
 [afps]: https://youtu.be/NVFxlO5bVQI
 [afpsp]: https://github.com/LambdaSchool/Algorithms
+[afps2]: https://youtu.be/w_TAPJtEJok
 
 Helpful Resources Links:
 
 - [Asking Good Questions](https://zellwk.com/blog/asking-questions/)
 - [Brown Bag w Patrick Masson- Open Source Initiative](https://youtu.be/DfN-wYSmMkg)
+- [](https://www.python-course.eu/python3_memoization.php)
 
 #### Day 129 (Thu Jan 23): Writing better Solutions
 
