@@ -3734,20 +3734,26 @@ Helpful Resources Links:
 
 - [Asking Good Questions](https://zellwk.com/blog/asking-questions/)
 - [Brown Bag w Patrick Masson- Open Source Initiative](https://youtu.be/DfN-wYSmMkg)
-- [](https://www.python-course.eu/python3_memoization.php)
+- [Python Tutorial: Memoization and Decorators](https://www.python-course.eu/python3_memoization.php)
+- [Is recursion worse than iteration? | Stack Overflow](https://stackoverflow.com/questions/36352591/is-recursion-worse-than-iteration)
 
 #### Day 129 (Thu Jan 23): Writing better Solutions
 
-| Topic           | Lecture   |
-| --------------- | --------- |
-| Algos 2 w Brady | [🎥][abs] |
+| Topic                                       | Lecture    |
+| ------------------------------------------- | ---------- |
+| Algos 2 w Brady                             | [🎥][abs]  |
+| Writing Better Solutions CS26 w Brian Doyle | [🎥][abs2] |
 
 [abs]: https://youtu.be/GmtTgERLjTM
+[abs2]: https://youtu.be/MMaEXgI5Rlo
 
 Helpful Resources Links:
 
+*Preclass videos:*
+• [Improving on a First Pass Solution](https://www.youtube.com/watch?v=1QCmUv4-sIc)
+• ["Only Once" Array Problem - First-Pass Solution!](https://youtu.be/9_3-PuzH26A)
+• ["Only Once" Array Problem - Improved Solution](https://youtu.be/Fy8b5YAYzw4)
 - [How To Understand Any Recursive Code](https://www.youtube.com/watch?v=B3U6LExgevE)
-- []()
 
 #### Day 130 (Fri Jan 24): Sprint Challenge
 
