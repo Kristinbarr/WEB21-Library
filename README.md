@@ -3749,10 +3749,11 @@ Helpful Resources Links:
 
 Helpful Resources Links:
 
-*Preclass videos:*
+_Preclass videos:_
 • [Improving on a First Pass Solution](https://www.youtube.com/watch?v=1QCmUv4-sIc)
 • ["Only Once" Array Problem - First-Pass Solution!](https://youtu.be/9_3-PuzH26A)
 • ["Only Once" Array Problem - Improved Solution](https://youtu.be/Fy8b5YAYzw4)
+
 - [How To Understand Any Recursive Code](https://www.youtube.com/watch?v=B3U6LExgevE)
 
 #### Day 130 (Fri Jan 24): Sprint Challenge
@@ -3767,14 +3768,19 @@ Training Kit Sprint Overview: [Data Structures](https://learn.lambdaschool.com/c
 
 #### Day 131 (Mon Jan 27): Linked Lists
 
-| Topic                | Lecture    |
-| -------------------- | ---------- |
-| Linked Lists w Brian | [🎥][dsll] |
+| Topic                     | Lecture     |
+| ------------------------- | ----------- |
+| Linked Lists CS25 w Brian | [🎥][dsll]  |
+| Linked Lists CS26 w Brian | [🎥][dsll2] |
 
 [dsll]: https://youtu.be/dg5LLBWLFnE
+[dsll2]: https://youtu.be/yW4wqVv8JjM
 
 Helpful Resources Links:
 
+- [Lambda Video on Queues](https://youtu.be/j-fBJpSQ19g)
+- [Lambda Video on Linked Lists](https://youtu.be/7sk4jG83q80)
+- [Lambda Video on LRU Cache](https://youtu.be/GaibISkdobY)
 - [Lambda Problem Solving Framework](https://github.com/LambdaSchool/CS-Wiki/wiki/Lambda-Problem-Solving-Framework)
 
 #### Day 132 (Tue Jan 28): Queues and Stacks
