@@ -3776,20 +3776,30 @@ Training Kit Sprint Overview: [Data Structures](https://learn.lambdaschool.com/c
 [dsll]: https://youtu.be/dg5LLBWLFnE
 [dsll2]: https://youtu.be/yW4wqVv8JjM
 
+| Henry Blevins After party    | Recording  | Code        |
+| ---------------------------- | ---------- | ----------- |
+| React Router XKCD Recitation | [🎥][aprr] | [🐙][aprrc] |
+
+[aprr]: https://youtu.be/CbbQ6JS_ufY
+[aprrc]: https://github.com/Blevs/react-xkcd-router
+
 Helpful Resources Links:
 
 - [Lambda Video on Queues](https://youtu.be/j-fBJpSQ19g)
 - [Lambda Video on Linked Lists](https://youtu.be/7sk4jG83q80)
 - [Lambda Video on LRU Cache](https://youtu.be/GaibISkdobY)
 - [Lambda Problem Solving Framework](https://github.com/LambdaSchool/CS-Wiki/wiki/Lambda-Problem-Solving-Framework)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 #### Day 132 (Tue Jan 28): Queues and Stacks
 
-| Topic                     | Lecture    |
-| ------------------------- | ---------- |
-| Queues and Stacks w Brian | [🎥][dsqs] |
+| Topic                                | Lecture     |
+| ------------------------------------ | ----------- |
+| Queues and Stacks CS25 w Brian Doyle | [🎥][dsqs]  |
+| Queues and Stacks CS26 w Brian Doyle | [🎥][dsqs2] |
 
 [dsqs]: https://youtu.be/Cu6kgDe0aS8
+[dsqs2]: https://youtu.be/sUJGzpaesRg
 
 Helpful Resources Links:
 
