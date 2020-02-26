@@ -3802,20 +3802,21 @@ Helpful Resources Links:
 [dsqs2]: https://youtu.be/sUJGzpaesRg
 
 Helpful Resources Links:
-
-- []()
+ - []()
 
 #### Day 133 (Wed Jan 29): Binary Search Trees
 
-| Topic               | Lecture     |
-| ------------------- | ----------- |
-| Binary Search Trees | [🎥][dsbst] |
+| Topic                                  | Lecture      |
+| -------------------------------------- | ------------ |
+| Binary Search Trees CS25 w Brian Doyle | [🎥][dsbst]  |
+| Binary Search Trees CS26 w Brian Doyle | [🎥][dsbst2] |
 
 [dsbst]: https://youtu.be/Cu6kgDe0aS8
+[dsbst2]: https://youtu.be/laRu7cPY67I
 
 Helpful Resources Links:
 
-- []()
+- [Binary Search Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/BST.html)
 
 #### Day 134 (Thu Jan 30): Tree Traversal
 
