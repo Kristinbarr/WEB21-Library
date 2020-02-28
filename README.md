@@ -3802,7 +3802,8 @@ Helpful Resources Links:
 [dsqs2]: https://youtu.be/sUJGzpaesRg
 
 Helpful Resources Links:
- - []()
+
+- []()
 
 #### Day 133 (Wed Jan 29): Binary Search Trees
 
@@ -3820,11 +3821,13 @@ Helpful Resources Links:
 
 #### Day 134 (Thu Jan 30): Tree Traversal
 
-| Topic                        | Lecture    |
-| ---------------------------- | ---------- |
-| Tree Traversal w Brian Doyle | [🎥][dstt] |
+| Topic                             | Lecture     |
+| --------------------------------- | ----------- |
+| Tree Traversal CS25 w Brian Doyle | [🎥][dstt]  |
+| Tree Traversal CS26 w Brian Doyle | [🎥][dstt2] |
 
 [dstt]: https://youtu.be/TDmLKbxFZLY
+[dstt2]: https://youtu.be/Gd6p1BgChxY
 
 #### Day 135 (Fri Jan 31): Sprint Challenge
 
