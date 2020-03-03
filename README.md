@@ -3842,6 +3842,7 @@ Helpful Resources Links:
 #### Day 136-140 (Mon-Fri Feb 3-7): Build Week
 
 [BW Kickoff w Brian](https://youtu.be/57sZ95sMliw)
+[Lambda BW1 Repo](https://github.com/LambdaSchool/CS-Build-Week-1)
 [Build an RPG Game w React+Redux Pt.1](https://youtu.be/QZcNGfcn-oo)
 [Build an RPG Game w React+Redux Pt.2](https://youtu.be/DyWUW7Px1MQ)
 [react-vis | composable charting library](https://uber.github.io/react-vis/)
