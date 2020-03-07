@@ -3839,7 +3839,7 @@ Helpful Resources Links:
 
 <details><summary>click to open</summary>
 
-#### Day 136-140 (Mon-Fri Feb 3-7): Build Week
+#### Day 136-140 (M-F Feb 3-7, M-F Mar 2-6): CS Build Week 1
 
 [BW Kickoff w Brian](https://youtu.be/57sZ95sMliw)
 [Lambda BW1 Repo](https://github.com/LambdaSchool/CS-Build-Week-1)
@@ -3852,5 +3852,8 @@ Helpful Resources Links:
 [Project: Space Beez](https://spacebeez.netlify.com/)
 [Henry Blevins - React Props and Destructuring](https://youtu.be/65xwhD6PFH0)
 [generate text, graphics and more | tracery.io](https://www.tracery.io/)
+[Space Bees example project repo](https://github.com/muddier/front-end)
+[PythonQuest example project repo](https://github.com/muddy-pythonistas/MUD-frontend)
+[Thunderball Run example repo](https://github.com/awesome-mud/Front-end)
 
 </details>
