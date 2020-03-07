@@ -3853,7 +3853,12 @@ Helpful Resources Links:
 [Henry Blevins - React Props and Destructuring](https://youtu.be/65xwhD6PFH0)
 [generate text, graphics and more | tracery.io](https://www.tracery.io/)
 [Space Bees example project repo](https://github.com/muddier/front-end)
-[PythonQuest example project repo](https://github.com/muddy-pythonistas/MUD-frontend)
-[Thunderball Run example repo](https://github.com/awesome-mud/Front-end)
+[Space Bees live site](https://spacebeez.netlify.com/)
+[Python Quest example project repo](https://github.com/muddy-pythonistas/MUD-frontend)
+[Python Quest live site](https://python-quest.netlify.com/)
+[Thunderball Run project example repo](https://github.com/awesome-mud/Front-end)
+[Thunderball Run live site](http://thunderball-run.gettingonthe.net/)
+[Washout Dungeon example project repo](https://github.com/washouts-in-cs26/front-end)
+[Washout Dungeon live site](https://washout-dungeon.netlify.com/)
 
 </details>
