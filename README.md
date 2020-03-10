@@ -3862,3 +3862,39 @@ Helpful Resources Links:
 [Washout Dungeon live site](https://washout-dungeon.netlify.com/)
 
 </details>
+
+## Week 30 Sprint - Hash Tables and Blockchain / TL WEBPT14
+
+<details><summary>click to open</summary>
+
+Training Kit Sprint Overview: [ash Tables and Blockchain](https://learn.lambdaschool.com/cs/sprint/recAr3gdL8U57eho1)
+
+#### Day 145 (Mon Mar 9): Arrays
+
+| Topic                     | Lecture    |
+| ------------------------- | ---------- |
+| Arrays CS26 w Brian Doyle | [🎥][htba] |
+
+[htba]: https://youtu.be/kBdmvIauwDU
+
+| Henry Blevins After party | Recording  | Code        |
+| ------------------------- | ---------- | ----------- |
+|                           | [🎥][aprr] | [🐙][aprrc] |
+
+[aprr]:
+[aprrc]:
+
+Helpful Resources Links:
+
+- [Lambda Video on Arrays](https://youtu.be/e8tSdmh_u_0)
+- [Lambda Video on Hash Tables](https://youtu.be/z07XGvC9D4c)
+
+#### Day 146 (Tue Mar 10): Hash Tables
+
+| Topic                          | Lecture     |
+| ------------------------------ | ----------- |
+| Hash Tables CS26 w Brian Doyle | [🎥][htbht] |
+
+[htbht]: https://youtu.be/PxE4X2GvEqE
+
+</details>
