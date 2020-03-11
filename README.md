@@ -3909,7 +3909,7 @@ Helpful Resources Links:
 | ------------------------------- | ----------- |
 | Blockchain 1 CS26 w Brian Doyle | [🎥][htbb1] |
 
-[htbb1]:
+[htbb1]: https://youtu.be/iRZBPDZ71Ak
 
 Helpful Resources Links:
 
