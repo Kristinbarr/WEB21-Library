@@ -3897,4 +3897,37 @@ Helpful Resources Links:
 
 [htbht]: https://youtu.be/PxE4X2GvEqE
 
+Helpful Resources Links:
+
+- [Lambda Video - Hash Tables Precourse](https://youtu.be/z07XGvC9D4c)
+- [Lambda Video - Hash Table Collisions and Resizing](https://youtu.be/u38jSupgQvU)
+- [SHA256 online generator](https://emn178.github.io/online-tools/sha256.html)
+
+#### Day 147 (Wed Mar 11): Blockchain 1 - Structure
+
+| Topic                           | Lecture     |
+| ------------------------------- | ----------- |
+| Blockchain 1 CS26 w Brian Doyle | [🎥][htbb1] |
+
+[htbb1]:
+
+Helpful Resources Links:
+
+- [Lambda Video - Blockchain 1: Overview and Structure](https://youtu.be/maKsJ80BhDo)
+- [Lambda Video - Blockchain 2: Proof of Work](https://youtu.be/CWUyDxWP6tU)
+
+#### Day 148 (Thu Mar 12): Blockchain 2 - Distribution
+
+| Topic                           | Lecture     |
+| ------------------------------- | ----------- |
+| Blockchain 2 CS26 w Brian Doyle | [🎥][htbb2] |
+
+[htbb2]:
+
+Helpful Resources Links:
+
+- []()
+
+#### Day 149 (Fri Mar 13): Sprint Challenge: HashTables & Blockchain
+
 </details>
