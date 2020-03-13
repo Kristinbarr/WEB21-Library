@@ -3915,6 +3915,7 @@ Helpful Resources Links:
 
 - [Lambda Video - Blockchain 1: Overview and Structure](https://youtu.be/maKsJ80BhDo)
 - [Lambda Video - Blockchain 2: Proof of Work](https://youtu.be/CWUyDxWP6tU)
+- [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started](https://www.youtube.com/watch?v=MwZwr5Tvyxo)
 
 #### Day 148 (Thu Mar 12): Blockchain 2 - Distribution
 
@@ -3922,7 +3923,7 @@ Helpful Resources Links:
 | ------------------------------- | ----------- |
 | Blockchain 2 CS26 w Brian Doyle | [🎥][htbb2] |
 
-[htbb2]:
+[htbb2]: https://youtu.be/JDw6XE9J_3s
 
 Helpful Resources Links:
 
