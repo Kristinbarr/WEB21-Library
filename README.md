@@ -3867,7 +3867,7 @@ Helpful Resources Links:
 
 <details><summary>click to open</summary>
 
-Training Kit Sprint Overview: [ash Tables and Blockchain](https://learn.lambdaschool.com/cs/sprint/recAr3gdL8U57eho1)
+Training Kit Sprint Overview: [Hash Tables and Blockchain](https://learn.lambdaschool.com/cs/sprint/recAr3gdL8U57eho1)
 
 #### Day 145 (Mon Mar 9): Arrays
 
@@ -3930,5 +3930,54 @@ Helpful Resources Links:
 - []()
 
 #### Day 149 (Fri Mar 13): Sprint Challenge: HashTables & Blockchain
+
+- [Sprint Challenge HashTables & Blockchain](https://github.com/LambdaSchool/Sprint-Challenge--Hash-BC)
+- [CS26/27 Endorsement and Match](https://youtu.be/Xyg0yG1aujg)
+
+</details>
+
+## Week 31 Sprint - Graphs / TL WEBPT14
+
+<details><summary>click to open</summary>
+
+Training Kit Sprint Overview: [Graphs](https://learn.lambdaschool.com/cs/sprint/rec7U9K7OCL5ihj0t)
+
+#### Day 150 (Mon Mar 16): Graphs 1
+
+| Topic                          | Lecture    |
+| ------------------------------ | ---------- |
+| Graphs 1 CS26 w Brady Fukumoto | [🎥][csg1] |
+
+[csg1]: https://youtu.be/hAZt2zNKxxc
+
+Helpful Resources Links:
+
+- []()
+
+#### Day 151 (Tue Mar 17): Graphs 2
+
+| Topic                          | Lecture    |
+| ------------------------------ | ---------- |
+| Graphs 2 CS26 w Brady Fukumoto | [🎥][csg2] |
+
+[csg2]:
+
+#### Day 152 (Wed Mar 18): Graphs 3
+
+| Topic                          | Lecture    |
+| ------------------------------ | ---------- |
+| Graphs 3 CS26 w Brady Fukumoto | [🎥][csg3] |
+
+[csg3]:
+
+#### Day 153 (Thu Mar 19): Graphs 4
+
+| Topic                          | Lecture    |
+| ------------------------------ | ---------- |
+| Graphs 4 CS26 w Brady Fukumoto | [🎥][csg4] |
+
+[csg4]:
+
+#### Day 154 (Fri Mar 20): Sprint Challenge - Graphs
 
 </details>
