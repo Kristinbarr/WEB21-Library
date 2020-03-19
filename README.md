@@ -3989,7 +3989,7 @@ Helpful Resource Links:
 | ------------------------------ | ---------- |
 | Graphs 4 CS26 w Brady Fukumoto | [🎥][csg4] |
 
-[csg4]: 
+[csg4]: https://youtu.be/cm0dv5uowK0
 
 #### Day 154 (Fri Mar 20): Sprint Challenge - Graphs
 
