@@ -3952,7 +3952,9 @@ Training Kit Sprint Overview: [Graphs](https://learn.lambdaschool.com/cs/sprint/
 
 Helpful Resources Links:
 
-- []()
+- [Steve Yegge: Get that job at Google](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+- [Python gotchas](https://docs.python-guide.org/writing/gotchas/)
+- [article on BFT and DFT with stacks and queues](http://web.cs.unlv.edu/larmore/Courses/CSC477/bfsDfs.pdf)
 
 #### Day 151 (Tue Mar 17): Graphs 2
 
@@ -3960,7 +3962,7 @@ Helpful Resources Links:
 | ------------------------------ | ---------- |
 | Graphs 2 CS26 w Brady Fukumoto | [🎥][csg2] |
 
-[csg2]:
+[csg2]: https://youtu.be/N5VR43kHbc8
 
 #### Day 152 (Wed Mar 18): Graphs 3
 
@@ -3968,7 +3970,11 @@ Helpful Resources Links:
 | ------------------------------ | ---------- |
 | Graphs 3 CS26 w Brady Fukumoto | [🎥][csg3] |
 
-[csg3]:
+[csg3]: https://youtu.be/5EZa4uIPQ7w
+
+Helpful Resource Links:
+
+- [Lambda Video: Graphs Connected Components](https://youtu.be/zGW6XTkeEFU)
 
 #### Day 153 (Thu Mar 19): Graphs 4
 
