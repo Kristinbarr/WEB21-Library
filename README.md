@@ -3975,6 +3975,13 @@ Helpful Resources Links:
 Helpful Resource Links:
 
 - [Lambda Video: Graphs Connected Components](https://youtu.be/zGW6XTkeEFU)
+- [Base CS Video: Graph Theory](https://www.youtube.com/watch?v=uvcYL8ol4o8)
+- [Base CS Podcast: Oily Graphs in Konisberg](https://www.codenewbie.org/basecs/19)
+- [Base CS Podcast: Let’s get graphic](https://www.codenewbie.org/basecs/18)
+- [Base CS Article- Introduction to Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
+- [Base CS Podcast- Seven Bridges and a triangle](https://www.codenewbie.org/basecs/20)
+- [Base CS Article: Seven Bridges, One Giant Graph Problem](https://medium.com/basecs/k%C3%B6nigsberg-seven-small-bridges-one-giant-graph-problem-2275d1670a12)
+- [Base CS Article: From Theory to Practice Representing Graphs](https://medium.com/basecs/from-theory-to-practice-representing-graphs-cfd782c5be38)
 
 #### Day 153 (Thu Mar 19): Graphs 4
 
@@ -3982,7 +3989,7 @@ Helpful Resource Links:
 | ------------------------------ | ---------- |
 | Graphs 4 CS26 w Brady Fukumoto | [🎥][csg4] |
 
-[csg4]:
+[csg4]: 
 
 #### Day 154 (Fri Mar 20): Sprint Challenge - Graphs
 
