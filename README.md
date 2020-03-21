@@ -3964,6 +3964,9 @@ Helpful Resources Links:
 
 [csg2]: https://youtu.be/N5VR43kHbc8
 
+Helpful Resources Links: 
+- [List of dictionary words in txt](https://github.com/dwyl/english-words)
+
 #### Day 152 (Wed Mar 18): Graphs 3
 
 | Topic                          | Lecture    |
@@ -3990,6 +3993,11 @@ Helpful Resource Links:
 | Graphs 4 CS26 w Brady Fukumoto | [🎥][csg4] |
 
 [csg4]: https://youtu.be/cm0dv5uowK0
+
+Helpful Resource Links:
+
+- [How To Solve It - Polya | Wikipedia](https://en.wikipedia.org/wiki/How_to_Solve_It)
+- [Download How To Solve It Pdf Free](https://mathematicspdf.com/how-to-solve-it-pdf/)
 
 #### Day 154 (Fri Mar 20): Sprint Challenge - Graphs
 
