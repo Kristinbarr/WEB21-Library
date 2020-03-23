@@ -3964,7 +3964,8 @@ Helpful Resources Links:
 
 [csg2]: https://youtu.be/N5VR43kHbc8
 
-Helpful Resources Links: 
+Helpful Resources Links:
+
 - [List of dictionary words in txt](https://github.com/dwyl/english-words)
 
 #### Day 152 (Wed Mar 18): Graphs 3
@@ -4000,5 +4001,23 @@ Helpful Resource Links:
 - [Download How To Solve It Pdf Free](https://mathematicspdf.com/how-to-solve-it-pdf/)
 
 #### Day 154 (Fri Mar 20): Sprint Challenge - Graphs
+
+- [WEBPT14 Rick and Morty (form and filter)](https://codesandbox.io/s/currying-http-6s8v1)
+
+</details>
+
+## Week 32 Sprint - Computer Architecture / TL WEBPT14
+
+<details><summary>click to open</summary>
+
+Training Kit Sprint Overview: [Computer Architecture](https://learn.lambdaschool.com/cs/sprint/recndTnO1V8oDbBPb)
+
+#### Day 155 (Mon Mar 23):
+
+| Topic                                                    | Lecture     |
+| -------------------------------------------------------- | ----------- |
+| Comp Arch: Basics and Number Bases CS26 w Brady Fukumoto | [🎥][csca1] |
+
+[csca1]: https://youtu.be/XZdjaKeA77Q
 
 </details>
