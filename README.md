@@ -4012,12 +4012,20 @@ Helpful Resource Links:
 
 Training Kit Sprint Overview: [Computer Architecture](https://learn.lambdaschool.com/cs/sprint/recndTnO1V8oDbBPb)
 
-#### Day 155 (Mon Mar 23):
+#### Day 155 (Mon Mar 23): Computer Architecture: Basics, Number Bases
 
-| Topic                                                    | Lecture     |
-| -------------------------------------------------------- | ----------- |
-| Comp Arch: Basics and Number Bases CS26 w Brady Fukumoto | [🎥][csca1] |
+| Topic                                         | Lecture     |
+| --------------------------------------------- | ----------- |
+| Basics and Number Bases CS26 w Brady Fukumoto | [🎥][csca1] |
 
 [csca1]: https://youtu.be/XZdjaKeA77Q
+
+#### Day 156 (Tue Mar 24): Computer Architecture: Bitwise Operations
+
+| Topic                                    | Lecture     |
+| ---------------------------------------- | ----------- |
+| Bitwise Operations CS26 w Brady Fukumoto | [🎥][csca2] |
+
+[csca2]: https://youtu.be/w6ReZQQ-Wmg
 
 </details>
