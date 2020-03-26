@@ -4020,6 +4020,10 @@ Training Kit Sprint Overview: [Computer Architecture](https://learn.lambdaschool
 
 [csca1]: https://youtu.be/XZdjaKeA77Q
 
+Helpful Resource Links:
+
+- [ASCII Table](http://www.asciitable.com/)
+
 #### Day 156 (Tue Mar 24): Computer Architecture: Bitwise Operations
 
 | Topic                                    | Lecture     |
@@ -4027,5 +4031,13 @@ Training Kit Sprint Overview: [Computer Architecture](https://learn.lambdaschool
 | Bitwise Operations CS26 w Brady Fukumoto | [🎥][csca2] |
 
 [csca2]: https://youtu.be/w6ReZQQ-Wmg
+
+#### Day 157 (Wed Mar 25): Computer Architecture: The System Stack
+
+| Topic                                  | Lecture     |
+| -------------------------------------- | ----------- |
+| The System Stack CS26 w Brady Fukumoto | [🎥][csca3] |
+
+[csca3]: https://youtu.be/tF9k0DsJU9A
 
 </details>
