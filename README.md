@@ -4040,4 +4040,7 @@ Helpful Resource Links:
 
 [csca3]: https://youtu.be/tF9k0DsJU9A
 
+[Optional Build Week Kickoff](https://www.youtube.com/watch?v=Ko1fq-ENwzA)
+[AMA w Brady Fukumoto](https://www.youtube.com/watch?v=sIdMWOyvPwo)
+
 </details>
