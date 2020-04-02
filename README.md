@@ -4043,4 +4043,11 @@ Helpful Resource Links:
 [Optional Build Week Kickoff](https://www.youtube.com/watch?v=Ko1fq-ENwzA)
 [AMA w Brady Fukumoto](https://www.youtube.com/watch?v=sIdMWOyvPwo)
 
+#### Day 158 (Thu Mar 26): Computer Architecture: Subroutines, CALL/RET
+
+#### Day 159 (Fri Mar 27): Computer Architecture: Sprint Challenge
+
+
 </details>
+
+
