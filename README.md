@@ -4045,8 +4045,9 @@ Helpful Resource Links:
 
 #### Day 158 (Thu Mar 26): Computer Architecture: Subroutines, CALL/RET
 
-#### Day 159 (Fri Mar 27): Computer Architecture: Sprint Challenge
+#### Day 159 (Fri Mar 27): Sprint Challenge - Binary, Decimal, and Hex conversion, and Implementation of Conditional Jumps
 
+[Sprint Challenge - Computer Architecture](https://github.com/LambdaSchool/Sprint-Challenge--Computer-Architecture)
 
 </details>
 
