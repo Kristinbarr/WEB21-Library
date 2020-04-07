@@ -3879,17 +3879,11 @@ Training Kit Sprint Overview: [Hash Tables and Blockchain](https://learn.lambdas
 [htba]: https://youtu.be/kBdmvIauwDU
 [htba]: https://youtu.be/JlzOTqpkL-I
 
-| Henry Blevins After party | Recording  | Code        |
-| ------------------------- | ---------- | ----------- |
-|                           | [🎥][aprr] | [🐙][aprrc] |
-
-[aprr]:
-[aprrc]:
-
 Helpful Resources Links:
 
 - [Lambda Video on Arrays](https://youtu.be/e8tSdmh_u_0)
 - [Lambda Video on Hash Tables](https://youtu.be/z07XGvC9D4c)
+- [Demo getting user location for weather API](https://youtu.be/n2OL8BXJyZI)
 
 #### Day 146 (Tue Mar 10): Hash Tables
 
