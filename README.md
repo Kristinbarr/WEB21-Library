@@ -3871,13 +3871,13 @@ Training Kit Sprint Overview: [Hash Tables and Blockchain](https://learn.lambdas
 
 #### Day 145 (Mon Mar 9): Arrays
 
-| Topic                        | Lecture    |
-| ---------------------------- | ---------- |
-| Arrays CS26 w Brian Doyle    | [🎥][htba] |
+| Topic                        | Lecture     |
+| ---------------------------- | ----------- |
+| Arrays CS26 w Brian Doyle    | [🎥][htba]  |
 | Arrays CS27 w Brady Fukumoto | [🎥][htba2] |
 
 [htba]: https://youtu.be/kBdmvIauwDU
-[htba]: https://youtu.be/JlzOTqpkL-I
+[htba2]: https://youtu.be/JlzOTqpkL-I
 
 Helpful Resources Links:
 
@@ -3887,11 +3887,13 @@ Helpful Resources Links:
 
 #### Day 146 (Tue Mar 10): Hash Tables
 
-| Topic                          | Lecture     |
-| ------------------------------ | ----------- |
-| Hash Tables CS26 w Brian Doyle | [🎥][htbht] |
+| Topic                             | Lecture     |
+| --------------------------------- | ----------- |
+| Hash Tables CS26 w Brian Doyle    | [🎥][htbht] |
+| Hash Tables CS27 w Brady Fukumoto | [🎥][htbht2] |
 
 [htbht]: https://youtu.be/PxE4X2GvEqE
+[htbht2]: https://youtu.be/oZ4nNM_sDrs
 
 Helpful Resources Links:
 
