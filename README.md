@@ -3871,11 +3871,13 @@ Training Kit Sprint Overview: [Hash Tables and Blockchain](https://learn.lambdas
 
 #### Day 145 (Mon Mar 9): Arrays
 
-| Topic                     | Lecture    |
-| ------------------------- | ---------- |
-| Arrays CS26 w Brian Doyle | [🎥][htba] |
+| Topic                        | Lecture    |
+| ---------------------------- | ---------- |
+| Arrays CS26 w Brian Doyle    | [🎥][htba] |
+| Arrays CS27 w Brady Fukumoto | [🎥][htba2] |
 
 [htba]: https://youtu.be/kBdmvIauwDU
+[htba]: https://youtu.be/JlzOTqpkL-I
 
 | Henry Blevins After party | Recording  | Code        |
 | ------------------------- | ---------- | ----------- |
@@ -4050,8 +4052,6 @@ Helpful Resource Links:
 [Sprint Challenge - Computer Architecture](https://github.com/LambdaSchool/Sprint-Challenge--Computer-Architecture)
 
 </details>
-
-
 
 ## Week 29 Build Week - Computer Science / TL WEBPT14
 
