@@ -3887,9 +3887,9 @@ Helpful Resources Links:
 
 #### Day 146 (Tue Mar 10): Hash Tables
 
-| Topic                             | Lecture     |
-| --------------------------------- | ----------- |
-| Hash Tables CS26 w Brian Doyle    | [🎥][htbht] |
+| Topic                             | Lecture      |
+| --------------------------------- | ------------ |
+| Hash Tables CS26 w Brian Doyle    | [🎥][htbht]  |
 | Hash Tables CS27 w Brady Fukumoto | [🎥][htbht2] |
 
 [htbht]: https://youtu.be/PxE4X2GvEqE
@@ -3903,17 +3903,20 @@ Helpful Resources Links:
 
 #### Day 147 (Wed Mar 11): Blockchain 1 - Structure
 
-| Topic                           | Lecture     |
-| ------------------------------- | ----------- |
-| Blockchain 1 CS26 w Brian Doyle | [🎥][htbb1] |
+| Topic                              | Lecture     |
+| ---------------------------------- | ----------- |
+| Blockchain 1 CS26 w Brian Doyle    | [🎥][htbb1] |
+| Blockchain 1 CS27 w Brady Fukumoto | [🎥][htbb2] |
 
 [htbb1]: https://youtu.be/iRZBPDZ71Ak
+[htbb2]: https://youtu.be/wrq_Suzplb4
 
 Helpful Resources Links:
 
 - [Lambda Video - Blockchain 1: Overview and Structure](https://youtu.be/maKsJ80BhDo)
 - [Lambda Video - Blockchain 2: Proof of Work](https://youtu.be/CWUyDxWP6tU)
 - [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started](https://www.youtube.com/watch?v=MwZwr5Tvyxo)
+- [OrderedDict in Python | GeeksforGeeks](https://www.geeksforgeeks.org/ordereddict-in-python/)
 
 #### Day 148 (Thu Mar 12): Blockchain 2 - Distribution
 
