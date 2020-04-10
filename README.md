@@ -3705,10 +3705,10 @@ Helpful Resources Links:
 
 #### Day 127 (Tue Jan 21): Recursive Sorting
 
-| Topic                                | Lecture    |
-| ------------------------------------ | ---------- |
-| Recursive Sorting and Iterative QA   | [🎥][ars]  |
-| Recursive Sorting CS26 w Brian Doyle | [🎥][ars2] |
+| Topic                                                    | Lecture    |
+| -------------------------------------------------------- | ---------- |
+| Recursive Sorting and Iterative QA CS25 w Brady Fukumoto | [🎥][ars]  |
+| Recursive Sorting CS26 w Brian Doyle                     | [🎥][ars2] |
 
 [ars]: https://youtu.be/mtV3GpOMIBY
 [ars2]: https://youtu.be/AR3haDaL-ok
@@ -3723,7 +3723,7 @@ Helpful Resources Links:
 
 | Topic                                  | Lecture     | Daily Project |
 | -------------------------------------- | ----------- | ------------- |
-| Algorithms                             | [🎥][afps]  | [📖][afpsp]   |
+| Algorithms CS25 w Brady Fukumoto       | [🎥][afps]  | [📖][afpsp]   |
 | First Pass Solution CS26 w Brian Doyle | [🎥][afps2] |
 
 [afps]: https://youtu.be/NVFxlO5bVQI
@@ -3741,7 +3741,7 @@ Helpful Resources Links:
 
 | Topic                                       | Lecture    |
 | ------------------------------------------- | ---------- |
-| Algos 2 w Brady                             | [🎥][abs]  |
+| Algos 2 CS25 w Brady Fukumoto               | [🎥][abs]  |
 | Writing Better Solutions CS26 w Brian Doyle | [🎥][abs2] |
 
 [abs]: https://youtu.be/GmtTgERLjTM
@@ -3926,9 +3926,9 @@ WEBPT14
 
 #### Day 148 (Thu Mar 12): Blockchain 2 - Distribution
 
-| Topic                           | Lecture     |
-| ------------------------------- | ----------- |
-| Blockchain 2 CS26 w Brian Doyle | [🎥][htbb2] |
+| Topic                              | Lecture     |
+| ---------------------------------- | ----------- |
+| Blockchain 2 CS26 w Brian Doyle    | [🎥][htbb2] |
 | Blockchain 2 CS27 w Brady Fukumoto | [🎥][htbb3] |
 
 [htbb2]: https://youtu.be/JDw6XE9J_3s
@@ -3936,7 +3936,7 @@ WEBPT14
 
 Helpful Resources Links:
 
-- []()
+- [Blockchain's Once-Feared 51% Attack Is Now Becoming Regular | CoinDesk](https://www.coindesk.com/blockchains-feared-51-attack-now-becoming-regular)
 
 #### Day 149 (Fri Mar 13): Sprint Challenge: HashTables & Blockchain
 
