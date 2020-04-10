@@ -3918,13 +3918,21 @@ Helpful Resources Links:
 - [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started](https://www.youtube.com/watch?v=MwZwr5Tvyxo)
 - [OrderedDict in Python | GeeksforGeeks](https://www.geeksforgeeks.org/ordereddict-in-python/)
 
+WEBPT14
+
+[Class to Hooks demo(function version)](https://codesandbox.io/s/functional-component-version-demo-wf632)
+[Class to Hooks demo(class version)](https://codesandbox.io/s/class-component-version-demo-ysi9p)
+[Class to Hooks tutorial | Alligator.io](https://github.com/Kristinbarr/convert-class-to-hook)
+
 #### Day 148 (Thu Mar 12): Blockchain 2 - Distribution
 
 | Topic                           | Lecture     |
 | ------------------------------- | ----------- |
 | Blockchain 2 CS26 w Brian Doyle | [🎥][htbb2] |
+| Blockchain 2 CS27 w Brady Fukumoto | [🎥][htbb3] |
 
 [htbb2]: https://youtu.be/JDw6XE9J_3s
+[htbb3]: https://youtu.be/pCMcqhJnH4E
 
 Helpful Resources Links:
 
