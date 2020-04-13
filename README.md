@@ -3956,13 +3956,16 @@ Training Kit Sprint Overview: [Graphs](https://learn.lambdaschool.com/cs/sprint/
 | Topic                          | Lecture    |
 | ------------------------------ | ---------- |
 | Graphs 1 CS26 w Brady Fukumoto | [🎥][csg1] |
-| Graphs 1 CS27 w Brian Doyle | [🎥][csg2] |
+| Graphs 1 CS27 w Brian Doyle    | [🎥][csg2] |
 
 [csg1]: https://youtu.be/hAZt2zNKxxc
-[csg2]: 
+[csg2]: https://youtu.be/6FpQRLZm0pM
 
 Helpful Resources Links:
 
+- [Intro to Graphs | Lambda School](https://youtu.be/l2ei-74jviQ)
+- [Graphs - Breadth FS | Lambda School](https://youtu.be/BK_8-XVp5XA)
+- [Graphs - Depth FS | Lambda School](https://youtu.be/VTLI7l-Ah-8)
 - [Steve Yegge: Get that job at Google](https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 - [Python gotchas](https://docs.python-guide.org/writing/gotchas/)
 - [article on BFT and DFT with stacks and queues](http://web.cs.unlv.edu/larmore/Courses/CSC477/bfsDfs.pdf)
