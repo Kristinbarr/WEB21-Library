@@ -3956,8 +3956,10 @@ Training Kit Sprint Overview: [Graphs](https://learn.lambdaschool.com/cs/sprint/
 | Topic                          | Lecture    |
 | ------------------------------ | ---------- |
 | Graphs 1 CS26 w Brady Fukumoto | [🎥][csg1] |
+| Graphs 1 CS27 w Brian Doyle | [🎥][csg2] |
 
 [csg1]: https://youtu.be/hAZt2zNKxxc
+[csg2]: 
 
 Helpful Resources Links:
 
