@@ -3975,8 +3975,10 @@ Helpful Resources Links:
 | Topic                          | Lecture    |
 | ------------------------------ | ---------- |
 | Graphs 2 CS26 w Brady Fukumoto | [🎥][csg2] |
+| Graphs 2 CS27 w Brian Doyle    | [🎥][csg3] |
 
 [csg2]: https://youtu.be/N5VR43kHbc8
+[csg3]: https://youtu.be/Lh7gNoDjBjY
 
 Helpful Resources Links:
 
