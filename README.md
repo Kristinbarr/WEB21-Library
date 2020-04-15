@@ -3906,10 +3906,10 @@ Helpful Resources Links:
 | Topic                              | Lecture     |
 | ---------------------------------- | ----------- |
 | Blockchain 1 CS26 w Brian Doyle    | [🎥][htbb1] |
-| Blockchain 1 CS27 w Brady Fukumoto | [🎥][htbb2] |
+| Blockchain 1 CS27 w Brady Fukumoto | [🎥][htbb12] |
 
 [htbb1]: https://youtu.be/iRZBPDZ71Ak
-[htbb2]: https://youtu.be/wrq_Suzplb4
+[htbb12]: https://youtu.be/wrq_Suzplb4
 
 Helpful Resources Links:
 
@@ -3929,10 +3929,10 @@ WEBPT14
 | Topic                              | Lecture     |
 | ---------------------------------- | ----------- |
 | Blockchain 2 CS26 w Brian Doyle    | [🎥][htbb2] |
-| Blockchain 2 CS27 w Brady Fukumoto | [🎥][htbb3] |
+| Blockchain 2 CS27 w Brady Fukumoto | [🎥][htbb22] |
 
 [htbb2]: https://youtu.be/JDw6XE9J_3s
-[htbb3]: https://youtu.be/pCMcqhJnH4E
+[htbb22]: https://youtu.be/pCMcqhJnH4E
 
 Helpful Resources Links:
 
@@ -3956,10 +3956,10 @@ Training Kit Sprint Overview: [Graphs](https://learn.lambdaschool.com/cs/sprint/
 | Topic                          | Lecture    |
 | ------------------------------ | ---------- |
 | Graphs 1 CS26 w Brady Fukumoto | [🎥][csg1] |
-| Graphs 1 CS27 w Brian Doyle    | [🎥][csg2] |
+| Graphs 1 CS27 w Brian Doyle    | [🎥][csg12] |
 
 [csg1]: https://youtu.be/hAZt2zNKxxc
-[csg2]: https://youtu.be/6FpQRLZm0pM
+[csg12]: https://youtu.be/6FpQRLZm0pM
 
 Helpful Resources Links:
 
@@ -3975,10 +3975,10 @@ Helpful Resources Links:
 | Topic                          | Lecture    |
 | ------------------------------ | ---------- |
 | Graphs 2 CS26 w Brady Fukumoto | [🎥][csg2] |
-| Graphs 2 CS27 w Brian Doyle    | [🎥][csg3] |
+| Graphs 2 CS27 w Brian Doyle    | [🎥][csg22] |
 
 [csg2]: https://youtu.be/N5VR43kHbc8
-[csg3]: https://youtu.be/Lh7gNoDjBjY
+[csg22]: https://youtu.be/Lh7gNoDjBjY
 
 Helpful Resources Links:
 
@@ -3989,8 +3989,10 @@ Helpful Resources Links:
 | Topic                          | Lecture    |
 | ------------------------------ | ---------- |
 | Graphs 3 CS26 w Brady Fukumoto | [🎥][csg3] |
+| Graphs 3 CS27 w Brian Doyle    | [🎥][csg32] |
 
 [csg3]: https://youtu.be/5EZa4uIPQ7w
+[csg32]: https://youtu.be/o9VYZ0LkRj0
 
 Helpful Resource Links:
 
