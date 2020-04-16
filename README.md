@@ -3903,9 +3903,9 @@ Helpful Resources Links:
 
 #### Day 147 (Wed Mar 11): Blockchain 1 - Structure
 
-| Topic                              | Lecture     |
-| ---------------------------------- | ----------- |
-| Blockchain 1 CS26 w Brian Doyle    | [🎥][htbb1] |
+| Topic                              | Lecture      |
+| ---------------------------------- | ------------ |
+| Blockchain 1 CS26 w Brian Doyle    | [🎥][htbb1]  |
 | Blockchain 1 CS27 w Brady Fukumoto | [🎥][htbb12] |
 
 [htbb1]: https://youtu.be/iRZBPDZ71Ak
@@ -3926,9 +3926,9 @@ WEBPT14
 
 #### Day 148 (Thu Mar 12): Blockchain 2 - Distribution
 
-| Topic                              | Lecture     |
-| ---------------------------------- | ----------- |
-| Blockchain 2 CS26 w Brian Doyle    | [🎥][htbb2] |
+| Topic                              | Lecture      |
+| ---------------------------------- | ------------ |
+| Blockchain 2 CS26 w Brian Doyle    | [🎥][htbb2]  |
 | Blockchain 2 CS27 w Brady Fukumoto | [🎥][htbb22] |
 
 [htbb2]: https://youtu.be/JDw6XE9J_3s
@@ -3953,9 +3953,9 @@ Training Kit Sprint Overview: [Graphs](https://learn.lambdaschool.com/cs/sprint/
 
 #### Day 150 (Mon Mar 16): Graphs 1
 
-| Topic                          | Lecture    |
-| ------------------------------ | ---------- |
-| Graphs 1 CS26 w Brady Fukumoto | [🎥][csg1] |
+| Topic                          | Lecture     |
+| ------------------------------ | ----------- |
+| Graphs 1 CS26 w Brady Fukumoto | [🎥][csg1]  |
 | Graphs 1 CS27 w Brian Doyle    | [🎥][csg12] |
 
 [csg1]: https://youtu.be/hAZt2zNKxxc
@@ -3972,9 +3972,9 @@ Helpful Resources Links:
 
 #### Day 151 (Tue Mar 17): Graphs 2
 
-| Topic                          | Lecture    |
-| ------------------------------ | ---------- |
-| Graphs 2 CS26 w Brady Fukumoto | [🎥][csg2] |
+| Topic                          | Lecture     |
+| ------------------------------ | ----------- |
+| Graphs 2 CS26 w Brady Fukumoto | [🎥][csg2]  |
 | Graphs 2 CS27 w Brian Doyle    | [🎥][csg22] |
 
 [csg2]: https://youtu.be/N5VR43kHbc8
@@ -3986,9 +3986,9 @@ Helpful Resources Links:
 
 #### Day 152 (Wed Mar 18): Graphs 3
 
-| Topic                          | Lecture    |
-| ------------------------------ | ---------- |
-| Graphs 3 CS26 w Brady Fukumoto | [🎥][csg3] |
+| Topic                          | Lecture     |
+| ------------------------------ | ----------- |
+| Graphs 3 CS26 w Brady Fukumoto | [🎥][csg3]  |
 | Graphs 3 CS27 w Brian Doyle    | [🎥][csg32] |
 
 [csg3]: https://youtu.be/5EZa4uIPQ7w
@@ -4010,8 +4010,10 @@ Helpful Resource Links:
 | Topic                          | Lecture    |
 | ------------------------------ | ---------- |
 | Graphs 4 CS26 w Brady Fukumoto | [🎥][csg4] |
+| Graphs 4 CS27 w Brian Doyle    | [🎥][csg42] |
 
 [csg4]: https://youtu.be/cm0dv5uowK0
+[csg42]: https://youtu.be/CY6ulYAwtTw
 
 Helpful Resource Links:
 
@@ -4020,6 +4022,7 @@ Helpful Resource Links:
 
 #### Day 154 (Fri Mar 20): Sprint Challenge - Graphs
 
+- [Sprint Challenge - Graphs](https://github.com/LambdaSchool/Sprint-Challenge--Graphs)
 - [WEBPT14 Rick and Morty (form and filter)](https://codesandbox.io/s/currying-http-6s8v1)
 
 </details>
