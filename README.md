@@ -3983,6 +3983,7 @@ Helpful Resources Links:
 Helpful Resources Links:
 
 - [List of dictionary words in txt](https://github.com/dwyl/english-words)
+- [Typescript Demo w Patrick Baldwin](https://www.youtube.com/watch?v=xL8xm-YeJh4)
 
 #### Day 152 (Wed Mar 18): Graphs 3
 
@@ -4007,9 +4008,9 @@ Helpful Resource Links:
 
 #### Day 153 (Thu Mar 19): Graphs 4
 
-| Topic                          | Lecture    |
-| ------------------------------ | ---------- |
-| Graphs 4 CS26 w Brady Fukumoto | [🎥][csg4] |
+| Topic                          | Lecture     |
+| ------------------------------ | ----------- |
+| Graphs 4 CS26 w Brady Fukumoto | [🎥][csg4]  |
 | Graphs 4 CS27 w Brian Doyle    | [🎥][csg42] |
 
 [csg4]: https://youtu.be/cm0dv5uowK0
