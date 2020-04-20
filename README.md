@@ -4045,12 +4045,15 @@ Training Kit Sprint Overview: [Computer Architecture](https://learn.lambdaschool
 | Topic                                         | Lecture     |
 | --------------------------------------------- | ----------- |
 | Basics and Number Bases CS26 w Brady Fukumoto | [🎥][csca1] |
+| Basics and Number Bases CS26 w Beej Jorgensen | [🎥][csca12] |
 
 [csca1]: https://youtu.be/XZdjaKeA77Q
+[csca12]: https://youtu.be/HsyB2Huv-p4
 
 Helpful Resource Links:
 
 - [ASCII Table](http://www.asciitable.com/)
+- [CS Crash Course YT playlist | PBS](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLME-KWdxI8dcaHSzzRsNuOLXtM2Ep_C7a)
 
 #### Day 156 (Tue Mar 24): Computer Architecture: Bitwise Operations
 
