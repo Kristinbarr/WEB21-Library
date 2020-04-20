@@ -1191,6 +1191,13 @@ Helpful Resource Links
 
 #### Day 39 (Fri July 26): Sprint
 
+- [Sprint Challenge SPAs - Rick and Morty](https://github.com/LambdaSchool/Sprint-Challenge-Single-Page-Apps)
+
+WEBPT14
+
+- [WEBPT14 Rick and Morty (form and filter)](https://codesandbox.io/s/currying-http-6s8v1)
+
+
 </details>
 
 ## Week 9 Build Week - Front End Developer
@@ -3983,6 +3990,8 @@ Helpful Resources Links:
 Helpful Resources Links:
 
 - [List of dictionary words in txt](https://github.com/dwyl/english-words)
+- [After Hours w Dennis Orbison Ancestor project pt.1](https://youtu.be/ZU_IsOCbpSI)
+- [After Hours w Dennis Orbison Ancestor project pt.2](https://youtu.be/F28uujFGXZM)
 - [Typescript Demo w Patrick Baldwin](https://www.youtube.com/watch?v=xL8xm-YeJh4)
 
 #### Day 152 (Wed Mar 18): Graphs 3
@@ -4030,7 +4039,8 @@ WEBPT14:
 #### Day 154 (Fri Mar 20): Sprint Challenge - Graphs
 
 - [Sprint Challenge - Graphs](https://github.com/LambdaSchool/Sprint-Challenge--Graphs)
-- [WEBPT14 Rick and Morty (form and filter)](https://codesandbox.io/s/currying-http-6s8v1)
+
+
 
 </details>
 
@@ -4082,7 +4092,7 @@ Helpful Resource Links:
 
 </details>
 
-## Week 29 Build Week - Computer Science / TL WEBPT14
+## Week 33 Build Week - Computer Science / TL WEBPT14
 
 <details><summary>click to open</summary>
 
