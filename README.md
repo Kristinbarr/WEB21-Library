@@ -4021,6 +4021,12 @@ Helpful Resource Links:
 - [How To Solve It - Polya | Wikipedia](https://en.wikipedia.org/wiki/How_to_Solve_It)
 - [Download How To Solve It Pdf Free](https://mathematicspdf.com/how-to-solve-it-pdf/)
 
+WEBPT14:
+
+- [React Testing demo in notion](https://www.notion.so/Testing-React-35f45c294c0940569158f76a7e09c1b3)
+- [React Testing Library Docs](https://testing-library.com/docs/react-testing-library/intro)
+- [Live React Event: You Don't Need Redux](https://www.youtube.com/watch?v=vrmpUCpmawg&amp;feature=youtu.be)
+
 #### Day 154 (Fri Mar 20): Sprint Challenge - Graphs
 
 - [Sprint Challenge - Graphs](https://github.com/LambdaSchool/Sprint-Challenge--Graphs)
