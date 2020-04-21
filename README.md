@@ -253,9 +253,13 @@ Training Kit Pre-Work: [Responsive Design 1](https://learn.lambdaschool.com/fsw/
 
 #### Day 5 (Mon Jun 3): Responsive Design 1
 
-| Topic | Lecture    | Code       | Slido      | Solution     |
-| ----- | ---------- | ---------- | ---------- | ------------ |
-| RD 1  | [🎥][rd1l] | [⚙️][rd1c] | [📊][rd1s] | [🔐][rd1sol] |
+| Topic | Lecture    | Code       | Solution     |
+| ----- | ---------- | ---------- | ------------ |
+| RD 1  | [🎥][rd1l] | [⚙️][rd1c] | [🔐][rd1sol] |
+
+[rd1l]: https://youtu.be/K0JLBvHS4QU
+[rd1c]: https://codepen.io/lambdaschool/pen/MdLdZb?editors=1100
+[rd1sol]: https://codepen.io/lambdaschool/pen/84e04cc06a5d40b5398e8b6bcf0ce168
 
 Helpful Resource Links
 
@@ -268,18 +272,17 @@ Helpful Resource Links
 - [Responsive Web Design - Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
 - [Design Principles](https://webfieldmanual.com/design.html)
 
-[rd1l]: https://youtu.be/K0JLBvHS4QU
-[rd1c]: https://codepen.io/lambdaschool/pen/MdLdZb?editors=1100
-[rd1s]: https://app.sli.do/event/xh7ivch8
-[rd1sol]: https://codepen.io/lambdaschool/pen/84e04cc06a5d40b5398e8b6bcf0ce168
-
 #### Day 6 (Tue Jun 4): Responsive Design 2
 
 Training Kit Pre-work: [Responsive Design 2](https://learn.lambdaschool.com/fsw/module/rece3iqptdxavi0dw)
 
-| Topic | Lecture    | Code       | Slido      |
-| ----- | ---------- | ---------- | ---------- |
-| RD 1  | [🎥][rd2l] | [⚙️][rd2c] | [📊][rd2s] |
+| Topic | Lecture    | Code       |
+| ----- | ---------- | ---------- |
+| RD 1  | [🎥][rd2l] | [⚙️][rd2c] |
+
+[rd2l]: https://youtu.be/lICEmlVEFxk
+[rd2c]: https://codepen.io/justsml/pen/joJjXm?editors=1100
+[css font sizing]: https://medium.com/@madhum86/css-font-sizing-pixels-vs-em-vs-rem-vs-percent-vs-viewport-units-b1485716afe7
 
 Helpful Resource Links
 
@@ -297,11 +300,6 @@ Helpful Resource Links
 - [🐙 GitHub Pages | Host a site directly from your repo](https://pages.github.com/)
 - [GSAP, the standard for JavaScript HTML5 animation | GreenSock](https://greensock.com/)
 - [Netlify: All-in-one platform for automating modern web projects.](https://netlify.com/)
-
-[rd2l]: https://youtu.be/lICEmlVEFxk
-[rd2c]: https://codepen.io/justsml/pen/joJjXm?editors=1100
-[rd2s]: https://app.sli.do/event/rabelpjr
-[css font sizing]: https://medium.com/@madhum86/css-font-sizing-pixels-vs-em-vs-rem-vs-percent-vs-viewport-units-b1485716afe7
 
 #### Day 7 (Wed Jun 5): Preprocessing 1
 
@@ -329,9 +327,12 @@ Helpful Resource Links
 
 Training Kit Pre-Work: [Preprocessing 2](https://learn.lambdaschool.com/fsw/module/rec1hRu3bO6L0uxn2/)
 
-| Topic | Lecture    | slido      | Code       |
-| ----- | ---------- | ---------- | ---------- |
-| PP2   | [🎥][pp2c] | [📊][pp2s] | [⚙️][pp2c] |
+| Topic | Lecture    | Code       |
+| ----- | ---------- | ---------- |
+| PP2   | [🎥][pp2c] | [⚙️][pp2c] |
+
+[pp2l]: https://youtu.be/edR6WhgRZ90
+[pp2c]: https://codepen.io/justsml/pen/YbozVa
 
 Helpful Resource Links
 
@@ -339,10 +340,6 @@ Helpful Resource Links
 - [📚 LESS Function Library](http://lesscss.org/functions/)
 - [MDN | CSS Overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow)
 - [less-watch-compiler source code](https://github.com/jonycheung/deadsimple-less-watch-compiler)
-
-[pp2l]: https://youtu.be/edR6WhgRZ90
-[pp2s]: https://app.sli.do/event/37bipwye
-[pp2c]: https://codepen.io/justsml/pen/YbozVa
 
 #### Day 9 (Fri Jun 7): Sprint Challenge - Media Queries, pre-processors
 
@@ -362,9 +359,12 @@ Career Development: [Team Dynamics and Feedback](https://youtu.be/qJ1OYfsBri4)
 
 Training Kit Pre-Work: [JavaScript 1](https://learn.lambdaschool.com/fsw/module/recCT3KJYTIRYwQMh/)
 
-| Topic | Lecture    | Slido      | Guided Project |
-| ----- | ---------- | ---------- | -------------- |
-| JS 1  | [🎥][js1l] | [📊][js1s] | [⚙️][js1c]     |
+| Topic | Lecture    | Guided Project |
+| ----- | ---------- | -------------- |
+| JS 1  | [🎥][js1l] | [⚙️][js1c]     |
+
+[js1l]: https://youtu.be/idRFLPnQ7QU
+[js1c]: https://repl.it/@justsml/Web21-JS-Is-Magic
 
 | Solutions    | Code                                                                                    |
 | ------------ | --------------------------------------------------------------------------------------- |
@@ -380,17 +380,17 @@ Helpful Resource Links
 - [JS Built-in Functions](https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm)
 - [➡️ When not to use arrow funcs](https://wesbos.com/arrow-function-no-no/)
 
-[js1l]: https://youtu.be/idRFLPnQ7QU
-[js1s]: https://app.sli.do/event/k7cycfcl
-[js1c]: https://repl.it/@justsml/Web21-JS-Is-Magic
-
 #### Day 11 (Tues Jun 11): JavaScript 2
 
 Training Kit Pre-Work: [JavaScript 2](https://learn.lambdaschool.com/fsw/module/rec1oaBmEoSilO2yf/)
 
-| Topic | Lecture    | slido      | Code       | Guided Project |
-| ----- | ---------- | ---------- | ---------- | -------------- |
-| JS 2  | [🎥][js2l] | [📊][js2s] | [⚙️][js2c] | [⚙️][js2p]     |
+| Topic | Lecture    | Code       | Guided Project |
+| ----- | ---------- | ---------- | -------------- |
+| JS 2  | [🎥][js2l] | [⚙️][js2c] | [⚙️][js2p]     |
+
+[js2l]: https://youtu.be/LgZmnDVVTCg
+[js2c]: https://repl.it/@justsml/Web21-Callbacks
+[js2p]: https://repl.it/@justsml/Web21-JS-II
 
 | Solutions     | Code                                                                                    |
 | ------------- | --------------------------------------------------------------------------------------- |
@@ -417,11 +417,6 @@ Helpful Resource Links
 - [FCC | OOP & Closures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/use-closure-to-protect-properties-within-an-object-from-being-modified-externally/)
 - [MDN | JS OOP for beginners](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
 
-[js2l]: https://youtu.be/LgZmnDVVTCg
-[js2s]: https://app.sli.do/event/lkhfoqwf
-[js2c]: https://repl.it/@justsml/Web21-Callbacks
-[js2p]: https://repl.it/@justsml/Web21-JS-II
-
 #### Day 12 (Wed Jun 12): JavaScript 3
 
 Training Kit Pre-Work: [JavaScript 3](https://learn.lambdaschool.com/fsw/module/rec0AWuNLezbpit7m/)
@@ -429,6 +424,10 @@ Training Kit Pre-Work: [JavaScript 3](https://learn.lambdaschool.com/fsw/module/
 | Topic | Lecture    | Guided Project | Breakout Code |
 | ----- | ---------- | -------------- | ------------- |
 | JS3   | [🎥][js3l] | [⚙️][js3c]     | [⚙️][js3b]    |
+
+[js3l]: https://youtu.be/2mUtMw-tR6M
+[js3c]: https://repl.it/@justsml/Web21-JS-III
+[js3b]: https://repl.it/@justsml/Practice-Explicit-binding
 
 Helpful Resource Links
 
@@ -441,17 +440,18 @@ Helpful Resource Links
 - [Mock data generator](https://mockaroo.com/)
 - [8 Must-know JS Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c)
 
-[js3l]: https://youtu.be/2mUtMw-tR6M
-[js3c]: https://repl.it/@justsml/Web21-JS-III
-[js3b]: https://repl.it/@justsml/Practice-Explicit-binding
-
 #### Day 13 (Thu Jun 13): JavaScript 4
 
 Training Kit Pre-Work: [JavaScript 4](https://learn.lambdaschool.com/fsw/module/recyS588eOvVUKAMc/)
 
-| Topic | Lecture    | Slido      | Guided Project | Breakout Challenge | Breakout Solution |
-| ----- | ---------- | ---------- | -------------- | ------------------ | ----------------- |
-| JS 4  | [🎥][js4l] | [📊][js4s] | [⚙️][js4p]     | [⚙️][js4c]         | [🔐][js4cs]       |
+| Topic | Lecture    | Guided Project | Breakout Challenge | Breakout Solution |
+| ----- | ---------- | -------------- | ------------------ | ----------------- |
+| JS 4  | [🎥][js4l] | [⚙️][js4p]     | [⚙️][js4c]         | [🔐][js4cs]       |
+
+[js4l]: https://youtu.be/OQE8iimr8CQ
+[js4p]: https://repl.it/@justsml/Web21-JS-IV
+[js4c]: https://repl.it/@justsml/Web21-JS-IV-Breakout-Challenge
+[js4cs]: https://repl.it/@kristinbarr/Web21-JS-IV-Breakout-Challenge
 
 | Solution | Code                                                                                    |
 | -------- | --------------------------------------------------------------------------------------- |
@@ -469,12 +469,6 @@ Helpful Resource Links
 - [Evolution of Callbacks, Promises and Async/Await](https://www.youtube.com/watch?v=gB-OmN1egV8)
 - [Formatting Markdown Files](https://guides.github.com/features/mastering-markdown/)
 - [Travery Media | Classes and Inheritance](https://www.youtube.com/watch?v=RBLIm5LMrmc)
-
-[js4l]: https://youtu.be/OQE8iimr8CQ
-[js4s]: https://app.sli.do/event/isnvtpyv
-[js4p]: https://repl.it/@justsml/Web21-JS-IV
-[js4c]: https://repl.it/@justsml/Web21-JS-IV-Breakout-Challenge
-[js4cs]: https://repl.it/@kristinbarr/Web21-JS-IV-Breakout-Challenge
 
 #### Day 14 (Fri Jun 14): Sprint Challenge - JavaScript Fundamentals
 
@@ -501,9 +495,13 @@ Training Kit Weekly Sprint Overview: [Applied JS](https://learn.lambdaschool.com
 
 Training Kit Pre-Work: [DOM 1](https://learn.lambdaschool.com/fsw/module/rectn5PUU5ubcQkPu/)
 
-| Topic | Lecture     | Slido       | Guided Project | Project Solution |
-| ----- | ----------- | ----------- | -------------- | ---------------- |
-| DOM 1 | [🎥][dom1l] | [📊][dom1s] | [⚙️][dom1c]    | [🔐][dom1sol]    |
+| Topic | Lecture     | Guided Project | Project Solution |
+| ----- | ----------- | -------------- | ---------------- |
+| DOM 1 | [🎥][dom1l] | [⚙️][dom1c]    | [🔐][dom1sol]    |
+
+[dom1l]: https://youtu.be/2Vu09Wmy08A
+[dom1c]: https://codepen.io/kbarr/pen/MMJqbW
+[dom1sol]: https://codepen.io/lambdaschool/pen/16f3967e2c9436b589c5c6c63e8efe5f?editors=0010
 
 Helpful Resource Links:
 
@@ -517,18 +515,17 @@ Helpful Resource Links:
 - [mmtuts | Event Listeners and Events in JS](https://www.youtube.com/watch?v=jqU3uaRgQyQ)
 - [Preventing cross-site scripting attacks when using innerHTML](https://gomakethings.com/preventing-cross-site-scripting-attacks-when-using-innerhtml-in-vanilla-javascript/)
 
-[dom1l]: https://youtu.be/2Vu09Wmy08A
-[dom1s]: https://app.sli.do/event/bphrdakg
-[dom1c]: https://codepen.io/kbarr/pen/MMJqbW
-[dom1sol]: https://codepen.io/lambdaschool/pen/16f3967e2c9436b589c5c6c63e8efe5f?editors=0010
-
 #### Day 16 (Tues Jun 18): DOM 2
 
 Training Kit Pre-Work: [DOM 2](https://learn.lambdaschool.com/fsw/module/recJWv3RIfa4NFXbn/)
 
-| Topic | Lecture     | slido       | Guided Project | Breakout Challenge |
-| ----- | ----------- | ----------- | -------------- | ------------------ |
-| DOM 2 | [🎥][dom2l] | [📊][dom2s] | [⚙️][dom2c]    | [⚙️][dom2b]        |
+| Topic | Lecture     | Guided Project | Breakout Challenge |
+| ----- | ----------- | -------------- | ------------------ |
+| DOM 2 | [🎥][dom2l] | [⚙️][dom2c]    | [⚙️][dom2b]        |
+
+[dom2l]: https://youtu.be/36zE1Oz743g
+[dom2c]: https://codepen.io/kbarr/pen/dBNqXz
+[dom2b]: https://codepen.io/kbarr/pen/mZRGPX
 
 Helpful Resource Links
 
@@ -541,18 +538,17 @@ Helpful Resource Links
 - [StackOv | Difference between HTMLCol, NodeList, arrs of objs](https://stackoverflow.com/questions/15763358/difference-between-htmlcollection-nodelists-and-arrays-of-objects)
 - [Josh Knell | DOM 2 lecture](https://youtu.be/rfy9ULTXK-4)
 
-[dom2l]: https://youtu.be/36zE1Oz743g
-[dom2s]: https://app.sli.do/event/dniy2gac
-[dom2c]: https://codepen.io/kbarr/pen/dBNqXz
-[dom2b]: https://codepen.io/kbarr/pen/mZRGPX
-
 #### Day 17 (Wed Jun 19): Components 1
 
 Training Kit Pre-Work: [Components 1](https://learn.lambdaschool.com/fsw/module/rec847sNXZX9CVDNl/)
 
-| Topic        | Lecture     | slido       | Guided Project | Guided Solution |
-| ------------ | ----------- | ----------- | -------------- | --------------- |
-| Components 1 | [🎥][com1l] | [📊][com2s] | [⚙️][com1c]    | [🔐][com1sol]   |
+| Topic        | Lecture     | Guided Project | Guided Solution |
+| ------------ | ----------- | -------------- | --------------- |
+| Components 1 | [🎥][com1l] | [⚙️][com1c]    | [🔐][com1sol]   |
+
+[com1l]: https://youtu.be/_wzOcMTzPbY
+[com1c]: https://codepen.io/kbarr/pen/vqgejB
+[com1sol]: https://codepen.io/kbarr/pen/pXNqJz
 
 Helpful Resource Links
 
@@ -562,28 +558,22 @@ Helpful Resource Links
 - [CS10 JOsh Knell | Greensock intro](https://youtu.be/L3xT_etgz9g)
 - [Josh Knell | Components 1 Lecture](https://www.youtube.com/watch?v=7y8dBVzBm5s)
 
-[com1l]: https://youtu.be/_wzOcMTzPbY
-[com2s]: https://app.sli.do/event/x67jo2nh
-[com1c]: https://codepen.io/kbarr/pen/vqgejB
-[com1sol]: https://codepen.io/kbarr/pen/pXNqJz
-
 #### Day 18 (Thu Jun 20): Components 2
 
 Training Kit Pre-Work: [Components 2](https://learn.lambdaschool.com/fsw/module/recd6kDKS6eMapSRq/)
 
-| Topic        | Lecture     | Slido       | Guided Proj(Accordian) | Guided Proj Solution |
-| ------------ | ----------- | ----------- | ---------------------- | -------------------- |
-| Components 2 | [🎥][com2l] | [📊][com2s] | [⚙️][com2c]            | [🔐][com2sol]        |
+| Topic        | Lecture     | Guided Proj(Accordian) | Guided Proj Solution |
+| ------------ | ----------- | ---------------------- | -------------------- |
+| Components 2 | [🎥][com2l] | [⚙️][com2c]            | [🔐][com2sol]        |
+
+[com2l]: https://youtu.be/NDxFtts4zjs
+[com2c]: https://codepen.io/kbarr/pen/KjaxVL
+[com2sol]: https://codepen.io/kbarr/pen/EBZePK
 
 Helpful Resource Links
 
 - [CSS Tricks | #20: Data! data-_! .data()! .attr(data-_)!](https://css-tricks.com/lodge/learn-jquery/20-data-data-data-attrdata/)
 - [Custom Data Attributes HTML JS CSS Tutorial](https://www.youtube.com/watch?v=3r7dkLersKA)
-
-[com2l]: https://youtu.be/NDxFtts4zjs
-[com2s]: https://app.sli.do/event/x9kogsnr
-[com2c]: https://codepen.io/kbarr/pen/KjaxVL
-[com2sol]: https://codepen.io/kbarr/pen/EBZePK
 
 #### Day 19 (Fri Jun 21): Sprint Challenge - Applied JavaScript
 
@@ -694,9 +684,12 @@ Learning objectives:
 - Use different properties and methods to manipulate a selected element.
 - create a new element, manipulate it, and add it to the DOM
 
-| Topic           | Lecture      | Slido        | Guided Project |
-| --------------- | ------------ | ------------ | -------------- |
-| DOM 1 revisited | [🎥][dom1l2] | [📊][dom1s2] | [⚙️][dom1c2]   |
+| Topic           | Lecture      | Guided Project |
+| --------------- | ------------ | -------------- |
+| DOM 1 revisited | [🎥][dom1l2] | [⚙️][dom1c2]   |
+
+[dom1l2]: https://youtu.be/twG9NXJXh4A
+[dom1c2]: https://codepen.io/justsml/pen/gNQpVK
 
 Helpful Resource Links
 
@@ -710,10 +703,6 @@ Helpful Resource Links
 - [Blockchain tech explained (2 hr course)](https://www.youtube.com/watch?v=qOVAbKKSH10&feature=youtu.be)
 - [Reactive UI's with VanillaJS - Part 1: Pure Functional Style | CSS-Tricks](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/)
 
-[dom1l2]: https://youtu.be/twG9NXJXh4A
-[dom1s2]: https://app.sli.do/event/76pxgoxc
-[dom1c2]: https://codepen.io/justsml/pen/gNQpVK
-
 #### Day 26 (Tue Jul 9): DOM 2
 
 Training Kit Pre-Work: [DOM 2](https://learn.lambdaschool.com/web2/module/recJWv3RIfa4NFXbn/)
@@ -724,9 +713,9 @@ Learning objectives:
 - add event listeners and event handlers to elements.
 - recognize event propagation and the method used to prevent it.
 
-| Topic           | Lecture      | Slido        | Guided Project |
-| --------------- | ------------ | ------------ | -------------- |
-| DOM 2 revisited | [🎥][dom2l2] | [📊][dom2s2] | [⚙️][dom2c2]   |
+| Topic           | Lecture      | Guided Project |
+| --------------- | ------------ | -------------- |
+| DOM 2 revisited | [🎥][dom2l2] | [⚙️][dom2c2]   |
 
 | Breakout Challenge            | Breakout Solution |
 | ----------------------------- | ----------------- |
@@ -736,19 +725,18 @@ Learning objectives:
 | ----------------------------------------- | ------------ |
 | [array exercises and dom I timer][dom2ah] | [-][dom2ahs] |
 
+[dom2l2]: https://youtu.be/4HmHhKYTzog
+[dom2c2]: https://codepen.io/justsml/pen/GbPrbP
+[dom2bc2]: https://codepen.io/cgorton/pen/ewbgLZ?editors=1010
+[dom2bs2]: https://codepen.io/cgorton/pen/XLyBaj?editors=1010
+[dom2ah]: https://youtu.be/VDPXEBS51RQ
+
 Helpful Resource Links
 
 - [🐶 HTTP STATUS DOGS](https://httpstatusdogs.com/)
 - [DAD JOKES using splitting.js & css vars to animate](https://codepen.io/cobra_winfrey/pen/PrXzmB)
 - [bubbling and capturing](http://javascript.info/bubbling-and-capturing)
 - [Vanilla JS Stopwatch Script](https://medium.com/@olinations/an-accurate-vanilla-js-stopwatch-script-56ceb5c6f45b)
-
-[dom2l2]: https://youtu.be/4HmHhKYTzog
-[dom2s2]: https://app.sli.do/event/w7epbvt3
-[dom2c2]: https://codepen.io/justsml/pen/GbPrbP
-[dom2bc2]: https://codepen.io/cgorton/pen/ewbgLZ?editors=1010
-[dom2bs2]: https://codepen.io/cgorton/pen/XLyBaj?editors=1010
-[dom2ah]: https://youtu.be/VDPXEBS51RQ
 
 #### Day 27 (Wed Jul 10): Components 1
 
@@ -760,20 +748,17 @@ Learning objectives:
 - write a function that utilizes createElement and returns a new DOM element
 - iterate over a list of data creating a new component for each item and attaching that component to the DOM
 
-| Topic            | Lecture      | Slido        | Guided Project |
-| ---------------- | ------------ | ------------ | -------------- |
-| Comp 1 revisited | [🎥][com1l2] | [📊][com1s2] | [⚙️][com1c2]   |
-
-| After Hours w Henry Blevins |
-| --------------------------- |
-
-
-[components I - Newsfeed functional components][com1ah]
+| Topic            | Lecture      | Guided Project |
+| ---------------- | ------------ | -------------- |
+| Comp 1 revisited | [🎥][com1l2] | [⚙️][com1c2]   |
 
 [com1l2]: https://youtu.be/-0UnYJ-cC-Q
-[com1s2]: https://app.sli.do/event/dhaoulfj
 [com1c2]: https://codepen.io/justsml/pen/ormGxO
 [com1ah]: https://www.youtube.com/watch?v=pXSNKbQ68a4&feature=youtu.be
+
+Helpful Resource Links
+
+- [components I - Newsfeed functional components][com1ah]
 
 #### Day 28 (Wed Jul 11): Components 2
 
@@ -785,13 +770,18 @@ Learning objectives:
 - understand HTTP requests and get data from a server using axios.
 - iterate over a list of data received from a server, creating a set of components and adding them to the DOM.
 
-| Topic            | Lecture      | Slido        | Guided Project |
-| ---------------- | ------------ | ------------ | -------------- |
-| Comp 1 revisited | [🎥][com2l2] | [📊][com2s2] | [⚙️][com2c2]   |
+| Topic            | Lecture            | Guided Project |
+| ---------------- | ------------  | -------------- |
+| Comp 1 revisited | [🎥][com2l2]  | [⚙️][com2c2]   |
 
 | After Hours w Henry Blevins          | Code          |
 | ------------------------------------ | ------------- |
 | [components II github cards][com2ah] | [⚙️][com2ahs] |
+
+[com2l2]: https://youtu.be/sx5lL6v94hI
+[com2c2]: https://codepen.io/justsml/pen/rERJPZ
+[com2ah]: https://youtu.be/NsiQoi4OXcM
+[com2ahs]: https://github.com/Blevs/github-usercard
 
 Helpful Resource Links
 
@@ -809,12 +799,6 @@ Helpful Resource Links
 - [Fetch vs. Axios for making http requests](https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5)
 - [Dan Levy | You May Not Need Axios](https://danlevy.net/you-may-not-need-axios/)
 - [How to read your way to becoming a better developer](https://www.freecodecamp.org/news/how-to-read-your-way-to-becoming-a-better-developer-b6432fa5bc0c/)
-
-[com2l2]: https://youtu.be/sx5lL6v94hI
-[com2s2]: https://app.sli.do/event/3bq6gip2
-[com2c2]: https://codepen.io/justsml/pen/rERJPZ
-[com2ah]: https://youtu.be/NsiQoi4OXcM
-[com2ahs]: https://github.com/Blevs/github-usercard
 
 #### Day 29 (Fri Jul 12): Sprint Challenge - Applied JavaScript
 
@@ -1145,12 +1129,11 @@ Learning objectives:
 - apply non-visual behavior (stateful logic) with custom hooks
 - Compose hooks in a custom hook to extend multiple pieces of stateful logic
 
-| Topic                       | Lecture    | Slido      | Guided Project |
-| --------------------------- | ---------- | ---------- | -------------- |
-| React Composing and Sharing | [🎥][rcsl] | [📊][rcss] | [⚙️][rcsc]     |
+| Topic                       | Lecture    | Guided Project |
+| --------------------------- | ---------- | -------------- |
+| React Composing and Sharing | [🎥][rcsl] | [⚙️][rcsc]     |
 
 [rcsl]: https://youtu.be/3T3cGxGHQs0
-[rcss]: https://app.sli.do/event/arbt5jqk
 [rcsc]: https://codesandbox.io/s/web21-custom-hooks-guided-project-1mcsb
 
 | Henry Blevins After Party | Code         |
@@ -1449,12 +1432,11 @@ Learning objectives:
 - validate user input in forms
 - make POST requests to pass data collected from a form to a database
 
-| Topic          | Lecture    | Slido      | Animal Form |
-| -------------- | ---------- | ---------- | ----------- |
-| Forms w Dustin | [🎥][afml] | [📊][afms] | [⚙️][afmc]  |
+| Topic          | Lecture    | Animal Form |
+| -------------- | ---------- | ----------- |
+| Forms w Dustin | [🎥][afml] | [⚙️][afmc]  |
 
 [afml]: https://youtu.be/N0n1_n1ZRm4
-[afms]: https://app.sli.do/event/dnqpc2st
 [afmc]: https://codesandbox.io/s/festive-kalam-dwowv
 
 | After Party w Henry       | Code        |
@@ -1481,12 +1463,11 @@ Learning objectives:
 - Use a popular library for testing components
 - select DOM nodes using queries
 
-| Topic            | Lecture    | Slido      |
-| ---------------- | ---------- | ---------- |
-| Testing w Dustin | [🎥][twal] | [📊][twas] |
+| Topic            | Lecture    |
+| ---------------- | ---------- |
+| Testing w Dustin | [🎥][twal] |
 
 [twal]: https://youtu.be/ANVR5P3LB3E
-[twas]: https://app.sli.do/event/haqv0coo
 
 | After Party w Henry         | Code         |
 | --------------------------- | ------------ |
