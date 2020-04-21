@@ -1502,7 +1502,10 @@ Helpful Resource Links
 
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 - [Jest Delightful JavaScript Testing](https://jestjs.io/en/)
+- [Jest Expect Methods List | Jest Docs](https://jestjs.io/docs/en/expect)
 - [Testing Library CheatSheet](https://testing-library.com/docs/react-testing-library/cheatsheet)
+- [Custom jest matchers to test the state of the DOM | repo](https://github.com/testing-library/jest-dom)
+- [Modern React Testing pt.3: Jest and React Testing Library | Artem Sapegin](https://blog.sapegin.me/all/react-testing-3-jest-and-react-testing-library/)
 - [Firing Events in React Testing Library](https://www.leighhalliday.com/firing-events-react-testing-library)
 - [jest test results after fireEvent.click() (without enzym)](https://stackoverflow.com/questions/54453771/jest-test-results-after-fireevent-click-without-enzym)
 - [Regex cheat sheet](https://www.rexegg.com/regex-quickstart.html)
