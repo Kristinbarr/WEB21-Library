@@ -1197,7 +1197,6 @@ WEBPT14
 
 - [WEBPT14 Rick and Morty (form and filter)](https://codesandbox.io/s/currying-http-6s8v1)
 
-
 </details>
 
 ## Week 9 Build Week - Front End Developer
@@ -1380,16 +1379,16 @@ Learning objectives:
 - share data between components using state and props
 - respond to events triggered by user interaction and handle user input via forms in React
 
-| Topic                     | Lecture   | Slido     | Guided Project |
-| ------------------------- | --------- | --------- | -------------- |
-| Class Components w Dustin | [🎥][ccl] | [📊][ccs] | [⚙️][ccc]      |
+| Topic                     | Lecture   | Guided Project          |
+| ------------------------- | --------- | ----------------------- |
+| Class Components w Dustin | [🎥][ccl] | [⚙️ shopping list][ccc] |
 
 [ccl]: https://youtu.be/Y9J3IuFEJJc
-[ccs]: https://app.sli.do/event/anfswylv
 [ccc]: https://codesandbox.io/s/class-components-ii-start-zrwli
 
 Helpful Resource Links
 
+- [React Class lifecycles guided project | Sandbox](https://codesandbox.io/s/react-classes-lifecycles-doggos-liq8j)
 - [Complete Guide to useEffect | overreacted.io](https://overreacted.io/a-complete-guide-to-useeffect/)
 - [React Events Cheatsheet](https://reactarmory.com/guides/react-events-cheatsheet)
 - [UUID(Universally Unique Identifier)](https://www.npmjs.com/package/uuid)
@@ -1400,6 +1399,7 @@ Helpful Links from Isaiah Francios:
   [React Router Tutorial For Beginners | Dev Ed](https://www.youtube.com/watch?v=Law7wfdg_ls)
   [React Router Complete Guide | Techsith](https://www.youtube.com/watch?v=XRfD8xIOroA)
 - Local Storage w/ React: [How To add dark mode easily with a custom React hook](https://medium.com/@ismailghallou/how-to-add-dark-mode-easily-with-a-custom-react-hook-5791d96ae9f)
+- [Dark-mode solution from Dustin](https://codesandbox.io/s/dark-mode-dustin-3vduw)
 - Class Components: [React Class vs Functional Component | Techsith](https://www.youtube.com/watch?v=uGgPINlKqBs)
 - Component Lifecycle:
   [React Component Lifecycle Hooks / Methods | Techsith](https://www.youtube.com/watch?v=kVyrzn29QPk)
@@ -4037,13 +4037,11 @@ WEBPT14:
 
 - [React Testing demo in notion](https://www.notion.so/Testing-React-35f45c294c0940569158f76a7e09c1b3)
 - [React Testing Library Docs](https://testing-library.com/docs/react-testing-library/intro)
-- [Live React Event: You Don't Need Redux](https://www.youtube.com/watch?v=vrmpUCpmawg&amp;feature=youtu.be)
+- [Live React Event: You Don't Need Redux](https://www.youtube.com/watch?v=vrmpUCpmawg&feature=youtu.be)
 
 #### Day 154 (Fri Mar 20): Sprint Challenge - Graphs
 
 - [Sprint Challenge - Graphs](https://github.com/LambdaSchool/Sprint-Challenge--Graphs)
-
-
 
 </details>
 
@@ -4055,9 +4053,9 @@ Training Kit Sprint Overview: [Computer Architecture](https://learn.lambdaschool
 
 #### Day 155 (Mon Mar 23): Computer Architecture: Basics, Number Bases
 
-| Topic                                         | Lecture     |
-| --------------------------------------------- | ----------- |
-| Basics and Number Bases CS26 w Brady Fukumoto | [🎥][csca1] |
+| Topic                                         | Lecture      |
+| --------------------------------------------- | ------------ |
+| Basics and Number Bases CS26 w Brady Fukumoto | [🎥][csca1]  |
 | Basics and Number Bases CS26 w Beej Jorgensen | [🎥][csca12] |
 
 [csca1]: https://youtu.be/XZdjaKeA77Q
