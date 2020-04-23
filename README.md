@@ -770,9 +770,9 @@ Learning objectives:
 - understand HTTP requests and get data from a server using axios.
 - iterate over a list of data received from a server, creating a set of components and adding them to the DOM.
 
-| Topic            | Lecture            | Guided Project |
-| ---------------- | ------------  | -------------- |
-| Comp 1 revisited | [🎥][com2l2]  | [⚙️][com2c2]   |
+| Topic            | Lecture      | Guided Project |
+| ---------------- | ------------ | -------------- |
+| Comp 1 revisited | [🎥][com2l2] | [⚙️][com2c2]   |
 
 | After Hours w Henry Blevins          | Code          |
 | ------------------------------------ | ------------- |
@@ -4049,19 +4049,23 @@ Helpful Resource Links:
 
 #### Day 156 (Tue Mar 24): Computer Architecture: Bitwise Operations
 
-| Topic                                    | Lecture     |
-| ---------------------------------------- | ----------- |
-| Bitwise Operations CS26 w Brady Fukumoto | [🎥][csca2] |
+| Topic                                    | Lecture      |
+| ---------------------------------------- | ------------ |
+| Bitwise Operations CS26 w Brady Fukumoto | [🎥][csca2]  |
+| Bitwise Operations CS27 w Beej Jorgensen | [🎥][csca22] |
 
 [csca2]: https://youtu.be/w6ReZQQ-Wmg
+[csca22]: https://youtu.be/r6qhTx4FNWo
 
 #### Day 157 (Wed Mar 25): Computer Architecture: The System Stack
 
-| Topic                                  | Lecture     |
-| -------------------------------------- | ----------- |
-| The System Stack CS26 w Brady Fukumoto | [🎥][csca3] |
+| Topic                                  | Lecture      |
+| -------------------------------------- | ------------ |
+| The System Stack CS26 w Brady Fukumoto | [🎥][csca3]  |
+| The System Stack CS27 w Beej Jorgensen | [🎥][csca32] |
 
 [csca3]: https://youtu.be/tF9k0DsJU9A
+[csca32]: https://youtu.be/hfuqlB8Ajzc
 
 [Optional Build Week Kickoff](https://www.youtube.com/watch?v=Ko1fq-ENwzA)
 [AMA w Brady Fukumoto](https://www.youtube.com/watch?v=sIdMWOyvPwo)
