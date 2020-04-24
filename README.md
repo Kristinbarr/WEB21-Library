@@ -4075,10 +4075,10 @@ Helpful Resource Links:
 | Topic                             | Lecture      |
 | --------------------------------- | ------------ |
 | Subroutines CS26 w Brady Fukumoto | [🎥][csca4]  |
-| Subroutines CS26 w Brady Fukumoto | [🎥][csca42] |
+| Subroutines CS26 w Beej Jorgensen | [🎥][csca42] |
 
-[csca3]: https://youtu.be/tF9k0DsJU9A
-[csca32]: https://youtu.be/zPkhNiB_qLY
+[csca4]: https://youtu.be/ZvOS4zOe_-Q
+[csca42]: https://youtu.be/zPkhNiB_qLY
 
 #### Day 159 (Fri Mar 27): Sprint Challenge - Binary, Decimal, and Hex conversion, and Implementation of Conditional Jumps
 
