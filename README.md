@@ -4072,6 +4072,14 @@ Helpful Resource Links:
 
 #### Day 158 (Thu Mar 26): Computer Architecture: Subroutines, CALL/RET
 
+| Topic                             | Lecture      |
+| --------------------------------- | ------------ |
+| Subroutines CS26 w Brady Fukumoto | [🎥][csca4]  |
+| Subroutines CS26 w Brady Fukumoto | [🎥][csca42] |
+
+[csca3]: https://youtu.be/tF9k0DsJU9A
+[csca32]: https://youtu.be/zPkhNiB_qLY
+
 #### Day 159 (Fri Mar 27): Sprint Challenge - Binary, Decimal, and Hex conversion, and Implementation of Conditional Jumps
 
 [Sprint Challenge - Computer Architecture](https://github.com/LambdaSchool/Sprint-Challenge--Computer-Architecture)
