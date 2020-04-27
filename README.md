@@ -4086,8 +4086,26 @@ Helpful Resource Links:
 
 </details>
 
-## Week 33 Build Week - Computer Science / TL WEBPT14
+## Week 33 Sprint - CS Interview Prep / TL WEBPT14
 
 <details><summary>click to open</summary>
+
+#### Day 160 (Mon Apr 27): Interview Prep 1 - Growth Mindset
+
+| Topic                           | Lecture      |
+| ------------------------------- | ------------ |
+| Growth Mindset w Beej Jorgensen | [🎥][csip1]  |
+| Interview Prep CS27 w Sean Chen | [🎥][csip12] |
+
+[csip1]: https://youtu.be/57gt8kGGcUE
+[csip12]: https://youtu.be/KWIKY9I7A4E
+
+#### Day 161 (Tue Apr 28): Interview Prep 2
+
+#### Day 162 (Wed Apr 29): Interview Prep 3
+
+#### Day 163 (Thu Apr 30): Interview Prep 4
+
+#### Day 164 (Fri May 1): Interview Prep Sprint Challenge
 
 </details>
