@@ -4090,7 +4090,7 @@ Helpful Resource Links:
 
 <details><summary>click to open</summary>
 
-Training Kit Sprint Overview: [Computer Architecture]()
+Training Kit Sprint Overview: [Technical Interview Prep](https://learn.lambdaschool.com/cs/sprint/reco0t22NdXmr8VyL)
 
 #### Day 160 (Mon Apr 27): Interview Prep 1 - Growth Mindset
 
@@ -4103,6 +4103,10 @@ Training Kit Sprint Overview: [Computer Architecture]()
 [csip12]: https://youtu.be/KWIKY9I7A4E
 [csip1s]: https://docs.google.com/presentation/d/1NmRA7F1gJpfpviAImUszSaAWZNReckIgNikGV-_F_t8/edit?usp=sharing
 [csip1s2]: https://docs.google.com/presentation/d/1PNsXU_5csEvbjib85scWtTrEmMIXAMqteDAyKyxqiUc/edit?usp=sharing
+
+Helpful Resource Links:
+
+- [Data Science Brownbag w Philip Geurin, Decision Trees](https://learn.lambdaschool.com/cs/sprint/reco0t22NdXmr8VyL)
 
 #### Day 161 (Tue Apr 28): Interview Prep 2
 
