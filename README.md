@@ -4094,21 +4094,46 @@ Training Kit Sprint Overview: [Technical Interview Prep](https://learn.lambdasch
 
 #### Day 160 (Mon Apr 27): Interview Prep 1 - Growth Mindset
 
-| Topic                           | Lecture      | Slides      |
-| ------------------------------- | ------------ | ----------- |
+| Topic                           | Lecture      | Slides       |
+| ------------------------------- | ------------ | ------------ |
 | Growth Mindset w Beej Jorgensen | [🎥][csip1]  | [🖼][csip1s]  |
 | Interview Prep CS27 w Sean Chen | [🎥][csip12] | [🖼][csip1s2] |
+
+| Leet Code Problems                          |
+| ------------------------------------------- |
+| [Contains Duplicates][csip1lc1]             |
+| [Add Two Numbers in Linked Lists][csip1lc2] |
 
 [csip1]: https://youtu.be/57gt8kGGcUE
 [csip12]: https://youtu.be/KWIKY9I7A4E
 [csip1s]: https://docs.google.com/presentation/d/1NmRA7F1gJpfpviAImUszSaAWZNReckIgNikGV-_F_t8/edit?usp=sharing
 [csip1s2]: https://docs.google.com/presentation/d/1PNsXU_5csEvbjib85scWtTrEmMIXAMqteDAyKyxqiUc/edit?usp=sharing
+[csip1lc1]: https://leetcode.com/problems/contains-duplicate/
+[csip1lc2]: https://leetcode.com/problems/add-two-numbers/
 
 Helpful Resource Links:
 
 - [Data Science Brownbag w Philip Geurin, Decision Trees](https://learn.lambdaschool.com/cs/sprint/reco0t22NdXmr8VyL)
 
 #### Day 161 (Tue Apr 28): Interview Prep 2
+
+| Topic                                    | Lecture      | Technical Interview Prep Guide | Slides       |
+| ---------------------------------------- | ------------ | ------------------------------ | ------------ |
+| Growth Mindset w Sean, Beej and Kathleen | [🎥][csip2]  | [📃][csip2g]                   | [🖼][csip2s]  |
+|                                          | [🎥][csip22] |                                | [🖼][csip2s2] |
+
+| Leet Code problems                        |
+| ----------------------------------------- |
+| [Two Sum][csip2lc1]                       |
+| [Merge Two Sorted Linked List][csip2lc2]  |
+| [Implement a Queue with Stacks][csip2lc3] |
+
+[csip2]: https://youtu.be/uYVZ709gvUk
+[csip2g]: https://docs.google.com/document/d/1g9BkZOc2YSyYsa2q-qblXsXcvvU_xteuRt7IxTybAVU/edit?usp=sharing
+[csip2s]: https://docs.google.com/presentation/d/1PN9RUrllN5ppY-4RvbTPriiYSRBOhkuGLGP5MCN4Adg/edit?usp=sharing
+[csip2lc1]: https://leetcode.com/problems/two-sum/
+[csip2lc2]: https://leetcode.com/problems/merge-two-sorted-lists/
+[csip2lc3]: https://leetcode.com/problems/implement-queue-using-stacks/
 
 #### Day 162 (Wed Apr 29): Interview Prep 3
 
