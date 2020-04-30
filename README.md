@@ -4166,12 +4166,13 @@ Helpful Resource Links:
 | --------------------- | ------------- |
 | Whiteboarding w/ Ryan | [🎥][csip4wu] |
 
-| Topic                                       | Lecture     |
-| ------------------------------------------- | ----------- |
-| Interview Prep 4 w Beej Jorgensen Sean Chen | [🎥][csip4] |
+| Topic                                       | Lecture     | Leet Code Guided Project     |
+| ------------------------------------------- | ----------- | ---------------------------- |
+| Interview Prep 4 w Beej Jorgensen & Sean Chen | [🎥][csip4] | [Wildcard Matching][csip4gp] |
 
 [csip4wu]: https://youtu.be/djsTCrf6QhA
 [csip4]: TBA
+[csip4gp]: https://leetcode.com/problems/wildcard-matching/
 
 Helpful Resource Links:
 
