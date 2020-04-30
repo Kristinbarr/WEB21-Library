@@ -4171,9 +4171,16 @@ Helpful Resource Links:
 | --------------------------------------------- | ----------- | ---------------------------- |
 | Interview Prep 4 w Beej Jorgensen & Sean Chen | [🎥][csip4] | [Wildcard Matching][csip4gp] |
 
+| Leet Code Problem                                 |
+| ------------------------------------------------- |
+| [Letter Combinations of a Phone Number][csip4lc1] |
+| [Word Break][csip4lc2]                            |
+
 [csip4wu]: https://youtu.be/djsTCrf6QhA
 [csip4]: TBA
 [csip4gp]: https://leetcode.com/problems/wildcard-matching/
+[csip4lc1]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+[csip4lc2]: https://leetcode.com/problems/word-break/
 
 Helpful Resource Links:
 
