@@ -4091,6 +4091,7 @@ Helpful Resource Links:
 <details><summary>click to open</summary>
 
 Training Kit Sprint Overview: [Technical Interview Prep](https://learn.lambdaschool.com/cs/sprint/reco0t22NdXmr8VyL)
+[Personal Daily Adgenda | Notion]:https://www.notion.so/Kristin-Barr-174aaf2a472d49c4a1104dd19f8392dd#a9d57dd114d94027a79c19e260c73d8a
 
 #### Day 160 (Mon Apr 27): Interview Prep 1 - Growth Mindset
 
@@ -4166,8 +4167,8 @@ Helpful Resource Links:
 | --------------------- | ------------- |
 | Whiteboarding w/ Ryan | [🎥][csip4wu] |
 
-| Topic                                       | Lecture     | Leet Code Guided Project     |
-| ------------------------------------------- | ----------- | ---------------------------- |
+| Topic                                         | Lecture     | Leet Code Guided Project     |
+| --------------------------------------------- | ----------- | ---------------------------- |
 | Interview Prep 4 w Beej Jorgensen & Sean Chen | [🎥][csip4] | [Wildcard Matching][csip4gp] |
 
 [csip4wu]: https://youtu.be/djsTCrf6QhA
