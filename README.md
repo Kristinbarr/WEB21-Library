@@ -4094,6 +4094,10 @@ Training Kit Sprint Overview: [Technical Interview Prep](https://learn.lambdasch
 
 #### Day 160 (Mon Apr 27): Interview Prep 1 - Growth Mindset
 
+| Daily Warm Up Topic                                             |
+| --------------------------------------------------------------- |
+| [Mock Interview - Leetcode - Jess Martin & Parth Shah][csip1wu] |
+
 | Topic                           | Lecture      | Slides       |
 | ------------------------------- | ------------ | ------------ |
 | Growth Mindset w Beej Jorgensen | [🎥][csip1]  | [🖼][csip1s]  |
@@ -4104,6 +4108,7 @@ Training Kit Sprint Overview: [Technical Interview Prep](https://learn.lambdasch
 | [Contains Duplicates][csip1lc1]             |
 | [Add Two Numbers in Linked Lists][csip1lc2] |
 
+[csip1wu]: https://youtu.be/Sz6ofLsRtDg
 [csip1]: https://youtu.be/57gt8kGGcUE
 [csip12]: https://youtu.be/KWIKY9I7A4E
 [csip1s]: https://docs.google.com/presentation/d/1NmRA7F1gJpfpviAImUszSaAWZNReckIgNikGV-_F_t8/edit?usp=sharing
@@ -4117,10 +4122,14 @@ Helpful Resource Links:
 
 #### Day 161 (Tue Apr 28): Interview Prep 2
 
-| Topic                                    | Lecture      | Technical Interview Prep Guide | Slides       |
-| ---------------------------------------- | ------------ | ------------------------------ | ------------ |
-| Growth Mindset w Sean, Beej and Kathleen | [🎥][csip2]  | [📃][csip2g]                   | [🖼][csip2s]  |
-|                                          | [🎥][csip22] |                                | [🖼][csip2s2] |
+| Daily Warm Up Topic                               |
+| ------------------------------------------------- |
+| [Whiteboard Interview Practice w/ @john][csip2wu] |
+
+| Topic                                               | Lecture      | Technical Interview Prep Guide | Slides       |
+| --------------------------------------------------- | ------------ | ------------------------------ | ------------ |
+| Interview Prep 2 CS27 w Sean, Beej                  | [🎥][csip2]  |                                | [🖼][csip2s]  |
+| How to Frame Projects for Iterviews w Kathleen Hunt | [🎥][csip22] | [📃][csip2g]                   | [🖼][csip2s2] |
 
 | Leet Code problems                        |
 | ----------------------------------------- |
@@ -4128,7 +4137,9 @@ Helpful Resource Links:
 | [Merge Two Sorted Linked List][csip2lc2]  |
 | [Implement a Queue with Stacks][csip2lc3] |
 
+[csip2wu]: https://youtu.be/eEUTlO07I7c
 [csip2]: https://youtu.be/uYVZ709gvUk
+[csip22]: https://youtu.be/T6m4Rk0yWIU
 [csip2g]: https://docs.google.com/document/d/1g9BkZOc2YSyYsa2q-qblXsXcvvU_xteuRt7IxTybAVU/edit?usp=sharing
 [csip2s]: https://docs.google.com/presentation/d/1PN9RUrllN5ppY-4RvbTPriiYSRBOhkuGLGP5MCN4Adg/edit?usp=sharing
 [csip2lc1]: https://leetcode.com/problems/two-sum/
@@ -4137,7 +4148,34 @@ Helpful Resource Links:
 
 #### Day 162 (Wed Apr 29): Interview Prep 3
 
+| Daily Warm Up Topic              |
+| -------------------------------- |
+| [Whiteboarding w/ Ryan][csip3wu] |
+
+| Topic                                          | Lecture     | Hacker Rank Guided Project                      |
+| ---------------------------------------------- | ----------- | ----------------------------------------------- |
+| Interview Prep 3 w Jordan Isbell and Sean Chen | [🎥][csip3] | [Trees: Is This a Binary Search Tree?][csip3gp] |
+
+[csip3wu]: https://youtu.be/9fGz3vo_JDQ
+[csip3]: https://youtu.be/ypnWjEX9NVs
+[csip3gp]: https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees
+
 #### Day 163 (Thu Apr 30): Interview Prep 4
+
+| Daily Warm Up Topic   | Recording     |
+| --------------------- | ------------- |
+| Whiteboarding w/ Ryan | [🎥][csip4wu] |
+
+| Topic                                       | Lecture     |
+| ------------------------------------------- | ----------- |
+| Interview Prep 4 w Beej Jorgensen Sean Chen | [🎥][csip4] |
+
+[csip4wu]: https://youtu.be/djsTCrf6QhA
+[csip4]: TBA
+
+Helpful Resource Links:
+
+- [hardest problem on the hardest test | YT](https://www.youtube.com/watch?v=OkmNXy7er84)
 
 #### Day 164 (Fri May 1): Interview Prep Sprint Challenge
 
