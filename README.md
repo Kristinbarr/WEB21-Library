@@ -4167,20 +4167,24 @@ Helpful Resource Links:
 | --------------------- | ------------- |
 | Whiteboarding w/ Ryan | [🎥][csip4wu] |
 
-| Topic                                         | Lecture     | Leet Code Guided Project     |
-| --------------------------------------------- | ----------- | ---------------------------- |
-| Interview Prep 4 w Beej Jorgensen & Sean Chen | [🎥][csip4] | [Wildcard Matching][csip4gp] |
+| Topic                                          | Lecture     | Leet Code Guided Project     |
+| ---------------------------------------------- | ----------- | ---------------------------- |
+| Interview Prep 4 w Beej, Sean & Lindsey Gilson | [🎥][csip4] | [Wildcard Matching][csip4gp] |
 
 | Leet Code Problem                                 |
 | ------------------------------------------------- |
 | [Letter Combinations of a Phone Number][csip4lc1] |
 | [Word Break][csip4lc2]                            |
+| [Remove Nth Node From End of List][csip4lc3]      |
+| [Subarray Sum Equals K][csip4lc4]                 |
 
 [csip4wu]: https://youtu.be/djsTCrf6QhA
-[csip4]: TBA
+[csip4]: https://youtu.be/CTLrS2NmQxU
 [csip4gp]: https://leetcode.com/problems/wildcard-matching/
 [csip4lc1]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 [csip4lc2]: https://leetcode.com/problems/word-break/
+[csip4lc3]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+[csip4lc4]: https://leetcode.com/problems/subarray-sum-equals-k/
 
 Helpful Resource Links:
 
