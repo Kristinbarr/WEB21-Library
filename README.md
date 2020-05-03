@@ -4189,6 +4189,7 @@ Helpful Resource Links:
 Helpful Resource Links:
 
 - [hardest problem on the hardest test | YT](https://www.youtube.com/watch?v=OkmNXy7er84)
+- [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
 
 #### Day 164 (Fri May 1): Interview Prep Sprint Challenge
 
