@@ -4201,12 +4201,12 @@ Helpful Resource Links:
 
 #### Day 165 (Mon May 4): Endorsement Day 1
 
-| Topic                  | Recording  | Slides     |
-| ---------------------- | ---------- | ---------- |
-| Intro to Endorsement w | [🎥][euw1] | [🖼][euw1s] |
+| Topic                               | Recording  | Slides     |
+| ----------------------------------- | ---------- | ---------- |
+| Endorsement Kickoff w Katie Spencer | [🎥][euw1] | [🖼][euw1s] |
 
 [euw1]: TBA
-[euw1s]: TBA
+[euw1s]: https://drive.google.com/open?id=1J4FS2NHj5-q98tCurikpDllrj2519YTVc2sjiuJNGEk
 
 Helpful Resource Links:
 
