@@ -4093,7 +4093,7 @@ Helpful Resource Links:
 Training Kit Sprint Overview: [Technical Interview Prep](https://learn.lambdaschool.com/cs/sprint/reco0t22NdXmr8VyL)
 [Personal Daily Adgenda | Notion]:https://www.notion.so/Kristin-Barr-174aaf2a472d49c4a1104dd19f8392dd#a9d57dd114d94027a79c19e260c73d8a
 
-#### Day 160 (Mon Apr 27): Interview Prep 1 - Growth Mindset
+#### Day 160 (Mon Apr 27): Interview Prep 1
 
 | Daily Warm Up Topic                                             |
 | --------------------------------------------------------------- |
@@ -4191,6 +4191,29 @@ Helpful Resource Links:
 - [hardest problem on the hardest test | YT](https://www.youtube.com/watch?v=OkmNXy7er84)
 - [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
 
-#### Day 164 (Fri May 1): Interview Prep Sprint Challenge
+#### Day 164 (Fri May 1): Interview Prep Sprint - HAcker Rank Challenge
+
+</details>
+
+## Week 34 Sprint - Endorsement Unit 1 / TL WEBPT14
+
+<details><summary>click to open</summary>
+
+#### Day 165 (Mon May 4): Endorsement Day 1
+
+| Topic                  | Recording  | Slides     |
+| ---------------------- | ---------- | ---------- |
+| Intro to Endorsement w | [🎥][euw1] | [🖼][euw1s] |
+
+[euw1]: TBA
+[euw1s]: TBA
+
+Helpful Resource Links:
+
+- [Student Endorsement Calendar](http://bit.ly/2IuLGME)
+- [Lambda School Student Guide](http://bit.ly/2PgKEs9)
+- [Endorsement Student Handbook](http://bit.ly/2vpO7g0)
+- [Professional Endorsement Handbook](http://bit.ly/2Se3LEu)
+- [Tech Endorsement Info](http://bit.ly/2qXCc7G)
 
 </details>
