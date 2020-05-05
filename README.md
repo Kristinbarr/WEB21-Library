@@ -3328,11 +3328,10 @@ TL Selected Articles
 
 | TL Training            | Recording     | Extra Resources                |
 | ---------------------- | ------------- | ------------------------------ |
-| Day 3 Training Lecture | [🎥][tltd3]   | [📁][tltd3e]                   |
+| Day 3 Training Lecture | [🎥][tltd3]   | NA                             |
 | Day 3 Q&A with TLs     | [🎥][tltd3qa] | [Power of Introverts][tltd3e2] |
 
 [tltd3]: https://youtu.be/gLLBG5GhRdU
-[tltd3e]: TBA
 [tltd3qa]: https://youtu.be/_yiBzu_thxQ
 [tltd3e2]: https://www.youtube.com/watch?v=c0KYU2j0TM4
 
@@ -4208,8 +4207,6 @@ Helpful Resource Links:
 [euw1]: https://youtu.be/PGEPfa6XIXA
 [euw1s]: https://drive.google.com/open?id=1J4FS2NHj5-q98tCurikpDllrj2519YTVc2sjiuJNGEk
 
-
-
 Helpful Resource Links:
 
 - [Student Endorsement Calendar](http://bit.ly/2IuLGME)
@@ -4217,5 +4214,24 @@ Helpful Resource Links:
 - [Endorsement Student Handbook](http://bit.ly/2vpO7g0)
 - [Professional Endorsement Handbook](http://bit.ly/2Se3LEu)
 - [Tech Endorsement Info](http://bit.ly/2qXCc7G)
+
+#### Day 166 (Tue May 5): Endorsement Day 2
+
+| After Party w Henry Blevins       | Recording   | Code         |
+| --------------------------------- | ----------- | ------------ |
+| React Lesson - Modal with Portals | [🎥][aped2] | [🐙][aped2c] |
+
+| Brown Bag                                                   | Recording   |
+| ----------------------------------------------------------- | ----------- |
+| Ben Schinn - How to Get Involved in Open Source Development | [🎥][bbed2] |
+
+[aped2]: https://youtu.be/CvNS_Yu_Mz4
+[aped2c]: https://github.com/Blevs/react-portal-modal
+[bbed2]: https://youtu.be/-xXcyfW65bI
+
+Helpful Resource Links:
+
+- [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
+- [Runtime Analysis slides from Parth Shah at Lambda](https://docs.google.com/presentation/d/1QFrI_itkoFy9GrEvTcVyNpfU9kY-bvRTnsJJtLyn7l0/edit#slide=id.g52f7272298_0_22)
 
 </details>
