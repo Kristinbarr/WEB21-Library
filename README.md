@@ -4210,9 +4210,9 @@ Helpful Resource Links:
 Helpful Resource Links:
 
 - [Student Endorsement Calendar](http://bit.ly/2IuLGME)
-- [Lambda School Student Guide](http://bit.ly/2PgKEs9)
-- [Endorsement Student Handbook](http://bit.ly/2vpO7g0)
-- [Professional Endorsement Handbook](http://bit.ly/2Se3LEu)
+- [Lambda School Student Guide](https://www.notion.so/Lambda-School-Student-Guide-74b6ce15355f41b488f6643c31636480)
+- [Endorsement Student Handbook](https://www.notion.so/Endorsement-Student-Handbook-515d50d85a51455eaa6b1dcaafaaf97d)
+- [Professional Endorsement Handbook](https://docs.google.com/presentation/d/1wRM6oFarNBJUwTCd9fWcZHjU8bSKdoZNG8qE2QYAFjA/edit?usp=sharing)
 - [Tech Endorsement Info](http://bit.ly/2qXCc7G)
 
 #### Day 166 (Tue May 5): Endorsement Day 2
@@ -4221,16 +4221,22 @@ Helpful Resource Links:
 | --------------------------------- | ----------- | ------------ |
 | React Lesson - Modal with Portals | [🎥][aped2] | [🐙][aped2c] |
 
-| Brown Bag                                                   | Recording   |
+| Lambda Brown Bag                                            | Recording   |
 | ----------------------------------------------------------- | ----------- |
 | Ben Schinn - How to Get Involved in Open Source Development | [🎥][bbed2] |
 
+| Data Science Careers Presentation | Slides      |
+| --------------------------------- | ----------- |
+| Lambda DS Careers Handbook        | [🖼][dseud2] |
+
+[dseud2]: https://docs.google.com/presentation/d/1sNjuVl9l7evEUAk2phb9fBu_g-ssuo1QbtWYPPlIEQw/edit?usp=sharing
 [aped2]: https://youtu.be/CvNS_Yu_Mz4
 [aped2c]: https://github.com/Blevs/react-portal-modal
 [bbed2]: https://youtu.be/-xXcyfW65bI
 
 Helpful Resource Links:
 
+- [Problem Solving Workflow w Sean Chen](https://www.youtube.com/watch?v=IZ7cxWQqZxw&feature=youtu.be)
 - [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 - [Runtime Analysis slides from Parth Shah at Lambda](https://docs.google.com/presentation/d/1QFrI_itkoFy9GrEvTcVyNpfU9kY-bvRTnsJJtLyn7l0/edit#slide=id.g52f7272298_0_22)
 
