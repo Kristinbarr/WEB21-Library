@@ -4205,8 +4205,10 @@ Helpful Resource Links:
 | ----------------------------------- | ---------- | ---------- |
 | Endorsement Kickoff w Katie Spencer | [🎥][euw1] | [🖼][euw1s] |
 
-[euw1]: TBA
+[euw1]: https://youtu.be/PGEPfa6XIXA
 [euw1s]: https://drive.google.com/open?id=1J4FS2NHj5-q98tCurikpDllrj2519YTVc2sjiuJNGEk
+
+
 
 Helpful Resource Links:
 
