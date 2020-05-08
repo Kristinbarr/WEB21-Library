@@ -4240,4 +4240,14 @@ Helpful Resource Links:
 - [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 - [Runtime Analysis slides from Parth Shah at Lambda](https://docs.google.com/presentation/d/1QFrI_itkoFy9GrEvTcVyNpfU9kY-bvRTnsJJtLyn7l0/edit#slide=id.g52f7272298_0_22)
 
+#### Day 167 (Wed May 6): Endorsement Day 3
+
+- [Technical Coaching with Sean Chen: Palindrome Linked List](https://youtu.be/BN7gz17ZgvI)
+
+#### Day 168 (Thu May 7): Endorsement Day 4
+
+- [Design Resources For Developers | Traversy](https://github.com/bradtraversy/design-resources-for-developers)
+
+#### Day 169 (Fri May 8): Endorsement Day 5
+
 </details>
