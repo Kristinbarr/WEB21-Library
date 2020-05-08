@@ -4200,12 +4200,12 @@ Helpful Resource Links:
 
 #### Day 165 (Mon May 4): Endorsement Day 1
 
-| Topic                               | Recording  | Slides     |
-| ----------------------------------- | ---------- | ---------- |
-| Endorsement Kickoff w Katie Spencer | [🎥][euw1] | [🖼][euw1s] |
+| Topic                               | Recording    | Slides       |
+| ----------------------------------- | ------------ | ------------ |
+| Endorsement Kickoff w Katie Spencer | [🎥][euw1d1] | [🖼][euw1d1s] |
 
-[euw1]: https://youtu.be/PGEPfa6XIXA
-[euw1s]: https://drive.google.com/open?id=1J4FS2NHj5-q98tCurikpDllrj2519YTVc2sjiuJNGEk
+[euw1d1]: https://youtu.be/PGEPfa6XIXA
+[euw1d1s]: https://drive.google.com/open?id=1J4FS2NHj5-q98tCurikpDllrj2519YTVc2sjiuJNGEk
 
 Helpful Resource Links:
 
@@ -4246,6 +4246,15 @@ Helpful Resource Links:
 
 #### Day 168 (Thu May 7): Endorsement Day 4
 
+| Careers Guidelines | Link       |
+| ------------------ | ---------- |
+| Github Rubric      | [][euw1d4] |
+
+[euw1d4]:https://drive.google.com/file/d/1geqZSdwle2YU6dRGjBbvFT2U9WqReOLU/view
+
+Helpful Resource Links:
+
+- [Lambda Careers - quality power words](https://drive.google.com/file/d/1geqZSdwle2YU6dRGjBbvFT2U9WqReOLU/view)
 - [Design Resources For Developers | Traversy](https://github.com/bradtraversy/design-resources-for-developers)
 
 #### Day 169 (Fri May 8): Endorsement Day 5
