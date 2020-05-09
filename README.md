@@ -20,7 +20,6 @@ Workshop code, lectures, notes, and solutions for the WEB21 cohort
 
 - [Lambda Syllabus Training Kit](https://learn.lambdaschool.com/)
 - [Student Progress Dashboard](https://dashboards.lambdaschool.com/)
-- [Web21 GCal Link](https://calendar.google.com/calendar/r?cid=bGFtYmRhc2Nob29sLmNvbV9zOWthNm9wMnU2cG43ZzkwNHNoNjJucTVza0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - [Lambda Course Info: Precourse, WEB, CS, Labs, Career, Next](https://learn.lambdaschool.com/course/cs-fsw)
 - [Student Orientation: LS1905 video](https://youtu.be/i2FlKBBZtS0)
 
@@ -56,6 +55,7 @@ Technical:
 - [GitHub BitBucket HTML Preview](https://htmlpreview.github.io/)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 - [User flow builder | Userflow](https://getuserflow.com/demo)
+- [Design Resources For Developers | Traversy](https://github.com/bradtraversy/design-resources-for-developers)
 
 Technical Interviewing:
 
@@ -1712,12 +1712,13 @@ Learning objectives:
 - handle authentication with tokens in a React app
 - implement protected routes using an authentication token and Redirect
 
-| Topic                     | Lecture    | Guided Sandbox - Auth Starter |
-| ------------------------- | ---------- | ----------------------------- |
-| Client Side Auth w Dustin | [🎥][csal] | [⚙️][csac]                    |
+| Topic                     | Lecture    | Guided Sandbox - Auth Starter | Guided project repo - Gasoline server |
+| ------------------------- | ---------- | ----------------------------- | ------------------------------------- |
+| Client Side Auth w Dustin | [🎥][csal] | [⚙️][csac]                    | [⚙️][csagp]                           |
 
 [csal]: https://youtu.be/1C-AXk_PsBw
 [csac]: https://codesandbox.io/s/auth-starter-0qsei
+[csagp]: https://github.com/LambdaSchool/gasoline-server
 
 | TL Hours            | Recording    | Code          |
 | ------------------- | ------------ | ------------- |
@@ -4250,7 +4251,7 @@ Helpful Resource Links:
 | ------------------ | ---------- |
 | Github Rubric      | [][euw1d4] |
 
-[euw1d4]:https://drive.google.com/file/d/1geqZSdwle2YU6dRGjBbvFT2U9WqReOLU/view
+[euw1d4]: https://drive.google.com/file/d/1geqZSdwle2YU6dRGjBbvFT2U9WqReOLU/view
 
 Helpful Resource Links:
 
