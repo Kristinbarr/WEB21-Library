@@ -1712,9 +1712,9 @@ Learning objectives:
 - handle authentication with tokens in a React app
 - implement protected routes using an authentication token and Redirect
 
-| Topic                     | Lecture    | Guided Sandbox - Auth Starter | Guided project repo - Gasoline server |
-| ------------------------- | ---------- | ----------------------------- | ------------------------------------- |
-| Client Side Auth w Dustin | [🎥][csal] | [⚙️][csac]                    | [⚙️][csagp]                           |
+| Topic                     | Lecture    | Guided Sandbox - Auth Starter | Guided repo - Gasoline server |
+| ------------------------- | ---------- | ----------------------------- | ----------------------------- |
+| Client Side Auth w Dustin | [🎥][csal] | [⚙️][csac]                    | [⚙️][csagp]                   |
 
 [csal]: https://youtu.be/1C-AXk_PsBw
 [csac]: https://codesandbox.io/s/auth-starter-0qsei
