@@ -4199,7 +4199,7 @@ Helpful Resource Links:
 
 <details><summary>click to open</summary>
 
-#### Day 165 (Mon May 4): Endorsement Day 1
+#### Day 165 (Mon May 4): Endorsement Week 1 Day 1
 
 | Topic                               | Recording    | Slides       |
 | ----------------------------------- | ------------ | ------------ |
@@ -4216,7 +4216,7 @@ Helpful Resource Links:
 - [Professional Endorsement Handbook](https://docs.google.com/presentation/d/1wRM6oFarNBJUwTCd9fWcZHjU8bSKdoZNG8qE2QYAFjA/edit?usp=sharing)
 - [Tech Endorsement Info](http://bit.ly/2qXCc7G)
 
-#### Day 166 (Tue May 5): Endorsement Day 2
+#### Day 166 (Tue May 5): Endorsement Week 1 Day 2
 
 | After Party w Henry Blevins       | Recording   | Code         |
 | --------------------------------- | ----------- | ------------ |
@@ -4241,15 +4241,17 @@ Helpful Resource Links:
 - [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 - [Runtime Analysis slides from Parth Shah at Lambda](https://docs.google.com/presentation/d/1QFrI_itkoFy9GrEvTcVyNpfU9kY-bvRTnsJJtLyn7l0/edit#slide=id.g52f7272298_0_22)
 
-#### Day 167 (Wed May 6): Endorsement Day 3
+#### Day 167 (Wed May 6): Endorsement Week 1 Day 3
+
+Helpful Resource Links:
 
 - [Technical Coaching with Sean Chen: Palindrome Linked List](https://youtu.be/BN7gz17ZgvI)
 
-#### Day 168 (Thu May 7): Endorsement Day 4
+#### Day 168 (Thu May 7): Endorsement Week 1 Day 4
 
-| Careers Guidelines | Link       |
-| ------------------ | ---------- |
-| Github Rubric      | [][euw1d4] |
+| Careers Guidelines | Link        |
+| ------------------ | ----------- |
+| Github Rubric      | [🗒][euw1d4] |
 
 [euw1d4]: https://drive.google.com/file/d/1geqZSdwle2YU6dRGjBbvFT2U9WqReOLU/view
 
@@ -4258,8 +4260,36 @@ Helpful Resource Links:
 - [Lambda Careers - quality power words](https://drive.google.com/file/d/1geqZSdwle2YU6dRGjBbvFT2U9WqReOLU/view)
 - [Design Resources For Developers | Traversy](https://github.com/bradtraversy/design-resources-for-developers)
 
-#### Day 169 (Fri May 8): Endorsement Day 5
+#### Day 169 (Fri May 8): Endorsement Week 1 Day 5
+
+Helpful Resource Links:
 
 - [create interactive graphs and charts | DataWrapper](https://www.datawrapper.de/)
+
+</details>
+
+## Week 35 Sprint - Endorsement Unit 2 / TL WEBPT14
+
+<details><summary>click to open</summary>
+
+#### Day 170 (Mon May 11): Endorsement Week 2 Day 1
+
+| Technical Coaching                  | Recording       |
+| ----------------------------------- | --------------- |
+| Lists and Arrays with Parth Shah    | [🎥][euw2d1]    |
+| LeetCode - Merge Two Sorted         | [👾][uew2d1lc1] |
+| LeetCode - Sort Transformed Array   | [👾][uew2d1lc2] |
+| LeetCode - Peak Index in a Mountain | [👾][uew2d1lc3] |
+| LeetCode - Rotate Array             | [👾][uew2d1lc4] |
+
+[euw2d1]: TBA
+[uew2d1lc1]: TBA
+[uew2d1lc2]: TBA
+[uew2d1lc3]: TBA
+[uew2d1lc4]: TBA
+
+Helpful Resource Links:
+
+- [Scientific Graphing Visualizer | Desmos](https://www.desmos.com/)
 
 </details>
