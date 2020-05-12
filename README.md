@@ -4286,18 +4286,18 @@ Helpful Resource Links:
 | LeetCode - Peak Index in a Mountain Array | [👾][uew2d1lc3] |
 | LeetCode - Rotate Array                   | [👾][uew2d1lc4] |
 
-| After Party w Henry Blevins       | Recording    | Code          |
-| --------------------------------- | ------------ | ------------- |
-| React Lesson - Modal with Portals | [🎥][apeuw2] | [🐙][apeuw2c] |
+| After Party w Henry Blevins                       | Recording    | Code          |
+| ------------------------------------------------- | ------------ | ------------- |
+| React Lesson - HoCs, Render Props, Hooks, Context | [🎥][apeuw2] | [🐙][apeuw2c] |
 
-[euw2d1]: TBA
+[euw2d1]: https://youtu.be/2ACFG2WDgcQ
 [euw2d1s]: TBA
 [euw2d1tc]: TBA
 [uew2d1lc1]: https://leetcode.com/problems/merge-two-sorted-lists/
 [uew2d1lc2]: https://leetcode.com/problems/sort-transformed-array/
 [uew2d1lc3]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [uew2d1lc4]: https://leetcode.com/problems/rotate-array/
-[apeuw2]: TBA
+[apeuw2]: https://www.twitch.tv/videos/618357284
 [apeuw2c]: https://github.com/Blevs/react-compose
 
 Helpful Resource Links:
