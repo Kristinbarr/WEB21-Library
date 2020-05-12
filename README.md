@@ -4304,4 +4304,17 @@ Helpful Resource Links:
 
 - [Scientific Graphing Visualizer | Desmos](https://www.desmos.com/)
 
+#### Day 171 (Tue May 12): Endorsement Week 2 Day 2
+
+Helpful Resource Links:
+
+- [A Cynic’s Guide to Writing a Twitter Bio](https://www.vieodesign.com/blog/cynics-guide-writing-a-twitter-bio/)
+- [31 Funny Twitter Bios & How to Write Your Own](https://blog.hubspot.com/marketing/twitter-bio)
+
+#### Day 172 (Wed May 13): Endorsement Week 2 Day 3
+
+#### Day 173 (Thu May 14): Endorsement Week 2 Day 4
+
+#### Day 174 (Fri May 15): Endorsement Week 2 Day 5
+
 </details>
