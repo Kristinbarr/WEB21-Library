@@ -4274,19 +4274,31 @@ Helpful Resource Links:
 
 #### Day 170 (Mon May 11): Endorsement Week 2 Day 1
 
-| Technical Coaching                  | Recording       |
-| ----------------------------------- | --------------- |
-| Lists and Arrays with Parth Shah    | [🎥][euw2d1]    |
-| LeetCode - Merge Two Sorted         | [👾][uew2d1lc1] |
-| LeetCode - Sort Transformed Array   | [👾][uew2d1lc2] |
-| LeetCode - Peak Index in a Mountain | [👾][uew2d1lc3] |
-| LeetCode - Rotate Array             | [👾][uew2d1lc4] |
+| Topic                   | Recording    | Slides       |
+| ----------------------- | ------------ | ------------ |
+| Resumes w Katie Spencer | [🎥][euw2d1] | [🖼][euw2d1s] |
+
+| Technical Coaching                        | Recording       |
+| ----------------------------------------- | --------------- |
+| Lists and Arrays with Parth Shah          | [🎥][euw2d1tc]  |
+| LeetCode - Merge Two Sorted               | [👾][uew2d1lc1] |
+| LeetCode - Sort Transformed Array         | [👾][uew2d1lc2] |
+| LeetCode - Peak Index in a Mountain Array | [👾][uew2d1lc3] |
+| LeetCode - Rotate Array                   | [👾][uew2d1lc4] |
+
+| After Party w Henry Blevins       | Recording    | Code          |
+| --------------------------------- | ------------ | ------------- |
+| React Lesson - Modal with Portals | [🎥][apeuw2] | [🐙][apeuw2c] |
 
 [euw2d1]: TBA
-[uew2d1lc1]: TBA
-[uew2d1lc2]: TBA
-[uew2d1lc3]: TBA
-[uew2d1lc4]: TBA
+[euw2d1s]: TBA
+[euw2d1tc]: TBA
+[uew2d1lc1]: https://leetcode.com/problems/merge-two-sorted-lists/
+[uew2d1lc2]: https://leetcode.com/problems/sort-transformed-array/
+[uew2d1lc3]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
+[uew2d1lc4]: https://leetcode.com/problems/rotate-array/
+[apeuw2]: TBA
+[apeuw2c]: https://github.com/Blevs/react-compose
 
 Helpful Resource Links:
 
