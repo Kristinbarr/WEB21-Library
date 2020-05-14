@@ -4306,12 +4306,24 @@ Helpful Resource Links:
 
 #### Day 171 (Tue May 12): Endorsement Week 2 Day 2
 
+| Topic                         | Recording    | Slides       |
+| ----------------------------- | ------------ | ------------ |
+| Portfolios with Jordan Isbell | [🎥][euw2d2] | [🖼][euw2d2s] |
+
+[euw2d2]: 
+[euw2d2s]: 
+
 Helpful Resource Links:
 
+- [Namecheap discount from Lambda](https://forms.gle/id6BuwcoAg9tEVw56)
 - [A Cynic’s Guide to Writing a Twitter Bio](https://www.vieodesign.com/blog/cynics-guide-writing-a-twitter-bio/)
 - [31 Funny Twitter Bios & How to Write Your Own](https://blog.hubspot.com/marketing/twitter-bio)
 
 #### Day 172 (Wed May 13): Endorsement Week 2 Day 3
+
+Helpful Resource Links:
+
+- [Why are my contributions not showing up on my profile? - GitHub Help](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile)
 
 #### Day 173 (Thu May 14): Endorsement Week 2 Day 4
 
