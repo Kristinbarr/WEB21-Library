@@ -4191,7 +4191,7 @@ Helpful Resource Links:
 - [hardest problem on the hardest test | YT](https://www.youtube.com/watch?v=OkmNXy7er84)
 - [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
 
-#### Day 164 (Fri May 1): Interview Prep Sprint - HAcker Rank Challenge
+#### Day 164 (Fri May 1): Interview Prep Sprint - Hacker Rank Challenge
 
 </details>
 
@@ -4326,6 +4326,8 @@ Helpful Resource Links:
 - [Why are my contributions not showing up on my profile? - GitHub Help](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile)
 
 #### Day 173 (Thu May 14): Endorsement Week 2 Day 4
+
+[Brownbag w/ Brina Lee with Hamul.gg](https://lambdaschool.zoom.us/rec/play/tJwvdur6rjk3GdWW4gSDC_N6W464K66shHJN8_sPnUjhB3AGNwD1ZLoSZ7esB4YRNV43GftzmNwfRCV0?startTime=1589306765000&_x_zm_rtaid=VPL_oaokQziNBPULjukg6A.1589686736793.9c0632253753076dc3cf38f7b8f9ac10&_x_zm_rhtaid=712)
 
 #### Day 174 (Fri May 15): Endorsement Week 2 Day 5
 
