@@ -4306,12 +4306,11 @@ Helpful Resource Links:
 
 #### Day 171 (Tue May 12): Endorsement Week 2 Day 2
 
-| Topic                         | Recording    | Slides       |
-| ----------------------------- | ------------ | ------------ |
-| Portfolios with Jordan Isbell | [🎥][euw2d2] | [🖼][euw2d2s] |
+| Topic                         | Recording    |
+| ----------------------------- | ------------ |
+| Portfolios with Jordan Isbell | [🎥][euw2d2] |
 
-[euw2d2]: 
-[euw2d2s]: 
+[euw2d2]: https://lambdaschool.zoom.us/rec/play/7Jd8dO79qzI3GNyUuQSDAvMrW9W5J62s1HMY_PcNy06zV3EKY1GmMuMQN-AtQGYFxi8L7NSNSKLDz_L1
 
 Helpful Resource Links:
 
@@ -4327,8 +4326,30 @@ Helpful Resource Links:
 
 #### Day 173 (Thu May 14): Endorsement Week 2 Day 4
 
+| Topic                              | Recording    |
+| ---------------------------------- | ------------ |
+| LinkedIn/Github with Katie Spencer | [🎥][euw2d4] |
+
+[euw2d4]: https://lambdaschool.zoom.us/rec/play/7pYtJu-qq2k3SN2UuQSDUPAtW9S-Lais2yUd8qUFxEq2ASUEYQDzN7tBZ-o2jZDXBDpGZJEo29QlZTmK
+
 [Brownbag w/ Brina Lee with Hamul.gg](https://lambdaschool.zoom.us/rec/play/tJwvdur6rjk3GdWW4gSDC_N6W464K66shHJN8_sPnUjhB3AGNwD1ZLoSZ7esB4YRNV43GftzmNwfRCV0?startTime=1589306765000&_x_zm_rtaid=VPL_oaokQziNBPULjukg6A.1589686736793.9c0632253753076dc3cf38f7b8f9ac10&_x_zm_rhtaid=712)
 
 #### Day 174 (Fri May 15): Endorsement Week 2 Day 5
+
+</details>
+
+## Week 36 Sprint - Endorsement Unit 3 / TL WEBPT14
+
+<details><summary>click to open</summary>
+
+#### Day 175 (Mon May 18): Endorsement Week 3 Day 1
+
+#### Day 176 (Tue May 19): Endorsement Week 3 Day 2
+
+#### Day 177 (Wed May 20): Endorsement Week 3 Day 3
+
+#### Day 178 (Thu May 21): Endorsement Week 3 Day 4
+
+#### Day 179 (Fri May 22): Endorsement Week 3 Day 5
 
 </details>
