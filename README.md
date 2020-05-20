@@ -4320,17 +4320,17 @@ Helpful Resource Links:
 
 #### Day 172 (Wed May 13): Endorsement Week 2 Day 3
 
+| Topic                              | Recording    |
+| ---------------------------------- | ------------ |
+| LinkedIn/Github with Katie Spencer | [🎥][euw2d3] |
+
+[euw2d3]: https://lambdaschool.zoom.us/rec/play/7pYtJu-qq2k3SN2UuQSDUPAtW9S-Lais2yUd8qUFxEq2ASUEYQDzN7tBZ-o2jZDXBDpGZJEo29QlZTmK
+
 Helpful Resource Links:
 
 - [Why are my contributions not showing up on my profile? - GitHub Help](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile)
 
 #### Day 173 (Thu May 14): Endorsement Week 2 Day 4
-
-| Topic                              | Recording    |
-| ---------------------------------- | ------------ |
-| LinkedIn/Github with Katie Spencer | [🎥][euw2d4] |
-
-[euw2d4]: https://lambdaschool.zoom.us/rec/play/7pYtJu-qq2k3SN2UuQSDUPAtW9S-Lais2yUd8qUFxEq2ASUEYQDzN7tBZ-o2jZDXBDpGZJEo29QlZTmK
 
 [Brownbag w/ Brina Lee with Hamul.gg](https://lambdaschool.zoom.us/rec/play/tJwvdur6rjk3GdWW4gSDC_N6W464K66shHJN8_sPnUjhB3AGNwD1ZLoSZ7esB4YRNV43GftzmNwfRCV0?startTime=1589306765000&_x_zm_rtaid=VPL_oaokQziNBPULjukg6A.1589686736793.9c0632253753076dc3cf38f7b8f9ac10&_x_zm_rhtaid=712)
 
@@ -4338,13 +4338,23 @@ Helpful Resource Links:
 
 </details>
 
-## Week 36 Sprint - Endorsement Unit 3 / TL WEBPT14
+## Week 36 Sprint - Endorsement Unit 3 / TL WEBPT14 BW
 
 <details><summary>click to open</summary>
 
-#### Day 175 (Mon May 18): Endorsement Week 3 Day 1
+#### Day 175 (Mon May 18): Endorsement Week 3 Day 1 / TL BW 
+
+Build week Links:
+
+- [ptct bw project groups airtable](https://airtable.com/shr2QwAAPCcGTXSFv/tbl1xXoMDlqYT5gsV)
+- [PT Project Lead Resources](https://www.notion.so/PT-Project-Lead-Team-Lead-Resources-33d2c6aa16f54a0687cf73bbbbefec85)
+- [PT BW Trello template](https://trello.com/b/20kvXVov/pt-bw-teams-master-template-ios-ds-web)
+- [BW Project Rubrics](https://www.notion.so/Build-Week-Project-Rubrics-c0783f6d9b7e435f9ce47e8cd2d0ee3b)
+- [BW PT Student Manual](https://www.notion.so/Build-Sprint-Student-Manual-Part-Time-b3c1d25b7ff4460f91fb988f3b407fb0)
 
 #### Day 176 (Tue May 19): Endorsement Week 3 Day 2
+
+- [PTCT Build Week Kickoff](https://www.youtube.com/watch?v=jY8ElKfbhuw)
 
 #### Day 177 (Wed May 20): Endorsement Week 3 Day 3
 
