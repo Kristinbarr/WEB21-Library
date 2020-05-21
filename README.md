@@ -4344,6 +4344,13 @@ Helpful Resource Links:
 
 #### Day 175 (Mon May 18): Endorsement Week 3 Day 1 / TL BW
 
+| Technical Coaching                 | Recording |
+| ---------------------------------- | --------- |
+| Systems Design Twitter w Path Shah | [🎥][euw3d1] |
+
+[euw3d1]: https://lambdaschool.zoom.us/rec/share/7sF4FoHeq2xLU5XP40rfd7RmLLvkX6a8g3Aa_aFZzhyMtTlwm6fuTc3HKtwFjapo
+pass: 4k*3Y+y3
+
 Build week Links:
 
 - [ptct bw project groups airtable](https://airtable.com/shr2QwAAPCcGTXSFv/tbl1xXoMDlqYT5gsV)
