@@ -4306,11 +4306,12 @@ Helpful Resource Links:
 
 #### Day 171 (Tue May 12): Endorsement Week 2 Day 2
 
-| Topic                         | Recording    |
-| ----------------------------- | ------------ |
-| Portfolios with Jordan Isbell | [🎥][euw2d2] |
+| Topic                         | Recording    | Backup Recording |
+| ----------------------------- | ------------ | ---------------- |
+| Portfolios with Jordan Isbell | [🎥][euw2d2] | [🎥][euw2d2bur]  |
 
 [euw2d2]: https://lambdaschool.zoom.us/rec/play/7Jd8dO79qzI3GNyUuQSDAvMrW9W5J62s1HMY_PcNy06zV3EKY1GmMuMQN-AtQGYFxi8L7NSNSKLDz_L1
+[euw2d2bur]: https://youtu.be/nlKZHCWb6i8
 
 Helpful Resource Links:
 
@@ -4351,7 +4352,7 @@ Helpful Resource Links:
 [euw3d1]: https://lambdaschool.zoom.us/rec/share/7sF4FoHeq2xLU5XP40rfd7RmLLvkX6a8g3Aa_aFZzhyMtTlwm6fuTc3HKtwFjapo
 [euw3d1bur]: https://youtu.be/iYkfCrLjQm8
 
-pass: 4k*3Y+y3
+pass: 4k\*3Y+y3
 
 Build week Links:
 
