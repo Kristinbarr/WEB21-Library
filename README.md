@@ -4342,7 +4342,7 @@ Helpful Resource Links:
 
 <details><summary>click to open</summary>
 
-#### Day 175 (Mon May 18): Endorsement Week 3 Day 1 / TL BW 
+#### Day 175 (Mon May 18): Endorsement Week 3 Day 1 / TL BW
 
 Build week Links:
 
@@ -4357,6 +4357,13 @@ Build week Links:
 - [PTCT Build Week Kickoff](https://www.youtube.com/watch?v=jY8ElKfbhuw)
 
 #### Day 177 (Wed May 20): Endorsement Week 3 Day 3
+
+| Technical Coaching          | Recording    | LeetCode        |
+| --------------------------- | ------------ | --------------- |
+| Telephone words w Sean Chen | [🎥][euw3d3] | [👾][euw3d3lc1] |
+
+[euw3d3]: https://youtu.be/QaO-z98vzDY
+[euw3d3lc1]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
 #### Day 178 (Thu May 21): Endorsement Week 3 Day 4
 
