@@ -4378,6 +4378,23 @@ Build week Links:
 
 #### Day 178 (Thu May 21): Endorsement Week 3 Day 4
 
+| Web Core Videos            | Recording                                                            | Other link |
+| -------------------------- | -------------------------------------------------------------------- | ---------- |
+| Responsive Design Concepts | [][]                                                                 |
+| Accessibility              | [][]                                                                 |
+| JS Fundamentals            | [][]                                                                 |
+| State Management           | [][]                                                                 |
+| Client-side Authentication | [Client Side Auth w Ashwin Sundararajan][wccsa]                      | [TK][]     |
+| Client-side Routing        | [][]                                                                 |
+| Asynchronous Patterns      | [][]                                                                 |
+| Form Management            | [][]                                                                 |
+| Working with APIs in React | [][]                                                                 |
+| Node Express Router        | [Node, module.exports, Backend Architecture, Automated Tests][wcner] |
+| Server-side Authentication | [][]                                                                 |
+
+[wccsa]: https://youtu.be/rheu2rasgx8
+[wcner]: https://youtu.be/cFG1SQbKm_A
+
 #### Day 179 (Fri May 22): Endorsement Week 3 Day 5
 
 </details>
