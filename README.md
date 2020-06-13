@@ -2583,22 +2583,22 @@ Learning objectives:
 - explain the basics of the REST architectural style.
 - use Express Routers to organize Web API code.
 
-| Topic                               | Lecture     | Guided Project |
-| ----------------------------------- | ----------- | -------------- |
-| Server Side Routing                 | [🎥][ssrl]  | [⚙️][ssrc]     |
-| Server Side Routing w/ Jason Maurer | [🎥][ssrlj] | [⚙️][ssrcj]    |
+| Topic                               | Lecture     | Guided Project | Daily Project                          |
+| ----------------------------------- | ----------- | -------------- | -------------------------------------- |
+| Server Side Routing                 | [🎥][ssrl]  | [⚙️][ssrc]     | [Web API II - Node Express Lab][ssrgp] |
+| Server Side Routing w/ Jason Maurer | [🎥][ssrlj] | [⚙️][ssrcj]    | [node-api2-project][ssrgpj]            |
 
 [wssrl]: https://www.youtube.com/watch?v=Z9GlifSzqQk&feature=youtu.be
 [ssrc]: https://github.com/LambdaSchool/webapi-ii-guided
 [ssrljm]: https://youtu.be/YDuFkihyta0
 [ssrcjm]: https://github.com/jsonmaur/node-api2-guided
+[ssrgp]: https://github.com/LambdaSchool/Node-Express-Lab
+[ssrgpj]: https://github.com/LambdaSchool/node-api2-project
 
 Helpful Resource Links
 
 - [Basic Routing | Express.js](https://expressjs.com/en/starter/basic-routing.html)
 - [Web Security - OWASP™ Foundation](https://www.owasp.org/?gclid=Cj0KCQjw8svsBRDqARIsAHKVyqFWQPbqiwkAnp4Gjt0le1-wn-XwpZiXZem2EAbsfAYcd6qhkduqZgkaAm_GEALw_wcB)
-
-Daily Project - [Web API II - Node Express Lab](https://github.com/LambdaSchool/Node-Express-Lab)
 
 #### Day 67 (Wed Oct 2): Express Middleware
 
