@@ -2548,16 +2548,20 @@ Learning objectives:
 - Student should be able to create an API that can respond to GET requests.
 - Student should be able to use postman to manually test Web APIs.
 
-| Topic            | Lecture      | GP - webapi-guided |
-| ---------------- | ------------ | ------------------ |
-| intro to Node.js | [🎥][wapi1l] | [⚙️][wapi1c]       |
+| Topic                           | Lecture        | GP - webapi-guided |
+| ------------------------------- | -------------- | ------------------ |
+| Intro to Node.js                | [🎥][wapi1l]   | [⚙️][wapi1c]       |
+| Intro to Node.js w Jason Maurer | [🎥][wapi1ljm] | [⚙️][wapi1cjm]     |
 
 [wapi1l]: https://youtu.be/nmlYV5VQeV8
 [wapi1c]: https://github.com/LambdaSchool/webapi-i-guided
+[wapi1ljm]: https://youtu.be/0lHNcs3anuE
+[wapi1cjm]: https://github.com/jsonmaur/node-api2-guided
 
 Helpful Resource Links
 
 - [the New Hard Parts: Asynchronous ES6+ JS Features](https://frontendmasters.com/courses/javascript-new-hard-parts/)
+- [What is REST - Lear to create timeless REST APIs](https://restfulapi.net/)
 
 Daily Project - [Node API 1 Project](https://github.com/LambdaSchool/node-api1-project.git)
 
@@ -2741,7 +2745,7 @@ Learning objectives:
 Helpful Resource Links
 
 - [Knex Docs](https://knexjs.org/)
-- [SQL Try It| W3Schools](https://www.w3schools.com/Sql/tryit.asp?filename=trysql_select_top)
+- [SQL Try It | W3Schools](https://www.w3schools.com/Sql/tryit.asp?filename=trysql_select_top)
 - [SQL Tutorial | W3Resource](https://www.w3resource.com/sql/tutorials.php)
 - [Install SQLite Studio](https://sqlitestudio.pl/index.rvt?act=download)
 - [Merging Vs. Rebasing Tutorial](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
@@ -4378,13 +4382,13 @@ Build week Links:
 
 #### Day 178 (Thu May 21): Endorsement Week 3 Day 4
 
-| Web Core Videos            | Recording                                                            | Other link |
-| -------------------------- | -------------------------------------------------------------------- | ---------- |
+| Web Core Videos            | Recording                                                            | Other link     |
+| -------------------------- | -------------------------------------------------------------------- | -------------- |
 | Responsive Design Concepts | [][]                                                                 |
 | Accessibility              | [][]                                                                 |
-| JS Fundamentals            | [][]                                                                 |
+| JS Fundamentals            | [HoF and CB Functions                                                | Medium][wcjsf] |
 | State Management           | [][]                                                                 |
-| Client-side Authentication | [Client Side Auth w Ashwin Sundararajan][wccsa]                      | [TK][]     |
+| Client-side Authentication | [Client Side Auth w Ashwin Sundararajan][wccsa]                      | [TK][wccsal]   |
 | Client-side Routing        | [][]                                                                 |
 | Asynchronous Patterns      | [][]                                                                 |
 | Form Management            | [][]                                                                 |
@@ -4392,7 +4396,9 @@ Build week Links:
 | Node Express Router        | [Node, module.exports, Backend Architecture, Automated Tests][wcner] |
 | Server-side Authentication | [][]                                                                 |
 
+[wcjsf]: https://medium.com/@olinations/first-class-functions-higher-order-functions-callback-functions-4daad4856242
 [wccsa]: https://youtu.be/rheu2rasgx8
+[wccsal]: https://learn.lambdaschool.com/web3/module/recQlbCZf9tOVgiXC/
 [wcner]: https://youtu.be/cFG1SQbKm_A
 
 #### Day 179 (Fri May 22): Endorsement Week 3 Day 5
