@@ -654,7 +654,7 @@ Helpful Resource Links
 
 # NEW CURRICULUM CHANGES
 
-## Web Applications 1
+# Web Applications 1
 
 ## Week 6 Sprint - Applied JavaScript
 
@@ -2548,15 +2548,15 @@ Learning objectives:
 - Student should be able to create an API that can respond to GET requests.
 - Student should be able to use postman to manually test Web APIs.
 
-| Topic                           | Lecture        | GP - webapi-guided |
-| ------------------------------- | -------------- | ------------------ |
-| Intro to Node.js                | [🎥][wapi1l]   | [⚙️][wapi1c]       |
-| Intro to Node.js w Jason Maurer | [🎥][wapi1ljm] | [⚙️][wapi1cjm]     |
+| Topic                            | Lecture       | GP - webapi-guided |
+| -------------------------------- | ------------- | ------------------ |
+| Intro to Node.js                 | [🎥][wapi1l]  | [⚙️][wapi1c]       |
+| Intro to Node.js w/ Jason Maurer | [🎥][wapi1lj] | [⚙️][wapi1cj]      |
 
 [wapi1l]: https://youtu.be/nmlYV5VQeV8
 [wapi1c]: https://github.com/LambdaSchool/webapi-i-guided
 [wapi1ljm]: https://youtu.be/0lHNcs3anuE
-[wapi1cjm]: https://github.com/jsonmaur/node-api2-guided
+[wapi1cjm]: https://github.com/jsonmaur/node-api1-guided
 
 Helpful Resource Links
 
@@ -2583,12 +2583,15 @@ Learning objectives:
 - explain the basics of the REST architectural style.
 - use Express Routers to organize Web API code.
 
-| Topic               | Lecture    | Guided Project |
-| ------------------- | ---------- | -------------- |
-| SErver Side Routing | [🎥][ssrl] | [⚙️][ssrc]     |
+| Topic                               | Lecture     | Guided Project |
+| ----------------------------------- | ----------- | -------------- |
+| Server Side Routing                 | [🎥][ssrl]  | [⚙️][ssrc]     |
+| Server Side Routing w/ Jason Maurer | [🎥][ssrlj] | [⚙️][ssrcj]    |
 
-[wapil]: https://www.youtube.com/watch?v=Z9GlifSzqQk&feature=youtu.be
-[wapilc]: https://github.com/LambdaSchool/webapi-ii-guided
+[wssrl]: https://www.youtube.com/watch?v=Z9GlifSzqQk&feature=youtu.be
+[ssrc]: https://github.com/LambdaSchool/webapi-ii-guided
+[ssrljm]: https://youtu.be/YDuFkihyta0
+[ssrcjm]: https://github.com/jsonmaur/node-api2-guided
 
 Helpful Resource Links
 
@@ -2614,18 +2617,21 @@ Learning objectives:
 - write custom middleware.
 - write error handling middleware
 
-| Topic                    | Lecture    | Guided Project |
-| ------------------------ | ---------- | -------------- |
-| Middleware w/ Mack Weber | [🎥][exml] | [⚙️][exmc]     |
+| Topic                      | Lecture     | Guided Project | Daily Project                    |
+| -------------------------- | ----------- | -------------- | -------------------------------- |
+| Middleware w/ Mack Weber   | [🎥][exml]  | [⚙️][exmc]     | [Web API III - Node Blog][exmgp] |
+| Middleware w/ Jason Maurer | [🎥][exmlj] | [⚙️][exmcj]    | [node-api3-project][exmgpj]      |
 
 [exml]: https://youtu.be/RmkZRGj456M
 [exmc]: https://github.com/LambdaSchool/webapi-iii-guided
+[exmlj]: https://youtu.be/a7fk61fnol4
+[exmcj]: https://github.com/jsonmaur/node-api3-guided/tree/lecture-06-08-2020
+[exmgp]: https://github.com/LambdaSchool/Node-Blog
+[exmgpj]: https://github.com/LambdaSchool/node-api3-project
 
 Helpful Resource Links
 
 - [how to use express.json](https://expressjs.com/en/api.html#express.json)
-
-Daily Project - [Web API III - Node Blog](https://github.com/LambdaSchool/Node-Blog)
 
 #### Day 68 (Thu Oct 3): Web Deployment and Best Practices
 
@@ -3796,10 +3802,6 @@ Helpful Resources Links:
 [dsqs]: https://youtu.be/Cu6kgDe0aS8
 [dsqs2]: https://youtu.be/sUJGzpaesRg
 
-Helpful Resources Links:
-
-- []()
-
 #### Day 133 (Wed Jan 29): Binary Search Trees
 
 | Topic                                  | Lecture      |
@@ -4199,6 +4201,8 @@ Helpful Resource Links:
 
 </details>
 
+# Endorsement Unit
+
 ## Week 34 Sprint - Endorsement Unit 1 / TL WEBPT14
 
 <details><summary>click to open</summary>
@@ -4382,19 +4386,19 @@ Build week Links:
 
 #### Day 178 (Thu May 21): Endorsement Week 3 Day 4
 
-| Web Core Videos            | Recording                                                            | Other link     |
-| -------------------------- | -------------------------------------------------------------------- | -------------- |
-| Responsive Design Concepts | [][]                                                                 |
-| Accessibility              | [][]                                                                 |
-| JS Fundamentals            | [HoF and CB Functions                                                | Medium][wcjsf] |
-| State Management           | [][]                                                                 |
-| Client-side Authentication | [Client Side Auth w Ashwin Sundararajan][wccsa]                      | [TK][wccsal]   |
-| Client-side Routing        | [][]                                                                 |
-| Asynchronous Patterns      | [][]                                                                 |
-| Form Management            | [][]                                                                 |
-| Working with APIs in React | [][]                                                                 |
-| Node Express Router        | [Node, module.exports, Backend Architecture, Automated Tests][wcner] |
-| Server-side Authentication | [][]                                                                 |
+| Web Core Videos            | Recording                                       | Other link                      |
+| -------------------------- | ----------------------------------------------- | ------------------------------- |
+| Responsive Design Concepts | [][]                                            |
+| Accessibility              | [][]                                            |
+| JS Fundamentals            | [HoF and CB Functions]                          | [Medium][wcjsf]                 |
+| State Management           | [][]                                            |
+| Client-side Authentication | [Client Side Auth w Ashwin Sundararajan][wccsa] | [TK - Client Side Auth][wccsal] |
+| Client-side Routing        | [][]                                            |
+| Asynchronous Patterns      | [][]                                            |
+| Form Management            | [][]                                            |
+| Working with APIs in React | [][]                                            |
+| Node Express Router        | [Node, Backend Architecture, Testing][wcner]    |
+| Server-side Authentication | [][]                                            |
 
 [wcjsf]: https://medium.com/@olinations/first-class-functions-higher-order-functions-callback-functions-4daad4856242
 [wccsa]: https://youtu.be/rheu2rasgx8
