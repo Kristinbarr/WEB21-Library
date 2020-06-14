@@ -2548,22 +2548,23 @@ Learning objectives:
 - Student should be able to create an API that can respond to GET requests.
 - Student should be able to use postman to manually test Web APIs.
 
-| Topic                            | Lecture       | GP - webapi-guided |
-| -------------------------------- | ------------- | ------------------ |
-| Intro to Node.js                 | [🎥][wapi1l]  | [⚙️][wapi1c]       |
-| Intro to Node.js w/ Jason Maurer | [🎥][wapi1lj] | [⚙️][wapi1cj]      |
+| Topic                            | Lecture       | Guided Project | Daily Project          |
+| -------------------------------- | ------------- | -------------- | ---------------------- |
+| Intro to Node.js                 | [🎥][wapil]  | [⚙️][wapic]   | [Node API 1 Project][wapigp] |
+| Intro to Node.js w/ Jason Maurer | [🎥][wapilj] | [⚙️][wapicj]  | [node-api1-project][wapigpj]                   |
 
-[wapi1l]: https://youtu.be/nmlYV5VQeV8
-[wapi1c]: https://github.com/LambdaSchool/webapi-i-guided
-[wapi1ljm]: https://youtu.be/0lHNcs3anuE
-[wapi1cjm]: https://github.com/jsonmaur/node-api1-guided
+[wapil]: https://youtu.be/nmlYV5VQeV8
+[wapic]: https://github.com/LambdaSchool/webapi-i-guided
+[wapilj]: https://youtu.be/0lHNcs3anuE
+[wapicj]: https://github.com/jsonmaur/node-api1-guided
+[wapigp]: https://github.com/LambdaSchool/node-api1-project
+[wapigpj]: https://github.com/jsonmaur/node-api1-guided
 
 Helpful Resource Links
 
 - [the New Hard Parts: Asynchronous ES6+ JS Features](https://frontendmasters.com/courses/javascript-new-hard-parts/)
 - [What is REST - Lear to create timeless REST APIs](https://restfulapi.net/)
-
-Daily Project - [Node API 1 Project](https://github.com/LambdaSchool/node-api1-project.git)
+- [Paw – Testing API tool for Mac](https://paw.cloud/)
 
 #### Day 66 (Tues Oct 1): Server Side Routing with Express
 
