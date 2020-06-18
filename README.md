@@ -4432,6 +4432,13 @@ Build week Links:
 [lx1nf]: https://youtu.be/1_GBchR99Y0
 [lx1fns]: https://drive.google.com/file/d/1RzYqz8JjhrY0Dg1td_DUOjSnCC4wImlL/view?usp=sharing
 [lx1fnc]: https://docs.google.com/document/d/1Kp48gZHOXPTmIes7wTfvoLEYORVkMJsvgWAB_yVJUZA/edit?usp=sharing
+[lx1tcr1]: https://youtu.be/k9S_C2VriLg
+[lx1tclc1]: https://leetcode.com/problems/min-stack/
+[lx1tcn1]: 
+[lx1tcr2]: https://youtu.be/PdcNmbRg4aU
+[lx1tclc2]: 
+[lx1tcn2]: https://gist.github.com/seanchen1991/f417273463ae4e7db7e9c107929f6478
+
 
 Helpful Resource Links:
 
