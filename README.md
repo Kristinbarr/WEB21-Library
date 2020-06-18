@@ -4420,10 +4420,18 @@ Build week Links:
 
 <details><summary>click to open</summary>
 
-| Technical Coaching                     | Recording     | LeetCode       | Extra Notes  |
-| -------------------------------------- | ------------- | -------------- | ------------ |
-| Min Stack w Sean Chen                   | [🎥][lx1tcr1] | [👾][]         | [][]         |
-| Reverse a sub-list of a LL w Sean Chen | [🎥][lx1tcr2] | [👾][lx1tclc2] | [🗒][lx1tcn2] |
+| Technical Coaching                                          | Recording                          | LeetCode       | Extra Notes  |
+| ----------------------------------------------------------- | ---------------------------------- | -------------- | ------------ |
+| Given arr & num x, check for pair in arr w sum as x - Kapil | [🎥][https://youtu.be/f1YNnKwM-2w] | [👾][]         | [][]         |
+| Given arr & num x, check for 3 nums in A w sum as x - Kapil | [🎥][https://youtu.be/NZKEnW3-zWQ] | [👾][]         | [][]         |
+| Reverse LL Kapil                                            | [🎥][https://youtu.be/whk-7ihyjde] | [👾][]         | [][]         |
+| Trees, Their Theories and Uses w Kapil                      | [🎥][https://youtu.be/a5pg8a2nqxi] | [👾][]         | [][]         |
+| Trees 2 w Kapil                                             | [🎥][https://youtu.be/aubn68-63zg] | [👾][]         | [][]         |
+| Trees 3 w Kapil                                             | [🎥][https://youtu.be/rk0e-hyypla] | [👾][]         | [][]         |
+| String has Unique Chars w Kapil                             | [🎥][https://youtu.be/z2ea337bvwm] | [👾][]         | [][]         |
+| String Compression w Kapil                                  | [🎥][https://youtu.be/jsiugikjlfe] | [👾][]         | [][]         |
+| Min Stack w Sean Chen                                       | [🎥][https://youtu.be/k9s_c2vrilg] | [👾][lx1tclc1] | [][]         |
+| Reverse a sub-list of a LL w Sean Chen                      | [🎥][https://youtu.be/pdcnmbrg4au] | [👾][lx1tclc2] | [🗒][lx1tcn2] |
 
 | Careers Presentation    | Recording   | Slides/Notes | Challenge    |
 | ----------------------- | ----------- | ------------ | ------------ |
@@ -4432,16 +4440,14 @@ Build week Links:
 [lx1nf]: https://youtu.be/1_GBchR99Y0
 [lx1fns]: https://drive.google.com/file/d/1RzYqz8JjhrY0Dg1td_DUOjSnCC4wImlL/view?usp=sharing
 [lx1fnc]: https://docs.google.com/document/d/1Kp48gZHOXPTmIes7wTfvoLEYORVkMJsvgWAB_yVJUZA/edit?usp=sharing
-[lx1tcr1]: https://youtu.be/k9S_C2VriLg
 [lx1tclc1]: https://leetcode.com/problems/min-stack/
-[lx1tcn1]: 
-[lx1tcr2]: https://youtu.be/PdcNmbRg4aU
-[lx1tclc2]: 
+[lx1tcn1]: TBD
+[lx1tclc2]: TBD
 [lx1tcn2]: https://gist.github.com/seanchen1991/f417273463ae4e7db7e9c107929f6478
-
 
 Helpful Resource Links:
 
+- [Kapil Sharma's Lambda X Tech Coaching Notion](https://www.notion.so/Lambda-X-Code-Challenge-Sessions-bc0966d5fa46425b91d75530b6ec8e49)
 - [Lambda X Weekly Sprint Retro](https://airtable.com/shrT6aERBrglMpIsC)
 - []()
 
