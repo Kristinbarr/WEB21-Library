@@ -2548,10 +2548,10 @@ Learning objectives:
 - Student should be able to create an API that can respond to GET requests.
 - Student should be able to use postman to manually test Web APIs.
 
-| Topic                            | Lecture       | Guided Project | Daily Project          |
-| -------------------------------- | ------------- | -------------- | ---------------------- |
-| Intro to Node.js                 | [🎥][wapil]  | [⚙️][wapic]   | [Node API 1 Project][wapigp] |
-| Intro to Node.js w/ Jason Maurer | [🎥][wapilj] | [⚙️][wapicj]  | [node-api1-project][wapigpj]                   |
+| Topic                            | Lecture      | Guided Project | Daily Project                |
+| -------------------------------- | ------------ | -------------- | ---------------------------- |
+| Intro to Node.js                 | [🎥][wapil]  | [⚙️][wapic]    | [Node API 1 Project][wapigp] |
+| Intro to Node.js w/ Jason Maurer | [🎥][wapilj] | [⚙️][wapicj]   | [node-api1-project][wapigpj] |
 
 [wapil]: https://youtu.be/nmlYV5VQeV8
 [wapic]: https://github.com/LambdaSchool/webapi-i-guided
@@ -4407,5 +4407,30 @@ Build week Links:
 [wcner]: https://youtu.be/cFG1SQbKm_A
 
 #### Day 179 (Fri May 22): Endorsement Week 3 Day 5
+
+</details>
+
+# Lambda X
+
+## Week 37 Sprint - Lambda X Unit 1 / TL WEBPT14
+
+<details><summary>click to open</summary>
+
+| Technical Coaching | Recording | Backup Recording | Doc Notes |
+| ------------------ | --------- | ---------------- | --------- |
+|                    |           |                  |           |
+
+| Careers Presentation    | Recording   | Slides/Notes | Challenge    |
+| ----------------------- | ----------- | ------------ | ------------ |
+| Networking Fundamentals | [🎥][lx1fn] | [🗒][lx1fns]  | [📝][lx1fnc] |
+
+[lx1nf]: https://youtu.be/1_GBchR99Y0
+[lx1fns]: https://drive.google.com/file/d/1RzYqz8JjhrY0Dg1td_DUOjSnCC4wImlL/view?usp=sharing
+[lx1fnc]: https://docs.google.com/document/d/1Kp48gZHOXPTmIes7wTfvoLEYORVkMJsvgWAB_yVJUZA/edit?usp=sharing
+
+Helpful Resource Links:
+
+- [Lambda X Weekly Sprint Retro](https://airtable.com/shrT6aERBrglMpIsC)
+- []()
 
 </details>
