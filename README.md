@@ -2704,15 +2704,19 @@ Learning objectives:
 - query, insert, and modify data in SQL
 - write database queries using knex.js
 
-| Topic                | Lecture     | Guided Project |
-| -------------------- | ----------- | -------------- |
-| relational databases | [🎥][nrdbl] | [⚙️][nrdbc]    |
+| Topic                               | Lecture       | Guided Project |
+| ----------------------------------- | ------------- | -------------- |
+| Relational Databases                | [🎥][nrdbl]   | [⚙️][nrdbc]    |
+| Intro Relational DBs w Jason Maurer | [🎥][nrdb14l] | [⚙️][nrdb14c]  |
 
 [nrdbl]: https://youtu.be/frsBElrVPN0
 [nrdbc]: https://github.com/LambdaSchool/webdb-i-guided
+[nrdb14l]: https://youtu.be/uD0_28zLjpc
+[nrdb14c]: https://github.com/jsonmaur/node-db1-guided
 
 Helpful Resource Links
 
+- [SQLite Browser](https://sqlitebrowser.org/)
 - [Overview of SQL](https://www.w3schools.com/sql/default.asp)
 - [Knex documentation](https://knexjs.org/)
 - [Knex Cheatsheet | devhints.io](https://devhints.io/knex)
@@ -4387,11 +4391,11 @@ Build week Links:
 
 #### Day 178 (Thu May 21): Endorsement Week 3 Day 4
 
-| Web Core Videos            | Recording                                       | Other link                      |
+| Web Core Videos            | Recording/Resource                              | Other link                      |
 | -------------------------- | ----------------------------------------------- | ------------------------------- |
 | Responsive Design Concepts | [][]                                            |
 | Accessibility              | [][]                                            |
-| JS Fundamentals            | [HoF and CB Functions]                          | [Medium][wcjsf]                 |
+| JS Fundamentals            | HoF and CB Functions                            | [Medium][wcjsf]                 |
 | State Management           | [][]                                            |
 | Client-side Authentication | [Client Side Auth w Ashwin Sundararajan][wccsa] | [TK - Client Side Auth][wccsal] |
 | Client-side Routing        | [][]                                            |
@@ -4416,9 +4420,10 @@ Build week Links:
 
 <details><summary>click to open</summary>
 
-| Technical Coaching | Recording | Backup Recording | Doc Notes |
-| ------------------ | --------- | ---------------- | --------- |
-|                    |           |                  |           |
+| Technical Coaching                     | Recording     | LeetCode       | Extra Notes  |
+| -------------------------------------- | ------------- | -------------- | ------------ |
+| Min Stack w Sean Chen                   | [🎥][lx1tcr1] | [👾][]         | [][]         |
+| Reverse a sub-list of a LL w Sean Chen | [🎥][lx1tcr2] | [👾][lx1tclc2] | [🗒][lx1tcn2] |
 
 | Careers Presentation    | Recording   | Slides/Notes | Challenge    |
 | ----------------------- | ----------- | ------------ | ------------ |
