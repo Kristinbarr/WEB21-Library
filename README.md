@@ -4391,20 +4391,21 @@ Build week Links:
 
 #### Day 178 (Thu May 21): Endorsement Week 3 Day 4
 
-| Web Core Videos            | Recording/Resource                              | Other link                      |
-| -------------------------- | ----------------------------------------------- | ------------------------------- |
-| Responsive Design Concepts | [][]                                            |
-| Accessibility              | [][]                                            |
-| JS Fundamentals            | HoF and CB Functions                            | [Medium][wcjsf]                 |
-| State Management           | [][]                                            |
-| Client-side Authentication | [Client Side Auth w Ashwin Sundararajan][wccsa] | [TK - Client Side Auth][wccsal] |
-| Client-side Routing        | [][]                                            |
-| Asynchronous Patterns      | [][]                                            |
-| Form Management            | [][]                                            |
-| Working with APIs in React | [][]                                            |
-| Node Express Router        | [Node, Backend Architecture, Testing][wcner]    |
-| Server-side Authentication | [][]                                            |
+| Web Core Videos            | Recording/Resource                                        | Other link                                  |
+| -------------------------- | --------------------------------------------------------- | ------------------------------------------- |
+| Responsive Design Concepts | [Responsive Design w Dan][https://youtu.be/9juwcnycf6w]   | [Fixed, Fluid, Adaptive, Responsive][wcrdc] |
+| Accessibility              | [TK-Responsive Design/A11y][https://youtu.be/hplesmhuvr8] | [][]                                        |
+| JS Fundamentals            | HoF and CB Functions                                      | [Medium][wcjsf]                             |
+| State Management           | [][]                                                      | [][]                                        |
+| Client-side Authentication | [Client Side Auth w Ashwin Sundararajan][wccsa]           | [TK - Client Side Auth][wccsal]             |
+| Client-side Routing        | [][]                                                      | [][]                                        |
+| Asynchronous Patterns      | [][]                                                      | [][]                                        |
+| Form Management            | [][]                                                      | [][]                                        |
+| Working with APIs in React | [][]                                                      | [][]                                        |
+| Node Express Router        | [Node, Backend Architecture, Testing][wcner]              | [][]                                        |
+| Server-side Authentication | [][]                                                      | [][]                                        |
 
+[wcrdc]: https://www.markupbox.com/blog/fixed-vs-fluid-vs-adaptive-vs-responsive-layout/
 [wcjsf]: https://medium.com/@olinations/first-class-functions-higher-order-functions-callback-functions-4daad4856242
 [wccsa]: https://youtu.be/rheu2rasgx8
 [wccsal]: https://learn.lambdaschool.com/web3/module/recQlbCZf9tOVgiXC/
@@ -4422,8 +4423,8 @@ Build week Links:
 
 | Technical Coaching                                          | Recording                          | LeetCode       | Extra Notes  |
 | ----------------------------------------------------------- | ---------------------------------- | -------------- | ------------ |
-| Given arr & num x, check for pair in arr w sum as x - Kapil | [🎥][https://youtu.be/f1YNnKwM-2w] | [👾][]         | [][]         |
-| Given arr & num x, check for 3 nums in A w sum as x - Kapil | [🎥][https://youtu.be/NZKEnW3-zWQ] | [👾][]         | [][]         |
+| Given arr & num x, check for pair in arr w sum as x - Kapil | [🎥][https://youtu.be/f1ynnkwm-2w] | [👾][]         | [][]         |
+| Given arr & num x, check for 3 nums in A w sum as x - Kapil | [🎥][https://youtu.be/nzkenw3-zwq] | [👾][]         | [][]         |
 | Reverse LL Kapil                                            | [🎥][https://youtu.be/whk-7ihyjde] | [👾][]         | [][]         |
 | Trees, Their Theories and Uses w Kapil                      | [🎥][https://youtu.be/a5pg8a2nqxi] | [👾][]         | [][]         |
 | Trees 2 w Kapil                                             | [🎥][https://youtu.be/aubn68-63zg] | [👾][]         | [][]         |
@@ -4431,7 +4432,7 @@ Build week Links:
 | String has Unique Chars w Kapil                             | [🎥][https://youtu.be/z2ea337bvwm] | [👾][]         | [][]         |
 | String Compression w Kapil                                  | [🎥][https://youtu.be/jsiugikjlfe] | [👾][]         | [][]         |
 | Min Stack w Sean Chen                                       | [🎥][https://youtu.be/k9s_c2vrilg] | [👾][lx1tclc1] | [][]         |
-| Reverse a sub-list of a LL w Sean Chen                      | [🎥][https://youtu.be/pdcnmbrg4au] | [👾][lx1tclc2] | [🗒][lx1tcn2] |
+| Reverse a sub-list of a LL w Sean Chen                      | [🎥][https://youtu.be/pdcnmbrg4au] | [👾][]         | [🗒][lx1tcn2] |
 
 | Careers Presentation    | Recording   | Slides/Notes | Challenge    |
 | ----------------------- | ----------- | ------------ | ------------ |
@@ -4441,8 +4442,6 @@ Build week Links:
 [lx1fns]: https://drive.google.com/file/d/1RzYqz8JjhrY0Dg1td_DUOjSnCC4wImlL/view?usp=sharing
 [lx1fnc]: https://docs.google.com/document/d/1Kp48gZHOXPTmIes7wTfvoLEYORVkMJsvgWAB_yVJUZA/edit?usp=sharing
 [lx1tclc1]: https://leetcode.com/problems/min-stack/
-[lx1tcn1]: TBD
-[lx1tclc2]: TBD
 [lx1tcn2]: https://gist.github.com/seanchen1991/f417273463ae4e7db7e9c107929f6478
 
 Helpful Resource Links:
