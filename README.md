@@ -4434,6 +4434,9 @@ Build week Links:
 | String Compression w Kapil                                  | [🎥][https://youtu.be/jsiugikjlfe] | [👾][]         | [][]         |
 | Min Stack w Sean Chen                                       | [🎥][https://youtu.be/k9s_c2vrilg] | [👾][lx1tclc1] | [][]         |
 | Reverse a sub-list of a LL w Sean Chen                      | [🎥][https://youtu.be/pdcnmbrg4au] | [👾][]         | [🗒][lx1tcn2] |
+| Serialize and deserialize a binary tree                     | [🎥][https://youtu.be/cYCqSVNCL8g] | [👾][]         |              |
+| Search a 2D Matrix w Sean Chen                              | [🎥][]                             | [👾][lx3tclc1] |              |
+|                                                             | [🎥][]                             | [👾][]         |              |
 
 | Careers Presentation    | Recording   | Slides/Notes | Challenge    |
 | ----------------------- | ----------- | ------------ | ------------ |
@@ -4446,6 +4449,7 @@ Build week Links:
 [lxonj]: https://youtu.be/lwMuzmu1uv0
 [lx1tclc1]: https://leetcode.com/problems/min-stack/
 [lx1tcn2]: https://gist.github.com/seanchen1991/f417273463ae4e7db7e9c107929f6478
+[lx3tclc1]: https://leetcode.com/problems/search-a-2d-matrix-ii/
 
 Helpful Resource Links:
 
