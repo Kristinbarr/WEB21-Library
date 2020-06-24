@@ -2716,6 +2716,7 @@ Learning objectives:
 
 Helpful Resource Links
 
+- [SQLite Datatypes](https://www.sqlite.org/datatype3.html)
 - [SQLite Browser](https://sqlitebrowser.org/)
 - [Overview of SQL](https://www.w3schools.com/sql/default.asp)
 - [Knex documentation](https://knexjs.org/)
@@ -4417,7 +4418,7 @@ Build week Links:
 
 # Lambda X
 
-## Week 37 Sprint - Lambda X Unit 1 / TL WEBPT14
+## Week 37 Sprint - Lambda X Unit / TL WEBPT14
 
 <details><summary>click to open</summary>
 
@@ -4437,10 +4438,12 @@ Build week Links:
 | Careers Presentation    | Recording   | Slides/Notes | Challenge    |
 | ----------------------- | ----------- | ------------ | ------------ |
 | Networking Fundamentals | [🎥][lx1fn] | [🗒][lx1fns]  | [📝][lx1fnc] |
+| Onboarding a new job    | [🎥][lxonj] |              |              |
 
 [lx1nf]: https://youtu.be/1_GBchR99Y0
 [lx1fns]: https://drive.google.com/file/d/1RzYqz8JjhrY0Dg1td_DUOjSnCC4wImlL/view?usp=sharing
 [lx1fnc]: https://docs.google.com/document/d/1Kp48gZHOXPTmIes7wTfvoLEYORVkMJsvgWAB_yVJUZA/edit?usp=sharing
+[lxonj]: https://youtu.be/lwMuzmu1uv0
 [lx1tclc1]: https://leetcode.com/problems/min-stack/
 [lx1tcn2]: https://gist.github.com/seanchen1991/f417273463ae4e7db7e9c107929f6478
 
