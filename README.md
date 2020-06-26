@@ -2782,12 +2782,15 @@ Learning objectives:
 - query data from multiple tables
 - write database access methods
 
-| Topic | Lecture    | Guided Project |
-| ----- | ---------- | -------------- |
-| Joins | [🎥][dbjl] | [⚙️][dbjc]     |
+| Topic                              | Lecture      | Guided Project |
+| ---------------------------------- | ------------ | -------------- |
+| Joins                              | [🎥][dbjl]   | [⚙️][dbjc]     |
+| Multi Table Queries w Jason Maurer | [🎥][dbmtql] | [⚙️][dbmtqc]   |
 
 [dbjl]: https://youtu.be/GNaZckwCBz4
 [dbjc]: https://github.com/LambdaSchool/node-db3-guided
+[dbmtql]: https://youtu.be/0DuTaEiJJac
+[dbmtqc]: 
 
 Helpful Resource Links
 
@@ -4434,7 +4437,7 @@ Build week Links:
 | String Compression w Kapil                                  | [🎥][https://youtu.be/jsiugikjlfe] | [👾][]         | [][]         |
 | Min Stack w Sean Chen                                       | [🎥][https://youtu.be/k9s_c2vrilg] | [👾][lx1tclc1] | [][]         |
 | Reverse a sub-list of a LL w Sean Chen                      | [🎥][https://youtu.be/pdcnmbrg4au] | [👾][]         | [🗒][lx1tcn2] |
-| Serialize and deserialize a binary tree                     | [🎥][https://youtu.be/cYCqSVNCL8g] | [👾][]         |              |
+| Serialize and deserialize a binary tree                     | [🎥][https://youtu.be/cycqsvncl8g] | [👾][]         |              |
 | Search a 2D Matrix w Sean Chen                              | [🎥][]                             | [👾][lx3tclc1] |              |
 |                                                             | [🎥][]                             | [👾][]         |              |
 
