@@ -2704,13 +2704,14 @@ Learning objectives:
 - query, insert, and modify data in SQL
 - write database queries using knex.js
 
-| Topic                               | Lecture       | Guided Project |
-| ----------------------------------- | ------------- | -------------- |
-| Relational Databases                | [🎥][nrdbl]   | [⚙️][nrdbc]    |
-| Intro Relational DBs w Jason Maurer | [🎥][nrdb14l] | [⚙️][nrdb14c]  |
+| Topic                               | Lecture       | Guided Project | Daily Project               |
+| ----------------------------------- | ------------- | -------------- | --------------------------- |
+| Relational Databases                | [🎥][nrdbl]   | [⚙️][nrdbc]    | [webdb-1-challenge][nrdbdp] |
+| Intro Relational DBs w Jason Maurer | [🎥][nrdb14l] | [⚙️][nrdb14c]  | [] [] |
 
 [nrdbl]: https://youtu.be/frsBElrVPN0
 [nrdbc]: https://github.com/LambdaSchool/webdb-i-guided
+[nrdbdp]: https://github.com/LambdaSchool/webdb-i-challenge
 [nrdb14l]: https://youtu.be/uD0_28zLjpc
 [nrdb14c]: https://github.com/jsonmaur/node-db1-guided
 
@@ -2723,8 +2724,6 @@ Helpful Resource Links
 - [Knex Cheatsheet | devhints.io](https://devhints.io/knex)
 - [SQLite vs PostgreSQL - Which database to use and why?](https://tableplus.com/blog/2018/08/sqlite-vs-postgresql-which-database-to-use-and-why.html)
 - [YDKJS - Async & Performance](https://rileygelwicks.gitbooks.io/you-dont-know-js/content/async%20&%20performance/ch3.html)
-
-Daily Project - [webdb-i-challenge](https://github.com/LambdaSchool/webdb-i-challenge)
 
 #### Day 71 (Tue Oct 8): Database Schema Design
 
@@ -2747,12 +2746,13 @@ Learning objectives:
 - create and use knex migrations
 - create and use knex seeds
 
-| Topic         | Lecture     | Guided Project |
-| ------------- | ----------- | -------------- |
-| Schema Design | [🎥][dbsdl] | [⚙️][dbsdc]    |
+| Topic         | Lecture     | Guided Project | Daily Project                |
+| ------------- | ----------- | -------------- | ---------------------------- |
+| Schema Design | [🎥][dbsdl] | [⚙️][dbsdc]    | [webdb-ii-challenge][dbsddp] |
 
 [dbsdl]: https://youtu.be/P5C6ctwtPOo
 [dbsdc]: https://github.com/LambdaSchool/webdb-ii-guided
+[dbsddp]: https://github.com/LambdaSchool/webdb-ii-challenge
 
 Helpful Resource Links
 
@@ -2761,8 +2761,6 @@ Helpful Resource Links
 - [SQL Tutorial | W3Resource](https://www.w3resource.com/sql/tutorials.php)
 - [Install SQLite Studio](https://sqlitestudio.pl/index.rvt?act=download)
 - [Merging Vs. Rebasing Tutorial](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
-
-Daily Project - [webdb-ii-challenge](https://github.com/LambdaSchool/webdb-ii-challenge)
 
 #### Day 72 (Wed Oct 9): Multi-Table Queries
 
@@ -2782,15 +2780,17 @@ Learning objectives:
 - query data from multiple tables
 - write database access methods
 
-| Topic                              | Lecture      | Guided Project |
-| ---------------------------------- | ------------ | -------------- |
-| Joins                              | [🎥][dbjl]   | [⚙️][dbjc]     |
-| Multi Table Queries w Jason Maurer | [🎥][dbmtql] | [⚙️][dbmtqc]   |
+| Topic                              | Lecture      | Guided Project | Daily Project               |
+| ---------------------------------- | ------------ | -------------- | --------------------------- |
+| Joins                              | [🎥][dbjl]   | [⚙️][dbjc]     | [node-db3-challenge][dbjdp] |
+| Multi Table Queries w Jason Maurer | [🎥][dbmtql] | [⚙️][dbmtqc]   | [node-db3-project][dbjdpj]  |
 
 [dbjl]: https://youtu.be/GNaZckwCBz4
 [dbjc]: https://github.com/LambdaSchool/node-db3-guided
+[dbjdp]: https://github.com/LambdaSchool/node-db3-challenge
 [dbmtql]: https://youtu.be/0DuTaEiJJac
-[dbmtqc]: 
+
+[dbmtqc]:
 
 Helpful Resource Links
 
@@ -2798,8 +2798,6 @@ Helpful Resource Links
 - [A Visual Explanation od SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 - [SQL simple interactive exercises | SQLBolt](https://sqlbolt.com/lesson/select_queries_order_of_execution)
 - [SQL Server ROUND() Function](https://www.w3schools.com/sql/func_sqlserver_round.asp)
-
-Daily Project - [node-db3-challenge](https://github.com/LambdaSchool/node-db3-challenge)
 
 #### Day 73 (Thu Oct 10): Data Modeling
 
@@ -2819,12 +2817,14 @@ Learning objectives:
 - explain different table relationships
 - create table relationships using knex
 
-| Topic | Lecture   | Guided Project |
-| ----- | --------- | -------------- |
-| Joins | [🎥][dml] | [⚙️][dmc]      |
+| Topic                        | Lecture   | Guided Project | Daily Project              |
+| ---------------------------- | --------- | -------------- | -------------------------- |
+| Joins                        | [🎥][dml] | [⚙️][dmc]      | [node-db4-challenge][dmdp] |
+| Data Modeling w Jason Maurer | [][]      | [][]           | [][]                       |
 
 [dml]: https://youtu.be/6pyExJ8yyw8
 [dmc]: https://github.com/LambdaSchool/node-db4-guided
+[dmdp]: https://github.com/LambdaSchool/node-db4-challenge
 
 Helpful Resource Links
 
@@ -2832,8 +2832,6 @@ Helpful Resource Links
 - [DB Migrations with Knex | Perk Framework](http://perkframework.com/v1/guides/database-migrations-knex.html)
 - [SQLite vs PostgreSQL - Which database to use and why?](https://tableplus.com/blog/2018/08/sqlite-vs-postgresql-which-database-to-use-and-why.html)
 - [Database Normalization explained](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
-
-Daily Project - [node-db4-challenge](https://github.com/LambdaSchool/node-db4-challenge)
 
 #### Day 74 (Fri Oct 11): Sprint - Adding Data Persistence
 
@@ -4458,6 +4456,5 @@ Helpful Resource Links:
 
 - [Kapil Sharma's Lambda X Tech Coaching Notion](https://www.notion.so/Lambda-X-Code-Challenge-Sessions-bc0966d5fa46425b91d75530b6ec8e49)
 - [Lambda X Weekly Sprint Retro](https://airtable.com/shrT6aERBrglMpIsC)
-- []()
 
 </details>
