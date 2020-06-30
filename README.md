@@ -2707,7 +2707,7 @@ Learning objectives:
 | Topic                               | Lecture       | Guided Project | Daily Project               |
 | ----------------------------------- | ------------- | -------------- | --------------------------- |
 | Relational Databases                | [🎥][nrdbl]   | [⚙️][nrdbc]    | [webdb-1-challenge][nrdbdp] |
-| Intro Relational DBs w Jason Maurer | [🎥][nrdb14l] | [⚙️][nrdb14c]  | [] [] |
+| Intro Relational DBs w Jason Maurer | [🎥][nrdb14l] | [⚙️][nrdb14c]  | [][]                        |
 
 [nrdbl]: https://youtu.be/frsBElrVPN0
 [nrdbc]: https://github.com/LambdaSchool/webdb-i-guided
@@ -4220,8 +4220,96 @@ Helpful Resource Links:
 | ----------------------------------- | ------------ | ------------ |
 | Endorsement Kickoff w Katie Spencer | [🎥][euw1d1] | [🖼][euw1d1s] |
 
+| Endorsement Whiteboarding Algorithms Practice | Link           |
+| --------------------------------------------- | -------------- |
+| How to Think About Problems                   | [🎥][euw1d1w1] |
+| Thinking About Problems Exercises             | [👾][euw1d1w2] |
+| Mock Interviews - Pramp                       | [👾][euw1d1w2b]
+
+| Evaluating Efficiency              | Link           |
+| ---------------------------------- | -------------- |
+| How to Evaluate Efficiency - Big O | [🎥][euw1d1w3] |
+| Article on Big O - Interview Cake  | [📖][euw1d1w4] |
+| TK Video on Runtime Complexity     | [🎥][euw1d1w5] |
+
+| Searching and Sorting                           | Link           |
+| ----------------------------------------------- | -------------- |
+| Pre-class Video on Linear and Binary Search     | [🎥][euw1d1w6] |
+| Interview Prep Search Challenges - Hacker Rank  | [👾][euw1d1w7] |
+| Interview Prep Sorting Challenges - Hacker Rank | [👾][euw1d1w8] |
+
+| Recursion                                       | Link            |
+| ----------------------------------------------- | --------------- |
+| Leet Code overview of Recursion pt.1            | [📖][euw1d1w9]  |
+| Leet Code overview of Recursion pt.2            | [📖][euw1d1w10] |
+| TK Video on Recursion                           | [🎥][euw1d1w11] |
+| Recursion Backtracking Challenges - Hacker Rank | [👾][euw1d1w12] |
+
+| Stacks and Queues                          | Links           |
+| ------------------------------------------ | --------------- |
+| Overview of Stacks and Queues - Leet Code  | [📖][euw1d1w13] |
+| Video on Stacks and Queues - Hacker Rank   | [🎥][euw1d1w14] |
+| TK Video on Stacks and Queues              | [🎥][euw1d1w15] |
+| Stacks and Queues Challenges - Hacker Rank | [👾][euw1d1w16] |
+
+| Hash Tables                                  | Link            |
+| -------------------------------------------- | --------------- |
+| Walk Through of Hash Tables - Interview Cake | [📖][euw1d1w17] |
+| Overview of Hash Tables - Leet Code          | [📖][euw1d1w18] |
+| TK Video on Hash Tables                      | [🎥][euw1d1w19] |
+| HackerRank video on hash tables              | [🎥][euw1d1w20] |
+| Hacker Rank Dict & Hashmap Challenges        | [👾][euw1d1w21] |
+
+| Linked Lists                                      | Link            |
+| ------------------------------------------------- | --------------- |
+| Interview Cake Walkthrough of Python Linked Lists | [📖][euw1d1w22] |
+| Leet Code Overview of Linked Lists                | [📖][euw1d1w23] |
+| Hacker Rank Video on Linked Lists                 | [🎥][euw1d1w24] |
+| TK Video on Linked Lists                          | [🎥][euw1d1w25] |
+| Hacker Rank Linked List Challenges                | [📖][euw1d1w26] |
+
+| Trees                                     | Link            |
+| ----------------------------------------- | --------------- |
+| Hacker Rank Video on Trees                | [🎥][euw1d1w27] |
+| TK Video on Binary Search Trees           | [🎥][euw1d1w28] |
+| Leet Code Overview of Binary Trees        | [🎥][euw1d1w29] |
+| Leet Code Overview of Binary Search Trees | [🎥][euw1d1w30] |
+| Hacker Rank Tree Challenges               | [🎥][euw1d1w31] |
+
 [euw1d1]: https://youtu.be/PGEPfa6XIXA
 [euw1d1s]: https://drive.google.com/open?id=1J4FS2NHj5-q98tCurikpDllrj2519YTVc2sjiuJNGEk
+[euw1d1w1]: https://youtu.be/IZ7cxWQqZxw
+[euw1d1w2]: https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges
+[euw1d1w2b]: https://www.pramp.com/
+[euw1d1w3]: https://youtu.be/v4cd1O4zkGw
+[euw1d1w4]: https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?course=dsa
+[euw1d1w5]: https://youtu.be/rEx9E_Oq8xg
+[euw1d1w6]: https://youtu.be/a1oLy-ft8o8
+[euw1d1w7]: https://www.hackerrank.com/interview/interview-preparation-kit/search/challenges
+[euw1d1w8]: https://www.hackerrank.com/interview/interview-preparation-kit/sorting/challenges
+[euw1d1w9]: https://leetcode.com/explore/learn/card/recursion-i/
+[euw1d1w10]: https://leetcode.com/explore/learn/card/recursion-ii/
+[euw1d1w11]: https://youtu.be/n59qpp0SNDo
+[euw1d1w12]: https://www.hackerrank.com/interview/interview-preparation-kit/recursion-backtracking/challenges
+[euw1d1w13]: https://leetcode.com/explore/learn/card/queue-stack/
+[euw1d1w14]: https://www.youtube.com/watch?v=wjI1WNcIntg
+[euw1d1w15]: https://youtu.be/j-fBJpSQ19g
+[euw1d1w16]: https://www.hackerrank.com/interview/interview-preparation-kit/stacks-queues/challenges
+[euw1d1w17]: https://www.interviewcake.com/article/python/data-structures-coding-interview?course=dsa
+[euw1d1w18]: https://leetcode.com/explore/learn/card/hash-table/
+[euw1d1w19]: https://youtu.be/z07XGvC9D4c
+[euw1d1w20]: https://youtu.be/shs0KM3wKv8
+[euw1d1w21]: https://www.hackerrank.com/interview/interview-preparation-kit/dictionaries-hashmaps/challenges
+[euw1d1w22]: https://www.interviewcake.com/article/python/data-structures-coding-interview?course=dsa
+[euw1d1w23]: https://leetcode.com/explore/learn/card/linked-list/
+[euw1d1w24]: https://www.youtube.com/watch?v=njTh_OwMljA
+[euw1d1w25]: https://youtu.be/7sk4jG83q80
+[euw1d1w26]: https://www.hackerrank.com/interview/interview-preparation-kit/linked-lists/challenges
+[euw1d1w27]: https://www.youtube.com/watch?v=oSWTXtMglKE
+[euw1d1w28]: https://youtu.be/SsRVdvRsNG0
+[euw1d1w29]: https://leetcode.com/explore/learn/card/data-structure-tree/
+[euw1d1w30]: https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/
+[euw1d1w31]: https://www.hackerrank.com/interview/interview-preparation-kit/trees/challenges
 
 Helpful Resource Links:
 
@@ -4423,21 +4511,21 @@ Build week Links:
 
 <details><summary>click to open</summary>
 
-| Technical Coaching                                          | Recording                          | LeetCode       | Extra Notes  |
-| ----------------------------------------------------------- | ---------------------------------- | -------------- | ------------ |
-| Given arr & num x, check for pair in arr w sum as x - Kapil | [🎥][https://youtu.be/f1ynnkwm-2w] | [👾][]         | [][]         |
-| Given arr & num x, check for 3 nums in A w sum as x - Kapil | [🎥][https://youtu.be/nzkenw3-zwq] | [👾][]         | [][]         |
-| Reverse LL Kapil                                            | [🎥][https://youtu.be/whk-7ihyjde] | [👾][]         | [][]         |
-| Trees, Their Theories and Uses w Kapil                      | [🎥][https://youtu.be/a5pg8a2nqxi] | [👾][]         | [][]         |
-| Trees 2 w Kapil                                             | [🎥][https://youtu.be/aubn68-63zg] | [👾][]         | [][]         |
-| Trees 3 w Kapil                                             | [🎥][https://youtu.be/rk0e-hyypla] | [👾][]         | [][]         |
-| String has Unique Chars w Kapil                             | [🎥][https://youtu.be/z2ea337bvwm] | [👾][]         | [][]         |
-| String Compression w Kapil                                  | [🎥][https://youtu.be/jsiugikjlfe] | [👾][]         | [][]         |
-| Min Stack w Sean Chen                                       | [🎥][https://youtu.be/k9s_c2vrilg] | [👾][lx1tclc1] | [][]         |
-| Reverse a sub-list of a LL w Sean Chen                      | [🎥][https://youtu.be/pdcnmbrg4au] | [👾][]         | [🗒][lx1tcn2] |
-| Serialize and deserialize a binary tree                     | [🎥][https://youtu.be/cycqsvncl8g] | [👾][]         |              |
-| Search a 2D Matrix w Sean Chen                              | [🎥][]                             | [👾][lx3tclc1] |              |
-|                                                             | [🎥][]                             | [👾][]         |              |
+| Technical Coaching                                          | Recording     | LeetCode       | Extra Notes  |
+| ----------------------------------------------------------- | ------------- | -------------- | ------------ |
+| Given arr & num x, check for pair in arr w sum as x - Kapil | [🎥][lx1tcr1] | [👾][]         | [][]         |
+| Given arr & num x, check for 3 nums in A w sum as x - Kapil | [🎥][lx1tcr2] | [👾][]         | [][]         |
+| Reverse LL Kapil                                            | [🎥][lx1tcr3] | [👾][]         | [][]         |
+| Trees, Their Theories and Uses w Kapil                      | [🎥][lx1tcr4] | [👾][]         | [][]         |
+| Trees 2 w Kapil                                             | [🎥][lx1tcr5] | [👾][]         | [][]         |
+| Trees 3 w Kapil                                             | [🎥][lx1tcr6] | [👾][]         | [][]         |
+| String has Unique Chars w Kapil                             | [🎥][lx1tcr7] | [👾][]         | [][]         |
+| String Compression w Kapil                                  | [🎥][lx1tcr8] | [👾][]         | [][]         |
+| Min Stack w Sean Chen                                       | [🎥][lx1tcr9] | [👾][lx1tclc1] | [][]         |
+| Reverse a sub-list of a LL w Sean Chen                      | [🎥][lx2tcr1] | [👾][]         | [🗒][lx1tcn2] |
+| Serialize and deserialize a binary tree                     | [🎥][lx2tcr2] | [👾][]         |              |
+| Search a 2D Matrix w Sean Chen                              | [🎥][]        | [👾][lx3tclc1] |              |
+|                                                             | [🎥][]        | [👾][]         |              |
 
 | Careers Presentation    | Recording   | Slides/Notes | Challenge    |
 | ----------------------- | ----------- | ------------ | ------------ |
@@ -4450,6 +4538,17 @@ Build week Links:
 [lxonj]: https://youtu.be/lwMuzmu1uv0
 [lx1tclc1]: https://leetcode.com/problems/min-stack/
 [lx1tcn2]: https://gist.github.com/seanchen1991/f417273463ae4e7db7e9c107929f6478
+[lx1tcr1]: https://youtu.be/f1YNnKwM-2w
+[lx1tcr2]: https://youtu.be/NZKEnW3-zWQ
+[lx1tcr3]: https://youtu.be/WHK-7IhyjDE
+[lx1tcr4]: https://youtu.be/a5pg8A2nQXI
+[lx1tcr5]: https://youtu.be/AuBN68-63Zg
+[lx1tcr6]: https://youtu.be/rk0E-hyyPlA
+[lx1tcr7]: https://youtu.be/Z2eA337bvwM
+[lx1tcr8]: https://youtu.be/jsiUGIkjlfE
+[lx1tcr9]: https://youtu.be/k9S_C2VriLg
+[lx2tcr1]: https://youtu.be/PdcNmbRg4aU
+[lx2tcr2]: https://youtu.be/cYCqSVNCL8g
 [lx3tclc1]: https://leetcode.com/problems/search-a-2d-matrix-ii/
 
 Helpful Resource Links:
