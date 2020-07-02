@@ -4220,11 +4220,11 @@ Helpful Resource Links:
 | ----------------------------------- | ------------ | ------------ |
 | Endorsement Kickoff w Katie Spencer | [🎥][euw1d1] | [🖼][euw1d1s] |
 
-| Endorsement Whiteboarding Algorithms Practice | Link           |
-| --------------------------------------------- | -------------- |
-| How to Think About Problems                   | [🎥][euw1d1w1] |
-| Thinking About Problems Exercises             | [👾][euw1d1w2] |
-| Mock Interviews - Pramp                       | [👾][euw1d1w2b]
+| Endorsement Whiteboarding Algorithms Practice | Link            |
+| --------------------------------------------- | --------------- |
+| How to Think About Problems                   | [🎥][euw1d1w1]  |
+| Thinking About Problems Exercises             | [👾][euw1d1w2]  |
+| Mock Interviews - Pramp                       | [👾][euw1d1w2b] |
 
 | Evaluating Efficiency              | Link           |
 | ---------------------------------- | -------------- |
@@ -4513,19 +4513,19 @@ Build week Links:
 
 | Technical Coaching                                          | Recording     | LeetCode       | Extra Notes  |
 | ----------------------------------------------------------- | ------------- | -------------- | ------------ |
-| Given arr & num x, check for pair in arr w sum as x - Kapil | [🎥][lx1tcr1] | [👾][]         | [][]         |
-| Given arr & num x, check for 3 nums in A w sum as x - Kapil | [🎥][lx1tcr2] | [👾][]         | [][]         |
-| Reverse LL Kapil                                            | [🎥][lx1tcr3] | [👾][]         | [][]         |
-| Trees, Their Theories and Uses w Kapil                      | [🎥][lx1tcr4] | [👾][]         | [][]         |
-| Trees 2 w Kapil                                             | [🎥][lx1tcr5] | [👾][]         | [][]         |
-| Trees 3 w Kapil                                             | [🎥][lx1tcr6] | [👾][]         | [][]         |
-| String has Unique Chars w Kapil                             | [🎥][lx1tcr7] | [👾][]         | [][]         |
-| String Compression w Kapil                                  | [🎥][lx1tcr8] | [👾][]         | [][]         |
+| Given arr & num x, check for pair in arr w sum as x - Kapil | [🎥][lx1tcr1] |                | [][]         |
+| Given arr & num x, check for 3 nums in A w sum as x - Kapil | [🎥][lx1tcr2] |                | [][]         |
+| Reverse LL Kapil                                            | [🎥][lx1tcr3] |                | [][]         |
+| Trees, Their Theories and Uses w Kapil                      | [🎥][lx1tcr4] |                | [][]         |
+| Trees 2 w Kapil                                             | [🎥][lx1tcr5] |                | [][]         |
+| Trees 3 w Kapil                                             | [🎥][lx1tcr6] |                | [][]         |
+| String has Unique Chars w Kapil                             | [🎥][lx1tcr7] |                | [][]         |
+| String Compression w Kapil                                  | [🎥][lx1tcr8] |                | [][]         |
 | Min Stack w Sean Chen                                       | [🎥][lx1tcr9] | [👾][lx1tclc1] | [][]         |
-| Reverse a sub-list of a LL w Sean Chen                      | [🎥][lx2tcr1] | [👾][]         | [🗒][lx1tcn2] |
+| Reverse a sub-list of a LL w Sean Chen                      | [🎥][lx2tcr1] |                | [🗒][lx1tcn2] |
 | Serialize and deserialize a binary tree                     | [🎥][lx2tcr2] | [👾][]         |              |
 | Search a 2D Matrix w Sean Chen                              | [🎥][]        | [👾][lx3tclc1] |              |
-|                                                             | [🎥][]        | [👾][]         |              |
+| Find Longest non-repeating substring w Kapil                | [🎥][lx3tcr1] |                |              |
 
 | Careers Presentation    | Recording   | Slides/Notes | Challenge    |
 | ----------------------- | ----------- | ------------ | ------------ |
@@ -4550,6 +4550,7 @@ Build week Links:
 [lx2tcr1]: https://youtu.be/PdcNmbRg4aU
 [lx2tcr2]: https://youtu.be/cYCqSVNCL8g
 [lx3tclc1]: https://leetcode.com/problems/search-a-2d-matrix-ii/
+[lx3tcr1]: https://youtu.be/ZL1LWNw1LmY
 
 Helpful Resource Links:
 
