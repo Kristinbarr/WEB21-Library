@@ -4529,9 +4529,11 @@ Build week Links:
 
 | Careers Presentation    | Recording   | Slides/Notes | Challenge    |
 | ----------------------- | ----------- | ------------ | ------------ |
-| Networking Fundamentals | [🎥][lx1fn] | [🗒][lx1fns]  | [📝][lx1fnc] |
+| Lambda X Kickoff        | [🎥][lx1k]  |              |              |
+| Networking Fundamentals | [🎥][lx1nf] | [🗒][lx1fns]  | [📝][lx1fnc] |
 | Onboarding a new job    | [🎥][lxonj] |              |              |
 
+[lx1k]: https://youtu.be/qqitQxs_nNs
 [lx1nf]: https://youtu.be/1_GBchR99Y0
 [lx1fns]: https://drive.google.com/file/d/1RzYqz8JjhrY0Dg1td_DUOjSnCC4wImlL/view?usp=sharing
 [lx1fnc]: https://docs.google.com/document/d/1Kp48gZHOXPTmIes7wTfvoLEYORVkMJsvgWAB_yVJUZA/edit?usp=sharing
@@ -4558,4 +4560,3 @@ Helpful Resource Links:
 - [Lambda X Weekly Sprint Retro](https://airtable.com/shrT6aERBrglMpIsC)
 
 </details>
-
