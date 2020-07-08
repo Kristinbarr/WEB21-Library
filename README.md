@@ -4526,6 +4526,7 @@ Build week Links:
 | Serialize and deserialize a binary tree                     | [🎥][lx2tcr2] | [👾][]         |              |
 | Search a 2D Matrix w Sean Chen                              | [🎥][]        | [👾][lx3tclc1] |              |
 | Find Longest non-repeating substring w Kapil                | [🎥][lx3tcr1] |                |              |
+| Wildcard Matching w Sean Chen                               | [🎥][lx4tcr1] | [👾][lx4tclc1] | [🗒][lx4tcn1] |
 
 | Careers Presentation    | Recording   | Slides/Notes | Challenge    |
 | ----------------------- | ----------- | ------------ | ------------ |
@@ -4553,6 +4554,9 @@ Build week Links:
 [lx2tcr2]: https://youtu.be/cYCqSVNCL8g
 [lx3tclc1]: https://leetcode.com/problems/search-a-2d-matrix-ii/
 [lx3tcr1]: https://youtu.be/ZL1LWNw1LmY
+[lx4tcr1]: https://youtu.be/efs7cLjWvTE
+[lx4tclc1]: https://leetcode.com/problems/wildcard-matching/
+[lx4tcn1]: https://docs.google.com/document/d/1f_1E9VSQ1XYDFWmEExS0mP4BWWGRmoUoovX09ygCluk/edit?usp=sharing
 
 Helpful Resource Links:
 
