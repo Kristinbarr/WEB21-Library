@@ -2870,9 +2870,12 @@ Learning objectives:
 | Topic         | Lecture      | Guided Project |
 | ------------- | ------------ | -------------- |
 | Intro to Auth | [🎥][nauthl] | [⚙️][nauthc]   |
+| Intro to Auth with Jason Maurer | [🎥][nauthlj] | [⚙️][nauthcj]
 
 [nauthl]: https://youtu.be/OFEAYBViC3M
 [nauthc]: https://github.com/LambdaSchool/webauth-i-guided
+[nauthlj]: https://youtu.be/aO1t0spoD_Y
+[nauthcj]: https://github.com/jsonmaur/node-auth1-guided
 
 Helpful Resource Links
 
@@ -2892,7 +2895,8 @@ Learning objectives:
 
 | Topic              | Lecture    | Guided Project |
 | ------------------ | ---------- | -------------- |
-| sessions & cookies | [🎥][nscl] | [⚙️][nscc]     |
+| Sessions & Cookies | [🎥][nscl] | [⚙️][nscc]     |
+| Sessions & Cookies | [🎥][] | [⚙️][] |
 
 [nscl]: https://youtu.be/msyDg0cKDMQ
 [nscc]: https://github.com/LambdaSchool/webauth-ii-guided
