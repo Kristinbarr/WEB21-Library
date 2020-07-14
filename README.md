@@ -2867,10 +2867,10 @@ Learning objectives:
 - verify passwords using bcrypt
 - Write middleware to verify credentials using bcrypt.js
 
-| Topic         | Lecture      | Guided Project |
-| ------------- | ------------ | -------------- |
-| Intro to Auth | [🎥][nauthl] | [⚙️][nauthc]   |
-| Intro to Auth with Jason Maurer | [🎥][nauthlj] | [⚙️][nauthcj]
+| Topic                           | Lecture       | Guided Project |
+| ------------------------------- | ------------- | -------------- |
+| Intro to Auth                   | [🎥][nauthl]  | [⚙️][nauthc]   |
+| Intro to Auth with Jason Maurer | [🎥][nauthlj] | [⚙️][nauthcj]  |
 
 [nauthl]: https://youtu.be/OFEAYBViC3M
 [nauthc]: https://github.com/LambdaSchool/webauth-i-guided
@@ -2896,7 +2896,7 @@ Learning objectives:
 | Topic              | Lecture    | Guided Project |
 | ------------------ | ---------- | -------------- |
 | Sessions & Cookies | [🎥][nscl] | [⚙️][nscc]     |
-| Sessions & Cookies | [🎥][] | [⚙️][] |
+| Sessions & Cookies | [🎥][]     | [⚙️][]         |
 
 [nscl]: https://youtu.be/msyDg0cKDMQ
 [nscc]: https://github.com/LambdaSchool/webauth-ii-guided
@@ -4532,17 +4532,13 @@ Build week Links:
 | Find Longest non-repeating substring w Kapil                | [🎥][lx3tcr1] |                |              |
 | Wildcard Matching w Sean Chen                               | [🎥][lx4tcr1] | [👾][lx4tclc1] | [🗒][lx4tcn1] |
 
-| Careers Presentation    | Recording   | Slides/Notes | Challenge    |
-| ----------------------- | ----------- | ------------ | ------------ |
-| Lambda X Kickoff        | [🎥][lx1k]  |              |              |
-| Networking Fundamentals | [🎥][lx1nf] | [🗒][lx1fns]  | [📝][lx1fnc] |
-| Onboarding a new job    | [🎥][lxonj] |              |              |
+| Careers Presentation       | Recording    | Slides/Notes | Challenge    |
+| -------------------------- | ------------ | ------------ | ------------ |
+| Lambda X Kickoff           | [🎥][lx1k]   |              |              |
+| Networking Fundamentals    | [🎥][lx1nf]  | [🗒][lx1fns]  | [📝][lx1fnc] |
+| Onboarding a new job       | [🎥][lxonj]  |              |              |
+| Project CheatCode Kick-Off | [🎥][lxpcc4] |              |              |
 
-[lx1k]: https://youtu.be/qqitQxs_nNs
-[lx1nf]: https://youtu.be/1_GBchR99Y0
-[lx1fns]: https://drive.google.com/file/d/1RzYqz8JjhrY0Dg1td_DUOjSnCC4wImlL/view?usp=sharing
-[lx1fnc]: https://docs.google.com/document/d/1Kp48gZHOXPTmIes7wTfvoLEYORVkMJsvgWAB_yVJUZA/edit?usp=sharing
-[lxonj]: https://youtu.be/lwMuzmu1uv0
 [lx1tclc1]: https://leetcode.com/problems/min-stack/
 [lx1tcn2]: https://gist.github.com/seanchen1991/f417273463ae4e7db7e9c107929f6478
 [lx1tcr1]: https://youtu.be/f1YNnKwM-2w
@@ -4561,6 +4557,12 @@ Build week Links:
 [lx4tcr1]: https://youtu.be/efs7cLjWvTE
 [lx4tclc1]: https://leetcode.com/problems/wildcard-matching/
 [lx4tcn1]: https://docs.google.com/document/d/1f_1E9VSQ1XYDFWmEExS0mP4BWWGRmoUoovX09ygCluk/edit?usp=sharing
+[lx1k]: https://youtu.be/qqitQxs_nNs
+[lx1nf]: https://youtu.be/1_GBchR99Y0
+[lx1fns]: https://drive.google.com/file/d/1RzYqz8JjhrY0Dg1td_DUOjSnCC4wImlL/view?usp=sharing
+[lx1fnc]: https://docs.google.com/document/d/1Kp48gZHOXPTmIes7wTfvoLEYORVkMJsvgWAB_yVJUZA/edit?usp=sharing
+[lxonj]: https://youtu.be/lwMuzmu1uv0
+[lxpcc4]: https://youtu.be/wRC4RPzt6ac
 
 Helpful Resource Links:
 
