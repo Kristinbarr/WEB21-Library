@@ -2893,13 +2893,15 @@ Learning objectives:
 - implement logout using a sessions based API
 - restrict access to resources, allowing access only for authenticated users
 
-| Topic              | Lecture    | Guided Project |
-| ------------------ | ---------- | -------------- |
-| Sessions & Cookies | [🎥][nscl] | [⚙️][nscc]     |
-| Sessions & Cookies | [🎥][]     | [⚙️][]         |
+| Topic                    | Lecture     | Guided Project |
+| ------------------------ | ----------- | -------------- |
+| Sessions & Cookies       | [🎥][nscl]  | [⚙️][nscc]     |
+| Using JWT w/Jason Maurer | [🎥][nsclj] | [⚙️][nsccj]    |
 
 [nscl]: https://youtu.be/msyDg0cKDMQ
 [nscc]: https://github.com/LambdaSchool/webauth-ii-guided
+[nsclj]: https://youtu.be/zJnbflkgF2s
+[nsccj]: https://github.com/jsonmaur/node-test1-guided
 
 Helpful Resource Links
 
