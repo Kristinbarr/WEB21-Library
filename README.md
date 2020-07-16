@@ -2893,15 +2893,16 @@ Learning objectives:
 - implement logout using a sessions based API
 - restrict access to resources, allowing access only for authenticated users
 
-| Topic                    | Lecture     | Guided Project |
-| ------------------------ | ----------- | -------------- |
-| Sessions & Cookies       | [🎥][nscl]  | [⚙️][nscc]     |
-| Using JWT w/Jason Maurer | [🎥][nsclj] | [⚙️][nsccj]    |
+| Topic                    | Lecture       | Guided Project | Slides        |
+| ------------------------ | ------------- | -------------- | ------------- |
+| Sessions & Cookies       | [🎥][nscl]    | [⚙️][nscc]     |               |
+| Using JWT w/Jason Maurer | [🎥][nujwtlj] | [⚙️][nujwtcj]  | [📖][nujwtnj] |
 
 [nscl]: https://youtu.be/msyDg0cKDMQ
 [nscc]: https://github.com/LambdaSchool/webauth-ii-guided
-[nsclj]: https://youtu.be/zJnbflkgF2s
-[nsccj]: https://github.com/jsonmaur/node-test1-guided
+[nujwtlj]: https://youtu.be/zJnbflkgF2s
+[nujwtcj]: https://github.com/jsonmaur/node-test1-guided
+[nujwtnj]: https://drive.google.com/file/d/1yPBLdM-leIJts8ciP4aLNGQk_hoM89Nq/view?usp=sharing
 
 Helpful Resource Links
 
@@ -2922,6 +2923,8 @@ Learning objectives:
 | Topic | Lecture    | Guided Project |
 | ----- | ---------- | -------------- |
 | JWT   | [🎥][jwtl] | [⚙️][jwtc]     |
+
+| Unit Testing
 
 [jwtl]: https://youtu.be/Xy0nTKOR5u8
 [jwtc]: https://github.com/LambdaSchool/webauth-iii-guided
