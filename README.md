@@ -2906,7 +2906,9 @@ Learning objectives:
 
 Helpful Resource Links
 
--
+- [JWT.io intro](https://jwt.io/introduction/)
+- [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
+- [npm cookie parser](https://www.npmjs.com/package/cookie-parser)
 
 Daily Project - [webauth-i-challenge](https://github.com/LambdaSchool/webauth-i-challenge)
 (project assignment builds on Monday's repo)
