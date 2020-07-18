@@ -2896,13 +2896,13 @@ Learning objectives:
 | Topic                    | Lecture       | Guided Project | Slides        |
 | ------------------------ | ------------- | -------------- | ------------- |
 | Sessions & Cookies       | [🎥][nscl]    | [⚙️][nscc]     |               |
-| Using JWT w/Jason Maurer | [🎥][nujwtlj] | [⚙️][nujwtcj]  | [📖][nujwtnj] |
+| Using JWT w/Jason Maurer | [🎥][nujwtlj] | [⚙️][nujwtcj]  | [📖][nujwtsj] |
 
 [nscl]: https://youtu.be/msyDg0cKDMQ
 [nscc]: https://github.com/LambdaSchool/webauth-ii-guided
 [nujwtlj]: https://youtu.be/zJnbflkgF2s
 [nujwtcj]: https://github.com/jsonmaur/node-test1-guided
-[nujwtnj]: https://drive.google.com/file/d/1yPBLdM-leIJts8ciP4aLNGQk_hoM89Nq/view?usp=sharing
+[nujwtsj]: https://drive.google.com/file/d/1yPBLdM-leIJts8ciP4aLNGQk_hoM89Nq/view?usp=sharing
 
 Helpful Resource Links
 
@@ -2922,14 +2922,16 @@ Learning objectives:
 - explain the three different parts of a JSON web token
 - produce and send a JSON Web Token (JWT)
 
-| Topic | Lecture    | Guided Project |
-| ----- | ---------- | -------------- |
-| JWT   | [🎥][jwtl] | [⚙️][jwtc]     |
-
-| Unit Testing
+| Topic                           | Lecture      | Guided Project | Slides       |
+| ------------------------------- | ------------ | -------------- | ------------ |
+| JWT                             | [🎥][jwtl]   | [⚙️][jwtc]     |              |
+| Web Unit Testing w Jason Maurer | [🎥][nwutlj] | [⚙️][nwutcj]   | [📖][nwutsj] |
 
 [jwtl]: https://youtu.be/Xy0nTKOR5u8
 [jwtc]: https://github.com/LambdaSchool/webauth-iii-guided
+[nwutlj]: https://youtu.be/PGWPvrBoa7c
+[nwutcj]: https://github.com/jsonmaur/node-test1-guided/tree/lecture-07-13-2020
+[nwutsj]: https://drive.google.com/file/d/1P5HJdAuOosnaucsr7Zs3ckwUhAvpo0og/view?usp=sharing
 
 Helpful Resource Links
 
