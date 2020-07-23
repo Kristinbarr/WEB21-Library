@@ -4541,14 +4541,15 @@ Build week Links:
 | Find Longest non-repeating substring w Kapil                | [🎥][lx3tcr1] |                |              |
 | Wildcard Matching w Sean Chen                               | [🎥][lx4tcr1] | [👾][lx4tclc1] | [🗒][lx4tcn1] |
 
-| Careers Presentation          | Recording     | Slides/Notes                    | Challenge    |
-| ----------------------------- | ------------- | ------------------------------- | ------------ |
-| Lambda X Kickoff              | [🎥][lx1k]    |                                 |              |
-| Networking Fundamentals       | [🎥][lx1nf]   | [🗒][lx1fns]                     | [📝][lx1fnc] |
-| Onboarding a new job          | [🎥][lxonj]   |                                 |              |
-| Project CheatCode Kick-Off    | [🎥][lxpcc4]  |                                 |              |
-| Resume Review w Katie Spencer | [🎥][lx4rr]   | [Lambda Resume Template][lx4rt] |              |
-| TL All Hands 07-20-20         | [🎥][lx5tlah] |                                 |              |
+| Careers Presentation            | Recording     | Slides/Notes                    | Challenge    |
+| ------------------------------- | ------------- | ------------------------------- | ------------ |
+| Lambda X Kickoff                | [🎥][lx1k]    |                                 |              |
+| Networking Fundamentals         | [🎥][lx1nf]   | [🗒][lx1fns]                     | [📝][lx1fnc] |
+| Onboarding a new job            | [🎥][lxonj]   |                                 |              |
+| Project CheatCode Kick-Off      | [🎥][lxpcc4]  |                                 |              |
+| Resume Review w Katie Spencer   | [🎥][lx4rr]   | [Lambda Resume Template][lx4rt] |              |
+| TL All Hands 07-20-20           | [🎥][lx5tlah] |                                 |              |
+| Recently Hired Student Research | [🎥][lx5rhsr] |                                 |              |
 
 [lx1tclc1]: https://leetcode.com/problems/min-stack/
 [lx1tcn2]: https://gist.github.com/seanchen1991/f417273463ae4e7db7e9c107929f6478
@@ -4576,6 +4577,8 @@ Build week Links:
 [lxpcc4]: https://youtu.be/wRC4RPzt6ac
 [lx4rr]: https://lambdaschool.zoom.us/rec/play/7MB5Jeigqzg3E9zBsgSDA_IsW9S0J6Ks03cZ-fFZmh2zViUAZlqjY-ERYLbXjASqvYtq3VYb5EudaRt-?continueMode=true
 [lx4rt]: https://docs.google.com/document/d/1XI4-ma2k8D4o1YKQuF_ow1s24-jBXdnAnkgbn5o2jis/edit
+[lx5rhsr]: https://youtu.be/VGsrHMv_mss
+
 ]lx5tlah]: https://youtu.be/OpBfk7Au94E
 
 Helpful Resource Links:
