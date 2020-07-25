@@ -4585,5 +4585,6 @@ Helpful Resource Links:
 
 - [Kapil Sharma's Lambda X Tech Coaching Notion](https://www.notion.so/Lambda-X-Code-Challenge-Sessions-bc0966d5fa46425b91d75530b6ec8e49)
 - [Lambda X Weekly Sprint Retro](https://airtable.com/shrT6aERBrglMpIsC)
+- [LocalStorage vs Cookies: All You Need To Know About Storing JWT Tokens Securely in The Front-End](https://dev.to/cotter/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-15id)
 
 </details>
