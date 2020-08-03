@@ -4540,6 +4540,7 @@ Build week Links:
 | Search a 2D Matrix w Sean Chen                              | [🎥][]        | [👾][lx3tclc1] |              |
 | Find Longest non-repeating substring w Kapil                | [🎥][lx3tcr1] |                |              |
 | Wildcard Matching w Sean Chen                               | [🎥][lx4tcr1] | [👾][lx4tclc1] | [🗒][lx4tcn1] |
+| Reverse substrings between parenthesis                      | [🎥][lx6tcr1] | [👾][lx6tclc1] |               |
 
 | Careers Presentation            | Recording     | Slides/Notes                    | Challenge    |
 | ------------------------------- | ------------- | ------------------------------- | ------------ |
@@ -4569,6 +4570,8 @@ Build week Links:
 [lx4tcr1]: https://youtu.be/efs7cLjWvTE
 [lx4tclc1]: https://leetcode.com/problems/wildcard-matching/
 [lx4tcn1]: https://docs.google.com/document/d/1f_1E9VSQ1XYDFWmEExS0mP4BWWGRmoUoovX09ygCluk/edit?usp=sharing
+[lx6tcr1]: https://youtu.be/yIGpxpZTf5U
+[lx6tclc1]: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses
 [lx1k]: https://youtu.be/qqitQxs_nNs
 [lx1nf]: https://youtu.be/1_GBchR99Y0
 [lx1fns]: https://drive.google.com/file/d/1RzYqz8JjhrY0Dg1td_DUOjSnCC4wImlL/view?usp=sharing
