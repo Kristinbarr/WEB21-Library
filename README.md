@@ -4590,5 +4590,6 @@ Helpful Resource Links:
 - [Lambda X Weekly Sprint Retro](https://airtable.com/shrT6aERBrglMpIsC)
 - [LocalStorage vs Cookies: All You Need To Know About Storing JWT Tokens Securely in The Front-End](https://dev.to/cotter/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-15id)
 - [Example project of JWT refesh tokens](https://github.com/Ian84Be/react-express-cookies-jwt)
+- [How to Negotiate Your Salary, with Ramit Sethi](https://youtu.be/XY5SeCl_8NE)
 
 </details>
