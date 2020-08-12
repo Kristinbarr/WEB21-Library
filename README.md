@@ -4552,6 +4552,7 @@ Build week Links:
 | Resume Review w Katie Spencer   | [🎥][lx4rr]   | [Lambda Resume Template][lx4rt] |              |
 | TL All Hands 07-20-20           | [🎥][lx5tlah] |                                 |              |
 | Recently Hired Student Research | [🎥][lx5rhsr] |                                 |              |
+| Outreach Messages w Nilza       | [🎥][lx7om]   | [list of orgs][lx7lo]           |              |
 
 [lx1tclc1]: https://leetcode.com/problems/min-stack/
 [lx1tcn2]: https://gist.github.com/seanchen1991/f417273463ae4e7db7e9c107929f6478
@@ -4583,8 +4584,10 @@ Build week Links:
 [lxpcc4]: https://youtu.be/wRC4RPzt6ac
 [lx4rr]: https://lambdaschool.zoom.us/rec/play/7MB5Jeigqzg3E9zBsgSDA_IsW9S0J6Ks03cZ-fFZmh2zViUAZlqjY-ERYLbXjASqvYtq3VYb5EudaRt-?continueMode=true
 [lx4rt]: https://docs.google.com/document/d/1XI4-ma2k8D4o1YKQuF_ow1s24-jBXdnAnkgbn5o2jis/edit
-[lx5rhsr]: https://youtu.be/VGsrHMv_mss
 [lx5tlah]: https://youtu.be/OpBfk7Au94E
+[lx5rhsr]: https://youtu.be/VGsrHMv_mss
+[lx7om]: https://lambdaschool.zoom.us/rec/share/y_QsJY_Zp31IcJGOx2DRZYoHQaW-X6a80XMb8vdfmh0e3Dm22cWxTuMmdsojLr8n
+[lx7lo]: https://docs.google.com/presentation/d/1UIKrwwU2BBMAJqKs8RMXnFGZlF2M6XZAYNFnrJTh6TI/edit#slide=id.g6e82f31e12_0_0
 
 Helpful Resource Links:
 
