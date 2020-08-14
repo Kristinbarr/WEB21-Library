@@ -4542,6 +4542,7 @@ Build week Links:
 | Wildcard Matching w Sean Chen                               | [🎥][lx4tcr1] | [👾][lx4tclc1] | [🗒][lx4tcn1] |
 | Reverse substrings between parenthesis                      | [🎥][lx6tcr1] | [👾][lx6tclc1] |              |
 | Invalid Transactions                                        | [🎥][lx6tcr2] | [👾][lx6tclc2] |              |
+| Fibonacci Numbers Tree w Sean Chen                          | [🎥][lx7tcr1] | [👾][lx7tclc1] |              |
 
 | Careers Presentation            | Recording     | Slides/Notes                    | Challenge    |
 | ------------------------------- | ------------- | ------------------------------- | ------------ |
@@ -4576,6 +4577,8 @@ Build week Links:
 [lx6tclc1]: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses
 [lx6tcr2]: https://youtu.be/pZrTXROmDM8
 [lx6tclc2]: https://leetcode.com/problems/invalid-transactions/
+[lx7tcr1]: https://youtu.be/EM5_bxzEb2U
+[lx7tclc1]: https://www.hackerrank.com/challenges/fibonacci-numbers-tree/problem
 [lx1k]: https://youtu.be/qqitQxs_nNs
 [lx1nf]: https://youtu.be/1_GBchR99Y0
 [lx1fns]: https://drive.google.com/file/d/1RzYqz8JjhrY0Dg1td_DUOjSnCC4wImlL/view?usp=sharing
