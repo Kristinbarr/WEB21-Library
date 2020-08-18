@@ -4601,5 +4601,6 @@ Helpful Resource Links:
 - [How to Negotiate Your Salary, with Ramit Sethi](https://youtu.be/XY5SeCl_8NE)
 - [An Easy Template to Ask for a LinkedIn Recommendation](https://www.themuse.com/advice/how-to-ask-for-a-recommendation-on-linkedin)
 - [Virtual Volunteer Work to bolster portfolio and resume](https://www.catchafire.org/volunteer?name_filter=&type_filter=1&type_filter=2&page=1)
+- [TL all-hands 8-17-2020](https://youtu.be/ftHtSnmc6lk)
 
 </details>
