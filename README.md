@@ -4554,6 +4554,7 @@ Build week Links:
 | TL All Hands 07-20-20           | [🎥][lx5tlah] |                                 |              |
 | Recently Hired Student Research | [🎥][lx5rhsr] |                                 |              |
 | Outreach Messages w Nilza       | [🎥][lx7om]   | [list of orgs][lx7lo]           |              |
+| Cover Letters w Nilza                  | [🎥][lx8r]    | | |
 
 [lx1tclc1]: https://leetcode.com/problems/min-stack/
 [lx1tcn2]: https://gist.github.com/seanchen1991/f417273463ae4e7db7e9c107929f6478
@@ -4591,6 +4592,7 @@ Build week Links:
 [lx5rhsr]: https://youtu.be/VGsrHMv_mss
 [lx7om]: https://lambdaschool.zoom.us/rec/share/y_QsJY_Zp31IcJGOx2DRZYoHQaW-X6a80XMb8vdfmh0e3Dm22cWxTuMmdsojLr8n
 [lx7lo]: https://docs.google.com/presentation/d/1UIKrwwU2BBMAJqKs8RMXnFGZlF2M6XZAYNFnrJTh6TI/edit#slide=id.g6e82f31e12_0_0
+[lx8r]: https://lambdaschool.zoom.us/rec/share/3uJMI6vS8DNLRLPpwRrNBZEMD6bjT6a8gCQZrvYKykccH6PSIqh2ocq7TF4OjuVj
 
 Helpful Resource Links:
 
