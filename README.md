@@ -4554,7 +4554,7 @@ Build week Links:
 | TL All Hands 07-20-20           | [🎥][lx5tlah] |                                 |              |
 | Recently Hired Student Research | [🎥][lx5rhsr] |                                 |              |
 | Outreach Messages w Nilza       | [🎥][lx7om]   | [list of orgs][lx7lo]           |              |
-| Cover Letters w Nilza                  | [🎥][lx8r]    | | |
+| Cover Letters w Nilza           | [🎥][lx8r]    |                                 |              |
 
 [lx1tclc1]: https://leetcode.com/problems/min-stack/
 [lx1tcn2]: https://gist.github.com/seanchen1991/f417273463ae4e7db7e9c107929f6478
@@ -4604,5 +4604,6 @@ Helpful Resource Links:
 - [An Easy Template to Ask for a LinkedIn Recommendation](https://www.themuse.com/advice/how-to-ask-for-a-recommendation-on-linkedin)
 - [Virtual Volunteer Work to bolster portfolio and resume](https://www.catchafire.org/volunteer?name_filter=&type_filter=1&type_filter=2&page=1)
 - [TL all-hands 8-17-2020](https://youtu.be/ftHtSnmc6lk)
+- [Lambda interview prep meeting scheduler](https://calendly.com/lambda-outcomes)
 
 </details>
