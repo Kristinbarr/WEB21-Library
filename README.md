@@ -4600,6 +4600,8 @@ Build week Links:
 [lx7om]: https://lambdaschool.zoom.us/rec/share/y_QsJY_Zp31IcJGOx2DRZYoHQaW-X6a80XMb8vdfmh0e3Dm22cWxTuMmdsojLr8n
 [lx7lo]: https://docs.google.com/presentation/d/1UIKrwwU2BBMAJqKs8RMXnFGZlF2M6XZAYNFnrJTh6TI/edit#slide=id.g6e82f31e12_0_0
 [lx8r]: https://lambdaschool.zoom.us/rec/share/3uJMI6vS8DNLRLPpwRrNBZEMD6bjT6a8gCQZrvYKykccH6PSIqh2ocq7TF4OjuVj
+[lx9egal]: https://youtu.be/7UVITrz5Thc
+[lx9egahs]: https://docs.google.com/presentation/d/155IskTzR6Fka3xrKR7_S7b4xoDftdn-0uADNS6imj14/edit#slide=id.g812c66466e_0_248
 
 Helpful Resource Links:
 
