@@ -2228,6 +2228,7 @@ Learning objectives:
 Helpful Resource Links
 
 - [Up & Running w PostgreSQL](https://www.youtube.com/watch?v=niiJ_eHPocM)
+- [Creating a PostgreSQL database with pgAdmin and logging into it | YT](https://www.youtube.com/watch?v=lG2Nes-wi54)
 - [Kim Swinton lambda notes | Gdoc](https://docs.google.com/document/d/1T7CL4-2MxQ52Dc4bgkUo-BZdqGPInbywozFKMyhCQc8/edit?usp=sharing)
 - [Node prototyping | RunKit](https://runkit.com/home)
 - [Lambda Expressions in Java 8 - GeeksforGeeks](https://www.geeksforgeeks.org/lambda-expressions-java-8/)
@@ -2817,14 +2818,17 @@ Learning objectives:
 - explain different table relationships
 - create table relationships using knex
 
-| Topic                        | Lecture   | Guided Project | Daily Project              |
-| ---------------------------- | --------- | -------------- | -------------------------- |
-| Joins                        | [🎥][dml] | [⚙️][dmc]      | [node-db4-challenge][dmdp] |
-| Data Modeling w Jason Maurer | [][]      | [][]           | [][]                       |
+| Topic                        | Lecture     | Guided Project | Daily Project                |
+| ---------------------------- | ----------- | -------------- | ---------------------------- |
+| Joins w Luis                 | [🎥][dml]   | [⚙️][dmc]      | [node-db4-challenge][dmdp]   |
+| Data Modeling w Jason Maurer | [🎥][dmljm] | [⚙️][dmcjm]    | [node-db4-challenge][dmdpjm] |
 
 [dml]: https://youtu.be/6pyExJ8yyw8
 [dmc]: https://github.com/LambdaSchool/node-db4-guided
 [dmdp]: https://github.com/LambdaSchool/node-db4-challenge
+[dmljm]: https://youtu.be/w357iRNg9HI
+[dmcjm]: https://github.com/jsonmaur/node-db4-guided
+[dmdpjm]: https://github.com/LambdaSchool/node-db4-project
 
 Helpful Resource Links
 
@@ -4545,17 +4549,18 @@ Build week Links:
 | Fibonacci Numbers Tree w Sean Chen                          | [🎥][lx7tcr1] | [👾][lx7tclc1] |              |
 | List of Lists Greg Finley                                   | [🎥][lx9tcr1] |                |              |
 
-| Careers Presentation            | Recording     | Slides/Notes                    | Challenge    |
-| ------------------------------- | ------------- | ------------------------------- | ------------ |
-| Lambda X Kickoff                | [🎥][lx1k]    |                                 |              |
-| Networking Fundamentals         | [🎥][lx1nf]   | [🗒][lx1fns]                     | [📝][lx1fnc] |
-| Onboarding a new job            | [🎥][lxonj]   |                                 |              |
-| Project CheatCode Kick-Off      | [🎥][lxpcc4]  |                                 |              |
-| Resume Review w Katie Spencer   | [🎥][lx4rr]   | [Lambda Resume Template][lx4rt] |              |
-| TL All Hands 07-20-20           | [🎥][lx5tlah] |                                 |              |
-| Recently Hired Student Research | [🎥][lx5rhsr] |                                 |              |
-| Outreach Messages w Nilza       | [🎥][lx7om]   | [list of orgs][lx7lo]           |              |
-| Cover Letters w Nilza           | [🎥][lx8r]    |                                 |              |
+| Careers Presentation              | Recording     | Slides/Notes                    | Challenge    |
+| --------------------------------- | ------------- | ------------------------------- | ------------ |
+| Lambda X Kickoff                  | [🎥][lx1k]    |                                 |              |
+| Networking Fundamentals           | [🎥][lx1nf]   | [🗒][lx1fns]                     | [📝][lx1fnc] |
+| Onboarding a new job              | [🎥][lxonj]   |                                 |              |
+| Project CheatCode Kick-Off        | [🎥][lxpcc4]  |                                 |              |
+| Resume Review w Katie Spencer     | [🎥][lx4rr]   | [Lambda Resume Template][lx4rt] |              |
+| TL All Hands 07-20-20             | [🎥][lx5tlah] |                                 |              |
+| Recently Hired Student Research   | [🎥][lx5rhsr] |                                 |              |
+| Outreach Messages w Nilza         | [🎥][lx7om]   | [list of orgs][lx7lo]           |              |
+| Cover Letters w Nilza             | [🎥][lx8r]    |                                 |              |
+| Lambda X Endorsed Grads All Hands | [🎥][lx9egah] | [🗒][lx9egahs]                   |              |
 
 [lx1tclc1]: https://leetcode.com/problems/min-stack/
 [lx1tcn2]: https://gist.github.com/seanchen1991/f417273463ae4e7db7e9c107929f6478
